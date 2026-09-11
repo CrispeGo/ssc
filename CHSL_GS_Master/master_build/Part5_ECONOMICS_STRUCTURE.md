@@ -99,3 +99,25 @@ c11: (0)
 - c07 (171 पंक्तियाँ, 26Q, 4 सुधार), c08 (139/20Q/2 + FRDI insertion), c09 (114/17Q/2), c10 (151/24Q/4), c11 (33/4Q/0) = 608 पंक्तियाँ / 91 Q-blocks / 12 सुधार / 2 अस्पष्ट; FFFD-emoji audit = 0
 - कुल c01-c11: 1,385 पंक्तियाँ / 191 Q-blocks / 27 सुधार / 10 अस्पष्ट
 - NEXT (अगला turn): खंड 5 (c12-c16) — पहले pending-verify: निर्देशात्मक योजना=8वीं?, LPG=8वीं?, 10वीं योजना गरीबी-लक्ष्य, FYP 'सही कथन'-2024 कुंजी, break-reasons, FDI-49% 2018, IPR-1948 खंड, SEZ-2024, कर्वे समिति, poverty-line statements, छत्तीसगढ़ BPL, NCRB 24%, SLR 19.50%, PMRPY/PMGSY/Ladli-Behna/NILP, AGEY/PMVVY/UDAY/Saubhagya → chapters → assemble Part5_Economics.md → पूरा audit → present
+
+## Corrections register — खंड 5 (c12-c16) + post-inserts, 2026-09-12
+- c12: निर्देशात्मक नियोजन = आठवीं योजना (कुंजी 'Sixth' गलत); LPG/राजकोषीय सुधार = आठवीं से (कुंजी 'Sixth' गलत); FYP-'समान वृद्धि दरें' कुंजी स्पष्ट गलत (प्रश्न दोषपूर्ण-नोट) → 3
+- c14: हरित क्रांति-प्रवर्तन = HYV बीज (कुंजी 'उर्वरक' गलत); गहन खेती = विकल्प-2 (कुंजी अपठनीय विकल्प-1 पर) → 2
+- c15: गरीबी-सर्वेक्षण = NSO (कुंजी 'MoRD' गलत); poverty-line NOT-correct = केवल I (कुंजी 'Neither' गलत) → 2
+- c16: NOT-गरीबी-कार्यक्रम = RUSA (कुंजी 'PMRY' गलत); PMRPY = नियोक्ता-प्रोत्साहन विकल्प-4 (कुंजी अपठनीय विकल्प-1); PMGSY = विकल्प-3 (कुंजी अपठनीय विकल्प-1) → 3
+- c01 post-insert: समष्टि अर्थशास्त्र-अध्ययन = I और II दोनों (कुंजी 'Only II' गलत) → 1
+- **खंड 5 कुल = 11 | Part-5 कुल सुधार = 38**
+
+## Purity log — खंड 5 additions
+- Birbal (2017_186 embedded) → STATIC GK; उसी blob का RBI-राष्ट्रीयकरण-1949 भाग c07 में पहले से ✓
+- One Stop Centre (2022_079) → c16 (Nirbhaya Fund) ✓; वायु-परिवहन-राष्ट्रीयकरण (2024) → c13 ✓; ICAR-1929 (2023) → c14 ✓
+- Post-inserts: SLR-19.50% (2019) → c07; समष्टि-अध्ययन (2022-S3) → c01 — दोनों खंड-4 chapters में छूटे हुए मिले और जोड़े
+- कुंजियाँ सही रखीं (खंड 5 verify): PMVVY=अरुण जेटली, UDAY D=DISCOM, Saubhagya 16320+Dec-2018, AGEY E=Express, PMEGP=MSME, ABDM=NHA, BBBP-NTL, BPL-2011-12=21.9%, छत्तीसगढ़=40.9%, NCRB=24%, NITI-2015, 10वीं-योजना=5%, चक्रीय-बेरोज़गारी (UPSC CDS-2012 आधिकारिक कुंजी भी 'cyclical'), PDS=2007-परित्यक्त-कथन, Tendulkar, PQLI=GDI, छिपी/घर्षण, SEZ कुंजी (Only ii), IPR-1956 ×2, Kandla, रेल... (c10)
+
+## [स्रोत अस्पष्ट] — खंड 5: +6 (c12: FYP-durations, कृषि-सुधार-NOT; c13: FDI-49%; c14: GR-negative-NOT; c16: Ladli-पात्रता, NILP) → Part-5 कुल 16
+
+## STATUS TRACKER — 2026-09-12 (LATEST — पुराने trackers ऊपर stale हैं)
+- **खंड 5 (c12-c16) COMPLETE**: c12 155/23Q, c13 81/11Q, c14 52/8Q, c15 91/12Q, c16 104/17Q; c01+c07 post-inserts (+1 Q each)
+- **Part5_Economics.md ASSEMBLED + AUDITED**: 1,928 lines / 264 Q-blocks / 38 सुधार / 16 [स्रोत अस्पष्ट] / 16 revision boxes / 5 खंड / 16 अध्याय / FFFD=0 / emoji=0 / banned-words=0 / प्रश्न→विकल्प→उत्तर consistency ✓
+- खंड-5 web-verify: PMGSY=unconnected-habitations ✓ (कुंजी गलत), PMVVY=जेटली ✓, GR-phase-II=1980s ✓, 2018-उत्पादक-क्षमता=cyclical (UPSC CDS-2012 आधिकारिक) ✓, समष्टि-2022=Both ✓ (कुंजी गलत)
+- **NEXT: present Part5_Economics.md → GitHub push → Part 6 COMPUTER (182 Qs) — extract_part_qs.py से शुरू**
