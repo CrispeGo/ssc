@@ -1,0 +1,898 @@
+1. Select the related word/letters/number
+from the given alternatives.
+Amphibian : : Cobra : ?
+A. Insect B. Protozoa
+C. Parasite D. Reptiles
+Ans. D
+2. Select the related word/letters/number
+from the given alternatives.
+EFGH: LNPR : : ABCD : ?
+A. PQRS B. HJLN
+C. HIJK D. EFGH
+Ans. B
+3. Select the related word/letters/number
+from the given alternatives.
+JS : QH : : VW : ?
+A. HM B. PQ
+C. JQ D. ED
+Ans. D
+4. Select the related word/letters/number
+from the given alternatives.
+25: 260 : : 30 : ?
+A. 320 B. 310
+C. 340 D. 300
+Ans. B
+5. Select the odd word/letters/number/
+number pair from the given
+A. Truck B. Car
+C. Motorcycle D. Airplane
+Ans. D
+6. Select the odd word/letters/number/
+number pair from the given
+A. FLR B. KQW
+C. PIB D. CIO
+Ans. C
+7. Select the odd word/letters/number/
+number pair from the given
+A. 6210 B. 7020
+C. 1431 D. 1280
+Ans. D
+8. Select the odd word/letters/number/
+number pair from the given
+A. 86 B. 68
+C. 136 D. 102
+Ans. A
+9. A series is given with one term
+Select the correct alternative
+given ones that will complete the
+RS, ZA, HI, ?
+A. LM B. KL
+C. PQ D. PR
+Ans. C
+10. A series is given with one term missing.
+Frog : Select the correct alternative from the
+given ones that will complete the series.
+PON, LKJ, GFE, ?
+A. ABC B. EFG
+C. AZY D. DEA
+Ans. C
+11. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+250, 275, 301, ?
+A. 396 B. 328
+C. 395 D. 300
+Ans. B
+12. In the following question, two statements
+are given each followed by two conclusions
+I and II. You have to consider the
+statements to be true even if they seem to
+be at variance from commonly known
+facts. You have to decide which of the
+given conclusions, if any, follows from the
+given statements.
+Statement:
+I. Children start writing with a pen in
+sixth standard.
+II. Ink pen is prescribed by most of the
+alternatives. schools for school kids to write with as
+it maintains the handwriting and
+comfort of child.
+Conclusions:
+I. Till ﬁfth standard kids are unable to use
+pen on their own completely.
+alternatives.
+II. Ink pen maintains a proper flow of ink
+on paper and takes less effort to put
+words on paper.
+A. Only conclusion II follows
+B. Conclusion I and II both follow
+alternatives. C. Neither I nor II follow
+D. Only conclusion I follows
+Ans. B
+13. A series is given with one term missing.
+Select the correct alternative from the
+alternatives. given ones that will complete the series.
+Millimetre, Micrometre, Nanometre, ?
+A. Picometre B. Kilometre
+C. Metre D. Centimetre
+missing. Ans. A
+from the 14. A, B, C, D and E are standing in a row. D is
+series. the immediate neighbour of A and E. B is
+at the right of E and C is in the extreme
+right. Who is fourth to the left of C?
+A. B B. E
+C. C D. A
+Ans. D
+2
+15. Arrange the given words in the
+which they occur in the dictionary.
+i. Shortage ii. Shore
+iii. Shamelessly iv. Shadiness
+v. Shallow
+A. iii, iv, v, ii, i B. iv, iii, i,
+C. iv, v, iii, ii, i D. iii, iv, ii,
+Ans. C
+16. In a certain code language,
+written as "1326654", and
+written as "6978". How is "RAINS"
+in that code language?
+A. 62971 B. 62972
+C. 62917 D. 62977
+Ans. A
+17. In the following question,
+missing number from the given
+36 44 32
+72 88 64
+54 66 ?
+A. 44 B. 48
+C. 50 D. 64
+Ans. B
+18. Which of the following interchanges
+signs will make the given equation
+17  15  5  250
+A. = and x B. + and –
+C. = and - D. x and –
+Ans. D
+19. In the following question, which
+letters when sequentially placed
+gaps in the given letter
+complete it?
+_k_m_kl_jk_m
+A. jljlm B. jljml
+C. jllmj D. jllmm
+Ans. B
+20. Rahul leaves his home and walks
+towards east, turns in the
+direction and walks for 10km,
+turns north-east and moves 10
+he moves towards the north for
+which direction is he now from
+point?
+A. West B. East
+C. North-east D. North-west
+Ans. C
+21. A word is represented by only
+numbers as given in any one
+alternatives. The sets of numbers
+the alternatives are represented
+classes of alphabets as shown in
+two matrices. The columns and
+Matrix-I are numbered from 0 to
+of Matrix-II are numbered from
+letter from these matrices
+sequence in represented first by its row and next by its
+column, for example, ‘J’ can be
+represented by 20, 58 etc. and ‘A’ can be
+represented by 12, 69 etc. Similarly, you
+have to identify the set for the word
+ii, v ‘ANIMAL’.
+i, v
+"SPARROW" is
+"RING" is
+written
+select the
+A. 69,22,99,56,23,03
+series.
+B. 69,22,99,56,03,23
+C. 69,22,98,56,03,23
+D. 69,22,99,65,03,23
+Ans. B
+22. Introducing a boy a Ankit said," He is the
+son of daughter of my grandfather's son".
+How is that boy related to Ankit?
+in
+correct? A. Cousin B. Brother
+C. Father-in-law D. Nephew
+Ans. D
+23. If a mirror is placed on the line MN, then
+which of the answer figures is the right
+one set of image of the given figure?
+at the
+series shall
+5 km
+south-east A. B.
+then he
+km. Again,
+10km. In
+starting C. D.
+Ans. B
+24. Identify the diagram that best represents
+the relationship among the given classes.
+Sweets, Sugar, Salt, Jaggery
+one set of
+of the
+given in
+by two A. B.
+the given
+rows of
+4 and that
+5 to 9. A C. D.
+can be Ans. C
+3
+25. A piece of paper is folded and
+shown in the below question
+the given answer figures, indicate
+will appear when opened.
+A. B.
+C. D.
+26. _________is a drug or substance
+makes you feel relaxed and
+body work and react more slowly.
+A. Antidote B. Analgesic
+C. Antihistamine D. Depressant
+Ans. D
+27. Carica papaya is the scientiﬁc
+_________.
+A. Peepal B. Papaya
+C. Tamarind D. Drumstick
+Ans. B
+28. Muscles get tired when there is
+_________.
+A. Lactic acid B. Na+ ions
+C. ATP D. Sulphates
+Ans. C
+29. The Chemical formula of Ammonium
+is _________.
+A. (NH ) NO B. NH NO
+2 2 3 4 3
+C. NH (NO ) D. NH NO
+4 3 2 2 3
+Ans. B
+30. Which of the following elements
+lowest melting point?
+A. Xenon B. Iodine
+C. Barium D. Magnesium
+Ans. A
+31. Choose odd one out
+A. Cyberspace B. Internet
+C. HTML D. WWW
+Ans. C
+32. Which of these is not an Indian
+Instrument?
+A. Sitar B. Bansuri
+C. Madal D. Tanpura
+Ans. C
+33. If price of an article decreases from
+to Rs 220, when quantity
+increases from 200 units to 210
+point elasticity of demand?
+A. 0.6 B. -1.8
+C. -0.6 D. 1.8
+Ans. C
+punched as 34. Match the characteristics with their market
+figures. From structure:
+how it (a) Firm has control over quantity of
+output but it must take into account
+reactions of competitors.
+(b) Firm will tend to set output so that it
+earns maximum proﬁts.
+A. (a) Oligopoly, (b) Pure competition
+B. (a) Monopolistic competition, (b)
+Oligopoly
+C. (a) Pure Monopoly, (b) Pure
+competition
+D. (a) Oligopoly, (b) Pure Monopoly
+Ans. A Ans. A
+that 35. People in all the following countries had to
+makes your be resettled after the 1986 Chernobyl
+nuclear disaster, except
+A. Kazakhstan B. Belarus
+C. Russia D. Ukraine
+Ans. A
+name of 36. The outermost layer of the earth's
+atmosphere is _________.
+A. stratosphere B. troposphere
+C. mesosphere D. exosphere
+Ans. D
+shortfall of
+37. _________is the ﬁrst Indian company to
+list on NASDAQ.
+A. Industries Limited
+B. Infosys
+nitrate C. TCS
+D. Bharti Airtel
+Ans. B
+38. Which city is located on the banks of the
+river Narmada?
+has the A. Bharuch B. Bhopal
+C. Nagpur D. Kota
+Ans. A
+39. Which of these countries got Independence
+from United Kingdom?
+A. Uzbekistan B. Pakistan
+C. Venezuela D. South Korea
+Ans. B
+40. Aurangzeb, the Mughal Emperor died in?
+Musical
+A. 1507 B. 1607
+C. 1707 D. 1807
+Ans. C
+41. Who Invented Induction Coil?
+Rs 240 A. Edwin Howard Armstrong
+demanded B. John Barber
+units. Find C. Edwin Beard Budding
+D. Nicholas Callan
+Ans. D
+4
+42. Find the power of a convex
+image formed is at a distance
+from the lens when the object is
+the other side of the lens at 20
+the optical centre?
+A. -3.75 diopters B. -11.25
+C. 3.75 diopters D. 11.25
+Ans. D
+43. What is the unit of the physical
+"Inductance"?
+A. weber B. farad
+C. henry D. tesla
+Ans. C
+44. In which form of government priests
+the name of God?
+A. Fascism B. Monarchy
+C. Theocracy D. Oligarchy
+Ans. C
+45. Who was the ﬁrst temporary
+the Constituent Assembly?
+A. B R Ambedkar
+B. Jawahar Lal Nehru
+C. Rajendra Prasad
+D. Dr. Sachchidananda Sinha
+Ans. D
+46. Who won the ﬁrst T-20 Cricket
+A. West Indies B. India
+C. Australia D. New
+Ans. B
+47. Who is the author of "Chokher Bali"?
+A. Rabindranath Tagore
+B. Jhumpa Lahiri
+C. Amish Tripathi
+D. Chetan Bhagat
+Ans. A
+48. Shiva cave is located in _________.
+A. Ajanta Caves B. Ellora
+C. Elephanta Caves D. Badami
+Ans. C
+49. Vikas Khanna is an award
+_________ starred Indian chef.
+A. Apollo B. Michelin
+C. Goodyear D. Viking
+Ans. B
+50. Triton is the moon of which planet?
+A. Neptune B. Uranus
+C. Saturn D. Venus
+Ans. A
+51. Which of the following is correct?
+A.  4x  5y  2  16x 2  20xy  25y 2
+B.  4x  5y  2  16x 2  40xy  25y 2
+C.  4x  5y  2  16x 2  40xy  25y 2
+D.  4x  5y  2  16x 2  20xy  25y 2
+Ans. C
+lens if the 52. If the radius of a circle is increased by 15%
+of 16 cm its area increases by _________.
+placed on A. 30 percent B. 32.25 percent
+cm from C. 15 percent D. 16.125 percent
+Ans. B
+diopters 53. Ticket for an adult is Rs 1600 and a child is
+diopters Rs 600. 1 child goes free with two adults. If
+a group has 17 adults and 7 children what
+quantity is the discount the group gets?
+A. 13.37 percent B. 26.02 percent
+C. 24.41 percent D. 32.2 percent
+Ans. A
+54. When 0.090909.....is converted into a
+rule in fraction, then the result is
+A. 1/33 B. 1/11
+C. 2/33 D. 6/11
+Ans. B
+55. The bus fare between two cities is
+chairman of increased in the ratio 5:11. Find the
+increase in the fare, if the original fare is
+Rs. 275.
+A. Rs 605 B. Rs 121
+C. Rs 330 D. Rs 242
+Ans. C
+56. The difference between simple and
+World Cup? compound interests compounded annually
+on a certain sum of money for 2 years at
+Zealand 9% per annum is Rs 405. The sum is
+_________.
+A. Rs 50000 B. Rs 100000
+C. Rs 200000 D. Rs 150000
+Ans. A
+57. Which of the following quadratic equations
+has real roots?
+A. 4x 2  7x  5  0
+B. 5x 2  11x  7  0
+Caves
+Caves C. 5x 2  11x  8  0
+D. 2x 2  7x  5  0
+winning Ans. D
+58. If 5x  5  2  2x and 5x  3  4x  5; then
+x can take which of the following values?
+A. 3 B. -2
+C. -3 D. 1
+Ans. D
+59. The 4th term of an arithmetic progression
+is 15, 15th term is -29, ﬁnd the 10th term?
+A. -5 B. -13
+C. -17 D. -9
+Ans. D
+60. In what ratio is the segment joining
+(-1,-12) and (3,4) divided by the x-axis?
+A. 1:3 B. 3:2
+C. 3:1 D. 2:3
+Ans. C
+5
+61. A can do a work in 20 days and
+days. If they work on it together
+days, then what fraction of work is
+A. 13/20 B. 1/3
+C. 1/6 D. 2/9
+Ans. A
+62. At what point does the line 4x
+intercept the y-axis?
+A. (0,2) B. (0,3/2)
+C. (2,0) D. (3/2,0)
+Ans. A
+63. In ΔDEF, G and H are points on
+and DF respectively. GH is parallel
+G divides DE in the ratio 1:3 and
+cm, ﬁnd length of DF?
+A. 2.4 cm B. 4.8 cm
+C. 3.6 cm D. 9.6 cm
+Ans. D
+64. The mean of marks secured by 65
+in division A of class X is 54, 30
+division B is 50 and that of 55
+division C is 48. Find the mean of
+the students of three divisions of
+A. 50.3 B. 49.6
+C. 51 D. 52.4
+Ans. C
+65. In a triangle the length of the side
+the right angle is 9√3 cm, what
+length of the side opposite to
+which measures 30 degree?
+A. 9 cm B. 3√3 cm
+C. 6 cm D. (9√3)/2
+Ans. D
+66. Two cars travel from city A to
+speed of 30 and 44 km/hr
+one car takes 3.5 hours lesser
+the other car for the journey,
+distance between City A and City
+A. 330 km B. 396 km
+C. 495 km D. 264 km
+Ans. A
+67. Rajeev sells a machine for Rs 55
+loss. Had he sold it for Rs 67 lakh,
+would have been 5 times the
+Find the cost price of the machine.
+A. Rs 65 lakhs B. Rs 57
+C. Rs 78 lakhs D. Rs 49
+Ans. B
+68. Curved surface area of a cylinder
+cm. If circumference of its base
+ﬁnd the height of the cylinder?
+A. 12 cm B. 24 cm
+C. 36 cm D. 6 cm
+Ans. A
+B in 50 69. What is the value of sin 5π/3?
+for 5 A. √3/2 B. 2/√3
+left? C. 1/√3 D. -2/√3
+Ans. A
+70. cos 3 A is equal to
+A. cos3A  3sin 2 cos A
+ 3y   6
+B. cos3A  4sin 2 cos A
+C. cos3A  3sin 2 cos A
+D. cos3A  4sin 2 cos A
+Ans. C
+side DE 71.  2sec 2 A is equal to
+to EF. If A.  1  tan A  2   1  tan A  2
+HF is 7.2
+B.   1  tan A  2   1  tan A  2 
+   
+C.   1  tan A  2   1  tan A  2 
+   
+students D.  1  tan A  2   1  tan A  2
+students of Ans. D
+students of 72. Refer the below data table and answer the
+marks of following Question.
+Class X.
+Weight (kg) Height in meter
+वजन (किलोग्राम) ऊंचाई (मीटर)
+Anita/ अनीता 56 1.71
+Anjali/ अंजलल 64 1.52
+opposite Anjalika/ अन्जलीिा 51 1.72
+is the Anjana/ अंजना 52 1.59
+the angle
+Who has the least weight to height ratio?
+A. Anita B. Anjali
+C. Anjalika D. Anjana
+cm
+Ans. C
+73. Refer the below data table and answer the
+city B at a
+following Question.
+respectively. If
+Year Company’s % Profit
+time than
+वर्ष िंपनी िा लाभ %
+then the
+2011 5
+B is
+2012 10
+2013 20
+2014 25
+2015 15
+What was the Revenue of the company if
+lakhs at a
+its Expenditure was Rs 450 crore in the
+his gain
+year when its % profit was the least?
+former loss.
+A. 472.5 B. 495
+C. 517.5 D. 450
+lakhs
+Ans. A
+lakhs
+74. The following table shows the number of
+children in each house of a society.
+is 528 sq
+Number of Children Number of Houses
+is 44 cm,
+बच्चों िी संख्या घरों िी संख्या
+0 7
+1 9
+2 20
+3 3
+6
+What is the average number of
+house?
+A. 1.74 B. 1.99
+C. 1.24 D. 1.49
+Ans. D
+75. Refer the below table and
+following Question.
+Partners Present % share
+भागीदार वतषमान % हिस्सा
+Anand/ आनंद 5
+Basu/ बसु 10
+Chinmay/ चचन्मय 30
+Dhiraj/ धीरज 5
+Ejaz/ एजाज 50
+If the company has issued six
+between its five partners and if
+to sell 15,000 of his shares to
+Ejaz will have how many shares?
+A. 300000 shares B. 315000
+C. 330000 shares D. 285000
+Ans. B
+76. In the following question, the
+given with blank to be ﬁlled in
+appropriate word. Select the
+alternative out of the four and
+by selecting the appropriate option.
+The recession is going to
+___________ times for families
+already struggling to pay their bills.
+A. furious B. agitated
+C. turbulent D. wild
+Ans. C
+77. In the following question, a
+been given in Direct/Indirect
+of the four alternatives suggested,
+the one, which best express
+sentence in Indirect/Direct speech.
+Mother said, "Lie down, Arjun."
+A. Mother told lie down Arjun.
+B. Mother told Arjun for lying
+C. Mother asked Arjun to lie down.
+D. Mother asked Arjun to be lied
+Ans. C
+78. In the following question, out of
+alternatives, select the alternative
+best expresses the meaning
+idiom/phrase.
+ethnic cleansing
+A. a social revolution where
+aspects of a culture are removed
+B. to perform mass religious
+C. the mass killing of members
+ethnic group
+D. removal of all signs of culture
+society
+Ans. C
+children per 79. Improve the bracketed part of the
+sentence.
+I don't want an award (for help to you).
+A. to have helped you
+B. for helping you
+answer the C. for helping to you
+D. no improvement
+Ans. B
+80. In the following question, out of the four
+alternatives, select the alternative which is
+the best substitute of the phrase.
+Very rude or coarse; vulgar.
+A. gross B. adipose
+C. porcine D. corpulent
+Ans. A
+lakh shares 81. In the following question, out of the four
+Basu offers alternatives, select the alternative which is
+Ejaz, then the best substitute of the phrase.
+To stop doing something; cease or abstain.
+shares
+A. to endure B. to desist
+shares
+C. to persevere D. to dismay
+sentence Ans. B
+with an 82. In the following question, some part of the
+correct sentence may have errors. Find out which
+indicate it part of the sentence has an error and
+select the appropriate option. If a sentence
+cause is free from error, select 'No Error'.
+who are
+I have sign over(A)/the cheque, you
+can(B)/collect it tomorrow.(C)/No error(D)
+A. A B. B
+C. C D. D
+Ans. A
+sentence has
+speech. Out 83. In the following question, out of the four
+select alternatives, select the alternative which
+the same best expresses the meaning of the
+idiom/phrase.
+every cloud has a silver lining
+A. no bad situation is permanent
+down.
+B. if one wants rain then one has to bear
+with dark clouds
+down.
+C. every blessing comes with a hidden
+curse
+the four
+D. every bad situation has some good
+which
+of the aspects to it
+Ans. D
+84. Rearrange the parts of the sentence in
+negative correct order.
+It is a crisis which
+conversions
+P-unless policymakers
+of one
+Q-exercise some intelligence
+R-will get even worse
+from a
+A. RPQ B. RQP
+C. PQR D. QPR
+Ans. A
+7
+85. Improve the bracketed part
+sentence.
+Shouts of the crowd cheering
+team now (stuff) the air.
+A. ﬁll B. occupy
+C. infest D. no
+Ans. A
+86. Select the word with the correct
+A. dementia B. quaterain
+C. necrosis D. frenetic
+Ans. A
+87. Rearrange the parts of the
+correct order.
+In Tamil nadu,
+P-cows and bulls are worshipped
+celebrated
+Q-on Maattu Pongal,
+R-and the ﬁnale is Jallikattu
+A. QRP B. QPR
+C. PRQ D. RPQ
+Ans. B
+88. In the following question, a
+been given in Active/Passive voice.
+four alternatives suggested, select
+which best expresses the same
+Passive/Active voice.
+The seawater eventually
+pillars of the bridge.
+A. Eventually the pillars of the
+being corroded by the seawater.
+B. Eventually the pillars of
+have been corroded by the
+C. The pillars of the bridge
+eventually corroded by the
+D. The pillars of the bridge
+eventually corroded by the
+Ans. C
+89. In the following question, sentence
+with blank is to be ﬁlled in
+appropriate word. Select the
+alternative out of the four and
+by selecting the appropriate option.
+On the trip, we needed a
+__________ the foreign
+us.
+A. describe B. illustrate
+C. mimic D. interpret
+Ans. D
+90. Select the antonym of
+to remand
+A. to ﬁlibuster B. to tarry
+C. to expedite D. to adjourn
+Ans. C
+of the 91. In the following question, some part of the
+sentence may have errors. Find out which
+the home part of the sentence has an error and
+select the appropriate option. If a sentence
+is free from error, select 'No Error'.
+improvement He told me the same(A)/story which he
+told(B)/you yesterday.(C)/No error(D)
+spelling. A. A B. B
+C. C D. D
+Ans. B
+92. Select the synonym of
+sentence in
+proximal
+A. frontier B. obscure
+and C. remote D. adjacent
+Ans. D
+93. Select the antonym of
+eternity
+A. perpetuity B. yonder
+C. aeon D. ephemeral
+sentence has Ans. D
+Out of
+94. Select the synonym of
+the one,
+to alight
+sentence in
+A. to escalate B. to clamber
+corroded the C. to disembark D. to astride
+Ans. C
+bridge are
+95. Select the word with the correct spelling.
+A. prophesey B. nihilism
+the bridge
+seawater. C. aesthet D. avulusion
+were Ans. B
+seawater. 96. In the following passage, some of the
+have been words have been left out. Read the
+seawater. passage carefully and select the correct
+answer for the given blank out of the four
+given alternatives.
+with an The answer to the third question is
+correct ____________ answered; State leaders
+indicate it ___________ great willingness to play into
+the hands of the Central government,
+guide to presumably for a price. ____________ the
+language for process, representatives have forgotten the
+history of their own societies. But they fail
+to ____________ that history cannot be
+disremembered, it constantly nudges us to
+recollect past struggles ______________
+injustice in these States.
+The answer to the third question is
+___________answered
+A. easily B. easy to
+C. easy for D. so easy
+Ans. A
+8
+97. In the following passage, some
+words have been left out.
+passage carefully and select the
+answer for the given blank out of
+alternatives.
+The answer to the third
+____________ answered; State
+___________ great willingness to
+the hands of the Central
+presumably for a price. ____________
+process, representatives have
+history of their own societies. But
+to ____________ that history
+disremembered, it constantly
+recollect past struggles
+injustice in these States.
+State leaders great willingness
+into the hands of the Central
+A. is showing B. have
+C. to show D. have
+Ans. B
+98. In the following passage, some
+words have been left out.
+passage carefully and select the
+answer for the given blank out of
+alternatives.
+The answer to the third
+____________ answered; State
+___________ great willingness to
+the hands of the Central
+presumably for a price. ____________
+process, representatives have
+history of their own societies. But
+to ____________ that history
+disremembered, it constantly
+recollect past struggles
+injustice in these States.
+___________the process,
+have forgotten the history of
+societies.
+A. As B. So
+C. Into D. In
+Ans. D
+99. In the following passage, some
+words have been left out.
+passage carefully and select the
+answer for the given blank out of
+alternatives.
+The answer to the third
+____________ answered; State
+___________ great willingness to
+the hands of the Central
+presumably for a price. ____________
+process, representatives have
+history of their own societies. But
+to ____________ that history
+disremembered, it constantly
+recollect past struggles
+injustice in these States.
+But they fail to _______ that
+cannot be disremembered,
+of the A. forget B. memorize
+Read the C. recall D. by heart
+correct Ans. C
+the four 100. In the following passage, some of the
+words have been left out. Read the
+question is passage carefully and select the correct
+leaders answer for the given blank out of the four
+play into alternatives.
+government, The answer to the third question is
+the ____________ answered; State leaders
+forgotten the ___________ great willingness to play into
+they fail the hands of the Central government,
+cannot be presumably for a price. ____________ the
+nudges us to process, representatives have forgotten the
+______________ history of their own societies. But they fail
+to ____________ that history cannot be
+to play disremembered, it constantly nudges us to
+government recollect past struggles ______________
+shown injustice in these States.
+showed it constantly nudges us to recollect past
+struggles ______ injustice in these States.
+of the A. against B. for
+Read the C. to D. from
+correct Ans. A
+the four
+question is
+leaders
+play into
+government,
+the
+forgotten the
+they fail
+cannot be
+nudges us to
+______________
+representatives
+their own
+of the
+Read the
+correct
+the four
+question is
+leaders
+play into
+government,
+the
+forgotten the
+they fail
+cannot be
+nudges us to
+______________
+history
+9

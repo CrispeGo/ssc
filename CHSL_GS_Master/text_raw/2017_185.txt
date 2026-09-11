@@ -1,0 +1,886 @@
+1. Select the related word/letters/number
+from the given alternatives.
+Farmer : Plough:: Painter: ?
+A. Brush B. Harrow
+C. Axe D. Knife
+Ans. A
+2. Select the related word/letters/number
+from the given alternatives.
+DB: IC:: YE: ?
+A. FJ B. JF
+C. TH D. WL
+Ans. B
+3. Select the related word/letters/number
+from the given alternatives.
+AEG: GKM :: MQS : ?
+A. SWY B. SWZ
+C. ZWQ D. SWB
+Ans. A
+4. Select the related word/letters/number
+from the given alternatives.
+17: 71 :: 35: ?
+A. 69 B. 56
+C. 60 D. 53
+Ans. D
+5. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. Joule B. Ohm
+C. Watt D. Magnetic Field
+Ans. D
+6. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. BGF B. FDH
+C. BAE D. CDE
+Ans. D
+7. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. 2197 B. 3375
+C. 4099 D. 2744
+Ans. C
+8. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. 794 B. 576
+C. 668 D. 992
+Ans. B
+9. A series is given with one term
+Select the correct alternative from
+given ones that will complete the series.
+Padma Shri, Padma Bhushan,
+Vibhushan, ?
+A. Bharat Ratna
+B. Ashok Chakra
+C. Sahitya Akademi Award
+D. Arjuna Award
+Ans. A
+10. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+C A E, F D H, I G K, ?
+A. L J N B. O M Q
+C. K L M D. P O N
+Ans. A
+11. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+AY, CW, EU, ?
+A. GS B. HS
+C. GR D. HR
+Ans. A
+12. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+122, 197, 290, ?
+A. 399 B. 400
+C. 401 D. 402
+As. C
+13. In the following question, two statements
+are given each followed by two conclusions
+I and II. You have to consider the
+statements to be true even if they seem to
+be at variance from commonly known
+facts. You have to decide which of the
+given conclusions, if any, follows from the
+given statements.
+Statement:
+(I) India's GDP continues to grow at one of
+the reasonable rates but job creation is
+not picking up the similar pace.
+(II) Every year over 20 million young
+Indians join the workforce.
+Conclusions:
+(I) Population increase is more than the
+job creation rate.
+(II) Supply basket is less and the demand
+basket for jobs is very high.
+A. Only conclusion II follows
+B. Conclusion I and II both follow
+C. Neither I nor II follow
+D. Only conclusion I follows
+missing.
+the Ans. B
+14. Five girls are sitting facing towards the
+Padma north. Rekha is between Shalini and Neetu.
+Pooja is to the immediate right of Neetu
+and Shalini is to the immediate right of
+Neha. Who is sitting in the middle?
+A. Shalini B. Neetu
+C. Rekha D. Pooja
+Ans. C
+2
+15. Arrange the given words in the sequence
+which they occur in the dictionary.
+i. nature ii. nest
+iii. numeric iv. news
+A. iii, i, ii, iv B. iv, ii, iii, i
+C. i, ii, iv, iii D. i, ii, iii, iv
+Ans. C
+16. In a certain code language, "TRAIN"
+written as "NIART". How is "SCOOTER"
+written in that code language?
+A. RETOOCS B. RETOCSO
+C. RETSCOO D. SCOORET
+Ans. A
+17. If "+" means "minus", "x" means
+by", "÷" means "plus" and "-"
+"multiplied by", then
+38  2  6  19  35  ?
+A. 130 B. 140
+C. 135 D. 145
+Ans. A
+18. Which of the following interchanges
+signs and numbers will make the
+equation correct?
+8  9  2  74
+A. x and  , 2 and 9
+B. x and  , 8 and 2
+C.  and  , 8 and 9
+D.  and  ,74 and 2
+Ans. B
+19. In the following question, which one
+letters when sequentially placed at
+gaps in the given letter series
+complete it? a_b_a_c_a_bc
+A. bccbb B. bcbca
+C. cabca D. acbcb
+Ans. A
+20. A man is facing west and he turns
+clockwise by 90 degrees and moves
+straight, then he again turns 90
+anti-clockwise. Which direction is the
+facing now?
+A. North B. West
+C. South D. East
+Ans. D
+21. A word is represented by only one
+numbers as given in any one of
+alternatives. The sets of numbers given
+the alternatives are represented by
+classes of alphabets as in two
+given below. The columns and rows
+Matrix-I are numbered from 0 to 4 and
+of Matrix-II are numbered from 5 to
+letter from these matrices can
+in represented first by its row and next by its
+column, e.g., ‘P’ can be represented by 95,
+86 etc. and ‘T’ can be represented by 85,
+95 etc. Similarly, you have to identify the
+set for the word ‘ALIKE’.
+is
+"divided
+means
+in
+given
+A. 56, 10, 55, 31, 97
+B. 67, 21, 66, 96,86
+C. 78, 32, 77, 12, 86
+D. 89, 43, 76, 01, 30
+Ans. C
+22. Pointing towards a lady in a photograph, a
+girl says, "Vidit's grandmother is the
+mother-in-law of this lady". How is the lady
+set of in the photograph related to Vidit?
+the A. Mother B. Sister
+shall C. Aunt D. Grandmother
+Ans. A
+23. If a mirror is placed on the line MN, then
+which of the answer figures is the right
+image of the given figure?
+anti-
+10m
+degrees
+man
+set of
+the
+in
+A. B.
+two
+matrices
+of
+that
+9. A
+C. D.
+be
+Ans. C
+3
+24. Identify the diagram that best represents
+the relationship among the given classes.
+Football, Volleyball, Outdoor
+Carrom.
+A. B.
+C. D.
+Ans. B
+25. A piece of paper is folded and punched
+shown below in the question figures.
+the given answer figures, how it will
+when opened.
+A. B.
+C. D.
+Ans. A
+26. Chhatrapati Shivaji Terminus station
+designed by
+A. Frederick William Stevens
+B. Santiago Calatrava
+C. Fazlur Rahman Khan
+D. Frei Otto
+Ans. A
+27. Who won Nobel prize for Physics in 2015?
+A. Hiroshi Amano
+B. Takaaki Kajita
+C. Isamu Akasaki
+D. Makoto Kobayashi
+Ans. B
+28. Kidney stones are composed of _______.
+A. Calcium Oxalate
+B. Sodium Chloride
+C. Magnesium Nitrate
+D. Calcium Bicarbonate
+Ans. A
+29. Which of the following is not true about
+Angiosperms?
+Games, A. Dominant phase is gametophytes
+B. Vascular bundles are present
+C. Spores are heterospores
+D. Seeds are covered
+Ans. A
+30. All of the following are excretory (waste)
+products of animals, except
+A. Uric Acid B. Ammonia
+C. Carbohydrates D. Urea
+Ans. C
+31. RNA is a polymeric molecule. What does
+RNA stand for?
+A. Rado Nuclear Acid
+B. Ribo Nucleic Acid
+as C. Rhino Nuclear Acid
+From D. Resto Nucleus Acid
+appear Ans. B
+32. The common name of
+dichlorodiﬂuoromethane is _________.
+A. galena B. Freon
+C. gypsum D. borax
+Ans. B
+33. ________performs tasks such as inserting,
+updating, or deleting data occurrences.
+A. Data deﬁnition language
+B. Data manipulation language
+C. Query language
+D. OQL
+Ans. B
+34. The Razmnama is a Persian translation of
+the ________.
+A. Mahabharata B. Ramayana
+was
+C. Vedas D. Upanishads
+Ans. A
+35. If demand curve for house cleaning
+services is D = 45000 - 21P and supply
+curve is S = 15000 + 9P, ﬁnd the
+equilibrium Quantity?
+A. 12000 units B. 6000 units
+C. 24000 units D. 30000 units
+Ans. C
+36. Goods whose demand is proportional to
+price are called
+A. inferior goods B. Veblen goods
+C. normal goods D. exclusive goods
+Ans. B
+37. Similipal Tiger Reserve is in which state?
+A. Maharashtra B. Andhra Pradesh
+C. Chhattisgarh D. Odisha
+Ans. D
+4
+38. Which of the following is a greenhouse
+or a gas which can deplete the
+layer?
+A. N O B. AsH
+2 3
+C. N D. C5H
+2 12
+Ans. A
+39. Manohar Parrikar is India's ________.
+A. Railway Minister
+B. Finance Minister
+C. HRD Minister
+D. Defence Minister
+Ans. D
+40. What is the capital of Finland?
+A. Tashkent B. Helsinki
+C. Bern D. Dublin
+Ans. B
+41. Which city is located on the banks of
+river Mula-Mutha?
+A. Surat B. Ahmedabad
+C. Nagpur D. Pune
+Ans. D
+42. Ajatashatru was the son ________of
+A. Brahmadatta B. Bindusara
+C. Bimbisara D. Chetaka
+Ans. C
+43. Chhatrapati Sambhaji (1680–1688 AD)
+the ruler of which dynasty?
+A. Maratha B. Nanda
+C. Haryanka D. Maurya
+Ans. A
+44. Who Invented the computer mouse?
+A. Gene Dolgoff
+B. Brendan Eich
+C. Douglas Engelbart
+D. Federico Faggin
+Ans. C
+45. ________states that internal energy
+function of state and the increase
+internal energy is equal to the sum of
+heat supplied to system and work done
+the system.
+A. First law of thermodynamics
+B. Hooke's Law
+C. The coulomb's law
+D. Faraday's Law
+Ans. A
+46. What is the direction of torque?
+A. Perpendicular to the direction
+applied force
+B. Same as the direction of applied
+C. Opposite to the direction of
+force
+D. Parallel to the radius
+Ans. A
+gas 47. Article 27 of the Indian Constitution
+ozone "Freedom as to payment of taxes for
+promotion of any particular religion" deals
+with?
+A. the Union Government
+B. the State Government
+C. the directive principles of state policy
+D. the fundamental rights of the Indian
+Citizen
+Ans. D
+48. Article 31C of the Indian Constitution
+"Saving of laws giving effect to certain
+directive principles" deals with?
+A. the fundamental rights of the Indian
+Citizen
+B. the State Government
+C. the Union Government
+the D. the directive principles of state policy
+Ans. A
+49. Who among the following has not scored a
+double hundred in an ODI?
+A. Virender Sehwag
+B. Sachin Tendulkar
+C. Brian Lara
+D. Rohit Sharma
+Ans. C
+50. Who is the author of "Jaya"?
+was
+A. Sudeep Nagarkar
+B. Devdutt Pattanaik
+C. R. K. Narayan
+D. Aravind Adiga
+Ans. B
+51. If 7A = 5B = 2C; ﬁnd A : B : C.
+A. 35:14:10 B. 14:10:35
+C. 2:5:7 D. 10:14:35
+Ans. D
+52. Which of the following numbers is not a
+prime number?
+is a
+A. 731 B. 227
+in
+C. 347 D. 461
+the
+by Ans. A
+53. A factory buys 7 machines. 2 Machine A, 2
+Machine B and rest Machine C. Prices of the
+machines are Rs 95000, Rs 75000 and Rs
+43000 respectively. Calculate the average
+cost of these machines?
+A. 71000 B. 67000
+C. 75000 D. 65500
+Ans. B
+of
+54. The value of x for which the expressions
+7x  13 and 13x  7 become equal is
+force
+________.
+applied
+A. -10/3 B. 3/10
+C. -3/10 D. 10/3
+Ans. D
+5
+55. A can do a work in 15 days and B
+days. If they work on it together
+days, then what fraction of work is left?
+A. 1/6 B. 3/7
+C. 1/3 D. 1/9
+Ans. D
+56. On dividing 256a 2 b 2 c 2 by 64a 2 , we get
+A. 2c 2 B. 2b 2
+C. 4 D. 4b 2 c 2
+Ans. D
+57. Rehman walks at 8 km/hr and Roma
+at 13 km/hr towards each other. What
+the distance between them when
+started if they meet after 36 minutes?
+A. 12.6 kms B. 18.9 kms
+C. 15.8 kms D. 9.5 kms
+Ans. A
+58. On a certain Principal if the Simple
+for two years is Rs 4800 and Compound
+interest for the two years is Rs 5088,
+is the rate of Interest?
+A. 6 percent B. 24 percent
+C. 12 percent D. 18 percent
+Ans. C
+59. Two students appeared for an examination.
+One of them secured 24 marks more
+the other and his marks were 65% of
+sum of their marks. The marks obtained
+them are________.
+A. 78 and 54 B. 85 and 61
+C. 67 and 43 D. 52 and 28
+Ans. D
+60. If 3x  4  2  x/3 and 3x  5  4x  5;
+ﬁnd the value of x?
+A. 7 B. 10
+C. -11 D. 1
+Ans. A
+61. When a discount of 25% is given
+wedding gown, the proﬁt is 32%. If
+discount is 17%, then the proﬁt
+________.
+A. 46.08 percent B. 49 percent
+C. 51.92 percent D. 43.16 percent
+Ans. A
+62. If 3x  2y  7 and 4x  y  24,
+x  y  _______ .
+A. 9 B. 1
+C. -9 D. -1
+Ans. A
+63. The co-ordinates of the centroid
+triangle ABC are (-1,-2) what are the
+ordinates of vertex C, if co-ordinates
+and B are (6,-4) and (-2,2) respectively?
+A. (-7,-4) B. (7,4)
+C. (7,-4) D. (-7,4)
+Ans. A
+in 9 64. What is the slope of the line parallel to the
+for 5 line passing through the points (4,-2) and
+(-3, 5)?
+A. 3/7 B. 1
+C. -3/7 D. -1
+Ans. D
+65. At 24% discount the selling price of a
+washing machine is Rs 38000, what is the
+selling price if the discount is 40%?
+A. Rs 18000 B. Rs 30000
+C. Rs 22320 D. Rs 31920
+Ans. B
+cycles
+66. Dodecahedron has 20 vertices. How many
+was
+edges does it have?
+they
+A. 30 B. 16
+C. 12 D. 24
+Ans. A
+67. The diagonal of a square is equal to the
+side of an equilateral triangle. If the area of
+interest the square is 15√3 sq cm, what is the area
+of the equilateral triangle?
+what A. 45/√2 sq cm B. 45√2 sq cm
+C. 45 sq cm D. 45/2 sq cm
+Ans. D
+68. If the curved surface area of a right circular
+cone is 3080 sq cm and its slant height is
+35 cm, ﬁnd its total surface area?
+than A. 11088 sq cm B. 1848 sq cm
+the C. 5544 sq cm D. 2772 sq cm
+by Ans. C
+69. What is the value of cosec 11π/6?
+A. -2/√3 B. √2
+C. -2 D. -√2
+Ans. C
+then 70.  cos  A  B   cos  A  B  is equal to
+A. 2cosAcosB B. 2sinAsinB
+C. 2sinAcosB D. 2cosAsinB
+Ans. A
+71.  1 /  tan A  cot A  is equal to
+on a
+A. (cosecA + sinA)(secA - cosA)
+the
+B. √[(cosecA - sinA)(secA - cosA)]
+is
+C. √[(cosecA + sinA)(secA - cosA)]
+D. (cosecA - sinA)(secA - cosA)
+Ans. A
+72. Refer the below data table and answer the
+following Question.
+then
+of a
+co-
+of A
+Who has the least weight to height ratio?
+A. Aruna B. Arushi
+C. Arya D. Asha
+Ans. B
+6
+73. Refer the below data table and answer
+following Question.
+Company’s % Profit
+Year वर्ष
+कंपनी का लाभ %
+2011 25
+2012 5
+2013 10
+2014 15
+2015 20
+What was the Revenue of the company
+its Expenditure was Rs. 575 crore in
+year when its % profit was the least?
+A. 632.5 B. 603.75
+C. 661.25 D. 575
+Ans. B
+74. The following table shows the number
+children in each house of a society.
+Number of Children Number of Houses
+बच्चों की संख्या घरों की संख्या
+0 4
+1 13
+2 17
+3 5
+What is the average number of children
+house?
+A. 2.09 B. 1.84
+C. 1.59 D. 1.34
+Ans. C
+75. Refer the below data table and answer
+following Question.
+Partners Present % share
+भागीदार वर्षमान % हिस्सा
+Anand / आनंद 10
+Basu / बासु 5
+Chinmay / चचन्मय 30
+Dhiraj / धीरज 5
+Ejaz / एजाज़ 50
+If the company has issued six lakh
+between its five partners and if
+offers to sell 15,000 of his shares to
+then Dhiraj will have how many shares?
+A. 45000 shares B. 30000 shares
+C. 60000 shares D. 15000 shares
+Ans. A
+76. In the following question, the
+given with blank to be ﬁlled in with
+appropriate word. Select the
+alternative out of the four and indicate
+by selecting the appropriate option.
+the The lawyer tried to __________ his client
+to accept the generous settlement offer.
+A. draw B. seduce
+C. incite D. persuade
+Ans. D
+77. Improve the bracketed part of the
+sentence.
+The stranded pilgrims (had waited) in the
+bitter cold for more than two hours now.
+A. has been waiting
+if
+B. have been waiting
+the
+C. have waited
+D. no improvement
+Ans. B
+78. In the following question, some part of the
+sentence may have errors. Find out which
+of
+part of the sentence has an error and
+select the appropriate option. If a sentence
+is free from error, select 'No Error'.
+I am coming directly(A)/to my
+ofﬁce(B)/from the station.(C)/No error(D)
+A. B B. A
+C. C D. D
+Ans. A
+79. Improve the bracketed part of the
+per
+sentence.
+The exhausted travellers seemed relieved
+when the train ﬁnally (came into) the
+station.
+A. pulled in B. pulled into
+the
+C. pulled onto D. no improvement
+Ans. A
+80. Rearrange the parts of the sentence in
+correct order.
+It is for the government,
+P-especially one with such a
+Q-signiﬁcant majority, to have the
+R-intelligence and leadership to think long
+term
+A. QRP B. PQR
+C. RPQ D. QPR
+Ans. B
+shares
+81. In the following question, out of the four
+Chinmay
+alternatives, select the alternative which
+Dhiraj,
+best expresses the meaning of the
+idiom/phrase.
+to drink like a ﬁsh Options:
+A. a person who spends a lot
+B. a person who keeps cheating for a very
+sentence
+long time without getting noticed
+an
+C. a person who needs to relive himself
+correct
+very frequently
+it
+D. to drink excessive amounts of alcohol
+Ans. D
+7
+82. Rearrange the parts of the sentence
+correct order.
+There is a deeper
+P-ﬁssure here that goes
+Q-from western theory
+R-beyond explanations
+A. PRQ B. PQR
+C. QPR D. RPQ
+Ans. A
+83. Select the synonym of
+to preside
+A. to acquiesce B. to concur
+C. to ofﬁciate D. to accord
+Ans. C
+84. Select the synonym of
+dabble
+A. solemn B. austere
+C. meditative D. dally
+Ans. D
+85. In the following question, a sentence
+been given in Active/Passive voice.
+four alternatives suggested, select the
+which best expresses the same sentence
+Passive/Active voice.
+The owners remodelled the car to
+sell.
+A. The car was remodelled by the
+to help it sell.
+B. The car is being remodelled by
+owners to help it sell.
+C. The car was remodelled by the
+to help it being sold.
+D. The car is being remodelled by
+owners to help it being sold.
+Ans. A
+86. Select the word with the correct spelling.
+A. thresonical B. numeracy
+C. nepotesm D. tolerate
+Ans. B
+87. In the following question, out of the
+alternatives, select the alternative which
+the best substitute of the phrase.
+A person who is lazy and has low standards
+of cleanliness.
+A. hog B. slob
+C. swine D. brute
+Ans. B
+88. Select the antonym of
+therapeutic
+A. ameliorative B. analeptic
+C. salubrious D. inimical
+Ans. D
+in 89. Select the antonym of
+to perpetuate
+A. to eternize B. to canonize
+C. to cease D. to bolster
+Ans. C
+90. In the following question, some part of the
+sentence may have errors. Find out which
+part of the sentence has an error and
+select the appropriate option. If a sentence
+is free from error, select 'No Error'.
+The task of(A)/writing a
+autobiography(B)/is a difﬁcult one.(C)/No
+error(D)
+A. A B. B
+C. C D. D
+Ans. B
+91. In the following question, out of the four
+alternatives, select the alternative which
+best expresses the meaning of the
+idiom/phrase.
+has
+down to the wire
+Out of
+A. removing the bondage that is keeping
+one,
+one down
+in
+B. the last second before the bomb
+explodes
+help it
+C. to denote a situation whose outcome is
+not decided until the very last minute
+owners
+D. ﬁnishing all of one's resources to the
+last penny
+the
+Ans. C
+92. In the following question, a sentence has
+owners
+been given in Direct/Indirect speech. Out
+of the four alternatives suggested, select
+the
+the one, which best express the same
+sentence in Indirect/Direct speech.
+Manoj said, "I must go now."
+A. Manoj said that he must go then.
+B. Manoj said that he must go than.
+C. Manoj said he has to go then.
+D. Manoj said that he should be going
+four
+than.
+is
+Ans. A
+93. In the following question, out of the four
+alternatives, select the alternative which is
+the best substitute of the phrase.
+To exclude from a society or group.
+A. to ostracise B. to deport
+C. to boycott D. to snub
+Ans. A
+94. Select the word with the correct spelling.
+A. glucose B. hermetec
+C. wigling D. derogate
+Ans. A
+8
+95. In the following question, sentence
+with blank is to be ﬁlled in with
+appropriate word. Select the
+alternative out of the four and indicate
+by selecting the appropriate option.
+If immigrants don't learn to speak
+native languages of their new countries,
+they won't be able to _____________
+themselves into society.
+A. conjoin B. interface
+C. integrate D. reconciliate
+Ans. C
+96. In the following passage, some of
+words have been left out. Read
+passage carefully and select the
+answer for the given blank out of the
+alternatives.
+____________ the Troubled Asset
+Program (TARP), the government
+purchased assets of struggling banks
+a view __________ ensuring that they
+not collapse taking ______________
+the rest of the ﬁnancial system.
+assets ___________ later at a proﬁt by
+government! The U.S. government
+acted smartly, while in the Indian case
+banks now ﬁnd themselves ____________
+with loans made by them to an
+with negative net worth.
+the Troubled Asset Relief Program (TARP)
+A. Below B. Down
+C. Lower D. Under
+Ans. D
+97. In the following passage, some of
+words have been left out. Read
+passage carefully and select the
+answer for the given blank out of the
+alternatives.
+____________ the Troubled Asset
+Program (TARP), the government
+purchased assets of struggling banks
+a view __________ ensuring that they
+not collapse taking ______________
+the rest of the ﬁnancial system.
+assets ___________ later at a proﬁt by
+government! The U.S. government
+acted smartly, while in the Indian case
+banks now ﬁnd themselves ____________
+with loans made by them to an
+with negative net worth.
+(TARP), the government had purchased
+assets of struggling banks with a view
+A. to B. of
+C. for D. so
+Ans. A
+98. In the following passage, some of
+words have been left out. Read
+passage carefully and select the
+answer for the given blank out of the
+alternatives.
+____________ the Troubled Asset
+Program (TARP), the government
+given purchased assets of struggling banks with
+an a view __________ ensuring that they did
+correct not collapse taking ______________ them
+it the rest of the ﬁnancial system. These
+assets ___________ later at a proﬁt by the
+the government! The U.S. government had
+acted smartly, while in the Indian case the
+banks now ﬁnd themselves ____________
+with loans made by them to an individual
+with negative net worth.
+they did not collapse taking them the
+rest of the ﬁnancial system.
+the A. from B. all
+the C. along with D. also with
+correct Ans. C
+four 99. In the following passage, some of the
+words have been left out. Read the
+Relief passage carefully and select the correct
+had answer for the given blank out of the four
+with alternatives.
+did ____________ the Troubled Asset Relief
+them Program (TARP), the government had
+These purchased assets of struggling banks with
+the a view __________ ensuring that they did
+had not collapse taking ______________ them
+the the rest of the ﬁnancial system. These
+assets ___________ later at a proﬁt by the
+individual government! The U.S. government had
+acted smartly, while in the Indian case the
+banks now ﬁnd themselves ____________
+with loans made by them to an individual
+with negative net worth.
+These assets later at a proﬁt by the
+the government!
+the A. are disposed of
+correct B. were disposed of
+four C. are disposed off
+D. had been disposed off
+Relief Ans. B
+had 100. In the following passage, some of the
+with words have been left out. Read the
+did passage carefully and select the correct
+them answer for the given blank out of the four
+These alternatives.
+the ____________ the Troubled Asset Relief
+had Program (TARP), the government had
+the purchased assets of struggling banks with
+a view __________ ensuring that they did
+individual not collapse taking ______________ them
+the rest of the ﬁnancial system. These
+assets ___________ later at a proﬁt by the
+government! The U.S. government had
+acted smartly, while in the Indian case the
+banks now ﬁnd themselves ____________
+with loans made by them to an individual
+the with negative net worth.
+the ﬁnd themselves with loans made by them
+correct to an individual with negative net worth.
+four A. saddled B. bafﬂed
+C. puzzled D. caught
+Relief Ans. A
+had
+9

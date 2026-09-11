@@ -1,0 +1,621 @@
+ECONOMICS PYQs — 300 questions, chapter-wise (for part writing)
+==========================================================================================
+
+###### मुद्रा और बैंकिंग — 42 Qs
+[2024-S3|2024_004] Which of the following is issued by commercial banks at a discount on face value?
+    1)Promissory notes | 2)Commercial papers | 3)Treasury bills | 4)Certificates of deposits => ANS(4): Certificates of deposits
+[2024-S4|2024_020] Intervention by the monetary authority of a country in the money market to keep money supply stable against exogenous or sometimes external shocks is called
+    1)sterilisation | 2)conservation | 3)capitalisation | 4)neutralisation => ANS(1): sterilisation
+[2023-S4|2023_035] The measures of money supply, namely, M1, M2, M3 and M4, in this order, indicate: ans
+    1)decreasing order of earning capacity X | 2)increasing order of liquidity >. decreas | 4)decreasing order of store of value => ANS(2): increasing order of liquidity >. decreasing order of liquidi
+[2023-S1|2023_036] Which of the following statements is/are correct regarding liquidity trap? i. It is the point where speculative demand for money is infinitely inelastic and the liquidity preference curve becomes perfectly elastic. ii. Te is the point where speculative demand 
+    2)Only Statement iii is correct X | 3)Only Statement iv is correct X | 4)Only Statements i and ii are correct
+[2023-S1|2023_043] Which of these statements is true? At lower rates of interest, people will have a lower preference for liquidity. x2. At higher rates of interest transactions demand for money will be higher. JA 3. At lower rates of interest, speculative demand for money will 
+[2023-S1|2023_043] Which of the following is an example of capital receipt? X
+    2)Passport Fees X | 3)and Registration Fees X | 4)General donation => ANS: (1)
+[2023-S1|2023_043] is the income of the Government, Which arises out of the property left by the people without a legal heir. *%
+    2)Moot | 3)Felony * 4 Lien => ANS: (1)
+[2023-S1|2023_047] Which of the following is the compelling factor that produced a very high repayment rate of 98% in the concept of Jending to groups of poor women. initiated by Dr Yumus? X
+    2)Removal of the defaulter from the group  | 4)Use of the services of aggressive loan r
+[2023-S2|2023_048] The dividends received by the Government from Public Sector Undertakings (PSUs) are F X
+    2)capital receipts ¥ %. non-tax revenue re | 4)tax revenue receipts => ANS(2): capital receipts ¥ %. non-tax revenue receipts X
+[2023-S2|2023_048] When the rate of interest is at its maximum, which of the following will follow? ~
+    2)The speculative demand for money will be | 3)The speculative demand for money will be => ANS: (4)
+[2023-S4|2023_050] Which of the following is included in the M1 measure of money supply? A) Currency with Public B) Time Deposit with Post Office C) Demand Deposits with Commercial Banks/RBI of Public Financial Institutions ans X
+    1)Both B and C ¥? Both A and C X | 3)OnlyB * 4 OnlyA
+[2023-S4|2023_050] Which of the following is NOT a capital expenditure for the central government? X
+    2)Improvement of fixed assets # %. Salarie | 4)Construction of roads and bridges => ANS(2): Improvement of fixed assets # %. Salaries and old-age pensio
+[2023-S2|2023_052] Match List I with List II and choose your answer from the code below: List I List II i. Service tax a. Capital receipt ii. Interest receipts b. Revenue expenditure iii. Sale ofsharesofPSUs _ c. Non-tax revenue iv. Salaries and pension d. Tax revenue X 2. i-c, 
+    3)i-d, ii-c, ili-a, iv-b
+[2023-S3|2023_053] Which of the following statements is/are correct with respect to the demand for money? i, When the interest rate is high, the demand for money is low. ii. When the interest rate is low, demand for money is also low. iii, When the interest rate is high, demand 
+    1)Only ii and iv 2 Only iand iv | 3)Only ii and iii X | 4)Only iand ii => ANS: (2)
+[2023-S4|2023_058] Identify the correct match. A) Pension to retired government employees - Revenue Receipt B) Purchase of Machinery in Railways — Capital Expenditure ans
+    1)Both A and B X | 2)Only A | 3)Neither A nor B v4 OnlyB => ANS: (4)
+[2023-S2|2023_060] Which of these measures of money supply is referred to as the aggregate monetary resources? *2 Mi * 3. M2 74 MB
+[2023-S4|2023_062] Which of these is a conventional weaker section lending under formal sector? X
+    2)Self help group bank linkage model | 3)Micro finance institutions ¥ 4 Commercia
+[2023-S1|2023_063] Revenue expenditure minus revenue receipts is : X%
+    2)budget deficit X | 3)always negative X | 4)always positive => ANS(4): always positive
+[2023-S2|2023_064] Which of the following components is NOT related to the New India Literacy Programme? X
+    2)Foundational Literacy and Numeracy | 3)Critical Life Skills *% 4 Basic Educatio => ANS: (1)
+[2023-S3|2023_065] The Physical Quality of Life Index does NOT include which of the following indicators? ~
+    2)Gender development index | 3)Infant mortality X | 4)iteracy => ANS(2): Gender development index
+[2023-S4|2023_066] The Physical Quality of Life Index does NOT include which of the following indicators? ~
+    2)Gender development index | 3)Infant mortality X | 4)iteracy => ANS(2): Gender development index
+[2022-S3|2022_070] In which year was the Insurance Regulatory and Development Authority of India set up?
+    1)2002 | 2)1999 | 3)2011 | 4)1995 => ANS(2): 1999
+[2022-S1|2022_076] Which among the following is the oldest stock exchange in India?
+    A)Multi-Commodity Exchange | B)Bombay Stock Exchange | C)National Stock Exchange | D)National Commodity and Derivatives Excha => ANS(B): Bombay Stock Exchange
+[2022-S4|2022_091] The National Payments Corporation of India was set up under the provisions of which Act?
+    1)The SARFAESI Act, 2002 | 2)Payment and Settlement Systems Act, 2007 | 3)Government Securities Act, 2006 | 4)Companies Act, 2013 => ANS(2): Payment and Settlement Systems Act, 2007
+[2022-S2|2022_093] Which Indian financial institution protects investors in a stock market?
+    A)Bombay Stock Exchange | B)Reserve Bank of India | C)Securities and Exchange Board of India | D)National Stock Exchange => ANS(C): Securities and Exchange Board of India
+[2021-S1|2021_097] When the commodity value of money is less than the monetary value of money, it is called _____________.
+    A)fiat money | B)fiduciary money | C)credit money | D)full bodied money => ANS(C): credit money
+[2021-S1|2021_103] Identify the FALSE statement in the context of money supply.
+    A)Total stock of money alone in an economy | B)Commercial banks use primary deposits to
+[2021-S1|2021_103] The money held by the government is not included in the measure of money supply.
+[2021-S2|2021_106] Payment of loan by the government is an example of _____________.
+    A)revenue expenditure | B)revenue receipts | C)capital receipts | D)capital expenditure => ANS(D): capital expenditure
+[2021-S1|2021_109] Who among the following came up with his own style of dance called ‘Hi-dance’, which he later rechristened it and called it 'Creative dance'?
+    A)Uday Shankar | B)Rajendra Shankar | C)Debendra Shankar | D)Ravi Shankar => ANS(A): Uday Shankar
+[2021-S2|2021_112] ___________ demand for money arises mainly due to the uncertainty of future receipts and expenses.
+    A)Transactions | B)Generic | C)Speculative | D)Precautionary => ANS(D): Precautionary
+[2021-S1|2021_113] ______________is the money which is accepted as a medium of exchange because of the trust between the payer and the payee.
+    A)Credit money | B)Fiduciary money | C)Fiat money | D)Full bodied money => ANS(B): Fiduciary money
+[2021-S1|2021_115] Which of the following may be called as fiscal deficit?
+    A)Revenue expenditure − Revenue receipts | B)Capital expenditure - Capital receipts | C)Total expenditure - Total receipts other | D)Revenue expenditure + Capital expenditur => ANS(C): Total expenditure - Total receipts other than borrowings
+[2021|2021_120] Who among the following is the President of FICCI (Federation of Indian Chambers of Commerce and Industry) for the year 2020-21?
+    1)Sangita Reddy | 2)Uday Shankar | 3)Sandip Somany | 4)Rashesh Shah
+[2021-S1|2021_125] Income of the state which arises out of the property left by the people without a legal heir is called ______________.
+    A)escheat | B)writ | C)de novo | D)felony => ANS(A): escheat
+[2018|2018_169] What is the total outlay (in Rs crore) pegged for “Pradhan Mantri Sahaj Bijli is man-made Har Ghar Yojna” by the Indian Gov- ernment?
+    A)15320 | B)16320 | C)17320 | D)18320 => ANS(B): 16320
+[2018|2018_170] In September 2017, “Pradhan Mantri Sahaj Bijli Har Ghar Yojna” was launched for giving electricity connec- tions in rural and urban areas by ______.
+    A)March, 2019 | B)December, 2018 | C)March, 2018 | D)October, 2018 => ANS(B): December, 2018
+[2018|2018_171] Non-Tax revenue can be increased by improving the working of ___________.
+    A)Commercial Irrigation Projects | B)State Road Transport Corporation | C)Electricity Boards | D)No option is correct. => ANS(A): Commercial Irrigation Projects
+[2018|2018_172] 97% of the total debt of all state power distribution companies has been covered till June 2017 under the ‘UDAY’ scheme. What does ‘D’ stand for in ‘UDAY’?
+    A)Debt | B)DISCOM | C)Distribution | D)No option is correct. => ANS(B): DISCOM
+[2018|2018_172] The Government of India has working on the provisions of 2017. What does ‘D’ stand for in
+    A)Destruction | B)Demand | C)Deposit => ANS(C): Deposit
+[2018|2018_172] 97% of the total debt of all distribution companies has till June 2017 under the ‘UDAY’ What does ‘D’ stand for in ‘UDAY’?
+    A)Debt | B)DISCOM | C)Distribution | D)No option is correct. => ANS(B): DISCOM
+[2018|2018_172] The Government of India has working on the provisions of 2017. What does ‘D’ stand for in
+    A)Destruction | B)Demand | C)Deposit => ANS(C): Deposit
+
+###### RBI और मौद्रिक नीति — 39 Qs
+[2024-S3|2024_011] The Central Office of the Reserve Bank of India was initially established in which present city in 1935?
+    1)Delhi | 2)Mumbai | 3)Chennai | 4)Kolkata => ANS(4): Kolkata
+[2024-S2|2024_033] The Reserve Bank of India was fully nationalised and owned by the Government of India in which of the following years?
+    1)1947 | 2)1948 | 3)1949 | 4)1950
+[2023-S2|2023_044] Which measure(s) is the Reserve Bank most likely to take to combat inflation in the economy? A) Increase repo rate B) Inciease money supply ©) Decrease cash reserve ratio ans v1. OnlyA *
+    2)Both B and C X | 3)OnlyB | 4)Both A and C
+[2023-S4|2023_046] The general target of the monetary policy is to ensure : A) price stability in the economy B) greater tax collections for the government C) employment generation in the rural areas ans X
+    1)Both B and C | 2)Only C | 3)Both A and B v4 OnlyA
+[2023-S2|2023_048] In which year did RBI accord approval to Equitas Holdings to launch a small finance bank? ans X
+    1)2019 | 2)2012 ¥° 2016 | 4)2009
+[2023-S4|2023_050] The rate at which the Reserve Bank of India lends to other commercial banks for short term has been reduced, What is this rate called? ans XX
+    1)Cash Reserve Rate X | 2)Reverse Repo Rate | 3)Bank Rate v4 Repo Rate => ANS: (4)
+[2023-S4|2023_054] Which of the following is NOT a monetary policy instrument of RBI? %
+    2)Bank Rate | 3)Open Market Operations | 4)Cash Reserve Ratio => ANS: (1)
+[2023-S1|2023_055] The estimation of poverty line in India is based on the survey conducted by which of the following? ans X
+    1)Ministry of Finance X | 2)Reserve Bank of India (RBI) X | 3)Ministry of Rural Development ~ 4 Nation => ANS(3): Ministry of Rural Development ~ 4 National Statistical Offic
+[2023-S1|2023_059] Which of these MFIs are NOT regulated by the RBI? %
+    2)Bank led MFIs X | 3)NBFC MFIs + Non-profit MFIs => ANS: (1)
+[2023-S2|2023_064] Identify the INCORRECT statement/s concerning SHGs. i, They include voluntary groups of up to 20 socially and economically homogenous people. ii. There is no need to follow the well-defined rules and bye-laws for SHGs. iii, In April 1996, RBI declared SHG-BLP 
+    2)Onlyi X | 3)Only iii v4 Only ii
+[2022-S1|2022_072] ______ came into existence on 12 July 1982 by transferring the agricultural credit functions of RBI and refinance functions of the then Agricultural Refinance and Development Corporation.
+    A)Securities and Exchange Board of India | B)Small Industries Development Bank of Ind | C)Reserve Bank of India | D)National Bank for Agriculture and Rural  => ANS(D): National Bank for Agriculture and Rural Development
+[2022-S3|2022_074] The monetary policy instrument called ‘bank rate’ is aligned to ______.
+    1)Liquidity adjustment facility | 2)Cash Reserve ratio | 3)Discount rate | 4)Marginal standing facility rate => ANS(1): Liquidity adjustment facility
+[2022-S2|2022_077] The commercial banks of India have to maintain a minimum percentage of cash, gold and other securities before lending loans to its customers. This is called the ______.
+    A)Capital Adequacy Ratio | B)Current Account and Savings Account Rati | C)Statutory Liquidity Ratio | D)Cash Reserve Ratio => ANS(C): Statutory Liquidity Ratio
+[2022-S4|2022_087] ______ became the first bank to get Reserve Bank of India's approval for rupee trade.
+    1)SBI Bank | 2)Axis Bank | 3)UCO Bank | 4)ICICI Bank => ANS(2): Axis Bank
+[2022-S4|2022_087] In the XXI phase of sale of electoral bonds can be only purchase from which of the following institution?
+    1)NITI Aayog | 2)RBI | 3)SEBI | 4)SBI
+[2022-S1|2022_088] Which of the following indicates the correct limit of marginal propensity to consume (MPC)?
+    A)0 < MPC < 1 | B)0 < MPC < ∞ | C)-1 < MPC < 1 | D)-1 < MPC < 0 => ANS(A): 0 < MPC < 1
+[2022-S3|2022_090] Which among the following is correct about Reverse Repo Rate?
+    1)Reverse Repo Rate is a state in which th | 2)When bank deposit it's excess money in R | 3)When RBI provides a loan to the bank for | 4)When the money is borrowed or lent for m
+[2022-S4|2022_095] Which of the following statements is correct regarding the bank reserves? I. These reserves are kept partly as cash and partly in the form of financial instruments. II. Cash Reserves Ratio are deposits which commercial banks keep with the Reserve Bank of India
+    1)Only II | 2)Both I and II | 3)Only I | 4)Neither I nor II
+[2022-S4|2022_095] Which of the following combinations of ‘RBI Tool – Monetary instrument’ is correct?
+    1)Qualitative – Moral Suasion | 2)Quantitative – Marginal requirement | 3)Qualitative - Cash Reserve ratio | 4)Qualitative – Open Market Operations
+[2021-S1|2021_099] In India, CRR is fixed by _______________.
+    A)Ministry of Finance | B)Ministry of External Affairs | C)Reserve Bank of India | D)Life Insurance Corporation of India => ANS(C): Reserve Bank of India
+[2021-S2|2021_100] To combat inflation, what is the usual monetary policy stance adopted?
+    A)Hawkish | B)Hicksian | C)Dovish | D)Owlish => ANS(A): Hawkish
+[2021-S2|2021_110] SLR is an important tool used by RBI to control money supply in the economy. The full form of SLR is ____________________.
+    A)Statutory Liquidity Reserve | B)Stipulated Liquidity Reserve | C)Statutory Liquidity Ratio | D)Stipulated Liquidity Ratio => ANS(C): Statutory Liquidity Ratio
+[2020-S1|2020_136] Who among the following formulates the monetary policy in India?
+    1)The Ministry of Statistics and Programme | 2)Finance Commission of India | 3)NITI Aayog | 4)Reserve Bank of India => ANS(4): Reserve Bank of India
+[2020-S2|2020_137] Reserve Bank of India, which acts as a banker to the Central Government, was established on:
+    1)1st April 1945 | 2)1st April 1948 | 3)1st April 1935 | 4)1st April 1950 => ANS(4): 1st April 1950
+[2020-S1|2020_138] Which of the following is NOT a credit rating agency in India?
+    1)CARE | 2)RBI | 3)ICRA | 4)CRISIL => ANS(1): CARE
+[2020-S2|2020_139] Which among the following ﬁnancial institutions was nationalised in 1949?
+    1)PNB | 2)IFCI | 3)SIDBI | 4)RBI
+[2020-S3|2020_140] Which of the following is the apex banking institution of India that regulates the monetary policy?
+    1)State Bank of India | 2)Bank of India | 3)Reserve Bank of India | 4)Axis Bank => ANS(1): State Bank of India
+[2019|2019_150] Financial Literacy Week 2019’ is an ini- tiative by which bank to promote awareness on key topics every year through a focused campaign?
+    A)State Bank of India | B)ICICI Bank | C)Reserve Bank of India | D)Indian Bank => ANS(C): Reserve Bank of India
+[2019|2019_155] In January 2019, which panel was setup by the RBI to suggest measures to strengthen the safety of the digital payments ecosystem in India?
+    A)Sudha Murthy Panel | B)Raghuram Rajan Panel | C)Nandan Nilekani Panel | D)Urjit Patel Panel => ANS(C): Nandan Nilekani Panel
+[2019|2019_157] Which one of the following is defined as Mumps “the proportion of highly liquid assets held Cholera by financial institutions, to ensure their ongoing ability to meet short-term obligations”? the following
+    A)Liquidity Coverage Ratio in the world | B)Base Rate | C)Statutory Liquidity Ratio | D)Cash Reserve Ratio => ANS(A): Liquidity Coverage Ratio in the world
+[2019|2019_158] If (x – 7) 3 + (x – 8) 3 + (x – 8) (x + 6), then x?
+    A)6 | C)10 | D)Reserve bank of India Computer (EDVAC) w => ANS(D): Reserve bank of India Computer (EDVAC) with a memory to hold
+[2019|2019_161] Which of the following is the smallest
+    B)Consumer Price Indices (CPI) neighbourin | C)Bank rates population? | D)Statutory Liquidity Ratio (SLR) | A)Afghanistan => ANS(B): Consumer Price Indices (CPI) neighbouring country of India i
+[2019|2019_162] What is the present Statutory Liquidity Ratio (SLR) announced by the Reserve Adleman Bank of India with effect from 1st January 2019?
+    A)1900 per cent | B)19.50 per cent | C)19.25 per cent | D)19.75 per cent following is waterfall is
+[2018|2018_163] Deficit financing government borrows ___________.
+    A)international | B)Ministry of | C)Reserve Bank | D)World Trade => ANS(C): Reserve Bank
+[2018|2018_165] In July 2017, RBI Capped how much Customer liability if they report unauthorised transactions within seven working days?
+    A)Rs 50,000 | B)Rs 25,000 | C)Rs 1,00,000 | D)Rs 75,000 => ANS(B): Rs 25,000
+[2018|2018_179] Which expert committee has been CANNOT constituted by Reserve Bank of India to look into the issues relating to classiﬁcation of bad loans, effectiveness of audits and rising incidents of frauds?
+    A)Vinay Sheel Oberoi Committee | B)N. Gopalaswami Committee | C)Y. H. Malegam Committee | D)N. Chandrashekhar Committee NOT a => ANS(C): Y. H. Malegam Committee
+[2018|2018_181] In November 2017, RBI simpliﬁed ‘FEMA’ by putting all amendments under one notiﬁcation. What does ‘E’ stand for in ‘FEMA’?
+    A)Enterprise | B)Exchange | C)Evaluate | D)Estate => ANS(B): Exchange
+[2017|2017_184] Which expert committee has been CANNOT constituted by Reserve Bank of India to look into the issues relating to classiﬁcation of bad loans, effectiveness of audits and rising incidents of frauds?
+    A)Vinay Sheel Oberoi Committee | B)N. Gopalaswami Committee | C)Y. H. Malegam Committee | D)N. Chandrashekhar Committee NOT a => ANS(C): Y. H. Malegam Committee
+[2017|2017_186] Birbal was an advisor in the court of? 48. In which year, RBI was nationalized?
+    A)1939 | B)1949 | C)1959 | D)1969 => ANS(B): 1949
+
+###### बाजार — माँग, पूर्ति, लागत — 36 Qs
+[2024-S4|2024_005] In cost theory, the usual shape of the curve is a rectangular hyperbola.
+    1)total cost | 2)average fixed cost | 3)fixed cost | 4)variable cost => ANS(2): average fixed cost
+[2024-S3|2024_011] When was air transport nationalised in India?
+    1)1950 | 2)1952 | 3)1953 | 4)1951
+[2024-S1|2024_013] What happere it cane Of market equilitiriuen: (a) Market demand © market supply (b) There is © excess supply in the market
+    1)Only (f) | 2)Only (w) | 3)Neithew (a) mer ep) | 4)Botl (#) amet ib)
+[2024-S2|2024_018] Rotating Savings and Credit Association (ROSCA) was introduced by Shirley Ardener in the year .
+    1)1963 | 2)1964 | 3)1955 | 4)1970
+[2024-S1|2024_021] Which of the following is/are an example of public goods? a) Defense b) House
+    1)Onlyb | 2)Neither a nor b | 3)Botha and b | 4)Only a => ANS(2): Neither a nor b
+[2024-S2|2024_022] Competitive behaviour and competitive market structure are related.
+    1)inversely | 2)directly | 3)not | 4)proportionately => ANS(1): inversely
+[2024-S3|2024_023] What is the impact of proportional taxes?
+    1)Increases the autonomous expenditure mul | 2)Increases the induced expenditure multip | 3)Reduces the autonomous expenditure multi | 4)Increases the marginal propensity to con => ANS(3): Reduces the autonomous expenditure multiplier
+[2024-S2|2024_025] In which year was Micro Units Development and Refinance Agency (MUDRA) introduced?
+    1)2015 | 2)2009 | 3)2013 | 4)2017 => ANS(1): 2015
+[2024-S1|2024_028] The financial year in India starts from 1° April and ends on .
+    1)315‘ July | 2)30!" June | 3)315 May | 4)315! March => ANS(3): 315 May
+[2024-S2|2024_029] Mohammad Yunus established which of the following banks in 1983?
+    1)Union Bank | 2)Grameen Bank | 3)Indian Bank | 4)State Bank => ANS(2): Grameen Bank
+[2024-S1|2024_032] Who is the founder of modern micro finance ?
+    1)Rangarajan | 2)VKV Rao | 3)YV Reddy | 4)Muhammad Yunus => ANS(1): Rangarajan
+[2023-S1|2023_036] Which of the following is NOT a common product offered by microfinance institutions in India? %
+    2)Personal loans X | 3)Insurance products X | 4)Savings accounts => ANS: (1)
+[2023-S2|2023_037] Which of the following is an INCORRECT statement concerning public goods? JH
+    2)Consumption of public goods by people is | 4)Public goods are non-excludable in natur => ANS(4): Public goods are non-excludable in nature.
+[2023-S1|2023_047] Proportional taxes would help to reduce the autonomous expenditure multiplier because : X%
+    2)MPC does not have any role in it X | 3)taxes and MPC become equal ~¥ * taxes re => ANS(3): taxes and MPC become equal ~¥ * taxes reduce the MPC
+[2023-S2|2023_048] Choose the correct option in the contest of given sentences. Assertion: Self-help groups (SHGs) have emerged as an effective model for microfinance in India. Reason: SHGs are able to pool resources and negotiate better loan terms with microfinance institutions
+    2)Both assertion and reason are false. x3. | 4)The assertion is true, but the reason is => ANS: (1)
+[2023-S3|2023_053] Which state is the largest in terms of the outstanding portfolio of microfinance loans, as per the MFIN Micrometer Q4 FY21-227 *
+    2)Uttar Pradesh | 3)Maharashtra ¥* Tamil Nadu => ANS(2): Uttar Pradesh
+[2023-S3|2023_057] Under the current regulatory framework. what is the maximum tenure of a microfinance loan in India? %
+    2)12 months | 3)18 months ¥ * 36 months
+[2023-S1|2023_059] Who was awarded the Nobel Peace Prize for founding the Grameen Bank and pioneering the concepts of microcredit and microfinance? ans X
+    1)Muhammad Yusuf ~ ? Muhammad Yunus | 3)Muhammad Wasim * 4 Muhammad Asif
+[2023-S1|2023_063] Which of these is NOT one of the rationales behind microfinance? Many innovative institutional mechanisms have developed across the world to enhance credit to the poor even in the absence of formal mortgages.
+    2)More than access to credit poor need sub => ANS(2): More than access to credit poor need subsidies
+[2023-S2|2023_064] Use of more labour and capital inputs on the given land under cultivation is referred to as ¥
+    2)intensive cultivation | 3)hybrid cultivation X | 4)capitalist cultivation => ANS: (1)
+[2022-S1|2022_068] Which Union Ministry is related to Prime Minister’s Employment Generation Programme (PMEGP)?
+    A)Ministry of Micro, Small and Medium Ente | B)Ministry of Commerce and Industry | C)Ministry of Labour and Employment | D)Ministry of Corporate Affairs => ANS(A): Ministry of Micro, Small and Medium Enterprises
+[2022-S2|2022_069] Which among the following is the correct way to express change of inventories of a firm during a year?
+    A)Change of inventories of a firm during a | B)Change of inventories of a firm during a | C)Change of inventories of a firm during a | D)Change of inventories of a firm during a => ANS(D): Change of inventories of a firm during a year (value added +
+[2022-S4|2022_075] ______ is a legal declaration of a person who is unable to pay off debts.
+    1)Bankruptcy | 2)Credit Crunch | 3)Amortisation | 4)Bancassurance => ANS(1): Bankruptcy
+[2022-S4|2022_079] The One Stop Centre Scheme for women is funded by which of the following?
+    1)Cash Suvidha | 2)Saha Fund | 3)Nirbhaya Fund | 4)Rug Beneath My Feet
+[2022-S1|2022_080] If ex ante aggregate demand and ex ante aggregate supply are plotted together in a graphical diagram, then at which point equilibrium will be reached?
+    A)Where ex ante aggregate demand is equal  | B)Where ex ante aggregate demand is zero | C)Where ex ante aggregate demand is less t | D)Where ex ante aggregate demand is more t => ANS(A): Where ex ante aggregate demand is equal to ex ante aggregate
+[2022-S3|2022_082] The production function can be expressed as _____. (where L is labour and C is capital and Q is the maximum output that can be produced)
+    1)Q = f (C) | 2)L = f (Q,C) | 3)Q = f (L) | 4)Q = f (L,C) => ANS(2): L = f (Q,C)
+[2022-S4|2022_083] Which of the following is correct regarding the Private Income?
+    1)Private Income = Factor income from net  | 2)Private Income = Factor income from net  | 3)Private Income = Factor income from net  | 4)Private Income = Factor income from net  => ANS(1): Private Income = Factor income from net domestic product acc
+[2022-S4|2022_083] Which of the following statements is correct regarding the features of a perfectly competitive market? I. The market consists of a large number of buyers and sellers. II. Information is perfect.
+    1)Only I | 2)Neither I nor II | 3)Both I and II | 4)Only II => ANS(1): Only I
+[2022-S2|2022_085] Which of the following combinations of tenors of Treasury bills issued by Government of India is correct?
+    1)82 days, 182 days, 345 days | 2)91 days, 182 days, 364 days | 3)61 days, 145 days, 360 days | 4)91 days, 152 days, 356 days => ANS(2): 91 days, 182 days, 364 days
+[2022-S4|2022_087] In which of the following ways, aggregate demand function is related to consumption function? I. They have the same slope C. II. The aggregate demand function is parallel to the consumption function.
+    1)Neither I nor II | 2)Only II | 3)Only I | 4)Both I and II => ANS(3): Only I
+[2021-S2|2021_104] Which of the following has been designated as the self-regulatory origination for Micro finance institutions in India?
+    A)Jan-Dhan | B)Sab-Dhan | C)Dhan | D)Sa-Dhan => ANS(D): Sa-Dhan
+[2021-S1|2021_109] The first regional rural bank set up in India was __________.
+    A)Grameen Bank | B)Aarohan Bank | C)Prathama Grameen Bank | D)Vikas Bank => ANS(C): Prathama Grameen Bank
+[2021-S2|2021_126] Microfinance Institutions Network (MFIN) and Sa-Dhan along with FIDC (Finance Industry Development Council) have jointly launched the _______________ for the micro credit industry in the year 2019.
+    A)Industry Codes and Principles | B)Code for Responsible Lending | C)Micro Finance Code | D)Code for Micro Lending => ANS(B): Code for Responsible Lending
+[2019|2019_150] Who among the following was elected to the board of the International Air Transport Association (IATA) in June 2019?
+    A)Rahul Bhatia | B)Ajay Singh | C)Naresh Goyal | D)Bhaskar Bhat => ANS(B): Ajay Singh
+[2017|2017_185] Goods whose demand is proportional to price are called
+    A)inferior goods | B)Veblen goods | C)normal goods | D)exclusive goods => ANS(B): Veblen goods
+[2017|2017_193] For each perfectly competitive firm in the long run
+    A)Price=marginal costs=average variable co | B)Price=average profit | C)Price=marginal costs=minimum average tot | D)Price=minimum average variable costs => ANS(C): Price=marginal costs=minimum average total costs
+
+###### राष्ट्रीय आय — 32 Qs
+[2024-S4|2024_001] ___sat Market Price refers to the sum total of factor incomes earned by residents of a country during an accounting year including net indirect taxes.
+    1)Net Domestic Product (NDP) | 2)Gross National Product (GNP) | 3)Net National Product (NNP) | 4)Gross Domestic Product (GDP) => ANS(3): Net National Product (NNP)
+[2024-S4|2024_009] National income at constant prices means:
+    1)income estimated at base year prices | 2)income estimated at any year prices | 3)income estimated for next year prices | 4)income estimated at current year prices => ANS(1): income estimated at base year prices
+[2024-S1|2024_010] The relationship between which of the following is correct?
+    1)GDP at market price = price + quantity o | 2)Domestic income = NDP at market price +  | 3)National income = NDP at factor cost + n | 4)NDP at market price = GDP at market pric => ANS(2): Domestic income = NDP at market price + net indirect taxes
+[2023-S4|2023_039] NDP at FC plus net factor income from abroad is equal to . ans
+    1)NNP at MP ~¥ 2 NNP at FC | 3)GDP at FC | 4)GNP at MP => ANS(3): GDP at FC
+[2023-S4|2023_042] Which of the following is the correct sequence of national income from broader to narrower concepts? GNP at market prices — NNP at market prices — GNP at factor cost — NNP at factor cost x2 Personal disposable income — Personal income — GNP at market prices — 
+    1)Manipur | 2)Sikkim | 3)Meghalaya *4 Kerala => ANS: (4)
+[2023-S4|2023_042] Which of these is NOT the correctly stated component of the expenditure method of measuring national income? X 2. Final government expenditure
+    3)Export plus import expenditure => ANS: (4)
+[2023-S3|2023_045] While using the income method to compute national income, which of the following is NOT to be included? A) Income from lottery B) Brokerage on sale and purchase of shares C) Income from illegal activities like ambling ans x1. A,BandC *2 BandC *3 AandB v* AandC
+[2023-S1|2023_047] In the estimation of national income, which of the following items will be subtracted from NNP at market price? X
+    2)Net product taxes and net production tax | 3)Net indirect taxes X | 4)Depreciation and net product taxes => ANS: (1)
+[2023-S2|2023_052] GNP at MP less gives us GDP at MP. %
+    2)indirect taxes | 3)net factor income from abroad | 4)subsidies
+[2023-S2|2023_052] Which of the following is the INCORRECT sequence of national income from broader to narrower concepts? GNP at market prices — NNP at factor cost — NNP at market prices — GNP at factor cost K2 GNP at market prices — NNP at market prices — NNP at factor cost — P
+[2023-S2|2023_056] Match the following items with respect to money. ListI List i. Primary functions a. Distribution of national income ii. Secondary functions b. Measure of value iii. Evils of money c. Store of value iv. Contingent functions d. Instability of value ans X
+    1)i-d, ii-c, iii-a, iv-b X | 2)i-a, ii-d, iii-b, iv-c X | 3)i-c, ii-b, iii-a, iv-d 4 i-b, ii-c, tii-
+[2023-S2|2023_056] During a boom, the deficit of the government will reduce automatically due to . %
+    2)Increase in GDP | 3)decrease in tax revenue | 4)decrease in GDP
+[2023-S4|2023_058] What is the nominal GDP if the real GDP is 500 and price index is 150? ans X
+    1)650 | 2)450 | 3)750 * 4 350 => ANS(1): 650
+[2023-S1|2023_059] Exports of mangoes by india is a part of method of measurement of its national income. %
+    2)alue added ~ ® expenditure | 4)income
+[2023-S3|2023_061] Which of the following aggregates best describes the National Income? ans X
+    1)GDP at MP 72. NNP at FC | 3)NDP at MP | 4)GNP at FC => ANS: (2)
+[2023-S4|2023_062] While computing Net Economic Welfare (NEW). which of the following items is subtracted from GNP? v2 Adjustments for congestion of urban life X%
+    3)Do-it-yourself activities X | 4)The underground economy
+[2023-S1|2023_063] Which of the following statement(s) is/are FALSE? A) The impact of externality is always positive. B) Real national income means national income at constant prices ans X
+    1)OnlyB v2 OnlyA | 3)Neither A nor B | 4)Both A and B => ANS: (2)
+[2022-S3|2022_086] ______ is calculated by dividing the nominal GDP in a given year by the real GDP for the same year and multiplying it by 100.
+    1)Disposable Income | 2)GDP Deflator | 3)Real Income | 4)Per Capita Income => ANS(2): GDP Deflator
+[2021-S1|2021_101] What is the domestic income if national income is ₹10,000 crore and net factor income from abroad is ₹2,000 crore?
+    A)₹5,000 crore | B)₹10,000 crore | C)₹12,000 crore | D)₹8,000 crore => ANS(D): ₹8,000 crore
+[2021-S2|2021_102] Which method of calculating the national income is also known as ‘Industrial Origin Method’?
+    A)Expenditure Method | B)Income Method | C)Value Added Method | D)Monetary Measures Method => ANS(C): Value Added Method
+[2021-S1|2021_107] NDP at FC = GDP at FC minus ______
+    A)depreciation | B)indirect taxes | C)net factor income from abroad | D)subsidies => ANS(A): depreciation
+[2021-S2|2021_108] Which of the following angles of the flow of factor payments forms the basis to estimate the national income?
+    A)Consumption angle | B)Expenditure angle | C)Income distribution angle | D)Production angle => ANS(C): Income distribution angle
+[2021-S2|2021_116] Usually, which year of a series of years in an economic index is called the base year?
+    A)First year | B)Last year | C)Twentieth year | D)Tenth year => ANS(A): First year
+[2021-S2|2021_122] Which of the following is an objective of the Government Budget? (A) GDP growth (B) Reallocation of resources (C) Balanced regional growth
+    A)A and B | B)A and C | C)A, B and C | D)Only A => ANS(C): A, B and C
+[2021-S1|2021_123] Which of the following is NOT included in the value added method of calculating national income?
+    A)Value of final goods and services produc | B)Net factor income from abroad | C)All value of producing enterprises in pr | D)Value of second-hand goods => ANS(D): Value of second-hand goods
+[2020-S1|2020_133] Which of the following best deﬁnes Net National Income?
+    1)GNP + Depreciation | 2)GNP – Depreciation | 3)GDP – Depreciation | 4)NDP – Depreciation => ANS(2): GNP – Depreciation
+[2020-S2|2020_134] Who among the following is responsible for preparation of National Income estimates in India?
+    1)Finance Commission | 2)Central Statistical Organization | 3)IRDA | 4)NITI Aayog => ANS(1): Finance Commission
+[2018|2018_166] India was able to achieve the fiscal deficit target for the Financial Year 2016-17. was how much percent of GDP?
+    A)3.50% | B)4.20% | C)3.00% | D)2.50% => ANS(A): 3.50%
+[2018|2018_167] In May 2017, the Base year of All India Index of Industrial Production (IIP) has been revised to ______.
+    A)2011-12 | B)2015-16 | C)2016-17 | D)2012-13 => ANS(A): 2011-12
+[2018|2018_169] What was the Gross Domestic Product (GDP) for India in 2016-17 Financial Year?
+    A)6.10% | B)7.10% | C)8.10% | D)6.70% Commission Ans: B
+[2018|2018_174] What was the debt-to-GDP ratio for the Financial Year 2016-17?
+    A)60.40% | B)49.40% | C)50.40% | D)55.40% => ANS(B): 49.40%
+[2018|2018_175] India was able to achieve the fiscal can be beaten deficit target for the Financial Year sheets? 2016-17. It was how much percent of GDP?
+    A)3.50% | B)4.20% | C)3.00% | D)2.50% is de-facto Ans. A the following 1 => ANS(A): 3.50%
+
+###### नियोजन — 26 Qs
+[2024-S1|2024_002] Which of the following statements are true? i. The First Five-Year Plan was based on the PC Mahalanobis model. ii. The First Five-Year Plan laid emphasis on agriculture development. iii. The Five-Year planning model in India was borrowed from Russia.
+    1)i, ii and iii | 2)Only i and iii | 4)Only iand i
+[2024-S3|2024_008] Which of the following years were considered plan holidays in Independent India?
+    1)1964-1967 | 2)1990-1992 | 3)1969-1972 | 4)1966-1969 => ANS(4): 1966-1969
+[2024-S1|2024_010] Which of the following options is INCORRECT?
+    1)The Planning Commission of India was set | 2)Distinguished economists from India and  | 3)India borrowed the idea of five-year pla | 4)The chairmanship of the Planning Commiss => ANS(2): Distinguished economists from India and abroad were invited 
+[2024-S2|2024_018] Match the items in List I with those in List II. List I List I i. Garibi Hatao a. Fifth Five-Year Plan ii. LPG policies b. Ninth Five-Year Plan iii, Rolling Plan c. 1978-80 iv, Growth with justice and equity —d. Eighth Five-Year Plan
+    1)i-c, ii-d, iii-a, iv-b | 2)i-a, ii-d, ili-c, iv-b | 3)i-b, icc, iii-d, iv-a | 4)i-c, ii-b, iii-d, iv-a => ANS(2): i-a, ii-d, ili-c, iv-b
+[2024-S4|2024_024] The 10 Five-Year Plan aimed at reducing poverty by:
+    1)5% | 2)8% | 3)9% | 4)2% => ANS(1): 5%
+[2024-S1|2024_028] The five-year plans for India with their duration are given below. Which of the following is correctly matched? | (c) | Fourth five-year plan _| 1970-71 1966-67 to
+    1)Bothaandc | 2)Both aandb | 3)Both b andc | 4)Onlya => ANS(2): Both aandb
+[2024-S2|2024_029] Which of the following statements is correct about the Five-Year Plan?
+    1)All Five-Year Plans have equal rates of  | 2)The Planning Commission was constituted  | 3)The President was the ex-officio chairpe | 4)The first Five-Year Plan was started in  => ANS(1): All Five-Year Plans have equal rates of growth.
+[2023-S2|2023_037] Which of these was NOT one of the reasons for the break in the five year plans after three consequent five year plans were formulated? X
+    2)Devaluation of domestic currency ¥® Gulf | 4)Two successive years of drought
+[2023-S4|2023_042] Which period in India is described as Plan Holiday? ans %
+    1)1990 to 1993 v¥ % 1966 to 1969 | 3)1956 to 1960 | 4)1947 to 1950 => ANS: (2)
+[2023-S2|2023_044] Which five year plan in India is referred to as the Mahalanobis Plan? ~ 2 2nd Five Year Plan %
+    3)Ist Five Year Plan | 4)3rd Five Year Plan => ANS: (2)
+[2023-S4|2023_046] Which of these is NOT among the reforms related to agriculture undertaken under the five year plans? X
+    2)Introduction of theLand Ceiling Act X | 3)aunch of the high yielding variety seed 
+[2023-S2|2023_048] ° The global financial crises overlapped which five year plan in India? %
+    2)Tenth Five Year Plan | 3)Twelfth Five Year Plan ¥* Eleventh Five  => ANS(3): Twelfth Five Year Plan ¥* Eleventh Five Year Plan
+[2023-S3|2023_053] Indicative planning was adopted in India during the Five-Year Plan. ans X
+    1)Sixth | 2)Fifth ¥ | 3)Eighth 4 Fourth => ANS(1): Sixth
+[2023-S1|2023_055] The era of five year plans began in India with the establishment of . X
+    2)The Parliament X | 3)The Finance Commission Jf | 4)The Planning Commission => ANS(4): The Planning Commission
+[2022-S1|2022_068] Considering the five-year plans of India, which of the following is correct matched? I. Rolling Plan - Introduced before Sixth Five-Year Plan II. Mahalanobis Plan - Second Five-Year Plan
+    A)Only I | B)Both I and II | C)Only II | D)Neither I nor II => ANS(B): Both I and II
+[2022-S1|2022_072] The second five-year plan of India focused on ______.
+    A)rapid industrialization | B)foreign direct investment | C)balance of payment | D)family Planning Programmes => ANS(A): rapid industrialization
+[2022-S3|2022_086] Which of the following is NOT one of the objectives of the NITI Aayog?
+    1)To develop mechanisms to formulate credi | 2)To design and print new currency notes a | 3)To pay special attention to the sections | 4)To evolve a shared vision of national de => ANS(2): To design and print new currency notes and to bring them in 
+[2022-S2|2022_089] The Planning Commission of India was replaced by NITI Aayog in ______.
+    A)2016 | B)2015 | C)2018 | D)2017 => ANS(B): 2015
+[2022-S1|2022_092] The Planning Commission of India was replaced by NITI Aayog in ______.
+    A)2016 | B)2015 | C)2018 | D)2017 => ANS(B): 2015
+[2022-S3|2022_094] Which five-year plan was based on the ideas of Mahalanobis?
+    1)Fourth five-year plan | 2)Third five-year plan | 3)First five-year plan | 4)Second five-year plan
+[2020-S2|2020_131] How many agro-climatic zones (ACZ) are characterised by the Planning Commission of India?
+    1)20 | 2)10 | 3)15 | 4)30
+[2020-S2|2020_137] The ﬁrst Five-Year Plan’s main emphasis was to improve the condition of agriculture in India. The plan began in the year:
+    1)1953 | 2)1949 | 3)1952 | 4)1951
+[2020-S1|2020_141] The period of second five year plan in India was:
+    1)1956-61 | 2)1951-56 | 3)1969-74 | 4)1961-66 => ANS(1): 1956-61
+[2018|2018_166] Prime Minister of India is de-facto head of which of the following bodies? from I. NITI Aayog is II. National Integration Council III. Indian Board of Wildlife
+    A)Only I | B)Only II | C)Both II and III | D)All I, II and III => ANS(D): All I, II and III
+[2018|2018_175] prime Minister of India head of which of bodies? I. NITI Aayog II. National Integration III. Indian Board of Wildlife
+    A)Only I | B)Only II | C)Both II and III | D)All I,II and III => ANS(D): All I,II and III
+[2018|2018_180] Which of the following Five Year Plan had the focus on ‘food, work & productivity’?
+    A)Sixth Five Year Plan | B)Second Five Year Plan | C)Seventh Five Year Plan | D)Fifth Five Year Plan => ANS(C): Seventh Five Year Plan
+
+###### बाजार और व्यापार — 26 Qs
+[2024-S4|2024_009] Whirl at the following states ieuce FALSE aber the Speck Beovemie Zones (KEZs) of India® & One of the main objectives of the Zones Act was promotion of exports of goods and services U. The Gowcrumest of trie samouncerd the Specul Ecomemic Zomes (SEZs) Policy t
+    1)Only ii | 2)Only ii and iii | 3)Only i and ii | 4)Only iii => ANS(1): Only ii
+[2024-S3|2024_011] During 2018, in sector, Government of India had allowed about 49% of FDI.
+    2)manufacture of medical devices | 3)education | 4)food products
+[2024-S3|2024_011] Which of the following exchange rates is determined by the market forces of demand and supply?
+    1)Floating exchange rate | 2)Fixed exchange rate | 3)Soft pegged exchange rate | 4)Hard pegged exchange rate => ANS(1): Floating exchange rate
+[2024-S3|2024_015] What is the use of Net National Product (NNP)?
+    1)To calculate per capita income | 2)To calculate balance of payments | 3)To calculate imports | 4)To calculate exports => ANS(1): To calculate per capita income
+[2024-S3|2024_030] As compared to monopolistic competition, the demand curve in a monopoly is:
+    1)equally elastic | 2)less elastic | 3)infinitely elastic | 4)more elastic
+[2023-S1|2023_051] Which of the following is the main advantage of the import substitution policy? It may make the indigenous industries more competitive. x2. It will help the consumers by providing them with unlimited choices. >. Ithelps the nation achieve self-reliance. X 4. I
+[2022-S2|2022_069] Which of the following statements is correct regarding the marginal utility of a commodity? I. It is the change in total utility due to consumption of one additional unit of a commodity. II. It diminishes with increase in consumption of the commodity.
+    A)Both I and II | B)Only II | C)Only I | D)Neither I nor II => ANS(A): Both I and II
+[2022-S4|2022_071] Law of Demand states that, there is a negative relationship between ______.
+    1)demand for a commodity and its supply | 2)demand for a commodity and its price | 3)tax on a commodity and its price | 4)supply of a commodity and its price => ANS(1): demand for a commodity and its supply
+[2022-S3|2022_074] The simultaneous shifts of both the demand curve and the supply curve can happen in which of the following ways? I. Supply curve shifts leftward and demand curve shifts rightward. II. Both supply and demand curves shift leftwards. III. Supply curve shifts righ
+    1)Only I | 2)II and III | 3)I and II | 4)I, II and III
+[2022-S1|2022_076] Which of the following statements is correct regarding the demand curve? I. It is a graphical representation of the demand function. II. It gives the quantity demanded by the consumer at each price.
+    A)Neither I nor II | B)Both I and II | C)Only II | D)Only I => ANS(B): Both I and II
+[2022-S1|2022_080] Law of Demand states that, there is a negative relationship between ______.
+    A)demand for a commodity and its supply | B)supply of a commodity and its price | C)tax on a commodity and its price | D)demand for a commodity and its price => ANS(D): demand for a commodity and its price
+[2022-S2|2022_081] If the price elasticity of demand is less than one, then the demand for the goods is said to be ______.
+    A)Perfectly inelastic | B)Inelastic | C)Perfectly elastic | D)Unitary-elastic => ANS(B): Inelastic
+[2022-S1|2022_088] According to the law of demand, the consumer’s demand for a good must be ______.
+    A)directly related to the supply of the go | B)inversely related to the price of the go | C)directly related to the price of the goo | D)inversely related to the supply of the g => ANS(B): inversely related to the price of the good
+[2020-S3|2020_129] The 'transformation curve' is also known as the:
+    1)demand curve | 2)supply curve | 3)production possibility curve | 4)indifference curve
+[2020-S3|2020_129] ______ refers to money that has already been spent and which cannot be recovered.
+    1)Imputed cost | 2)Sunk cost | 3)Opportunity cost | 4)Replacement cost
+[2019|2019_154] A market structure which is dominated by only a small number of firms is called:
+    A)Perfect Competition | B)Monopoly | C)Oligopoly | D)Monopolistic Competition => ANS(C): Oligopoly
+[2019|2019_159] The given bar and Exports manufactured financial years, What is the during the five
+    A)1229.5 | C)1229.2 => ANS(C): 1229.2
+[2018|2018_168] In December 2017, Mid-Term Review of the Foreign Trade Policy (FTP) was released. The review announced how much percent increase each in incen- tive rates of Merchandise Exports from India Scheme and Services Export from India Scheme?
+    A)5% | B)10% | C)2% | D)15% => ANS(C): 2%
+[2018|2018_172] In which one of the following places was Asia’s first Export Processing Zone (EPZ) set up?
+    A)Santa Cruz | B)Kandla | C)Cochin | D)Surat answer the Ans. B
+[2017|2017_182] If demand curve for camping tents is D  100000  17P and supply curve is S  50000  8P ﬁnd the equilibrium Price?
+    A)Rs. 1000 | B)Rs. 2000 | C)Rs. 4000 | D)Rs. 500 => ANS(B): Rs. 2000
+[2017|2017_185] If demand curve for house cleaning services is D = 45000 - 21P and supply curve is S = 15000 + 9P, ﬁnd the equilibrium Quantity?
+    A)12000 units | B)6000 units | C)24000 units | D)30000 units => ANS(C): 24000 units
+[2017|2017_186] If demand curve for alphonso mangoes is D = 25000 - 70P and supply curve is S = 10000 + 80P, find the equilibrium quantity?
+    A)18,000 units | B)2,000 units | C)1,800 units | D)200 units => ANS(A): 18,000 units
+[2017|2017_187] Match the characteristics with their market structure: (a) A single, homogeneous product with no close substitutes (b) Few sellers with interdependent pricing and quantity decision
+    A)(a) Pure Competition, (b) Monopolistic C | B)(a) Pure Monopoly, (b) Monopolistic Comp | C)(a) Oligopoly (b) Pure Competition | D)(a) Pure Monopoly, (b) Oligopoly => ANS(D): (a) Pure Monopoly, (b) Oligopoly
+[2017|2017_189] If demand curve for roller skates is D  23000  19P and supply curve is S  18000  6P, ﬁnd the equilibrium Price?
+    A)Rs 100 | B)Rs 400 | C)Rs 50 | D)Rs 200 => ANS(D): Rs 200
+[2017|2017_189] Match the characteristics with their market structure: (a) Expand out put until MC = MR Pradesh (b) Elasticity of demand depends on pricing policies of rivals
+    A)(a) Pure competition, (b) Pure Monopoly  | B)(a) Pure Monopoly, (b) Monopolistic comp | C)(a) Pure competition, (b) Oligopoly | D)(a) Monopolistic competition, (b) Oligop => ANS(D): (a) Monopolistic competition, (b) Oligopoly
+[2017|2017_192] An increases in price will....................
+    A)increase consumer surplus | B)decreases consumer surplus | C)have no affect on consumer surplus | D)decreases producer surplus => ANS(B): decreases consumer surplus
+
+###### बजट और कर — 22 Qs
+[2024-S3|2024_008] is defined as excess of total expenditure over total receipts excluding borrowings during a fiscal year.
+    1)Income deficit | 2)Fiscal deficit | 3)Structural deficit | 4)Gross Primary deficit => ANS(2): Fiscal deficit
+[2024-S3|2024_026] What is a revenue deficit in the government budget?
+    1)The excess of expenditure over revenue,  | 2)The excess of revenue over expenditure,  | 3)The excess of revenue over expenditure,  | 4)The excess of expenditure over revenue,  => ANS(4): The excess of expenditure over revenue, including interest p
+[2024-S4|2024_027] Which of the following measures can be adopted by the government to reduce revenue deficit?
+    1)Offering freebies | 2)Increasing subsidies | 3)Tax reforms | 4)Increasing money supply => ANS(3): Tax reforms
+[2024-S2|2024_033] What is the main objective of Fiscal Responsibility and Budget Management Act (FRBMA), 2003?
+    1)To reduce fiscal deficit | 2)To reduce subsidies | 3)To increase excise duty | 4)To increase exports => ANS(1): To reduce fiscal deficit
+[2023-S4|2023_035] What is the change in fiscal deficit if both the primary deficit and interest payments are doubled? X
+    2)Increase by 200% X | 3)Decrease by 50% X | 4)Decrease by 100
+[2023-S2|2023_044] The stabilisation function of the government budget mainly includes .
+    2)intervention to expand or reduce the dem
+[2023-S3|2023_045] The Fiscal policy achieves the macroeconomic goals by using which of the following instruments? ans |. Taxes *%
+    2)SLR | 3)CRR | 4)Bank rate
+[2023-S4|2023_046] _Inwhich year did the Government of India bring FRBM (Fiscal Responsibility and Budget Management) Act into effect? ans X
+    1)2015-16 % 2 2012-13 ¥ | 3)2004-05 * 4 2008-09
+[2023-S4|2023_046] Which of the following items is NOT a part of the non-plan revenue expenditure of the government budget? %
+    2)Subsidies | 3)Defence services ~ * Central assistance  => ANS(2): Subsidies
+[2023-S3|2023_057] What is the basic difference in the aggregates at market price and factor cost? ans X
+    1)Depreciation | 2)Indirect taxes ¥ >. Net indirect taxes | 4)Direct taxes => ANS(1): Depreciation
+[2023-S3|2023_061] Which of the following sentences is INCORRECT with regard to government budget? Government budget is a constitutional requirement in India. xK2 Itis a statement of estimated receipts and expenditures of the government for the financial year. X 3. It comprises 
+[2023-S2|2023_064] Which of the following is an example of direct tax? ~
+    2)Income Tax X | 3)Custom Duty | 4)Goods and Services Tax => ANS(2): Income Tax X
+[2022-S4|2022_067] Which of the following statements is correct regarding the direct taxes? I. Levied on taxable income earned by individuals and corporate entities. II. Gift tax is a type of direct tax.
+    1)Only I | 2)Neither I nor II | 3)Both I and II | 4)Only II => ANS(1): Only I
+[2022-S2|2022_073] The collection of all bundles that the consumer can buy with her income at the prevailing market prices is called the ______.
+    1)Budget set | 2)Budget constraint | 3)Budget anomaly | 4)Budget line => ANS(1): Budget set
+[2020-S2|2020_143] On 7th January 2020, who among the following was the Chairman of the second National GST Conference and Central and State Commissioners that was held to streamline the Goods and Services Tax?
+    1)Anurag Thakur | 2)Amit Shah | 3)Ajay Bhushan Pandey | 4)Nirmala Sitharaman => ANS(4): Nirmala Sitharaman
+[2019|2019_148] What is the full form of GSTIN in rela- tion of GST?
+    A)Goods and Services Tax Identifica- tion  | B)Goods and Services Tax Identifica- tion  | C)Goods and Service Tax Information Number | D)Goods and Services Taxation In- come Num => ANS(B): Goods and Services Tax Identifica- tion Number
+[2018|2018_170] In India, how much percent the fiscal deficit target for the Year 2017-18?
+    A)4.20% | B)3.20% | C)2.20% | D)4.00% => ANS(B): 3.20%
+[2018|2018_172] First time which year the Railway Budget and the General Budget were presented separately?
+    A)1923 | B)1947 | C)1952 | D)1977 => ANS(A): 1923
+[2018|2018_172] First time which year the and the General Budget were separately?
+    A)1923 | B)1947 | C)1952 | D)1977 => ANS(A): 1923
+[2018|2018_177] Who was the Finance Minister India during the New Economic (1991)?
+    A)Manmohan Singh | B)Uma Kapila | C)Pranab Mukherjee | D)Jaswant Singh => ANS(A): Manmohan Singh
+[2018|2018_180] Who authored the book titled ‘Lincoln in 492. The Central Government has launched the Bardo’, which won the Man Booker which of the following app to verify the Prize 2017? GST (Goods and Services Tax) Rates under
+    A)George Saunders the GST regime? | B)Eliza Robertson | C)John Grisham | D)Stephen Alter => ANS(A): George Saunders the GST regime?
+[2017|2017_185] Manohar Parrikar is India's ________.
+    A)Railway Minister | B)Finance Minister | C)HRD Minister | D)Defence Minister => ANS(D): Defence Minister
+
+###### विविध अर्थ — 21 Qs
+[2024-S2|2024_007] What is the primary aim of Regional Rural Banks in India?
+    1)Development of metropolitan economy | 2)Development of rural economy | 3)Development of urban economy | 4)Development of semi-urban economy => ANS(2): Development of rural economy
+[2024-S4|2024_024] The velocity of circulation of money will be higher when the is less than the requirements of the economy.
+    1)velocity of money | 2)supply of money | 3)demand for money | 4)elasticity of money => ANS(3): demand for money
+[2023-S3|2023_045] Which of these is NOT part of the classification of economic activities carried out in an economy? X%
+    2)Consumption | 3)Distribution ~* Law and order => ANS: (4)
+[2023-S2|2023_064] The analysis of the interrelationship between the economy and the environment in the economic environmental accounting system was put forward by. X
+    2)National Environmental Engineering Insti | 3)Directorate of Economics and Statistics  => ANS(3): Directorate of Economics and Statistics ~* United Nations St
+[2023-S3|2023_065] Which of the following statements is/are FALSE with respect to simple model of the circular flow of economy? i, The aggregate consumption is more than the aggregate expenditure, i, There is government intervention. iii, There are no trade activities with the r
+    1)Only iand iii 72. Onlyi X | 3)Only iii | 4)Only ii and iii => ANS(1): Only iand iii 72. Onlyi X
+[2023-S4|2023_066] Which of the following statements is/are FALSE with respect to simple model of the circular flow of economy? i, The aggregate consumption is more than the aggregate expenditure, i, There is government intervention. iii, There are no trade activities with the r
+    1)Only iand iii 72. Onlyi X | 3)Only iii | 4)Only ii and iii => ANS(1): Only iand iii 72. Onlyi X
+[2022-S4|2022_075] Which of the following statements is correct regarding the government securities in the economy? I. It is a tradeable instrument issued by the Central Government or the State Governments. II. They are called risk-free gilt-edged instruments.
+    1)Neither I nor II | 2)Only I | 3)Only II | 4)Both I and II
+[2022-S4|2022_079] In the given expression of GDP according to the expenditure method, which of the following represents the aggregate imports expenditure incurred by the economy? C+I+G+X–M
+    1)C | 2)M | 3)I | 4)X
+[2022-S4|2022_091] Which of the following statements is correct regarding the socialist society in the economy? I. The government decides what goods are to be produced. II. Distribution of goods under socialism is supposed to be based on what people need.
+    1)Only I | 2)Neither I nor II | 3)Both I and II | 4)Only II => ANS(4): Only II
+[2021|2021_118] According to a forecast by Oxford Economics Global Cities Research 2018, which Indian city tops the list of top ten fastest growing cities in the world between 2019 and 2035? A 2. Surat XK 3. Hyderabad XK 4. Bengaluru
+[2021|2021_118] According to the World Population Review Report, released in February 2020, Indian economy emerged as the world's largest economy in 2019. XK 2.6th KK 3.7th XK 44th
+[2020-S1|2020_133] Which of the following is an economic system in which capital goods are owned by private individuals or businesses and the production of goods and services is based on supply and demand in the general market?
+    1)Mixed Economy | 2)Communist Economy | 3)Capitalistic Economy | 4)State Economy => ANS(3): Capitalistic Economy
+[2020-S3|2020_135] An industrial economy is best deﬁned as an economy whose 50% or more produce value comes from the ______ sector.
+    1)tertiary | 2)banking | 3)secondary | 4)primary => ANS(3): secondary
+[2020-S2|2020_139] Which of the following activities can be classiﬁed as a part of secondary sector of an economy?
+    1)Farm equipment manufacturing | 2)Banking | 3)Tea plantation | 4)Legal consulting
+[2020-S1|2020_141] The mixed economy is:
+    1)co-existence of traditional and modern i | 2)presence of domestic and foreign investm | 3)a market system of resource allocation,  | 4)presence of subsistence and commercial f => ANS(3): a market system of resource allocation, commerce, and trade 
+[2020-S3|2020_144] The concepts of wages, rent, interest and proﬁt are studied under which branch of economics?
+    1)Microeconomics | 2)Macroeconomics | 3)Econometrics | 4)Health economics => ANS(1): Microeconomics
+[2019|2019_152] In Economics, buying an asset in one market and simultaneously selling an identical asset in another market at a higher price is termed as ________.
+    A)Depreciation | B)Mortgage | C)Arbitrage | D)Devaluation => ANS(C): Arbitrage
+[2019|2019_153] Who among the following is the author of “Principles of Political Economy”?
+    A)Milton Friedman | B)John Stuart Mill | C)Joseph Schumpeter | D)David Ricardo => ANS(B): John Stuart Mill
+[2018|2018_166] In which of the following types of economy are the factors of production owned of individually? the
+    A)Capitalist | B)Socialist | C)Mixed | D)Both Capitalist and Socialist => ANS(A): Capitalist
+[2018|2018_167] The modern economy is NOT characterized by ___________.
+    A)self-sufficient village system | B)development of money economy | C)capital intensive mode of production | D)production for market => ANS(A): self-sufficient village system
+[2018|2018_175] In which of the following types of economy are the factors of angle of production owned individually? Machine
+    A)Capitalist | B)Socialist 75 | C)Mixed 90 | D)Both Capitalist and Socialist => ANS(A): Capitalist
+
+###### निर्धनता और रोज़गार — 12 Qs
+[2024-S2|2024_029] According to the National Crime Records Bureau data, from 2016 to 2019, suicide cases due to unemployment have increased by .
+    1)21% | 2)18% | 3)20% | 4)24% => ANS(4): 24%
+[2023-S1|2023_040] According to Ministry of Social Justice and Empowerment, Government of India, What was the percentage of population living below the poverty line in Chhattisgarh in the year 2004-05? ans X
+    1)35.9% 72 40.9% X | 3)32% XK 4 49% _ Not Attempted and Stalus 
+[2023-S2|2023_056] What percentage of the Indian population was estimated to be living below the poverty line in 2011-127 ans XK
+    1)25.6% X | 2)10.9% X | 3)15.6% S74 21.9
+[2023-S1|2023_063] Those engaged in agriculture in India suffer from which of these unemployment types? ans
+    1)Frictional Unemployment X | 2)Technological Unemployment X | 3)Structural Unemployment v4 Disguised Une => ANS: (4)
+[2022-S3|2022_070] Macroeconomics deals with which of the following studies? I. Reasons behind the unemployment of resources II. Determination of total output
+    1)Only I | 2)Only II | 3)Neither I nor II | 4)Both I and II => ANS(2): Only II
+[2022-S2|2022_073] Which of the following statements is NOT correct with respect to the poverty line? I. In India, it is normally estimated after every ten years. II. The proportion of people below poverty line is not same for all social groups and economic categories in India.
+    1)Both I and II | 2)Only II | 3)Neither I nor II | 4)Only I => ANS(3): Neither I nor II
+[2022-S1|2022_084] ______, also known as search unemployment, occurs when workers lose their current job and are in the process of finding another one.
+    A)Voluntary unemployment | B)Disguised unemployment | C)Frictional unemployment | D)Classical unemployment => ANS(C): Frictional unemployment
+[2020-S3|2020_140] Identify the INCORRECT statement about Public Distribution System (PDS) in India.
+    1)Those living below poverty line get food | 2)PDS has been abandoned in the country si | 3)From 1997, PDS became TPDS for targeted  | 4)PDS was envisaged in 1967 as a price sup => ANS(2): PDS has been abandoned in the country since 2007.
+[2018|2018_166] Which committee was set up to review the concept of the poverty line?
+    A)S Tendulkar Committee | B)Lakdawala Committee | C)Wanchoo Committee | D)Dutt Committee => ANS(A): S Tendulkar Committee
+[2018|2018_170] When the productive capacity of the economic system of state is inadequate to create sufficient number of jobs, it is called _______.
+    A)season al unemployment | B)structural un employment | C)disguised unemployment | D)cyclical unemployment => ANS(D): cyclical unemployment
+[2018|2018_174] Disguised unemployment generally means___________.
+    A)Large number of people remain unemployed | B)alternative employment is NOT available | C)marginal productivity of labour is zero | D)productivity of workers is low => ANS(C): marginal productivity of labour is zero
+[2018|2018_175] Which committee was set up to company for review the concept of the poverty the diagram line? questions.
+    A)S Tendulkar Committee | B)Lakdawala Committee | C)Wanchoo Committee | D)Dutt Committee => ANS(A): S Tendulkar Committee
+
+###### योजनाएँ — 12 Qs
+[2024-S1|2024_032] By which ministry of Government of India was the Deendayal Antyodaya Yojana started?
+    1)Ministry of Corporate affairs | 2)Ministry of Home affairs | 3)Ministry of Rural Development | 4)Ministry of Labour and Employment
+[2024-S2|2024_033] Which of the following is NOT a poverty alleviation programme in India?
+    1)Prime Minister Rozgar Yojana | 2)Rashtriya Ucchatar Shiksha Abhiyan | 3)Swarna Jayanti Shahari Rozgar Yojana | 4)Integrated Rural Development Program => ANS(1): Prime Minister Rozgar Yojana
+[2023-S1|2023_043] Which of the following options best describes the objective of Pradhan Mantri Rojgar Protsahan Yojana (PMRPY) Scheme. 20167 X
+    2)To provide free healthcare services to t | 3)To provide employment opportunities for  | 4)To encourage employers to create new job => ANS: (1)
+[2023-S3|2023_053] According to the Mukhyamantri Ladli Behna Yojana, which of the following is NOT the correct eligibility? X%
+    2)Age of 23-60 | 3)Candidates can be married, widowed or di => ANS: (4)
+[2023-S4|2023_054] Which of the following government schemes provides subsidised food grains to poor households in India? v2 Pradhan Mantri Garib Kalyan Anna Yojana X%
+    3)Pradhan Mantri Jan Arogya Yojana X | 4)Atal Pension Yojana
+[2023-S2|2023_064] Which of the following programmes of the Government of India aims to provide connectivity to unconnected habitations as part of a poverty reduction strategy? X% 2. Swarnjayanti Gram Swarozgar Yojana
+    3)Pradhan Mantri Gram Sadak Yojana => ANS: (1)
+[2022-S1|2022_088] Who is the implementing agency of “Ayushman Bharat Digital Mission (ABDM)” ?
+    A)IMA | B)NHA | C)AIIMS | D)NITI Aayog => ANS(B): NHA
+[2022-S1|2022_088] “Skilling of girls in non-traditional livelihood (NTL)” has been included in which flagship scheme?
+    A)Rashtriya Mahila Kosh | B)POSHAN Abhiyaan | C)Beti Bachao Beti Padao | D)Pradhan Mantri Matru Vandana Yojana => ANS(C): Beti Bachao Beti Padao
+[2020-S1|2020_138] Under which of the following schemes has the Government of India set up a new institution for development and reﬁnancing activities related to micro units?
+    1)Pradhan Mantri MUDRA Yojana | 2)Pradhan Mantri Yojna | 3)Pradhan Mantri MNREGA Yojana | 4)Pradhan Mantri Sadak Yojana => ANS(1): Pradhan Mantri MUDRA Yojana
+[2018|2018_174] In August 2017, the Government of India decided to launch a new scheme named “AGEY”. This new scheme is a part of the Deen Dayal Antyodaya Yojna National Rural Livelihood Mission (DAY-NRLM). What does ‘E’ stand for in ‘AGEY’?
+    A)Enterprise | B)Energy | C)Engineering | D)Express => ANS(D): Express
+[2018|2018_178] Who launched Pradhan Vandana Yojana (PMVVY) 2017?
+    A)Rajnath singh | B)Arun Jaitley | C)Suresh Prabhu | D)Nirmala Sitharaman => ANS(B): Arun Jaitley
+[2018|2018_181] Under which campaign the Government had launched 100 accessible website of various State Government/UTs on 19 January, 2018 for divyangjans?
+    A)Make in India | B)Skill India | C)Digital India | D)Accessible India => ANS(D): Accessible India
+
+###### संस्थाएँ — 9 Qs
+[2023-S1|2023_036] Which of these is NOT an NGO involved in microfinance related activities? ~¥ 2 NABARD in Mumbai %
+    3)SEWA in Ahmedabad | 4)ADITHI in Patna => ANS: (2)
+[2023-S3|2023_038] , Tas (NABARD) GRT eres wep wargre fered Alera QRS Fee ara ey, Fore OTT Ge SMU eh ge rer Sp RnR a = ans g. fPRIST(MYRADA) X
+    2)UUHSRSIT (PFRDA) X | 3)$ST IREDA) * 4 UWAWSTS (AMET)
+[2023-S1|2023_040] Which organisation formerly known as the Imperial Council of Agricultural Research and founded on July 16, 1929, is in charge of Agricultural Research and Education in India? K 2. Agricultural and Processed Food Products Export Development Authority (APEDA) x3
+[2023-S2|2023_056] The novel Self-Help Group Bank Linkage Program (SHG-BLP) project which grew into a dominant micro finance model, was piloted by é ans ¥ |. NABARD %
+    2)MFI | 3)IRDA | 4)SEBI => ANS: (1)
+[2021-S2|2021_124] _______________ was established between informal groups (SHGs) and formal financial institutions (banks) for catering to the financial needs of the poor.
+    A)SHG-Bank linkage | B)SIDBI-MFI linkage | C)NABARD-Bank linkage | D)SHG-NABARD linkage => ANS(A): SHG-Bank linkage
+[2018|2018_164] "Global Competitiveness Report" is angle of released by which of the following Rent organization?
+    A)WTO 60 | B)SAARC 40 | C)EU | D)WEF of => ANS(D): WEF of
+[2018|2018_164] In December 2017, SEBI raised investment limit for FPIs in government securities to ______ from January 2018.
+    A)Rs. 1.91 lakh crore | B)RS. 3.91 lakh crore | C)RS. 5.91 lakh crore | D)Rs. 0.91 lakh crore => ANS(A): Rs. 1.91 lakh crore
+[2018|2018_167] During which Five Year Planning was NABARD established?
+    A)Fifth | B)Sixth | C)Third | D)Ninth => ANS(C): Third
+[2018|2018_167] How much loan has the World Bank agreed to provide to the Government of India for ‘National Biopharma Mission’ named ‘i3’?
+    A)USD 255 million | B)USD 125 million | C)USD 100 million | D)USD 400 million => ANS(B): USD 125 million
+
+###### सुधार और उद्योग — 8 Qs
+[2024-S4|2024_020] In1955,___—snoted the possibility of using small-scale industries for promoting rural development.
+    1)Kelkar Committee | 2)Sarkaria Committee | 3)Karve Committee | 4)Chakravarty Committee
+[2024-S2|2024_033] The Industrial Policy Resolution, 1948 mainly categorised the large-scale industries into fragments.
+    1)five | 2)three | 3)two
+[2023-S4|2023_035] From which five-year plan cowards in India, were fiscal and economic reforms including liberalization adopted? ans yi. Eighth Five Year Plan %
+    2)Seventh Five Year Plan | 3)Sixth Five Year Plan | 4)Ninth Five Year Plan => ANS(3): Sixth Five Year Plan
+[2022-S2|2022_081] Which of the following statements is correct regarding the Industrial Policy resolution 1956? I. This resolution formed the basis of the Second Five Year Plan. II. This policy was used for promoting industry in backward regions.
+    A)Neither I nor II | B)Both I and II | C)Only I | D)Only II => ANS(B): Both I and II
+[2022-S2|2022_093] The Industrial Policy Resolution of 1956 formed the basis of the __________.
+    A)Fifth Five Year plan | B)Second Five Year plan | C)Fourth Five Year plan | D)Third Five Year plan => ANS(B): Second Five Year plan
+[2018|2018_168] The first Chairman of Disinvestment Commission was___________.
+    A)GV Ramkrishna | B)Madhu Dandavete | C)C Rangarajan | D)Indira Gandhi => ANS(A): GV Ramkrishna
+[2018|2018_174] The State Financial Corporations have given assistance mainly to develop___________.
+    A)agriculture farms | B)cottage industries | C)medium and small-scale industries | D)large scale industries => ANS(C): medium and small-scale industries
+[2018|2018_176] Economic liberalization in started with ___________.
+    A)substantial changes in industrial licens | B)convertibility of Indian | C)doing away with procedural formalities f | D)Significant reduction in rates => ANS(A): substantial changes in industrial licensing policy
+
+###### कृषि अर्थ — 6 Qs
+[2024-S2|2024_003] The Green Revolution was due to the introduction of:
+    1)fertilisers | 2)fisheries | 3)high yielding varieties of seeds | 4)irrigation => ANS(1): fertilisers
+[2024-S4|2024_012] Match the items inList I with those inList 1. List I List i. Blue revolution a. Oilseeds li. Yellow revolution b. Overall horticulture iii. Round revolution c. Fish iv. Golden revolution d. Potato
+    1)i-d, ita, ili-b, ive | 2)i-c, ii-a, iii -d, iv-b | 3)i-, ii-d, iii-a, ivc | 4)i-b, ii-c, iii-d, iv-a => ANS(2): i-c, ii-a, iii -d, iv-b
+[2024-S2|2024_025] Which of these is NOT true of the second phase of the green revolution?
+    2)It covered the period of the 1980s. | 3)It covered the period of the 1960s and 1
+[2024-S4|2024_027] Who among the following is NOT associated with the Green Revolution?
+    1)Chidambaram Subramaniam | 2)MS Swaminathan | 3)P Chidambaram | 4)Norman Borlaug => ANS(3): P Chidambaram
+[2023-S4|2023_050] Which of these is NOT one of the negative effects of the green revolution? Primarily medium and large farmers were able to benefit from the new technology of the green revolution, x2 The green revolution benefited farmers who had access to land, capital, techn
+[2022-S3|2022_078] Which type of seeds played an important role in Green Revolution in India?
+    1)High Nutritional Variety | 2)Low Nutritional Variety | 3)High Yielding Variety | 4)Low Yielding Variety => ANS(3): High Yielding Variety
+
+###### क्षेत्र — 5 Qs
+[2023-S1|2023_036] What was the percentage of women working in the primary sector of India as of 2011-2012? ans X
+    1)61 | 2)63.08 | 3)64.5% %* 62.8
+[2023-S4|2023_039] At the time of Independence of India, the Industrial sector was confined to . X
+    2)sugar and oil ¥ >. cotton textiles and j | 4)cotton textiles and fertilizers => ANS: (3)
+[2023-S4|2023_054] Which of these is NOT one of the reasons why the public sector played dominant role in establishing the Industrial sector in India post-Independence? ¥
+    2)To avoid generation of private profit X | 3)Absence of large enough market for outpu | 4)ack of adequate capital with private ind
+[2023-S1|2023_063] _ Which of these is NOT one of the direct outcomes that can be attritnited to a good industrial sector? ~
+    2)Doubling of farmers’ income | 3)Promotion of modernisation X | 4)Provision of mass consumption manufactur => ANS(2): Doubling of farmers’ income
+[2020-S2|2020_128] Which of the following sectors of the economy has the highest share in India's GDP?
+    1)Service | 2)Industrial | 3)Manufacturing | 4)Agriculture => ANS(1): Service
+
+###### मुद्रा स्फीति — 4 Qs
+[2024-S4|2024_016] Price control and rationing are direct control measures to check :
+    1)reflation | 2)disinflation | 3)deflation | 4)inflation
+[2021-S1|2021_111] Lack of financial discipline by the government can lead to ____________. (A) excess expenditure (B) inflation
+    A)Only B | B)Only A | C)A and B | D)Neither A nor B => ANS(C): A and B
+[2018|2018_178] "Residex Index" is which of these?
+    A)Share Prices | B)Mutual Fund Prices | C)Price inflation Index | D)Housing Prices => ANS(D): Housing Prices
+[2017|2017_190] Stagflation is a period of __________.
+    A)Persistent high inflation combined with  | B)Persistent high inflation combined with  | C)Persistent low inflation combined with h | D)Persistent low inflation combined with l => ANS(A): Persistent high inflation combined with high unemployment

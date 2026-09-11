@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.android/
+.config/
+.sudo_as_admin_successful
+*.log
+.npm/
+.gitconfig

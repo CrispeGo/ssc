@@ -1,0 +1,600 @@
+1. Select the related word/letters/number 10. A series is given with one term missing.
+from the given alternatives. Choose the correct alternative from the
+Nephrology : Kidney : : Ichthyology : ? given ones that will complete the series.
+A. Fish B. Soil CFE, ILK, ORQ, ?
+C. Algae D. Insects A. UXW B. VYW
+Ans. A C. UYW D. UXX
+2. Select the related word/letters/number Ans. A
+from the given alternatives. 11. a series is given with one term missing.
+AGREE : FGPIB : : RULES : ? Choose the correct alternative from the
+A. TJGSU B. TGJWS given ones that will complete the series.
+C. TGJSU D. THJUS 14, 22, 33, 47, 64, ?
+A. 81 B. 84
+Ans. B
+C. 92 D. 94
+3. Select the related word/letters/number
+from the given alternatives. Ans. B
+12. In the following question, two statements
+MUMBAI: UMBMIA :: GURUGRAM : ?
+are given each followed by two conclusions
+A. RUGUMARG B. UGURRGMA
+I and II. You have to consider the
+C. UGURGRMA D. UGRURGAM
+statements to be true even if they seem to
+Ans. B
+be at variance from commonly known
+4. Select the related word/letters/number facts. You have to decide which of the
+from the given alternatives. given conclusions, if any, follows from the
+30 : 16 :: 24 : ? given statements.
+A. 14 B. 13 Statement:
+C. 20 D. 25 (I) Retail shops increasingly want to retain
+Ans. B potential buyers.
+5. Select the odd word/letters/number/ (II) 10 % of the customers are lost due to
+number pair from the given alternatives. out of stock products.
+A. Dog B. Cat Conclusions:
+C. Goat D. Lion (I) People don't find their sizes or specific
+color in stock and then they leave the
+Ans. D
+store without any purchase.
+6. Select the odd word/letters/number/
+(II) Retailers want maximum footfall to get
+number pair from the given alternatives.
+converted into purchases.
+A. E5T B. O9S
+A. Only conclusion II follows
+C. U3A D. I7M
+B. Conclusion I and II both follow
+Ans. C
+C. Neither I nor II follow
+7. Select the odd word/letters/number/
+D. Only conclusion I follows
+number pair from the given alternatives.
+Ans. B
+A. 862 B. 835
+13. A series is given with one term missing.
+C. 439 D. 147 Choose the correct alternative from the
+Ans. D given ones that will complete the series.
+8. Select the odd word/letters/number/ Morning, Afternoon, Evening, ?
+number pair from the given alternatives. A. Day B. Week
+A. 45 B. 56 C. Year D. Night
+C. 55 D. 78 Ans. D
+Ans. 14. A, B, C and X, Y, Z were sitting facing each
+9. A series is given with one term missing. other. A, B and C were facing south and X,
+Choose the correct alternative from the Y and Z were facing north. X was left of Y
+given ones that will complete the series. but in front of A; Z was not at the left end
+MHZ, NIW, OKT, PNQ, ? and was not facing C. Who were at the left
+A. QNR B. QRN and right positions respectively?
+A. B and Y B. C and X
+C. RNM D. QNO
+C. B and Z D. A and X
+Ans. B
+Ans. D
+15. Arrange the given words in the sequence in 21. A word is represented by only one set of
+which they occur in the dictionary. numbers as given in any one of the
+i. Drama ii. Dramatical alternatives. The sets of numbers given in
+the alternatives are represented by two
+iii. Dramaticism iv. Dramality
+classes of alphabets as shown in the given
+v. Dramatise
+two matrices. The columns and rows of
+A. i, iv, ii, iii, v B. i, iv, ii, v, iii
+Matrix-I are numbered from 0 to 4 and that
+C. i, iv, v, iii, ii D. iv, i, v, iii, ii of Matrix-II are numbered from 5 to 9. A
+Ans. A letter from these matrices can be
+16. In a certain code language "GASTRIC" is represented first by its row and next by its
+written as "UCIREKT". How will "DECEIVE" column, for example, ‘K’ can be
+be written in that code language? represented by 10, 34 etc. and ‘I’ can be
+represented by 76, 88 etc. Similarly, you
+A. ACBCCTG B. ACACCTG
+have to identify the set for the word
+C. EGFCGXK D. BFCCTGL
+‘LIGHT’.
+Ans. C
+17. In the following question, select the
+missing number from the given series.
+9 8 5
+6 6 7
+3 ? 3 A. 02, 65, 31, 58, 21
+5 7 4 B. 20, 77, 12, 68, 13
+C. 44, 87, 40, 95, 32
+A. 9 B. 4
+D. 33, 99, 04, 59, 43
+C. 8 D. 2
+Ans. D Ans. D
+18. Which of the following interchanges in 22. Pointing a man, Suraj says, "He is the son
+signs and numbers will make the given of the sister of my father's wife". How is
+equation correct? that man related to Suraj?
+8  6  4  52 A. Father B. Brother
+A. x and +, 8 and 52 C. Cousin D. Nephew
+B. + and x, 6 and 4 Ans. C
+C. x and +, 8 and 4 23. If a mirror is placed on the line XY, then
+D. + and x, 6 and 8 which of the answer figures is the right
+Ans. C image of the given figure?
+19. In the following question, which one set of
+letters when sequentially placed at the
+gaps in the given letter series shall
+complete it?
+_cca_a_ca_ac_ab
+A. abcbc B. abcbb
+C. abbcc D. abccb
+Ans. A
+20. From point A, Ram moves 100m in
+north-east direction, he again turns and
+A. B.
+moves 100m in south-east direction. He
+again turns and covers 100m south- west
+and finally covers 100m in north-west
+direction. In which direction is he now with
+respect to A?
+A. West B. South-west
+C. At point A D. East C. D.
+Ans. C Ans. A
+24. Which of the following part is a part of both 30. Which of the following elements has the
+circle and triangle? lowest melting point?
+A. Chromium B. Hydrogen
+C. Zinc D. Silver
+Ans. B
+31. C Programming language was developed
+by _________.
+A. Charles Babbage
+B. Larry Wall
+C. James Gosling
+A. e B. v
+D. Dennis Ritchie
+C. o D. c
+Ans. D
+Ans. C
+25. A piece of paper is folded and punched as 32. Which of these Indian Music Legends is the
+shown below in the question figures. From exponent of the instrument, Sitar?
+the given answer figures, indicate how it A. Bhimsen Joshi B. Ravi Shankar
+will appear when opened. C. Amjad Ali Khan D. Alla Rakha
+Ans. B
+33. If demand curve for alphonso mangoes is
+D = 25000 - 70P and supply curve is
+S = 10000 + 80P, find the equilibrium
+quantity?
+A. 18,000 units B. 2,000 units
+A. B. C. 1,800 units D. 200 units
+Ans. A
+34. Match the characteristics with their market
+C. D. structure:
+Ans. A (a) Price > MC in both short and long run
+26. Which of these is not a UNESCO World (b) Faces highly elastic demand
+Heritage Site? A. (a) Monopolistic competition, (b) Pure
+A. Ajanta Caves, Maharashtra competition
+B. Red Fort, New Delhi B. (a) Pure Monopoly, (b) Monopolistic
+C. Victoria Memorial, Kolkata competition
+D. Kaziranga Wildlife Sanctuary, Assam C. (a) Pure competition, (b) Monopolistic
+Ans. C competition
+27. Highest Civilian Honour received by D. (a) Oligopoly, (b) Pure competition
+Amitabh Bachchan is _________.
+Ans. B
+A. Padma Shri
+35. Anamalai Tiger Reserve is in which state?
+B. Padma Bhushan
+A. Telangana B. Madhya Pradesh
+C. Padma Vibhushan
+C. Tamil Nadu D. Kerala
+D. Bharat Ratna
+Ans. C
+Ans. C
+28. Which organ does detoxification and 36. Which is the most economical method of
+produces chemicals needed for digestion? removing solid matter from water?
+A. Salivary glands A. Using deactivated carbon
+B. Pancreas B. Electrolysis
+C. Thyroid gland C. Distillation
+D. Liver D. Sedimentation
+Ans. D Ans. D
+29. NAHCO is chemical formula for _______. 37. What is the Capital of Telangana State?
+3
+A. Borax B. Vinegar A. Hyderabad B. Secunderabad
+C. Lime D. Baking soda C. Vijayanagara D. Visakhapatnam
+Ans. D Ans. A
+38. Birbal was an advisor in the court of? 48. In which year, RBI was nationalized?
+A. Babur B. Akbar A. 1939 B. 1949
+C. Aurangzeb D. Jahangir C. 1959 D. 1969
+Ans. B Ans. B
+39. Humayun’s Tomb is located in _________. 49. Ottawa is the Capital City of _________.
+A. Delhi B. Agra A. France B. Norway
+C. Canada D. Greece
+C. Gwalior D. Jaipur
+Ans. C
+Ans. A
+50. Which drug is used as a Blood Thinner?
+40. Assembly line was invented by_________
+A. Warfarin B. Tramadol
+A. Alexander Parkes
+C. Azithromycin D. Hydralazine
+B. Luigi Palmieri
+Ans. A
+C. Alexey Pajitnov
+51. The value of x for which the expressions
+D. Ransom Eli Olds
+15  7x and 15x  7 become equal is
+Ans. D _________.
+41. Instrument for measuring blueness of the A. -4/11 B. 11/4
+sky or ocean is called _________. C. -11/4 D. 4/11
+A. Bathymeter B. Ceraunograph Ans. D
+C. Cyanometer D. Barometer 52. The largest 5 digit number exactly divisible
+Ans. C by 95 is _________.
+42. Farad is unit of _________. A. 99936 B. 99935
+A. Capacitance C. 99940 D. 99933
+B. Reactance Ans. C
+C. Electric charge 53. If a : b  3 : 8, find the value of
+D. Electric conductance  5a  3b  /  2a  b  .
+Ans. A
+A. 9/14 B. 14/9
+43. Under which Article is the Union Public C. -9/14 D. -14/9
+Service Commission of India established? Ans. C
+A. Article 315 B. Article 250 54. If 5  3x  4  x and 5  2  x   2  2x, then
+C. Article 300 D. Article 52
+x can take which of the following values?
+Ans. A
+A. 0 B. -1
+44. The Westminster parliamentary system
+C. 1 D. 3
+was developed in _________.
+Ans. C
+A. Spain B. Australia
+55. The average revenues of 9 consecutive
+C. UK D. USA
+years of a company is Rs 76 lakhs. If the
+Ans. C average of first 5 years is Rs 71 lakhs and
+45. Whose ear Mike Tyson bite in professional that of last 5 years is Rs 83 lakhs, find the
+boxing match in 1997 for the WBA revenue for the 5th year.
+Heavyweight Championship? A. Rs 88 lakhs B. Rs 84 lakhs
+A. James Douglas C. Rs 86 lakhs D. Rs 82 lakhs
+B. Evander Holyfield Ans. C
+C. Riddick Bowe 56. If 2x  3y  0 and 3x  4y  34, then
+D. Michael Moorer x  y  _______
+Ans. B A. 10 B. -10
+46. Who is the author of "India 2020: A Vision C. 2 D. -2
+for the New Millennium"? Ans. A
+A. APJ Abdul Kalam 57. 5 hrs after a goods train passed a station,
+another train travelling at a speed of 70
+B. Shashi Tharoor
+km/hr following that goods train passed
+C. Narendra Modi
+through that station. If after passing the
+D. Arun Shourie station the train overtakes the goods train
+Ans. A in 9 hours. What is the speed of the goods
+47. Psidium guajava is the scientific name of train?
+_________. A. 45 km/hr B. 54 km/hr
+A. Guava B. Mango C. 67.5 km/hr D. 36 km/hr
+C. Bamboo D. Jack fruit Ans. A
+Ans. A
+58. Marked price of an item is Rs 200. On 66. The radius of a hemisphere is 7 cm, find its
+purchase of 1 item discount is 22%, on volume?
+purchase of 4 items discount is 33%. Rabia A. 718.67 cubic cm
+buys 5 items, what is the effective
+B. 1437.34 cubic cm
+discount?
+C. 239.56 cubic cm
+A. 35 percent B. 30.8 percent
+D. 359.34 cubic cm
+C. 34 percent D. 20.4 percent
+Ans. A
+Ans. B
+67. 29 is 0.8% of?
+59. Find two numbers such that their mean
+A. 3625 B. 1450
+proportion is 8 and third proportion is 64.
+C. 7250 D. 10875
+A. 4 and 8 B. 8 and 16
+Ans. A
+C. 8 and 8 D. 4 and 16
+68. If sin  5n / 3  x, then the value of x is
+Ans. D
+60. Akash is 3 times as good a workman as A. ­√3/2 B. √3/2
+Baldev and therefore is able to finish a job C. -2 D. ­2/√3
+in 40 days less than Baldev. Working Ans. B
+together, they can finish it in _________. 69. If  tan A  tanB  /  1  tan A tanB   x, then
+A. 15 days B. 60 days
+the value of x is
+C. 20 days D. 10 days
+A. tan  A  B  B. tan  A  B 
+Ans. A
+61. At what rate of compound interest per C. cot  A  B  D. cot  A  B 
+annum will a sum of Rs 20000 become Rs
+Ans.
+23328 in 2 years?
+A. 8 percent B. 16 percent 70. If 1 /  cosec A  cot A   x, then the value of
+C. 24 percent D. 12 percent x is
+Ans. A A. cos ec A  cot A
+62. ΔABC is similar to ΔPQR. Length of AB is 18 B. cos ec A  cot A
+cm and length of the corresponding side PQ
+is 12 cm. If area of ΔABC is 324 sq cm, C. cos ec 2 A  cot 2 A
+what is the area of ΔPQR?
+D.  cos ec 2 A  cot 2 A 
+ 
+A. 72 sq cm B. 144 sq cm
+C. 36 sq cm D. 487.5 sq cm Ans. A
+Ans. D 71. A vendor buys oranges at the rate of 5 for
+Rs 6 and sells at the rate of 2 for Rs 3.
+63. What is the slope of the line perpendicular
+What will be the result?
+to the line passing through the points
+(8,-2) and (3,-1)? A. 25 percent loss B. 25 percent gain
+A. 5 B. 3/5 C. 20 percent gain D. 20 percent loss
+C. 5/3 D. 1/5 Ans. A
+Ans. A 72. Refer the below data table and answer the
+following Question.
+64. A pentagonal prism has 15 edges. How
+many vertices does it have?
+Boys / लड़के Girls / लडककय ाँ
+A. 12 B. 10
+C. 15 D. 20 Medical/ मेडडकल 20 45
+Ans. B
+Engineering/ इंजीनियर ग ं 90 25
+65. The diameter of a circle is equal to the side
+of the square. What is the area of the
+What percent students who chose
+square if the area of the circle is 49π sq
+Engineering are girls?
+cm?
+A. 13.89 B. 21.74
+A. 196 sq cm B. 154 sq cm
+C. 35.71 D. 27.78
+C. 124 sq cm D. 98 sq cm
+Ans. B
+Ans. A
+73. Refer the below data table and answer the A. 27.53 percent B. 34.78 percent
+following Question. C. 20.28 percent D. 42.03 percent
+Cumulative production Ans. B
+संचयी उत्प दि 76. In the following question, out of the four
+alternatives, select the alternative which is
+January/ जिव ी 300
+the best substitute of the phrase.
+February/ फ व ी 500 To rummage about in a place or
+container in search of something.
+March/ म चच 1080
+A. to rake B. to excavate
+April/ अप्रैल 1630
+C. to ferret D. to poke
+May/ मई 2030 Ans. C
+June/ ज ि ू 2320 77. In the following question, out of the four
+alternatives, select the alternative which
+How many cars were manufactured in the best expresses the meaning of the
+months of April and May? idiom/phrase.
+A. 690 B. 1130
+to buy a lemon
+C. 3660 D. 950
+A. to purchase a vehicle that constantly
+Ans. D
+gives problems
+74. Refer the below data table and answer the
+B. buying only half the recipe will not help
+following Question.
+you prepare the full dish
+Day of the week Distance jogged (in kms)
+सप्त ह क ददि दौड़ी गयी द ू ी (ककलोमीट में ) C. to purchase an insignificant thing which
+eventually becomes very useful
+Monday/ सोमव 3.5
+D. to buy stuff which you don't need
+Tuesday/ मंगलव 3
+Ans. C
+Wednesday/ ब ध ु व 2.5 78. Select the antonym of
+Thursday/ ग रु ु व 5 mere
+Friday/ शुक्रव 2.5 A. unadorned B. immense
+शनिव C. sheer D. blunt
+Saturday/ 2
+Ans. B
+Sunday/ ववव 4.5
+79. In the following question, some part of the
+If 400 calories are burned by jogging 5 km,
+sentence may have errors. Find out which
+how many calories were burnt in the given
+part of the sentence has an error and
+week?
+select the appropriate option. If a sentence
+A. 1890 calories B. 1840 calories is free from error, select 'No Error'.
+C. 1790 calories D. 1740 calories
+The population of Mumbai(A)/is greater
+Ans. B
+than(B)/in any city in USA.(C)/No error(D)
+75. Refer the below data table and answer the
+A. A B. B
+following Question.
+C. C D. D
+Items Yearly Expense in Rs. Ans. C
+वस्तु Lakhs 80. In the following question, the sentence
+ल ख रुपये में व वषचक खचच
+given with blank to be filled in with an
+Row Materials/ कच्च म ल 6 appropriate word. Select the correct
+alternative out of the four and indicate it
+Labour/ श्रम 3
+by selecting the appropriate option.
+Rent/ कक य 5 The bank _________ his house as he had
+Interest/ ब्य ज 6 failed to pay the instalments despite
+repeated warnings.
+Taxes/ क 3
+A. mobbed B. confiscated
+Rent and Taxes are what percent of total
+C. hijacked D. captured
+expenses?
+Ans. B
+81. Rearrange the parts of the sentence in 88. In the following question, out of the four
+correct order: alternatives, select the alternative which
+At one level, best expresses the meaning of the
+P-the law in understanding idiom/phrase.
+Q-such cases of violence to cast iron stomach
+R-one senses the limits of A. a very greedy person
+A. RQP B. PQR B. to be able to eat or drink anything
+C. RPQ D. QRP without any problems
+Ans. C C. to be indifferent to harsh words
+82. In the following question, some part of the D. to face so many difficulties in life that
+sentence may have errors. Find out which one now becomes immune to even
+part of the sentence has an error and poison Correct Answer: to be able to
+select the appropriate option. If a sentence eat or drink anything without any
+is free from error, select 'No Error'. problems
+For a full week(A)/she enjoyed the Ans. B
+benefits(B)/ of being a big sister.(C)/No 89. In the following question, a sentence has
+error(D) been given in Active/Passive voice. Out of
+A. A B. B four alternatives suggested, select the one,
+C. C D. D which best expresses the same sentence in
+Passive/Active.
+Ans. D
+83. Select the synonym of The event manager is making all the
+reservations.
+to ordain
+A. All the reservations would be made by
+A. to anoint B. to retract
+the event manager.
+C. to veto D. to void
+B. All the reservations are being made by
+Ans. A
+the event manager.
+84. Select the synonym of
+C. All the reservations would have been
+to stranded
+made by the event manager.
+A. to douse B. to aground
+D. All the reservations will have been
+C. to swamp D. to inundate
+made by the event manager.
+Ans. B
+Ans. B
+85. Improve the bracketed part of the
+90. Improve the bracketed part of the
+sentence.
+sentence.
+All the allegations levelled (over) the poor
+"I am the only man in the world who (can)
+watchman were found to be baseless.
+paint a picture so true to life," he said.
+A. upon B. off
+A. will
+C. against D. no improvement
+B. could
+Ans. C
+C. may
+86. Rearrange the parts of the sentence in
+D. no improvement
+correct order.
+It is the right to Ans. D
+P-who see us at our most vulnerable 91. In the following question, out of the four
+alternatives, select the alternative which is
+Q-the indiscretions of doctors
+the best substitute of the phrase.
+R-privacy that protects us from
+To sell (stocks or other securities or
+A. QRP B. QPR
+commodities) in advance of acquiring
+C. PRQ D. RQP
+them, with the aim of making a profit
+Ans. D
+when the price falls.
+87. Select the antonym of
+A. bilking
+to comprise
+B. duping
+A. to dispute B. to embody
+C. conning
+C. to span D. to encompass
+D. shorting
+Ans. A
+Ans. D
+92. In the following question, a sentence has A. way B. form
+been given in Direct/Indirect speech. Out C. step D. method
+of the four alternatives suggested, select Ans. A
+the one, which best express the same 97. In the following passage, some of the
+sentence in Indirect/Direct speech. words have been left out. Read the
+‘Do you have anything to say on behalf passage carefully and select the correct
+of the accused?' said the judge finally. answer for the given blank out of the four
+A. The judge finally asked that if he had alternatives.
+anything to say on behalf of the In a strange _________, the production
+accused. and the consumption of the event become
+B. The judge finally ask that whether he cause for concern. __________ wonders
+had anything to say on behalf of the whether newer forms of “non­caring” or
+accused. violence are appearing. Somehow, silence,
+C. The judge finally asked that if he has even __________, quietly suppresses a
+anything to say on behalf of the meditation on such events. _________ a
+accused. professor, I can recollect the number of
+D. The judge finally asked that if he has occasions when my students have cried as
+had anything to say on behalf of the we discussed such events in class.
+accused. _________, society seems so indifferent.
+Ans. B __________ wonders whether newer forms
+93. Select the word with the correct spelling. of "non-caring" or violence are appearing.
+A. amphybia B. indanted A. Anyone B. One
+C. ancumber D. levelled C. Someone D. Somebody
+Ans. D Ans. B
+94. In the following question, sentence given 98. In the following passage, some of the
+with blank is to be filled in with an words have been left out. Read the
+appropriate word. Select the correct passage carefully and select the correct
+alternative out of the four and indicate it answer for the given blank out of the four
+by selecting the appropriate option. alternatives.
+A large crowd _________ to get a glimpse In a strange _________, the production
+of their favourite star. and the consumption of the event become
+A. gathered B. rallied cause for concern. __________ wonders
+whether newer forms of “non­caring” or
+C. clustered D. compiled
+violence are appearing. Somehow, silence,
+Ans. A
+even __________, quietly suppresses a
+95. Select the word with the correct spelling.
+meditation on such events. _________ a
+A. tidlers B. thistlees
+professor, I can recollect the number of
+C. pulchritude D. tendered
+occasions when my students have cried as
+Ans. C we discussed such events in class.
+96. In the following passage, some of the _________, society seems so indifferent.
+words have been left out. Read the Somehow, silence, even _______, quietly
+passage carefully and select the correct suppresses a meditation on such events.
+answer for the given blank out of the four
+A. attention B. bias
+alternatives.
+C. regard D. indifference
+In a strange _______ , the production and
+Ans. D
+the consumption of the event become
+99. In the following passage, some of the
+cause for concern. __________ wonders
+words have been left out. Read the
+whether newer forms of “non­caring” or
+passage carefully and select the correct
+violence are appearing. Somehow, silence,
+answer for the given blank out of the four
+even _______, quietly suppresses a
+alternatives.
+meditation on such events. _______ a
+In a strange _________, the production
+professor, I can recollect the number of
+and the consumption of the event become
+occasions when my students have cried as
+cause for concern. __________ wonders
+we discussed such events in class.
+whether newer forms of “non­caring” or
+_______, society seems so indifferent.
+violence are appearing. Somehow, silence,
+In a strange _______,
+even __________, quietly suppresses a
+meditation on such events. _________ a
+professor, I can recollect the number of
+occasions when my students have cried as
+we discussed such events in class.
+_________, society seems so indifferent.
+___________a professor,
+A. Like B. Alike
+C. As D. Being
+Ans. C
+100. In the following passage, some of the
+words have been left out. Read the
+passage carefully and select the correct
+answer for the given blank out of the four
+alternatives.
+In a strange _________, the production
+and the consumption of the event become
+cause for concern. __________ wonders
+whether newer forms of “non­caring” or
+violence are appearing. Somehow, silence,
+even __________, quietly suppresses a
+meditation on such events. _________ a
+professor, I can recollect the number of
+occasions when my students have cried as
+we discussed such events in class.
+_________, society seems so indifferent.
+________, society seems so indifferent.
+A. Yet B. Thus
+C. Hence D. So
+Ans. A

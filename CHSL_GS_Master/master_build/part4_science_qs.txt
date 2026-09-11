@@ -1,0 +1,1394 @@
+SCIENCE PYQs — 666 questions, chapter-wise (for part writing)
+==========================================================================================
+
+###### भौतिक — गति, बल और मशीनें — 54 Qs
+[2024-S4|2024_009] Who was the first to use the term ‘horsepower’ that refers to the power produced by an engine?
+    1)Amedeo Avogadro | 2)John Dalton | 3)James Watt | 4)Albert Einstein => ANS(3): James Watt
+[2024-S1|2024_010] Which of the following devices is used to accelerate charged particles to high velocities?
+    1)cyclotron | 2)copatron | 3)cosmotron | 4)cryotron => ANS(1): cyclotron
+[2024-S3|2024_015] Which military officer led the British forces in the Battle of Chinhat fought in 18577
+    1)James George Smith | 2)Robert Maclagan | 3)Henry Lawrence | 4)Charles Ellice => ANS(2): Robert Maclagan
+[2024-S1|2024_017] Who calculated the approximate location of the planet Neptune by studying gravity- induced disturbances in the motion of Uranus?
+    1)John Couch Adams | 2)Johann Gottfried Galle | 3)Urbain-Jean-Joseph Le Verrier | 4)Percival Lowell => ANS(3): Urbain-Jean-Joseph Le Verrier
+[2024-S2|2024_018] If an object of mass 2 kg is dropped from a height of 10 metres, what will be the ratio of its potential energy and kinetic energy at the height of 5 metres (g=1 Om/sec?)
+    1)1:2 | 2)11 | 3)41 | 4)14 => ANS(2): 11
+[2024-S1|2024_021] In 1812, who described the hypothesis that equal volumes of different gases contain an equal number of molecules?
+    1)John Dalton | 2)James Watt | 3)Amedeo Avogadro | 4)Albert Einstein => ANS(3): Amedeo Avogadro
+[2024-S2|2024_022] Which of the following is NOT applicable to force?
+    1)Force may make an object move | 2)Force may change the direction of a movi | 3)Force may change the shape of an object | 4)Force may increase the mass of the objec => ANS(4): Force may increase the mass of the object
+[2024-S2|2024_025] Who proposed that ‘Light is made up of waves propagating perpendicular to the direction of its movement’?
+    1)Newton | 2)Kepler | 3)Huygens | 4)Pauli => ANS(3): Huygens
+[2024-S3|2024_026] The results from an increase in the proportion of workers relative to non- workers in the population.
+    1)demographic dividend | 2)population momentum | 3)old-age dependency ratio | 4)age structure of population
+[2023-S4|2023_035] Inany economy, the income velocity of the hoarded money (idle) by the public is equal to. . X
+    2)greater than one 7%. zero X | 4)greater than zero
+[2023-S4|2023_050] 11 1851, who founded the scieace of bydrodynamics with his law of viscosity describing the velocity of a small sphere through a viscous fluid? v2. George Gabriel Stokes X
+    3)Evangelista Torricelli X | 4)Heinrich Gustav Magnus => ANS: (1)
+[2023-S2|2023_052] if the uncertainty in position and momentum are equal, the uncertainty in velocity will be: A "x1. h/t v2 1/2m/h/t x3. h/21 * 4. /h/27™m
+[2023-S3|2023_061] Which law was developed in the 1600s to describe that any force applied to a confined fluid is transmitted equally in all directions, regardless of the shape of the container? %
+    2)Graham's Law ¥°. Pascal's Law | 4)Torricelli’s Law => ANS: (3)
+[2022-S3|2022_070] Which of the following statement is correct regarding inertia? I. Inertia is the natural tendency of an object to resist a change in its state of motion or of rest. II. The mass of an object is a measure of its inertia.
+    1)Only I | 2)Only II | 3)Both I and II | 4)Neither I nor II
+[2022-S4|2022_075] ______ forces water through a semipermeable membrane and removes contaminants.
+    1)Boiling | 2)Distillation | 3)Reverse Osmosis | 4)Filtration => ANS(4): Filtration
+[2022-S1|2022_076] Which of the following is NOT an application of third law of motion?
+    A)A fielder pulls his hands gradually with | B)Colliding with player while kicking a fo | C)As the sailor jumps in forward direction | D)A forward force on the bullet and recoil => ANS(A): A fielder pulls his hands gradually with the moving ball whi
+[2022-S4|2022_079] Which of the following is NOT a non-contact force?
+    1)Gravitational | 2)Electrostatic | 3)Friction | 4)Magnetic => ANS(3): Friction
+[2022-S1|2022_080] Which law is also known as the law of inertia?
+    A)Archimedes principle | B)Newton's First law of motion | C)Newton's Second law of motion | D)Kepler's law => ANS(B): Newton's First law of motion
+[2022-S4|2022_083] Which of the statements is NOT correct regarding energy?
+    1)The energy possessed by a body due to it | 2)An object of mass m moving with velocity | 3)The gravitational potential energy of an | 4)An object in motion possesses what is kn
+[2022-S1|2022_088] Which of the following is an exogenic force?
+    A)Landslides | B)Wind | C)Volcano | D)Earthquake => ANS(B): Wind
+[2022-S3|2022_090] A ball possesses 3000 units of momentum. What would be the ball's new momentum if its velocity was doubled?
+    1)3000 units | 2)6000 units | 3)20000 units | 4)9000 units => ANS(2): 6000 units
+[2022-S3|2022_094] Which of the following statements is/are NOT correct? I. Force per unit volume is called pressure. II. Liquids can exert pressure on walls of containers. III. Force acting on an object can cause a change in it state of motion but not its shape.
+    1)Only I and II | 2)Only III | 3)I, II and III | 4)Only I and III => ANS(4): Only I and III
+[2021-S1|2021_099] The given equation describes the _________ relation. 1 s = ut + 2 at2
+    A)position-time | B)distance-time | C)position-velocity | D)velocity-time => ANS(A): position-time
+[2021-S2|2021_104] The lifting of an object up and down, the parade of an army and the free fall of a heavy object are all examples of which motion?
+    A)Rectilinear motion | B)Periodic motion | C)Rotational motion | D)Oscillatory motion => ANS(A): Rectilinear motion
+[2021-S2|2021_104] According to the Henry Cavendish experiment conducted in 1797-1798, what was the value of the universal constant of gravity?
+    A)7.75 × 10−13 Nm2 /kg2 | B)5.75 × 10−10 Nm2 /kg2 | C)6.75 × 10−11 Nm2 /kg2 −9 2 2 | D)3.75 × 10−9 Nm2 /kg2 => ANS(C): 6.75 × 10−11 Nm2 /kg2 −9 2 2
+[2021|2021_118] In February 2020, the armed forces of India and the UK held a joint exercise in the UK. The exercise was named : HK 2. Mitra Prahar Ah’ 3. Ajeya Warrior JK 4. Surya kiran
+[2021-S2|2021_124] Hydroelectric power stations generate electricity by using the force of water that falls into the turbines and spins the shaft. By rotating the shaft of the turbine, the potential energy of water is converted into ________ energy.
+    A)chemical | B)thermal | C)gravitational | D)kinetic => ANS(D): kinetic
+[2020-S3|2020_129] What is the name of the force with which earth pulls everything towards itself?
+    1)Air pressure | 2)Thrust | 3)Gravity | 4)Resistance
+[2020-S1|2020_133] Which of the following is a lever that can be moved in several directions to control the movement of an image on a computer monitor or similar display screen?
+    1)Joystick | 2)Optical Mark Reader | 3)Visual Display Unit | 4)MIDI Devices => ANS(4): MIDI Devices
+[2019|2019_155] Indira Sagar Dam which is a concrete gravity dam is located in which of the followi
+    A)Uttar Pradesh is | B)Maharashtra | C)Chattisgarh | D)Madhya Pradesh => ANS(D): Madhya Pradesh
+[2019|2019_156] Which force helps swimmers float in water?
+    A)Muscular force | B)Frictional force | C)Buoyant force | D)Magnetic force => ANS(C): Buoyant force
+[2019|2019_158] In May 2019, who among appointed by the UN as the new Force United Nations Mission (UNMISS)?
+    A)Lieutenant general | B)Private Ankush Cheema | C)Lieutenant General | D)Colonel Amit Gupta => ANS(C): Lieutenant General
+[2018|2018_163] A body of mass 4 kg accelerates from Indian constitution 15 m/s to 25 m/s in 5 seconds due to Territories? the application of a force on it. Calculate the magnitude of this force (in N).
+    A)32 | B)8 | C)16 | D)64 => ANS(B): 8
+[2018|2018_166] During ____________ motion of an object along a straight line, the velocity remains constant with time.
+    A)linear | B)translational | C)uniform | D)equilibrium => ANS(C): uniform
+[2018|2018_167] In _____________ motion of a body its velocity varies with time.
+    A)uniform | B)linear | C)equilibrium | D)non-uniform digests => ANS(D): non-uniform digests
+[2018|2018_168] A body of mass 5 kg accelerates from 12 m/s to 20 m/s in 4 seconds due to the application of a force on it. Calcu- late the magnitude of this force (in N).
+    A)40 | B)10 | C)20 | D)80 => ANS(B): 10
+[2018|2018_168] For a body moving with uniform accel- eration its final velocity equals ____________.
+    A)average velocity - initial velocity | B)2 x average velocity - initial velocity | C)2 x average velocity + initial veloci- t | D)average velocity + initial velocity => ANS(B): 2 x average velocity - initial velocity
+[2018|2018_169] Find the acceleration body which accelerates 30 m/s in 10 seconds.
+    A)5.5 | C)1.1 => ANS: (D)
+[2018|2018_170] A bullet of mass 10gm is velocity of 40 m/s from a 8 kg. Find the recoil velocity the gun.
+    A)2 | B)0.1 | C)4 | D)0.05 => ANS(D): 0.05
+[2018|2018_170] During uniform motion of along a straight line, its remains constant with time.
+    A)acceleration | B)deceleration | C)force | D)velocity => ANS(D): velocity
+[2018|2018_175] During _____________ object along a straight velocity remains constant
+    A)Linear | B)transiational | C)uniform | D)equilbrium => ANS(C): uniform
+[2018|2018_176] Find the work done (in J) when charge of 10 C moves across potential difference of 2 V.
+    A)20 | B)5 | C)40 => ANS(A): 20
+[2018|2018_177] Calculate the time period (in seconds) of a sound wave of wavelength 2m travelling with a cells of speed of 250 m/s.
+    A)instantaneous velocity | B)liner velocity | C)average speed | D)acceleration => ANS(C): average speed
+[2018|2018_178] Due to an acceleration of velocity of a body increases m/s to 30 m/s in a Find the displacement body in that period.
+    A)200 | C)100 => ANS(C): 100
+[2018|2018_178] The area under a Velocity-Time represents ______________.
+    A)distance | B)acceleration | C)force | D)momentum => ANS(A): distance
+[2018|2018_180] Find the acceleration (in m/s 2 ) produced in a body of mass 4 kg when a force of 24 N is applied on it.
+    A)96 | B)6 | C)12 | D)48 => ANS(B): 6
+[2017|2017_182] Which of the following physical quantities a scalar quantity?
+    A)Weight | B)Impulse | C)Young's Modulus | D)acceleration => ANS(C): Young's Modulus
+[2017|2017_183] Which among the following is a characteristic of Laissez-faire system?
+    A)No government intervention | B)Market forces are highly regulated | C)It is a socialist system | D)Maximum government intervention => ANS(A): No government intervention
+[2017|2017_183] An object at rest will remain at rest and object in motion will remain in motion and unless it is acted upon by an force. This is Newton's
+    A)First law | B)Second law | C)Third law | D)Fourth law => ANS(A): First law
+[2017|2017_185] ________states that internal energy function of state and the increase internal energy is equal to the sum of heat supplied to system and work done the system.
+    A)First law of thermodynamics | B)Hooke's Law | C)The coulomb's law | D)Faraday's Law => ANS(A): First law of thermodynamics
+[2017|2017_185] What is the direction of torque?
+    A)Perpendicular to the direction applied f | B)Same as the direction of applied | C)Opposite to the direction of force | D)Parallel to the radius => ANS(A): Perpendicular to the direction applied force
+[2017|2017_187] Law of gravitation applies to _________
+    A)Any pair of bodies | B)The earth and the moon | C)The planets around the Sun | D)The earth and the objects on earth => ANS(A): Any pair of bodies
+[2017|2017_192] A cannon ball is fired. The motion of this ball is an example of....................... of...............
+    A)Straight line motion Pradesh | B)Projectile motion | C)Hyperbolic motion | D)Horizontal motion from Rs => ANS(B): Projectile motion
+[2017|2017_193] What does the slope of a velocity time graph reperesent ?
+    A)Acceleration | B)Distance | C)Speed | D)momentum => ANS(A): Acceleration
+
+###### जीव — कोशिका और आनुवंशिकी — 53 Qs
+[2024-S1|2024_002] Which of the following enzymes are essential of DNA replication in an animal cell?
+    1)Reverse transcriptase, DNA polymerase, L | 2)Reverse transcriptase, RNA polymerase, L | 3)Topoisomerase, DNA ligase, DNA polymeras | 4)Reverse transcriptase, DNA polymerase, D => ANS(1): Reverse transcriptase, DNA polymerase, Ligase
+[2024-S4|2024_009] Which of the following is NOT an alignment option for text in a cell?
+    1)Justified | 2)Left | 3)Center | 4)Right => ANS(4): Right
+[2024-S1|2024_010] The phenomenon of the interaction between nonallelic genes at two or more loci resulting in one gene masking the phenotypic expression of another gene, is known as:
+    1)epistasis | 2)linkage | 3)incomplete inheritance | 4)complete inheritance => ANS(1): epistasis
+[2024-S1|2024_013] Which of the following causes enlargement and extension growth of cells?
+    1)Turgor pressure | 2)imbibition | 3)Pressure potential | 4)Osmotic pressure => ANS(1): Turgor pressure
+[2024-S4|2024_020] The cell wall of bacteria is made up of:
+    1)glycogen | 2)cellulose | 3)peptidoglycan | 4)peptone => ANS(3): peptidoglycan
+[2024-S2|2024_025] In which year did a trio of scientists, Avery, MacLeod and McCarty, prove that except viruses, all living organisms have DNA as their genetic material?
+    1)1944 | 2)1961 | 3)1918 | 4)1902 => ANS(1): 1944
+[2024-S3|2024_026] Which of the following is a rare group of genetic disorders caused by mutations of certain genes affecting the colour (pigmentation) of the skin, hair and eyes?
+    1)Angelman syndrome | 2)Alkaptonuria | 3)Alagille syndrome | 4)Albinism => ANS(4): Albinism
+[2024-S4|2024_027] Who was the first person to conduct a systematic study of chromosomes during division and called this process mitosis?
+    1)Antonie van Leeuwenhoek | 2)Thomas Hunt Morgan | 3)Walther Flemming | 4)Friedrich Miescher => ANS(1): Antonie van Leeuwenhoek
+[2024-S1|2024_028] In the context of DNA, which of the following principles governs the process of transcription?
+    2)The transforming principle | 3)Semiconservative nature of DNA | 4)The principle of inheritance
+[2023-S4|2023_035] Which cell analysis technique is used to rapidly analyse single cells or particles as they flow through single or multiple lasers while suspended in a buffered salt-based solution? ¥
+    2)Flow cytometry X | 3)Electrochemical analysis X | 4)Multiple displacement amplification => ANS: (1)
+[2023-S4|2023_039] Which of the following is used in solar cookers? ans
+    1)Electrical supply | 2)Solar plate ~ > Mirror | 4)Electrochemical cell => ANS(4): Electrochemical cell
+[2023-S4|2023_046] Which cytologist demonstrated the role of the endoplasmic reticulum (ER) in protein processing and sorting in a variety of cells in the 1960s? v2 George E Palade X
+    3)Nettie Stevens X | 4)Cyril Darlington
+[2023-S2|2023_052] Which of the following cell organelles can make copies of themselves? ans >
+    1)Golgi apparatus | 2)acuole | 3)Cytoplasm ~ + Mitochondria
+[2023-S4|2023_054] _ Which type of haploid unicellular eukaryote cells has a diameter of ~10 jum, and about half of their volume is occupied by cup-shaped chloroplasts? ans X
+    1)Hydrodictyon * 2 Ulva ¥ >. Chlamydomonas | 4)Oedogonium
+[2023-S1|2023_059] Which cell organelles are known as cell’s post office? ~¥
+    2)Golgi apparatus | 3)Ribosome | 4)Plastid => ANS(2): Golgi apparatus
+[2022-S1|2022_068] Plant cells differ from animal cells in having an additional layer around the cell membrane termed as __________.
+    A)Cytoplasm | B)Vacuole | C)Cell wall | D)Chloroplast => ANS(C): Cell wall
+[2022-S3|2022_074] Which of the following shortcut key is used to make the contents of a cell italic in MSExcel 365?
+    1)Ctrl + 4 | 2)Ctrl + 3 | 3)Ctrl + 6 | 4)Ctrl + 2
+[2022-S2|2022_081] Which of the following statement is NOT correct regarding the prokaryotic cell?
+    A)They have only very small ribosomes as o | B)Membrane bound cell organelles are prese | C)Their chromosomes are composed of only n | D)Their size is generally in the range of  => ANS(B): Membrane bound cell organelles are present
+[2022-S4|2022_083] Which of the following shortcut key is used to start a new line in the same cell in MSExcel 365?
+    1)Tab + Enter | 2)Alt + Enter | 3)Ctrl + Enter | 4)Shift + Enter => ANS(3): Ctrl + Enter
+[2022-S2|2022_085] Breakdown of pyruvate into lactic acid and energy in lack of oxygen takes place in which of the following?
+    1)Bacteria | 2)Human muscle cells | 3)Yeast | 4)Mitochondria
+[2022-S2|2022_093] At high doses, ______ kills cancer cells or slows their growth by damaging their DNA. Cancer cells whose DNA is damaged beyond repair stop dividing or die. When the damaged cells die, they are broken down and removed by the body
+    A)Chemotherapy | B)Radiation therapy | C)Surgery | D)Physiotherapy => ANS(B): Radiation therapy
+[2021-S1|2021_097] Which of the following microscopic cells are of an amoeboid shape with a distinctive central membrane?
+    A)Nerve cells | B)White blood cells | C)Guard cells | D)Red blood cells => ANS(B): White blood cells
+[2021-S2|2021_098] Which membrane-bound organelles, first discovered in 1857, are often referred to as the ‘energy factories’ of the cell because they are responsible for making adenosine triphosphate (ATP), the cell's main energy-carrying molecule?
+    A)Smooth endoplasmic reticulum | B)Vacuoles | C)Mitochondria | D)Ribosomes => ANS(C): Mitochondria
+[2021-S2|2021_098] Choose the correct sequence for central dogma.
+    A)Protein translation, DNA Replication, m- | B)DNA Replication, m-RNA transcription, Pr | C)m-RNA transcription, Protein translation | D)m-RNA transcription, DNA Replication, Pr => ANS(B): DNA Replication, m-RNA transcription, Protein translation
+[2021-S2|2021_100] What is the role of ribosomes of a polysome?
+    A)Help in DNA replication | B)Translate the mRNA into proteins | C)Create rRNA | D)Help in making DNA => ANS(B): Translate the mRNA into proteins
+[2021-S1|2021_101] Which is the major microtubule-organising centre (MTOC) in eukaryotic cells involved in various cellular processes, including sensory reception, locomotion, and embryogenesis?
+    A)Plastids | B)Vacuoles | C)Centrosome | D)Lysosomes => ANS(C): Centrosome
+[2021-S1|2021_105] In animal cells, which membrane-bound cell organelles are generally smaller and help to separate waste products?
+    A)Plastids | B)Cytosols | C)Golgi apparatus | D)Vacuoles => ANS(D): Vacuoles
+[2021-S1|2021_105] Identify the component that is unique only to prokaryotes.
+    A)Nucleus | B)Chromosomes | C)Mesosome | D)Nuclear membrane => ANS(C): Mesosome
+[2021-S2|2021_106] Identify the component found only in a eukaryotic cell.
+    A)Ribosomes | B)Plasma membrane | C)Nuclear membrane | D)Cytoplasm => ANS(C): Nuclear membrane
+[2021-S1|2021_107] Which of the following statements is correct about mitochondria?
+    A)Mitochondria is present only in bacteria | B)Mitochondria is present in all living ce | C)Mitochondria is not bound by any membran | D)Mitochondria without outer membrane is c => ANS(D): Mitochondria without outer membrane is called mitoplast
+[2021-S2|2021_108] Solanum lycopersicum L. is the scientific name of which of the following highly consumed vegetables?
+    A)Potato | B)Tomato | C)Onion | D)Garlic => ANS(B): Tomato
+[2021-S2|2021_114] Under the electron microscope, which cell organelle is visible as either clusters or single, small dots that float freely in the cytoplasm?
+    A)Golgi apparatus | B)Ribosomes | C)Vesicles | D)Peroxisomes => ANS(B): Ribosomes
+[2021-S2|2021_116] Which cell theory proved that the quasi-fluid nature of lipid enables lateral movement of proteins within the overall bilayer?
+    A)Model of Golgi bodies | B)Cell theory | C)Fluid mosaic model | D)Vacuole theory => ANS(C): Fluid mosaic model
+[2021|2021_119] ______ was the ﬁrst person who discovered cells.
+    1)Alexander Fleming | 2)Francis Crick | 3)Robert Hooke | 4)Ernest Rutherford => ANS(3): Robert Hooke
+[2021-S1|2021_121] Which of the following serves as the cell's digestive system, serving both to degrade material taken from outside the cell and to digest the undigested components of the cell?
+    A)Ribosomes | B)Lysosomes | C)Smooth endoplasmic reticulum | D)Cytosol => ANS(B): Lysosomes
+[2021-S2|2021_122] In 1879, who observed cell division in salamander embryos, where cells divide at fixed intervals?
+    A)Albert von Kolliker | B)Walther Flemming | C)Garth L Nicolson | D)Edwin Gorter => ANS(B): Walther Flemming
+[2021-S2|2021_124] In 1838, who published an article discussing the structure and origin of plant cells?
+    A)Robert Brown | B)Rudolf Virchow | C)Matthias Schleiden | D)Albert von Kölliker => ANS(C): Matthias Schleiden
+[2020-S3|2020_146] Which of the following cell organelles is responsible for the storage, modiﬁcation and packaging of products in vesicles?
+    1)Plastids | 2)Mitochondria | 3)Endoplasmic reticulum | 4)Golgi apparatus
+[2019|2019_154] The term 'mitochondria' was coined
+    A)J E Salk | B)Carl Benda | C)Charles Laveran | D)Antonie van Leeuwenhoek => ANS(B): Carl Benda
+[2018|2018_163] Which of the following pair of sex chromosomes
+    A)XY | B)XX | C)YY | D)no option is => ANS(A): XY
+[2018|2018_167] Which is the CORRECT pair of inherited chromosomes for the child to be a girl?
+    A)X from father and Y from mother | B)Y from father and X from mother | C)Y from father and Y from mother | D)X from father and X from mother => ANS(D): X from father and X from mother
+[2018|2018_170] By which process the Chinese Scien- tists have cloned two identical long - tailed macaques?
+    A)Polymerase chain reaction | B)Parthenogenesis | C)Somatic cell nuclear transfer | D)Embryonic cell nuclear => ANS(C): Somatic cell nuclear transfer
+[2018|2018_174] Which of the following relation is true regarding the amounts of genetic material contributed by the father and mother to the child?
+    A)Father>>Mother | B)Father<<Mother | C)Father=Mother | D)No relation can be determined. => ANS(C): Father=Mother
+[2018|2018_175] What are the names of the two identical long tailed macaques cloned which among by the Chinese Scientists?
+    A)Long Hong and Zhua Zhua | B)Zhong-Zhong and Hua Hua | C)Tailong and Shanua | D)Rongla and Shamone => ANS(B): Zhong-Zhong and Hua Hua
+[2018|2018_176] Which among the following do have a perfect pair of chromosomes
+    A)Only men | B)Only women | C)Both men and women | D)Neither men nor women => ANS(A): Only men
+[2018|2018_176] CIPAM is planning to launch scheme for raising intellectual property rights awareness at a of Rs 29.7 crore. What does ‘C’ for in ‘CIPAM’?
+    A)Cell | B)Compound | C)compartment | D)Combined => ANS(A): Cell
+[2018|2018_178] Each trait in the child can be first BIMSTEC influenced by ______ DNA.
+    A)Only paternal | B)Only maternal | C)Both paternal and maternal | D)Neither paternal nor maternal => ANS(C): Both paternal and maternal
+[2018|2018_181] Which chemical is present in the cells of cork of tree which makes them impervious to gases and water?
+    A)Cellulose | B)Suberin | C)Pectin | D)Lignin => ANS(D): Lignin
+[2017|2017_183] Delonix regia Rafin is the scientific name
+    A)Banyan | B)Gulmohar | C)Tamarind | D)Chiku => ANS(B): Gulmohar
+[2017|2017_185] RNA is a polymeric molecule. What does RNA stand for?
+    A)Rado Nuclear Acid | B)Ribo Nucleic Acid | C)Rhino Nuclear Acid | D)Resto Nucleus Acid appear Ans. B
+[2017|2017_186] Psidium guajava is the scientific name of train?
+    A)45 km/hr | B)54 km/hr | C)67.5 km/hr | D)36 km/hr => ANS(A): 45 km/hr
+[2017|2017_192] Which of the following constitute form a gene ?
+    A)Polynucleotides | B)Hydrocarbons | C)Lipoproteins | D)Lipids => ANS(A): Polynucleotides
+[2017|2017_193] Punica granatum is the scientific name of......................
+    A)Custard Apple | B)Gulmohar | C)Silver Oak | D)Pomegranate => ANS(D): Pomegranate
+
+###### जीव — पादप जीव विज्ञान — 50 Qs
+[2024-S4|2024_001] In a dihybrid cross between two heterozygous fruit flies with brown bodies and red eyes (BbEe X BbEe), what will be the probability of getting BBEE genotype?
+    1)1/2 | 2)1/4 | 3)1/16 | 4)1/8 => ANS(3): 1/16
+[2024-S3|2024_008] Which of the following is a part of apical meristem found in roots.
+    1)Protoderm | 2)Axillary bud | 3)Differentiating vascular tissue | 4)Leaf primordium => ANS(1): Protoderm
+[2024-S1|2024_017] In honey bees,
+    1)males are diploid and females are haploi | 2)males are triploid and females are tetra | 3)males are haploid and females are diploi | 4)males are tetraploid and females are tri => ANS(2): males are triploid and females are tetraploid.
+[2024-S4|2024_024] In which of the following plants do roots arise from parts of a plant other than the radicle?
+    1)Maize | 2)Monstera | 3)Mustard plant | 4)Turnip
+[2024-S1|2024_032] The loss of water in the form of water droplets from leaves of plants is called__.
+    1)Pressure gradient | 2)Plasmolysis | 3)Guttation | 4)Translocation => ANS(3): Guttation
+[2023-S1|2023_036] What is the scientific name of the banyan tree. a large evergreen tree of Asia characterised by its trunk-like aerial roots? X
+    2)Gossypium herbaceum | 3)Santalum album | 4)Ananas comosus => ANS: (1)
+[2023-S4|2023_042] Which of the following are cryptogam? %
+    2)Dicots X | 3)Angiosperm ~# * Pteridophyta Chosen Opti
+[2023-S2|2023_048] Which of the following is a perennial herbaceous plant in the nightshade family Solanaceae that is used in alternative medicine as an aid in treating arthritis pain. colds or hay fever? ans X
+    1)Arachis hypogaea X | 2)Cynodon dactylon | 3)Cicer arietinum v4 Atropa belladonna
+[2023-S3|2023_057] Which of the following personalities is a well-known Indian plant physiologist and physicist? ans
+    1)JC Bose | 2)CV Raman | 3)CNR Rao | 4)JRD Tata => ANS(1): JC Bose
+[2023-S4|2023_062] . Which of the following is a kind of Xanthan? ans X
+    1)Seed gum X | 2)Seaweed gum #%. Microbial gum X | 4)Exudate gum
+[2022-S4|2022_067] The reproduction in yeast happens by the process of ______.
+    1)Budding | 2)Fragmentation | 3)Spore formation | 4)Fertilisation => ANS(1): Budding
+[2022-S4|2022_079] Which of the following rocks may also contain fossils of plants, animals and other microorganisms that once lived on them?
+    1)Sedimentary rocks | 2)Extrusive igneous rocks | 3)Metamorphic rocks | 4)Intrusive igneous rocks => ANS(1): Sedimentary rocks
+[2022-S4|2022_079] Which of the following is a common type of Bryophyta?
+    1)Cladophora | 2)Marsilea | 3)Marchantia | 4)Monocot
+[2022-S4|2022_083] 11th National Seed Congress was held in ______.
+    1)Mysuru | 2)New Delhi | 3)Chennai | 4)Gwalior
+[2022-S2|2022_085] When the grains of sand are very fine and light, the wind can carry it over very long distances. When such sand is deposited in large areas, it is called ______.
+    1)stacks | 2)loess | 3)moraines | 4)mushroom => ANS(1): stacks
+[2022-S1|2022_088] Which of the following is not an asexual form of reproduction in plants?
+    A)Spore formation | B)Vegetative propagation | C)Budding | D)Pollination => ANS(D): Pollination
+[2022-S4|2022_091] Which of the following is not a subgroup of plant kingdom?
+    1)Thallophyta | 2)Angiosperms | 3)Pteridophyta | 4)Hemichordata => ANS(4): Hemichordata
+[2021-S2|2021_096] What is a biotechnological process accomplished by yeast, some type of bacteria, or some other microorganism to convert sugar into ethyl alcohol and carbon dioxide?
+    A)Pasteurisation | B)Lactic acid fermentation | C)Alcoholic fermentation | D)Glycolysis => ANS(C): Alcoholic fermentation
+[2021-S2|2021_096] Antonie van Leeuwenhoek was known for which discovery in late 17th century?
+    A)Discovery of the properties of a stem ce | B)Observation of bacteria and protozoa | C)Discovery of the role of ATP as the sour | D)Discovery of nucleus in the cell => ANS(B): Observation of bacteria and protozoa
+[2021-S1|2021_097] Why are species of moss used as fuel?
+    A)Provide bituminous for energy | B)Provide peat that have long been used as | C)Make a version of coal | D)Help in geothermal energy => ANS(B): Provide peat that have long been used as fuel
+[2021-S1|2021_097] Oleo gum resin (Asafoetida) can be obtained from:
+    A)dried latex from the stem of ferula | B)dried latex from the roots of mango tree | C)dried latex from the banana leaves | D)dried latex from the tap root of ferula => ANS(D): dried latex from the tap root of ferula
+[2021-S1|2021_097] Which algae produces agar?
+    A)Gracilaria | B)Chlorella | C)Sargassum | D)Align => ANS(A): Gracilaria
+[2021-S2|2021_102] Which phylum of the plant kingdom consists of vascular plants, leaves (known as fronds), roots and sometimes true stems and entire trunks in tree ferns?
+    A)Gymnosperm | B)Bryophyta | C)Angiosperm | D)Pteridophyta => ANS(D): Pteridophyta
+[2021-S2|2021_102] In 1857, who was the first to experimentally demonstrate that the yeast responsible for making alcohol from sugar, and contaminating microorganisms found in normal air, could sour fermentation?
+    A)Louis Pasteur | B)Martinus Willem Beijerinck | C)Fanny Hesse | D)Alexander Fleming => ANS(A): Louis Pasteur
+[2021-S1|2021_105] Identify the plant that shows adaptation through leaves that are reduced to spines.
+    A)Mimosa | B)Rose | C)Opuntia | D)Hibiscus => ANS(C): Opuntia
+[2021-S2|2021_108] Identify the solution extracted from a plant belonging to division Thallophyta.
+    A)Turmeric solution | B)Phenolphthalein solution | C)Litmus solution | D)Cabbage solution => ANS(C): Litmus solution
+[2021-S2|2021_112] What do you call the water holding compounds produced in large quantities by marine brown and red algae?
+    A)Lipids | B)Carbohydrates | C)Hydrocolloids | D)Gelatin => ANS(C): Hydrocolloids
+[2021-S1|2021_113] Which red-orange pigment found in plants and fruits, especially carrots and colourful vegetables, acts as a powerful antioxidant that can benefit our brain, skin, lungs, and eye health?
+    A)Beta-cryptoxanthin | B)Beta-carotene | C)Zeaxanthin | D)Lutein => ANS(B): Beta-carotene
+[2021-S2|2021_114] Identify the element that helps to trap light energy that is essential for photosynthesis.
+    A)Cristae | B)Amyloplasts | C)Carotenoid | D)Vacuoles => ANS(C): Carotenoid
+[2021|2021_117] AMR occurs when bacteria, viruses, fungi and parasites change over time and no longer respond to medicines making infections harder to treat and increasing the risk of disease spread, severe illness and death. What is the full form of AMR?
+    1)Antimicrobial Resistance | 2)Acutemicrobial Resistance | 3)Antimalarial Resistance | 4)Antimeasles Resistance => ANS(1): Antimicrobial Resistance
+[2021-S1|2021_123] Which of the following are non-vascular flowerless plants in the taxonomic division of Bryophyta?
+    A)Mosses | B)Pines | C)Pea plant | D)Ferns => ANS(A): Mosses
+[2021-S2|2021_124] Which term is used to describe all living communities on earth, including animals, plants, bacteria, fungi and photosynthetic microbes?
+    A)Biosphere | B)Community | C)Habitat | D)Biome => ANS(A): Biosphere
+[2021-S1|2021_125] What is the common name of the members of family Phaeophyceae?
+    A)Green algae | B)Red algae | C)Brown algae | D)Blue green algae => ANS(C): Brown algae
+[2021-S2|2021_126] Which ministry launched the ‘Start-up India Seed Fund Scheme’?
+    A)Ministry of Commerce and Industry | B)Ministry of Finance | C)Ministry of Skill Development and Entrep | D)Ministry of Textiles => ANS(A): Ministry of Commerce and Industry
+[2020-S2|2020_128] Which of the following divisions of plants does NOT have a well differentiated body?
+    1)Bryophyta | 2)Thallophyta | 3)Gymnosperms | 4)Pteridophyta => ANS(3): Gymnosperms
+[2020-S2|2020_139] Which causative microorganism is responsible for the common cold and inﬂuenza (ﬂu)?
+    1)Protozoa | 2)Viruses | 3)Fungi | 4)Bacteria => ANS(2): Viruses
+[2020-S3|2020_140] Which part of a plant cell traps sunlight to make sugar?
+    1)Leucoplast | 2)Chromoplast | 3)Chloroplast | 4)Starch grain => ANS(3): Chloroplast
+[2020-S2|2020_143] Which of the following are the 5 groups that plants are divided into?
+    1)Mollusca, Bryophytes, Pteridophytes, Gym | 2)Annelida, Bryophytes, Pteridophytes, Gym | 3)Thallophytes, Bryophytes, Pteridophytes, | 4)Arthropoda, Bryophytes, Pteridophytes, G => ANS(3): Thallophytes, Bryophytes, Pteridophytes, Gymnosperms and Ang
+[2019|2019_157] Which of the following are that produce cones and seeds are not encased within
+    A)Gymnosperms | C)Bryphytes => ANS(A): Gymnosperms
+[2018|2018_166] Which among the following is NOT an event during the photosynthesis process?
+    A)Absorption of light energy by for chloro | B)Conversion of light energy to chemical o | C)Splitting of water molecules into hydrog | D)Oxidation of carbon dioxide to carbohydr
+[2018|2018_168] Gaseous exchange takes place in leaves through tiny pores for the pur- pose of photosynthesis. What are these pores?
+    A)Chloroplast | B)Stomata | C)Chlorophyll | D)Vacuole => ANS(B): Stomata
+[2018|2018_175] Which among the following is NOT an event during the photosynthesis process?
+    A)Absorption of light energy by chlorophyl | B)Conversion of light energy to Mumbai-Ahm | C)Splitting of water molecules into hydrog | D)Oxidation of carbon dioxide 2025 to carb => ANS(D): Oxidation of carbon dioxide 2025 to carbohydrates
+[2018|2018_177] What is the function of guard stomata?
+    A)Opening of stomata only | B)losing of stomata only | C)Both opening an d stomata | D)Neither opening nor of stomata => ANS(C): Both opening an d stomata
+[2018|2018_178] Which is NOT an example of organism that breaks down the food material outside the body and then following is NOT absorb it?
+    A)Bread moulds | B)Yeast | C)Mushrooms | D)Snake => ANS(D): Snake
+[2018|2018_179] Which tissue provides support to plants and also stores food? Sabha
+    A)Parenchyma | B)Collenchyma which | C)Sclerenchyma | D)No option is correct. => ANS(A): Parenchyma
+[2017|2017_184] Which tissue provides support to plants and also stores food? Sabha
+    A)Parenchyma | B)Collenchyma which | C)Sclerenchyma | D)No option is correct. => ANS(A): Parenchyma
+[2017|2017_185] Which of the following is not true about Angiosperms?
+    A)Dominant phase is gametophytes | B)Vascular bundles are present | C)Spores are heterospores | D)Seeds are covered => ANS(A): Dominant phase is gametophytes
+[2017|2017_187] A __________is species of plant that has adapted to survive in an environment with little liquid water.
+    A)xerophyte | B)hydrophyte | C)mesophyte | D)thallophyte => ANS(A): xerophyte
+[2017|2017_189] Artocarpus integra is the scientiﬁc name _______.
+    A)Guava | B)Pineapple | C)Silver Oak | D)Jack fruit => ANS(D): Jack fruit
+[2017|2017_190] Grevillea Robusta is the scientiﬁc name __________.
+    A)Peepal | B)Teak | C)Silver Oak | D)Jack fruit => ANS(C): Silver Oak
+
+###### रसायन — परमाणु और आवर्त सारणी — 43 Qs
+[2024-S3|2024_023] A proton bonds to the oxygen atom of a solvent water to give a hydronium ion.
+    1)tetrahedral | 2)square pyramid | 3)square planar | 4)trigonal pyramidal => ANS(4): trigonal pyramidal
+[2023-S1|2023_043] Which radioactive isotope has a half-life of 5770 years, which is commonly used to estimate the age of organic materials such as paper and parchment? % 2. 126 73. de x4 17¢
+[2023-S1|2023_047] Which d-block element in the periodic table is represented by the Greek symbol ‘alpha’ and the metallic 'rays'? ans X 1. Lanthanum ¥? Actinium
+    3)Rhenium
+[2023-S2|2023_048] The number of elements known at the time of Russian chemist Dmitti Ivanovich Mendeleev was: ans
+    1)57 XK | 2)53 73. 63 4 67 => ANS(1): 57 XK
+[2023-S3|2023_049] — which is the soft. malleable and silvery-yellow metal with atomic number 59 in the lanthanide series? ans 1. Neodymium
+    2)Praseodymium => ANS(2): Praseodymium
+[2023-S3|2023_053] In which group of the Periodic ‘Table will you put the elements with electronic configuration [He]2s? 2p? x26 7318 x4 10
+[2023-S4|2023_054] A diagonal relationship is found between which pair of the following elements? ans v1. Liand Mg %
+    2)Be and B | 3)Be and Mg | 4)Naand Mg
+[2023-S1|2023_055] The correct order of electron affinity of halogens is: %
+    2)|<Br<Cl<F 5. I<Br<F<Cl | 4)|>Br>F<Cl => ANS: (3)
+[2023-S1|2023_059] Which element of group 13 has the atomic number 113 and its electronic configuration is [Ris] $f'46d!975?7p!2 ans X
+    1)Gallium | 2)Indium ¥ >. Nihonium %4 Thallium
+[2023-S2|2023_060] Who first introduced the idea of a relationship between molecular geometry and the aumber of valence electrons in the 19405? ans
+    1)Bent and Nyholm | 2)Hendricus and Nicol ¥ | 3)Sidgwick and Powell X | 4)Heitler and Gillespie
+[2023-S2|2023_064] Which of the following compounds having the molecular formula CyH is derived from the hydride of acetylene? ans y
+    1)Ethynyl X | 2)Propargyl | 3)inyl x4 Allyl => ANS(1): Ethynyl X
+[2023-S2|2023_064] Name the transuranium element with atomic number 106, created by bombarding californiumr2+? with oxygen™® uelei. * 2 Dubnium %
+    3)Hassium X | 4)Copernicium
+[2023-S3|2023_065] What mmerical scale was introduced in 1932 that determined the electronegativity of fluorine to be
+    4)Jae scale | 2)Mulliken scale 7°. Pauling scale
+[2023-S4|2023_066] What mmerical scale was introduced in 1932 that determined the electronegativity of fluorine to be
+    4)Jae scale | 2)Mulliken scale 7°. Pauling scale
+[2022-S1|2022_084] What is the atomic mass of sodium?
+    A)32 | B)40 | C)23 | D)12 => ANS(C): 23
+[2022-S4|2022_095] Which of the following pairs of 'number – composition' is correct? I. Atomic number – number of protons II. Mass number – Sum of number of neutrons and protons
+    1)Only I | 2)Neither I nor II | 3)Both I and II | 4)Only II => ANS(3): Both I and II
+[2021-S2|2021_096] Identify the word that means vertical columns of Periodic Table.
+    A)Valence electrons | B)Groups | C)Periods | D)Orbitals => ANS(B): Groups
+[2021-S1|2021_103] Why are the outermost electrons lost easily down the group?
+    A)The elements are inert | B)The innermost electrons are farther away | C)The outermost electrons are closest to t | D)The outermost electrons are farther away => ANS(D): The outermost electrons are farther away from the nucleus
+[2021-S1|2021_103] When did Ernest Rutherford publish the results of the gold-foil experiment, which showed that scattering is caused by a rigid, dense core at the centre of the atom - the nucleus?
+    A)1905 | B)1911 1921 | D)1925 => ANS(B): 1911 1921
+[2021-S2|2021_104] In 1817, which law of periodicity showed that the atomic weight of phosphorus is the mean of those of nitrogen and arsenic?
+    A)Moseley's Periodic Law | B)Mendeleev's Periodic Law | C)Dobereiner’s Law of Triads | D)Newlands’ Octaves Law => ANS(C): Dobereiner’s Law of Triads
+[2021-S2|2021_110] In the electronic configuration of an atom, What does ‘n’ signify in the formula 2n2 ?
+    A)The number of electrons | B)The number of protons | C)The number of the given shell from the n | D)The number of valence electrons present => ANS(C): The number of the given shell from the nucleus
+[2021-S1|2021_111] Who arranged the elements with chemically similar properties, such as lithium, sodium, and potassium, and showed that the properties of the middle element could be predicted from the properties of the other two?
+    A)Johann Dobereiner | B)Lothar Meyer | C)John Newlands | D)Dmitri Mendeleev => ANS(A): Johann Dobereiner
+[2021-S1|2021_111] Identify the word that means horizontal rows in periodic table.
+    A)Groups | B)Orbitals | C)Periods | D)Valence electrons => ANS(C): Periods
+[2021-S2|2021_114] Which group is on the second column from the right in the periodic table and contains fluorine (F), chlorine (Cl), bromine (Br), iodine (I), astatine (At) and tennessine (Ts)?
+    A)Group 16 | B)Group 15 | C)Group 13 | D)Group 17 => ANS(D): Group 17
+[2021-S2|2021_116] Where is sodium located on the periodic table?
+    A)Bottom of the table | B)On the left side | C)Top period | D)On the right side => ANS(B): On the left side
+[2021-S1|2021_121] Identify the group of the periodic table to which iron belongs.
+    A)Group 8 | B)Group 6 | C)Group 5 | D)Group 7 => ANS(A): Group 8
+[2021-S2|2021_122] According to Mendeleev's periodic table, which unknown element of group III had an atomic mass of 68 that was later replaced by gallium?
+    A)Eka-aluminium | B)Eka-manganese | C)Eka-boron | D)Eka-silicon => ANS(A): Eka-aluminium
+[2021-S2|2021_122] Why does the effective nuclear charge experienced by valence electrons decrease down the group?
+    A)The outermost electrons are farther away | B)The innermost electrons are farther away | C)The elements are inert | D)The outermost electrons are closest to t => ANS(A): The outermost electrons are farther away from the nucleus
+[2021-S1|2021_125] Who proposed the ‘plum pudding’ theory of the divisible atom in which negatively charged electrons were scattered in a lump of positive charge like a raisin in plum pudding?
+    A)Robert Andrews Millikan | B)Ernest Rutherford | C)Sir JJ Thomson | D)Henri Becquerel => ANS(C): Sir JJ Thomson
+[2020-S3|2020_132] Which scientist arranged the Periodic Table of Elements in the order of increasing atomic masses?
+    1)Dmitri Mendeleev | 2)Henry Moseley | 3)Robert Boyle | 4)William Ramsay => ANS(1): Dmitri Mendeleev
+[2020-S2|2020_134] Who among the following is credited with the discovery of neutrons?
+    1)JJ Thomson | 2)James P Joule | 3)E Rutherford | 4)J Chadwick => ANS(4): J Chadwick
+[2019|2019_151] _________ are stable, negatively charged particles found in all atoms.
+    A)Photons | B)Protons | C)Neutrons | D)Electrons in the => ANS(D): Electrons in the
+[2019|2019_160] Jadugora, in is an important following?
+    A)Manganese | C)Uranium => ANS(C): Uranium
+[2018|2018_181] Isotones have always ________.
+    A)Same number of protons | B)Same atomic number | C)Same number of neutron | D)Same number of proton and same number of => ANS(C): Same number of neutron
+[2017|2017_182] Which among the following is present inside the nucleus of an atom?
+    A)Protons and Neutrons | B)Electrons and Protons | C)Neutrons and Electrons | D)Neutrons, Protons, Electrons => ANS(A): Protons and Neutrons
+[2017|2017_187] Atomic number of which of the following elements is greater than that of Silicon________
+    A)Aluminium | B)Sulphur | C)Magesium | D)Sodium => ANS(B): Sulphur
+[2017|2017_189] Fe has 26 protons in its nucleus. What the number of electrons in Fe 2 + (II) ion?
+    A)24 | B)26 | C)28 | D)13 => ANS(A): 24
+[2017|2017_190] The modern periodic table consists groups and 7 periods. What is the number of the element placed in the group and the 4th period?
+    A)23 | B)21 | C)19 | D)11 => ANS(B): 21
+[2017|2017_191] Atomic number of which of the elements is greater than that of Zinc.
+    A)Copper | B)Iron | C)Chromium | D)Bromine => ANS(D): Bromine
+[2017|2017_191] .........................of a material as the minimum amount of the work necessary to remove a free electron surface of the material.
+    A)The electro-repulsive force | B)The coulomb factor | C)The power factor | D)The work function => ANS(D): The work function
+[2017|2017_192] Atomic number of which of the following elements is greater than iron ?
+    A)Manganese | C)Calcium => ANS: (B)
+[2017|2017_193] The modern periodic table consists of 18 groups and 7 periods. What is the atomic number of the element placed in the 1 st group and the 4 th period?
+    A)21 | B)17 | C)19 | D)9 => ANS(C): 19
+[2017|2017_193] Atomic number of which of the following elements is greater than that of Iodine.
+    A)Silver | B)Bromine | C)Platinum | D)Zinc => ANS(C): Platinum
+
+###### रसायन — अम्ल, क्षार और लवण — 36 Qs
+[2024-S4|2024_001] In which year did Eric A. Cornell, Wolfgang Ketterle and Carl E. Wieman receive the Nobel Prize in Physics for the achieving ‘Bose-Einstein condensation in dilute gases of alkali atoms'?
+    1)2001 | 2)2003 | 3)2000 | 4)2002 => ANS(1): 2001
+[2024-S1|2024_006] Bharat Muni, in his Natya Shastra, categorises musical instruments into four different parts. What is the categorisation of musical instruments by Bharat Muni based on?
+    1)Different sounds of the musical instrume | 2)The shape of the musical instruments | 3)The uses of the musical instruments in d => ANS(1): Different sounds of the musical instruments
+[2024-S1|2024_010] Bankim Chandra Chatterjee wrote a novel Anand Math based on which of the following rebellions/revolts?
+    1)Paika Rebellion | 2)Kuki Revolt | 3)Sanyasi Rebellion | 4)Mappila Rebellion => ANS(1): Paika Rebellion
+[2024-S4|2024_012] The reaction of an acid and a metal gives:
+    1)salt and water | 2)carbon dioxide, salt and hydrogen gas | 3)hydrogen gas and salt | 4)carbon dioxide, salt and water => ANS(3): hydrogen gas and salt
+[2024-S3|2024_023] Which non-essential amino acid is synthesised by the hydroxylation of phenylalanine in a reaction catalysed by phenylalanine hydroxylase?
+    1)Glycine | 2)Tyrosine | 3)Glutamine | 4)Cysteine => ANS(2): Tyrosine
+[2024-S4|2024_027] In which of the following liquids would anthracene dissolve easily?
+    1)Water | 2)Benzene | 3)Methane | 4)Sodium chloride => ANS(2): Benzene
+[2024-S1|2024_028] In which year did Johannes Nicolaus Bronsted and Thomas Martin Lowry propose the fundamental concept of acids and bases?
+    1)1925 | 2)1921 | 3)1923 | 4)1928 => ANS(3): 1923
+[2023-S2|2023_044] Which German chemist used the technique of preparing hydrocarbons by electrolysis of solutions of salts of fatty acids? ans X
+    1)Cecilia Payne | 2)Marcellin Berthelot | 3)Giulio Natta ~* Hermann Kolbe
+[2023-S1|2023_047] Inwhich year did Niels Bohr propose a theory for the hydrogen atom based on the quantum theory that some physical quantities take only discrete vanes? ans
+    1)1919 | 2)1921 | 3)1909 74 1913 => ANS(1): 1919
+[2022-S1|2022_072] Which of the following base is found in lime water?
+    A)Calcium hydroxide | B)Potassium hydroxide | C)Magnesium hydroxide | D)Ammonium hydroxide => ANS(A): Calcium hydroxide
+[2022-S3|2022_078] Which of the following statements is/are correct? I. Salts of a strong acid and weak base are acidic with pH value less than 7. II. When electricity is passed through an aqueous solution of sodium chloride (called brine), it decomposes to form sodium oxide.
+    1)Only II | 2)Neither I nor II | 3)Both I and II | 4)Only I
+[2022-S1|2022_084] Which of the following statements is correct?
+    A)Living organisms can survive a wide rang | B)When pH of rain water is less than 8.2,  | C)Our body works within the pH range of 7. | D)Tooth decay starts when the pH of the mo => ANS(C): Our body works within the pH range of 7.0 to 7.8.
+[2022-S3|2022_086] What is the pH of normal milk?
+    1)9.1-9.3 | 2)8.1-8.3 | 3)5.4-5.6 | 4)6.7-6.9 => ANS(1): 9.1-9.3
+[2022-S3|2022_086] Silicon dioxide is found mostly in which of the following?
+    1)Sand | 2)Sugar | 3)Salt | 4)Slaked lime => ANS(1): Sand
+[2022-S4|2022_087] Malic Acid is found in which of the following substances?
+    1)Apple | 2)Vinegar | 3)Ant’s sting | 4)Tamarind => ANS(1): Apple
+[2021-S2|2021_100] Who synthesised acetic acid for the first time?
+    A)Berzelius | B)Kolbe | C)F Wohler | D)Berthelot => ANS(B): Kolbe
+[2021-S1|2021_101] Which group was given the name ‘paraffin’ earlier?
+    A)Aldehydes | B)Alcohols | C)Acids | D)Alkanes => ANS(D): Alkanes
+[2021-S1|2021_113] Aqua regia is an acidic, corrosive and oxidative mixture consisting of ________ volume/volumes of concentrated hydrochloric acid and one volume of concentrated nitric acid, often used to dissolve gold and platinum.
+    A)Two | B)Three | C)one | D)Four => ANS(B): Three
+[2021-S1|2021_115] Muriatic acid is another name of which compound used in the production of chlorides, fertilisers, and dyes, in electroplating, and in the photographic, textile and rubber industries?
+    A)Perchloric Acid | B)Sulfuric acid | C)Hydrochloric acid | D)Nitric acid => ANS(C): Hydrochloric acid
+[2021-S1|2021_115] What happens when an acid or a base is mixed with water?
+    A)Decrease in the concentration of ions (H | B)Decrease in the concentration of ions (H | C)increase in the concentration of ions (H | D)Decrease in the concentration of ions (H => ANS(B): Decrease in the concentration of ions (H3O+/OH-) per litre v
+[2021-S1|2021_115] Which vegetable contains a chemical called anthocyanin that turns pink/reddish in the presence of acid, turns purple when neutral and turns blue or green when mixed with alkaline substances?
+    A)Pomegranate | B)Red leaf lettuce | C)Radish | D)Red cabbage => ANS(D): Red cabbage
+[2021-S1|2021_121] What is the common name of C6H6?
+    A)Methanol | B)Acetic acid | C)Acetone | D)Benzene => ANS(D): Benzene
+[2021-S1|2021_123] Which of the following is a white, crystalline organic acid often used as an acidulant in grape and lime-flavoured drinks, gelatine desserts, jams, jellies, and hard sour confectionery?
+    A)Malic acid | B)Tartaric acid | C)Oxalic acid | D)Ascorbic acid => ANS(B): Tartaric acid
+[2021-S2|2021_124] In the early 1980s, an aspartic acid-containing dipeptide sweetener was discovered, that was about 2000 times sweeter than sucrose. What is the name of that sweetener?
+    A)Alitame | B)Saccharin | C)Aspartame | D)Sucralose => ANS(A): Alitame
+[2020-S3|2020_132] What is the chemical name of ‘oil of vitriol’?
+    1)Methyl alcohol | 2)Calcium hydroxide | 3)Sodium chloride | 4)Sulfuric acid => ANS(1): Methyl alcohol
+[2020-S3|2020_140] Name the ﬁlmmaker who made the Hindi ﬁlm, ‘Chhapaak’, based on the story of an acid attack victim.
+    1)Deepika Padukone | 2)Meghna Gulzar | 3)Rani Mukherji | 4)Yash Chopra => ANS(2): Meghna Gulzar
+[2020-S3|2020_140] The pH of a liquid was found to be 7. Which liquid is it likely to be?
+    1)Saline | 2)Alkali | 3)Water | 4)Acid => ANS(3): Water
+[2020-S3|2020_146] Aqua regia is a freshly prepared mixture of concentrated hydrochloric acid and concentrated nitric acid. What is the ratio of this mixture?
+    1)2 : 1 | 2)2 : 3 | 3)2 : 2 | 4)3 : 1 => ANS(4): 3 : 1
+[2019|2019_152] What is the chemical name of slaked lime?
+    A)Calcium Nitrate | B)Sodium Chloride => ANS: (D)
+[2018|2018_171] A sector between the two longitude lines is/are CORRECT? is known by which of the following name? I. Acids are sour in taste and generate
+    A)Belt | B)Gore H+ ions. | C)Timeblock | D)Time box II. Acids are sour in taste and => ANS(B): Gore H+ ions.
+[2018|2018_171] Which Indian territory was formerly III. Bases are bitter in taste and generate known as 'Black Water' before OH– ions.
+    A)Only I and III | B)Only I and II | C)Only II and III | D)All I, II and III => ANS(B): Only I and II
+[2017|2017_182] What is baking soda?
+    A)Aluminium bicarbonate | B)Sodium isolate | C)Sodium bicarbonate as | D)Aluminium sulphate From => ANS(C): Sodium bicarbonate as
+[2017|2017_183] Alkali metals can
+    A)be highly unstable at room temperature | B)vaporize at room temperature | C)easily gain electrons | D)easily lose electrons as Ans. D From 133 => ANS(D): easily lose electrons as Ans. D From 133. Khangchendzonga Na
+[2017|2017_191] The Law of demand is based on the concept that concept that people.................
+    A)buy more of a good as their income incre | B)buy more of a good as the price of the g | C)will spend all of their money on somethi | D)want more of everything even if they hav => ANS(B): buy more of a good as the price of the good life.
+[2017|2017_192] What is washing soda ?
+    A)Aluminium bicarbonate | B)Sodium bicarbonate | C)Aluminium sulphate | D)Sodium carbonate => ANS(D): Sodium carbonate
+[2017|2017_193] Which drug is used as a Nonsteroidal anti-inflammatory drug ?
+    A)Risedronate | B)Diazepam | C)Folic Acid | D)Ibuprofen => ANS(D): Ibuprofen
+
+###### जीव — रोग और प्रतिरक्षा — 28 Qs
+[2024-S2|2024_018] Which of the following is NOT a mutation-based disease?
+    1)Down syndrome | 2)Sickle cell anaemia | 3)Malaria | 4)Phenylketonuria => ANS(3): Malaria
+[2023-S1|2023_047] Which type of surveillance is specifically aimed at identifying missing cases of disease? %
+    2)Passive surveillance | 3)Active surveillance ~ + Sentinel surveil => ANS(3): Active surveillance ~ + Sentinel surveillance
+[2023-S1|2023_055] Sleeping sickness is a vector borne disease caused by the infection of which microscopic parasite of the species? %
+    2)Balantioides coli | 3)Giardia duodenalis | 4)Cyclospora cayetanensis
+[2022-S3|2022_070] An isotope of which of the following is used in the treatment of cancer?
+    1)Cobalt | 2)Iron | 3)Nickel | 4)Aluminium => ANS(3): Nickel
+[2022-S3|2022_070] ______ diseases last for only shorter periods of time.
+    1)Acute | 2)Chronic | 3)Hereditary | 4)Genetic => ANS(2): Chronic
+[2022-S1|2022_080] Which of the following pairs of 'disease - duration' is correct? I. Acute - long duration II. Chronic - short time
+    A)Only II | B)Neither I nor II | C)Only I | D)Both I and II => ANS(B): Neither I nor II
+[2022-S2|2022_089] Chikungunya is an infection caused by ______ mosquito.
+    A)Culex | B)Mansonia | C)Aedes | D)Anopheles => ANS(C): Aedes
+[2022-S3|2022_090] Which among the following is a bacterial disease?
+    1)Rabies | 2)Leprosy | 3)Malaria | 4)Ebola
+[2022-S1|2022_092] Chikungunya is an infection caused by ______ mosquito.
+    A)Culex | B)Mansonia | C)Aedes | D)Anopheles => ANS(C): Aedes
+[2022-S3|2022_094] Which of the following disease is not caused by a mosquito bite?
+    1)Elephantiasis | 2)Dengue | 3)Malaria | 4)Hepatitis => ANS(1): Elephantiasis
+[2021-S2|2021_096] Which is the toxin-causing bacterium that spoils cream, cheese and milk and makes them taste bitter, sour or bitter?
+    A)Bacillus cereus | B)Streptococcus thermophilus | C)Bifidobacterium | D)Lactobacillus plantarum => ANS(A): Bacillus cereus
+[2021-S1|2021_099] Which disease refers to the inflammation of the liver caused by a variety of infectious viruses and non-infectious agents leading to a variety of health problems?
+    A)Tuberculosis | B)Pneumonia | C)Hepatitis | D)Diabetes => ANS(C): Hepatitis
+[2021-S1|2021_107] In 2019, which disease,according to WHO,was ranked as the seventh leading cause of death globally?
+    A)Alzheimer’s disease | B)Stroke | C)Lung cancer | D)Diabetes => ANS(A): Alzheimer’s disease
+[2021|2021_119] Leprosy is caused by a bacterium called:
+    1)Mycobacterium tuberculosis | 2)Mycobacterium leprae | 3)Haemophilus pertussis | 4)Neisseria gonorrhoeae => ANS(2): Mycobacterium leprae
+[2021|2021_119] Enzyme linked immuno-sorbent assay is a technique used in detection of which of the following diseases?
+    1)Rheumatoid arthritis | 2)Kidney cancer | 3)Acquired immunodeﬁciency syndrome (AIDS) | 4)Malaria => ANS(3): Acquired immunodeﬁciency syndrome (AIDS)
+[2021-S1|2021_121] Identify a way that does NOT prevent a non-communicable disease from occurring in someone.
+    A)Blood transfusion | B)Adequate sleep | C)Balanced diet | D)Healthy diet => ANS(A): Blood transfusion
+[2021-S1|2021_123] The bacterium flagellum is composed of three major structural elements. Which of the following is NOT one of these elements?
+    A)Torso | B)Hook | C)Filament | D)Basal => ANS(A): Torso
+[2021-S2|2021_126] Identify the disease caused by a monkey bite.
+    A)Malaria | B)Typhoid | C)Influenza | D)Rabies => ANS(D): Rabies
+[2021-S2|2021_126] Malaria is a deadly disease caused by parasites that are transmitted to people through the bite of ________.
+    A)Anopheles mosquito | B)Culex mosquito | C)Aedes mosquito | D)fleas => ANS(A): Anopheles mosquito
+[2020-S1|2020_127] According to the Economist Intelligence Unit (EIU), what is India’s rank in the 2019 worldwide Index of Cancer Preparedness (ICP)?
+    1)15 | 2)19 | 3)28 | 4)10
+[2020-S1|2020_136] Which among the following is a vaccine developed by CSIR, Ministry of Science and Technology for Johne’s disease affecting sheep, Goat, Cow and Buffalo so as to immunize them and increase milk and meat production ?
+    1)Porcine Parvovirus vaccine | 2)JD Vaccine | 3)DIVA (Differentiating Infected from Vacc | 4)Infectious Bovine Rhinotracheitis vaccin
+[2020-S1|2020_138] Which of the following is a disease caused by protozoa?
+    1)Small Pox | 2)Rabies | 3)Kala azar | 4)AIDS => ANS(3): Kala azar
+[2019|2019_157] Which of the following borne disease?
+    A)Typhoid | C)Hepatitis => ANS: (B)
+[2018|2018_165] Which of the following became first 100. In Microsoft Word, font, font style, size, Indigenously developed vaccine from India font color etc. are options of ___________.
+    A)Character formatting | B)Paragraph formatting | C)Sentence formatting | D)Font formatting => ANS(A): Character formatting
+[2018|2018_168] On 10 April 2017, Lok Sabha passed the Human Immunodeficiency Virus (HIV) and AIDS (Prevention Control) Bill, 2017. Under the new provisions, which of the following is not included?
+    A)Establishments keeping records of inform | B)Person will be compelled to disclose his | C)Prohibits any individual from advo- cati | D)All are included. => ANS(B): Person will be compelled to disclose his HIV status if even 
+[2018|2018_169] The line of Cancer through which of the India?
+    A)Odisha | C)Rajasthan => ANS(A): Odisha
+[2018|2018_170] The Line of Cancer passes many states of India?
+    A)5 | B)6 | C)7 | D)8 => ANS(D): 8
+[2018|2018_177] On 12 April 2017, Parliament passed the HIV/AIDS (Prevention and administration Control) Bill, 2017. This Bill provides rural essential support to National AIDS control programme. It aims to achieve the target of ending this Epidemic by year ______.
+    A)2025 | B)2022 | C)2030 | D)2020 => ANS(C): 2030
+
+###### जीव — मानव शरीर: संरचना और वर्गीकरण — 25 Qs
+[2024-S3|2024_030] Which group of animals has a segmented spinal column together with a few primitive forms in which the backbone is represented by a notochord?
+    2)Echinodermata | 3)Mollusca | 4)Arthropoda
+[2022-S2|2022_077] Which of the following is an example of Phylum - Annelida?
+    A)Hookworm | B)Filaria worm | C)Earthworm | D)Roundworm => ANS(C): Earthworm
+[2022-S1|2022_084] Which among the following pairs of 'animal - phylum of animal kingdom they belong' is incorrect?
+    A)Liver fluke - Nematoda | B)Sycon - Porifera | C)Prawns - Arthropoda | D)Starfish - Echinodermata => ANS(A): Liver fluke - Nematoda
+[2022-S2|2022_085] According to WHO, If a person’s BMI is below 18.5 he/she is classified as __________.
+    1)Mentally unfit | 2)Underweight | 3)Blind | 4)Healthy => ANS(2): Underweight
+[2021-S1|2021_099] Which of the following characters are correct about Phylum Echinodermata?
+    A)Roundworms, pseudocoelomate | B)Coelom present, bilateral symmetry | C)Gastrovascular cavity, flatworms, acoelo | D)Gastrovascular cavity, coelom present => ANS(B): Coelom present, bilateral symmetry
+[2021-S1|2021_101] The bodies of the animals of phylum Platyhelminthes show _________ grade organisation.
+    A)protoplasmic | B)cell-tissue | C)cellular | D)tissue-organ => ANS(D): tissue-organ
+[2021-S2|2021_106] Which phylum of the Kingdom Animalia includes animals such as Hydra, Adamsia, Physalia and Corals?
+    A)Coelenterata | B)Platyhelminthes | C)Annelida | D)Porifera => ANS(A): Coelenterata
+[2021-S1|2021_109] What is the mode of adaptation done by aquatic plants and animals where the osmotic concentration of the body fluids changes with that of the ambient air and water osmotic concentration?
+    A)Regulate | B)Conform | C)Migrate | D)Suspend => ANS(B): Conform
+[2021-S1|2021_109] Which group of animals has a body wall composed of both circular and longitudinal muscle fibres surrounded by a moist, cellular cuticle that is secreted by an epidermal epithelium?
+    A)Arthropoda | B)Annelida | C)Platyhelminthes | D)Coelenterata => ANS(B): Annelida
+[2021-S1|2021_115] Which level of the food chain includes millipede, springtails, woodlice, dung flies and slugs that feed on the dead or decaying plants or animals?
+    A)Carnivores | B)Detritivores | C)Omnivores | D)Herbivores => ANS(B): Detritivores
+[2021-S2|2021_122] The body of animals of the phylum Protozoa, such as Paramecium, Amoeba, Euglena, shows ________ grade organisation.
+    A)protoplasmic | B)cellular | C)cell-tissue | D)tissue-organ => ANS(A): protoplasmic
+[2020-S3|2020_129] Which of the following parts of the human body releases carbon dioxide, brought in by the blood, from the rest of the body?
+    1)Trachea | 2)Bronchi | 3)Alveoli | 4)Larynx
+[2020-S1|2020_136] Which of the following animals is used for transport in Tibet?
+    1)Camel | 2)Llama | 3)Bullock | 4)Yak => ANS(4): Yak
+[2020-S1|2020_141] Animals of which phylum have jointed legs?
+    1)Mollusca | 2)Nematoda | 3)Arthropoda | 4)Echinodermata
+[2020-S2|2020_143] Which of these is an excretory organ of the human body?
+    1)Skin | 2)Heart | 3)Brain | 4)Muscles => ANS(1): Skin
+[2019|2019_154] Where is Rhodopsin, also called visual purple, located in the human body?
+    A)Hair | B)Hand | C)Nail | D)Eye => ANS(D): Eye
+[2019|2019_160] In which year was the Non-Cooperation Movement launched? the human body gets
+    A)1877 | B)1920 illness called osteoporosis? | C)1856 | D)1919 => ANS(B): 1920 illness called osteoporosis?
+[2018|2018_168] Features and habits that help animals to adapt to their surroundings are a re- sult of the process of ___________.
+    A)maturation | B)evolution | C)progression | D)renewal => ANS(B): evolution
+[2018|2018_179] Many marine animals use _______dissolved in sea-water to shells.
+    A)acids | B)alkalis | C)silica | D)carbonates => ANS(D): carbonates
+[2017|2017_182] Sea-Anemones belongs to the phylum
+    A)Arthropoda | B)Cnidaria | C)Porifera | D)Mollusca => ANS(B): Cnidaria
+[2017|2017_183] Which is the largest organ in beings?
+    A)Skin | B)Large Intestine | C)Small Intestine | D)Liver => ANS(A): Skin
+[2017|2017_183] Amoeba belongs to the phylum
+    A)Protozoa | B)Annelida | C)Porifera | D)Platyhelminthes => ANS(A): Protozoa
+[2017|2017_184] Many marine animals use _______dissolved in sea-water to shells.
+    A)acids | B)alkalis | C)silica | D)carbonates => ANS(D): carbonates
+[2017|2017_185] All of the following are excretory (waste) products of animals, except
+    A)Uric Acid | B)Ammonia | C)Carbohydrates | D)Urea => ANS(C): Carbohydrates
+[2017|2017_193] Between a tiger and an monkey, which of the following is different?
+    A)Kingdom | B)Phylum | C)Order | D)Class => ANS(C): Order
+
+###### भौतिक — विद्युत और चुंबकत्व — 24 Qs
+[2024-S1|2024_002] In which year did Hans Christian Oersted discover that a compass needle gets deflected when an electric current passes through a metallic wire placed nearby?
+    1)1826 | 2)1820 | 3)1824 => ANS(2): 1820
+[2024-S4|2024_005] Who among the following discovered that a wire carrying electric current can attract or repel another wire next to it that's also carrying electric current?
+    1)Guglielmo Marconi | 2)Andre-Marie Ampere | 3)Michael Faraday | 4)James Maxwell => ANS(2): Andre-Marie Ampere
+[2024-S3|2024_008] In an electrical circuit, the ammeter reading decreases to when the length of the wire is doubled.
+    1)one-third | 2)one-fourth | 3)one-sixth | 4)one-half => ANS(4): one-half
+[2024-S3|2024_011] Which device is used to measure the current flow using needle deflection caused by a magnetic field force acting upon a current-carrying wire?
+    1)Ammeter | 2)Psophometer | 3)Galvanometer | 4)Potentiometer
+[2024-S3|2024_026] For which of the following discoveries in 1827 was the German physicist, Georg Simon Ohm best known?
+    1)For invention of the magnetometer, which | 2)For developing a device capable of ampli | 3)For measuring the magnetic properties of | 4)For clarifying the mathematical relation => ANS(4): For clarifying the mathematical relationship between electri
+[2023-S2|2023_037] Which experiment was designed to trace the motion of the earth through the ‘Luminiferous aether’, a theoretical substance necessary for the transmission of light? X
+    2)Faraday and Henry experiment ~®%. Michel | 4)Marconi and Thomson experiment
+[2023-S4|2023_046] The radius of curvature of a charged particle's passage in a homogeneous magnetic field is proportional to: ans
+    1)energy of particle X | 2)charge of particle 5 momentum of particl | 4)strength of the field
+[2023-S2|2023_048] Which of the following laws state that “The magaitude of the induced EMF in a circuit is equal to the time rate of change of magnetic flux through the circuit"? ans
+    1)Faraday's law | 2)Coulomb's law | 3)Kirchhoff’s laws X | 4)aplace’s law => ANS(1): Faraday's law
+[2023-S1|2023_055] Which of the following claims concerning the magnetic lines of force inside a bar magnet is true? ans X
+    1)Do not exist v2. From S-pole to N-pole o | 3)Depends on the cross-sectional area of t | 4)From N-pole to S-pole of the magnet => ANS(3): Depends on the cross-sectional area of the bar magnet X
+[2023-S3|2023_061] In 1851, who discovered the phenomenon of Eddy currents which flow in closed loops within conductors in planes perpendicular to the magnetic field? %
+    2)Charles Townes | 3)Nicola Tesla ~* Leon Foucault => ANS(2): Charles Townes
+[2021-S1|2021_101] Who was famous for inventing the power battery, one of the first devices to provide a reliable source of electricity, in 1800?
+    A)Luigi Galvani | B)Alessandro Volta | C)Michael Faraday | D)Henri Becquerel => ANS(B): Alessandro Volta
+[2021-S1|2021_103] Which of the following techniques uses a combination of a large magnet and radio waves to visualize the organs and structures inside our bodies?
+    A)Computed Tomography | B)Fluoroscopy | C)Positron Emission Tomography | D)Magnetic Resonance Imaging => ANS(D): Magnetic Resonance Imaging
+[2021-S2|2021_104] In 1820, who found that electric current causes a nearby magnetic needle to move and thus discovered electromagnetism?
+    A)Benjamin Franklin | B)James Clerk Maxwell | C)Hans Christian Oersted | D)Andre-Marie Ampere => ANS(C): Hans Christian Oersted
+[2021-S1|2021_107] The current in the bulb will stop flowing:
+    A)when the conductor is on | B)if the circuit is broken | C)when the switch is turned on | D)if there is magnetic field => ANS(B): if the circuit is broken
+[2021-S2|2021_108] How is the voltmeter connected across the points between which the potential difference is to be measured?
+    A)Along the same magnetic field | B)In parallel | C)In concentric circles | D)Perpendicular to each other => ANS(B): In parallel
+[2021-S2|2021_110] What is the starting voltage of an AA battery used for home gadgets such as remote controls, small toys, and wireless kitchen appliances?
+    A)2.0 V | B)1.5 V | C)3.0 V | D)2.5 V => ANS(B): 1.5 V
+[2021-S2|2021_124] Who found out the relationship between the current I flowing in a metallic wire and the potential difference across its terminals?
+    A)Albert Einstein | B)Georg Simon Ohm | C)Rutherford | D)Niels Bohr => ANS(B): Georg Simon Ohm
+[2019|2019_153] Who among the following coined the term “battery” to describe linked ca- pacitors?
+    A)Benjamin Franklin | B)Luigi Galvani | C)John Frederic Daniell | D)Lewis Urry => ANS(A): Benjamin Franklin
+[2018|2018_164] what is the resistance (in Ω) electrical component if a current 0.1 A passes through it on of 5 V of potential difference it?
+    A)0.5 | C)50 => ANS(C): 50
+[2018|2018_165] What is the effective resistance (in Ω) of two resistors 20 Ω and 30 Ω connected in parallel?
+    A)50 | B)12 | C)24 | D)25 => ANS(B): 12
+[2018|2018_167] Find the resistance (in mega Ω) of a wire of length 20m, cross sectional area 1 cm2 and made of a material of resistivity 200 Ωm. Viz.
+    A)40 | B)4000 | C)80 | D)2000 => ANS(A): 40
+[2018|2018_171] Find the resistance (in mega Ω) of a wire of length 8 m, cross sectional area 2 cm 2 and made of a material of resistivity 120 Ωm.
+    A)1920 | B)4.8 | C)2.4 | D)960 => ANS(B): 4.8
+[2018|2018_174] What is the heat generated (in J) in a heating element of resistance 900 Ω when a current of 0.3 A passes through it for 10 seconds?
+    A)2700 | B)810 | C)405 | D)1350 => ANS(B): 810
+[2017|2017_183] What will happen if an object is from a height and there is no resistance?
+    A)It will fall with a constant speed accel | B)Its acceleration will increase | C)Both speed and acceleration increase | D)Its speed will increase => ANS(D): Its speed will increase
+
+###### रसायन — गैसें — 24 Qs
+[2024-S1|2024_006] Which of the following contains small droplets of liquid or particles of solid dispersed in a gas?
+    1)Gel | 2)Aerosol | 3)Foam | 4)Vapour => ANS(1): Gel
+[2023-S4|2023_035] Who, in the 1860s, undertook a thorough investigation of the gas laws expressing the relationships of pressure, temperature and volume in carbon dioxide? %
+    2)Giulio Natta | 3)John Dalton X | 4)Marguerite Perey => ANS(4): Marguerite Perey
+[2023-S3|2023_041] Adott Aoehuiell 9 As D vel Ais AA sria 1956 Ese aoilsct seal miAal Gell aoituiell eile GAN Bui wee Aa Ualell 4 G el uiteioil Aa urs GAs Hwa *2 elefl A(Qe HUES] Heidt Gen *s utletofl Aauiett Gon v* ussidl Aanictt GN 28 a Slal we Havtell Devel yell udluavl wadee
+[2022-S3|2022_074] When lead nitrate is heated, then which of the following gases is produced?
+    1)Nitrogen oxide | 2)Lead dioxide | 3)Nitrogen dioxide | 4)Lead oxide
+[2022-S3|2022_082] Which of the following statements is correct?
+    1)Metals react with acids and produce meta | 2)Non-metals react with oxygen to produce  | 3)On burning, metals react with oxygen to  | 4)Less reactive metals displace more react => ANS(3): On burning, metals react with oxygen to produce metal oxides
+[2022-S4|2022_091] Anant's mother advised him to not sleep under the trees at night as trees release ______ at night.
+    1)Methane | 2)Carbon Dioxide | 3)Nitrogen | 4)Oxygen => ANS(2): Carbon Dioxide
+[2022-S4|2022_091] By which of the following process does a solid substance is directly converted into gas?
+    1)Deposition | 2)Sublimation | 3)Vaporisation | 4)Fusion => ANS(2): Sublimation
+[2021-S2|2021_098] Which two gases are having the highest percentage of the earth’s atmosphere?
+    A)Nitrogen and hydrogen | B)Nitrogen and oxygen | C)Oxygen and carbon monoxide | D)Carbon dioxide and nitrogen => ANS(B): Nitrogen and oxygen
+[2021-S2|2021_102] Which cycle shows the movement of water?
+    A)Nitrogen cycle | B)Hydrological cycle | C)Carbon cycle | D)Geological cycle => ANS(B): Hydrological cycle
+[2021-S1|2021_107] Who recognised the elements carbon, hydrogen and oxygen and opposed the phlogiston theory by discovering the role of oxygen in combustion and respiration?
+    A)Antoine Lavoisier | B)John Dalton | C)Niels Bohr | D)Joseph Louis Proust => ANS(A): Antoine Lavoisier
+[2021-S1|2021_111] When was the National Hydrogen Mission (NHM) launched?
+    A)1 january 2022 | B)2 October 2020 | C)15 August 2021 | D)26 January 2019 => ANS(C): 15 August 2021
+[2020-S2|2020_128] What is the name of the ﬁrst crude oil pipeline constructed in India?
+    1)Mumbai High-Mumbai-Ankleshwar-Kayoli Pip | 2)Naharkatia-Nunmati-Barauni Pipeline | 3)Hajira-Bijapur-Jagdishpur (HBJ) Gas Pipe | 4)Kandla-Bhatinda Pipeline => ANS(1): Mumbai High-Mumbai-Ankleshwar-Kayoli Pipeline
+[2020-S2|2020_134] Which of the following elements occurs most abundantly in our universe?
+    1)Nitrogen | 2)Silicon | 3)Oxygen | 4)Hydrogen => ANS(1): Nitrogen
+[2020-S3|2020_135] Which of the following gases is referred to as ‘laughing gas’?
+    1)Carbon dioxide | 2)Carbon monoxide | 3)Nitrous Oxide | 4)Sulfur dioxide => ANS(3): Nitrous Oxide
+[2020-S1|2020_141] What is the formula of butane gas?
+    1)C4H10 | 2)C4H6 | 3)C5H10 | 4)C4H8 => ANS(1): C4H10
+[2019|2019_149] Which of the following gases has an odour that is similar to the odour of rotten eggs?
+    A)Hydrogen Sulfide | B)Dimethylcyclohexane | C)Chlorine | D)Ammonia => ANS(A): Hydrogen Sulfide
+[2019|2019_151] _______ gas gives an orange glow electricity is passed through it. generally used in fluorescent lighting.
+    A)Nitrogen | B)Hydrogen | C)Neon | D)Oxygen => ANS(C): Neon
+[2018|2018_167] Which of the following is the best extinguisher?
+    A)Water | B)Oxygen | C)Carbon-dioxide | D)Soil => ANS(C): Carbon-dioxide
+[2018|2018_168] Which of the following statement is CORRECT?
+    A)Gold and Silver are not ductile. | B)Phophorus and Nitrogen are ductile. | C)Copper and Platinum are ductile. | D)Sulphur and Phophorus are sono- rous. => ANS(C): Copper and Platinum are ductile.
+[2018|2018_175] Which of the following and converted into thin
+    A)Zinc | B)Phosphorus | C)Sulphur | D)Oxygen => ANS(A): Zinc
+[2017|2017_185] Which of the following is a greenhouse or a gas which can deplete the layer?
+    A)N O | B)AsH 2 3 | C)N | D)C5H 2 12 => ANS(A): N O
+[2017|2017_187] Air has maximum proportion of which insert gas?
+    A)Carbon Dioxide | B)Nitrous Oxide | C)Argon | D)Carbon Monoxide => ANS(C): Argon
+[2017|2017_187] Who Invented Gas Turbine?
+    A)Edwin Howard Armstrong | B)John Barber | C)Edwin Beard Budding | D)Nicholas Callan => ANS(B): John Barber
+[2017|2017_192] Which of the following is a green gas or a gas which can deplete the layer ?
+    A)BF | B)O 3 2 | C)CHCIF | D)CI 2 2 => ANS(C): CHCIF
+
+###### पर्यावरण — उद्यान और अभयारण्य — 21 Qs
+[2024-S1|2024_006] Which is the natural habitat of the Asiatic Lion in India?
+    1)Kaziranga National Park | 2)Dudhwa National Park | 3)Sundarbans
+[2024-S2|2024_007] In which state is the Nanda Devi Biosphere Reserve located?
+    1)Himachal Pradesh | 2)Assam | 3)Uttarakhand | 4)Odisha => ANS(2): Assam
+[2024-S4|2024_016] Select the natural habitat of the Asiatic Lion from the following.
+    2)Kanha National Park | 3)Sundarbans | 4)Saranda forest
+[2023-S3|2023_057] Which biosphere was declared as India's 16"* Biosphere Reserve in 2009, noted for the conservation of Red Fox, Blue Rock Pigeon and Lammergeier? %
+    2)Seshachalam X | 3)Agasthyamalai X | 4)Dehang Debang => ANS(3): Agasthyamalai X
+[2022-S2|2022_077] Cheetahs brought from Namibia were introduced in the Kuno National Park located in ______.
+    A)Karnataka | B)Madhya Pradesh | C)Gujarat | D)Rajasthan => ANS(B): Madhya Pradesh
+[2021-S2|2021_114] Reni Village in Garhwal was known for what environmental movement in 1970?
+    A)Save Silent Valley Movement | B)Chipko Movement | C)Jungle Bachao Andolan | D)Appiko Movement => ANS(B): Chipko Movement
+[2021-S1|2021_115] In which state of India is the Seshachalam biosphere reserve located?
+    A)Tamil Nadu | B)Karnataka | C)Kerala | D)Andhra Pradesh => ANS(D): Andhra Pradesh
+[2021-S2|2021_122] Which of the following Tiger Reserves/ National Parks and states situated in is INCORRECTLY matched?
+    A)Bandhavgarh National Park - Madhya Prade | B)Manas Tiger Reserve - Assam | C)Corbett National Park - Uttarakhand | D)Sundarbans National Park - Odisha => ANS(D): Sundarbans National Park - Odisha
+[2020-S1|2020_130] Which sanctuary is famous for endangered Estuarine Crocodiles conservation in India?
+    1)Bhitarkanika Wildlife Sanctuary, Odisha | 2)Dandeli Wildlife Sanctuary, Karnataka | 3)Chinnar Wildlife Sanctuary, Kerala | 4)Indira Gandhi Wildlife Sanctuary => ANS(3): Chinnar Wildlife Sanctuary, Kerala
+[2020-S2|2020_134] How many Indian biosphere reserves are included in the UNESCO World Network of Biosphere Reserves, as of October 2019?
+    1)17 | 2)14 | 3)9 | 4)11 => ANS(4): 11
+[2020-S2|2020_137] As of October 2019, what is the total number of wildlife sanctuaries in India?
+    1)564 | 2)547 | 3)543 | 4)551
+[2020-S3|2020_145] The Bandhavgarh Tiger Reserve is located in the state of ______.
+    1)Rajasthan | 2)Madhya Pradesh | 3)Andhra Pradesh | 4)Uttarakhand => ANS(2): Madhya Pradesh
+[2020-S3|2020_146] In which year was the Kaziranga National Park declared as a Reserved Forest?
+    1)1908 | 2)1925 | 3)1900 | 4)1940
+[2020-S1|2020_147] Which of the following tiger reserves is NOT located in Karnataka?
+    1)Dandeli-Anshi | 2)Bhadra | 3)Nagarhole | 4)Pench => ANS(4): Pench
+[2019|2019_155] The Valley of Flowers National Park is located in
+    A)Uttarakhand | B)Jammu & Kashmir | C)Himachal Pradesh | D)Meghalaya => ANS(A): Uttarakhand
+[2019|2019_162] Which of the following is a Floating National Park of India?
+    A)Namdapha | B)Similipal | C)Eravikulam | D)Keibul Lamjao => ANS(D): Keibul Lamjao
+[2017|2017_185] Similipal Tiger Reserve is in which state?
+    A)Maharashtra | B)Andhra Pradesh | C)Chhattisgarh | D)Odisha => ANS(D): Odisha
+[2017|2017_186] Which of these is not a UNESCO World (b) Faces highly elastic demand
+    A)(a) Monopolistic competition, (b) Pure | B)(a) Pure Monopoly, (b) Monopolistic | C)Victoria Memorial, Kolkata competition | D)Kaziranga Wildlife Sanctuary, Assam => ANS(C): Victoria Memorial, Kolkata competition
+[2017|2017_186] Anamalai Tiger Reserve is in which state?
+    B)Padma Bhushan | A)Telangana | C)Padma Vibhushan | D)Kerala => ANS(C): Padma Vibhushan
+[2017|2017_191] Ranthambore Tiger Reserve is in which state ?
+    A)Rajasthan | B)Andhra Pradesh | C)Arunachal Pradesh scientific | D)Uttarakhand => ANS(A): Rajasthan
+[2017|2017_192] Mans wildlife sanctuary is in .....................
+    A)Tamil Nadu | B)Assam | C)Bihar | D)Himachal => ANS(B): Assam
+
+###### भौतिक — ऊष्मा — 20 Qs
+[2024-S3|2024_004] Who developed the technique of preserving the quality of food by raising its temperature to prevent microbial growth in the food?
+    1)Antonie van Leeuwenhoek | 2)Robert Koch | 3)Louis Pasteur | 4)Joseph Lister => ANS(3): Louis Pasteur
+[2024-S2|2024_033] Which of the following groups of places in India has little differences in day and night temperatures?
+    1)Bhopal and Indore | 2)Jammu and Kashmir | 3)Jaipur and Jaisalmer | 4)Chennai and Thiruvananthapuram
+[2023-S1|2023_040] At what temperature (in degree Celsius) is milk heated for 15 to 30 seconds to kill microbes in the pasteurisation method? * 2. 100 73 70 x4 20
+[2023-S2|2023_064] Name a uit designed for wet and cry bulb thermometers to protect temperature sensors from being affected by direct or reflected sunlight. X%
+    2)Skywarn screen | 3)Clarinet screen | 4)Cardinal screen
+[2022-S1|2022_076] ______ states that the rates of diffusion of gases are inversely proportional to the square roots of their densities under similar conditions of temperature and pressure.
+    A)Graham's Law | B)Tyndall's Law | C)Pascal's Law | D)Kepler's Law => ANS(A): Graham's Law
+[2022-S2|2022_081] Which of the following statements regarding coal is NOT correct?
+    A)Anthracite is the highest quality hard c | B)Coal that has been buried deep and subje | C)Lignite is a low-grade brown coal, which | D)Metallurgical coal is high grade lignite => ANS(D): Metallurgical coal is high grade lignite coal which has a sp
+[2022-S3|2022_082] The potential difference, V, across the ends of a given metallic wire in an electric circuit is directly proportional to the current flowing through it, provided its temperature remains the same. This is called ______ law.
+    1)Pascal's | 2)Charles's | 3)Ohm's | 4)Boyle's => ANS(3): Ohm's
+[2022-S1|2022_084] In India, what is the mean annual average temperature in subtropical vegetation zone?
+    A)Above 24 ∘ C | B)7∘ C to 17∘ C | C)Below 7 ∘ C | D)17∘ C to 24∘ C => ANS(D): 17∘ C to 24∘ C
+[2022-S3|2022_094] In which of the following ways of heat transfer no medium is required?
+    1)Radiation and Conduction both | 2)Conduction | 3)Convection | 4)Radiation
+[2021-S2|2021_112] Identify the INCORRECT pair with respect to the substances and their specific heat capacity (Jkg −1 K −1 ) at room temperature and atmospheric pressure.
+    A)Aluminium - 900.0 | B)Water - 1200 Carbon - 506.5 | D)Tungsten - 134.4 => ANS(B): Water - 1200 Carbon - 506.5
+[2020-S1|2020_130] Which law states that the volume of an ideal gas at constant pressure is directly proportional to the absolute temperature?
+    1)Boyle's law | 2)Charles's law | 3)Avogadro's law | 4)Joule's law => ANS(1): Boyle's law
+[2020-S2|2020_134] Which of the following units is used for the measurement of Luminous Intensity?
+    1)Candela | 2)Mole | 3)Kelvin | 4)Ampere => ANS(1): Candela
+[2020-S3|2020_135] Since the clinical thermometer is designed to measure the temperature of the human body only, it displays the range of 35°C to ______ .
+    1)42°C | 2)44°C | 3)48°C | 4)46°C
+[2020-S3|2020_140] Which of the following is the SI unit of thermodynamic temperature?
+    1)Kelvin | 2)Fahrenheit | 3)Radian | 4)Celsius => ANS(1): Kelvin
+[2018|2018_163] Which of the following ignition temperature?
+    A)Petrol | B)Plastic | C)Wood | D)Paper => ANS(A): Petrol
+[2018|2018_171] The somatosensory receptors in human Ans. D beings detect ______. 98. Air expands when it _______________.
+    A)is cooled | B)smell | C)touch | D)hear => ANS(C): touch
+[2018|2018_172] Warm air is ______.
+    A)heavier than cold air hence rises up | B)lighter than cold air hence moves down | C)lighter than cold air hence rises up | D)heavier than cold air hence moves down => ANS(C): lighter than cold air hence rises up
+[2018|2018_172] Warm air is ______.
+    A)heavier than cold air hence rises up | B)lighter than cold air hence moves down | C)lighter than cold air hence rises up | D)heavier than cold air hence warm air mov => ANS(C): lighter than cold air hence rises up
+[2017|2017_182] Which among the following elements liquid at room temperature?
+    A)Phosphorus | B)Mercury | C)Sodium | D)Aluminium => ANS(B): Mercury
+[2017|2017_187] The rainfall due to upward movement of air caused by convergence of cold air masses against warm air masses is called __________.
+    A)Cyclonic rainfall | B)Oropgraphic rainfall | C)Frontal rainfall | D)Convectional rainfall => ANS(C): Frontal rainfall
+
+###### जीव — पोषण और विटामिन — 18 Qs
+[2024-S1|2024_021] Identify a carbohydrate but does not fit into the definition.
+    1)Sucrose | 2)Fructose | 3)Maltose | 4)Rhamnose => ANS(4): Rhamnose
+[2023-S3|2023_065] The deficiency of Vitamin A causes: %
+    2)scurvy | 3)rickets ~# 4 night blindness => ANS: (4)
+[2023-S4|2023_066] The deficiency of Vitamin A causes: %
+    2)scurvy | 3)rickets ~# 4 night blindness => ANS: (4)
+[2022-S2|2022_073] Due to deficiency of which mineral/vitamin, does the glands in the neck appear swollen?
+    1)Vitamin C | 2)Vitamin D | 3)Iodin | 4)Calcium => ANS(3): Iodin
+[2022-S4|2022_075] Rahul is suffering from Beriberi. What deficiency he has?
+    1)Vitamin B1 | 2)Vitamin C | 3)Vitamin A | 4)Vitamin K => ANS(1): Vitamin B1
+[2022-S1|2022_076] Which among the following Vitamins is known as Niacin?
+    A)Vitamin B2 | B)Vitamin B1 | C)Vitamin B4 | D)Vitamin B3 => ANS(D): Vitamin B3
+[2022-S4|2022_095] Which of the following pairs of 'mineral – source' is correct? I. Vitamin A – Papaya II. Iron – Spinach
+    1)Both I and II | 2)Neither I nor II | 3)Only I | 4)Only II => ANS(4): Only II
+[2021-S1|2021_105] Metabolic reactions in our body are carried out by:
+    A)proteins | B)carbohydrates | C)lipids | D)salts => ANS(A): proteins
+[2021-S1|2021_109] Which type of carbohydrate CANNOT be broken down by the GI tract, does not provide energy, but helps the body get rid of wastes and keeps the intestinal tract healthy?
+    A)Fibre | B)Starch | C)Sugar | D)Glycogen => ANS(A): Fibre
+[2021-S2|2021_110] Which vitamins are present in Milk?
+    A)Vitamin A, C and D | B)Vitamin C, D and E | C)Vitamin C, K and D | D)Vitamin A, B and D => ANS(D): Vitamin A, B and D
+[2021-S1|2021_111] Which of the following is NOT a symptom of Beriberi caused due to the deficiency of Vitamin B1?
+    A)Slowly healing wounds | B)Involuntary eye movement | C)Difficulty speaking | D)Pain in the limbs => ANS(A): Slowly healing wounds
+[2021|2021_120] What is another name for the disorder called 'parasomnia'?
+    1)Night blindness | 2)Sleepwalking | 3)Sea sickness | 4)Stammering => ANS(2): Sleepwalking
+[2021-S1|2021_123] Which protein acts like a binder, holding food together and adding a ‘stretch’ property, and is found naturally in some grains, including wheat, barley, and rye?
+    A)Prolamin | B)Albumin | C)Gluten | D)Glycinin => ANS(C): Gluten
+[2021-S2|2021_126] What disease in adults means ‘soft bones’ that usually develops due to a deficiency of vitamin D (often from not getting enough sunlight), or less often, digestive or kidney disease?
+    A)Osteopenia | B)Osteomyelitis | C)Osteomalacia | D)Osteoporosis => ANS(C): Osteomalacia
+[2019|2019_156] Deficiency of which of the following nutrients is the most common cause of goiters?
+    A)Iron | B)Vitamin | C)Calcium | D)Iodine => ANS(D): Iodine
+[2017|2017_187] Which of the following disease is caused due to the deficiency of protein?
+    A)Arthritis | B)Kwashiorkor | C)Goitre | D)Night Blindness => ANS(B): Kwashiorkor
+[2017|2017_189] Which organ stores fat soluble vitamins?
+    A)Blood | B)Skin | C)Liver | D)Pancreas => ANS(C): Liver
+[2017|2017_190] Which disease is caused due to deﬁciency of Iodine?
+    A)Rickets | B)Scurvy | C)Goitre | D)Growth retardation => ANS(C): Goitre
+
+###### रसायन — धातु, अधातु और मिश्रधातुएँ — 18 Qs
+[2024-S2|2024_033] Which of the following is an example of a ‘solid in a liquid’ type of solution?
+    1)Brass | 2)Vinegar | 3)Tincture of iodine | 4)Bronze => ANS(2): Vinegar
+[2023-S4|2023_050] _ In 1830, which American scientist created the world’s most powerful electromagnet, the Albany magnet, which could lift up to 750 pounds of metal at a time? %
+    2)William Gilbert ¥. Joseph Henry | 4)Edward Purcell
+[2023-S4|2023_062] Which of the following metal salts is responsible for permanent hardness in water? *
+    2)NaCl | 3)Ca(HCO3), v4 CaCl, => ANS(3): Ca(HCO3), v4 CaCl,
+[2022-S2|2022_069] Which of the following is an organic impurity in sewage?
+    A)Phosphates | B)Human faeces | C)Nitrates | D)Metals => ANS(B): Human faeces
+[2022-S3|2022_086] Which among the following alloys is made up of copper and zinc?
+    1)Monel Metal | 2)Magnalium | 3)Rolled Gold | 4)Dutch Metal
+[2021-S2|2021_112] The particles of which metal on heating to the boiling point of 357°C go from liquid state to gas state?
+    A)Mercury | B)Copper | C)Bronze | D)Gallium => ANS(A): Mercury
+[2021-S1|2021_113] What test is used where the elements present in the compound are converted from covalent form into the ionic form by fusing the compound with sodium metal?
+    A)Flame test | B)D-dimer test | C)Blood test | D)Lassaigne’s test => ANS(D): Lassaigne’s test
+[2021-S2|2021_116] What is the position of non-metals in the periodic table?
+    A)Bottom of the table | B)Top period | C)On the right side | D)On the left side => ANS(C): On the right side
+[2020-S1|2020_127] In which process is a protective zinc coating applied on iron to prevent it from rusting?
+    1)Galvanisation | 2)Annealing | 3)Smelting | 4)Welding
+[2020-S1|2020_130] With reference to metals and their ores, which of the following pairs is INCORRECT?
+    1)Mercury (Hg) – Greenockite | 2)Gold (Au) – Calaverite | 3)Aluminium (Al) – Cryolite | 4)Cobalt (Co) – Smelite => ANS(2): Gold (Au) – Calaverite
+[2020-S2|2020_131] Cinnabar (HgS) is an ore of which metal?
+    1)Aluminum | 2)Mercury | 3)Gold | 4)Silver => ANS(2): Mercury
+[2019|2019_148] Which of the following metals has an ore named Galena?
+    A)Nickel | B)Copper | C)Iron | D)Lead => ANS(D): Lead
+[2019|2019_152] What was India's rank in the year 2018 in world Crude Steel production according to Steel Users Federation of India?
+    A)Fourth | B)Second | C)First | D)Third => ANS(B): Second
+[2019|2019_155] Dolomite is an ore of which of the following metals?
+    A)Strontium | B)Potassium | C)Aluminium | D)Calcium => ANS(D): Calcium
+[2018|2018_165] What was the northwestern border of the
+    A)Oxides of non-metals are basic. | B)Oxides of non-metals are acidic. | C)Oxides of metals are acidic. | D)All options are correct. => ANS(B): Oxides of non-metals are acidic.
+[2018|2018_169] Which of the following INCORRECT regarding
+    A)Sodium reacts gen and water. | B)A lot of heat is dium reacts with | C)It is stored in kerosene. | D)It is a non-metal. => ANS(D): It is a non-metal.
+[2018|2018_172] Metals are generally ______. I. Ductile II. Malleable III. Poor conductors of heat
+    B)Only I and III | C)Only II and III | D)All I, II and III => ANS: (A)
+[2018|2018_172] Metals are generally ______. Ganga I. Ductile II. Malleable a major III. Poor conductors of heat
+    A)Only I and II | B)Only I and III | C)Only II and III | D)All I, II and III => ANS(A): Only I and II
+
+###### रसायन — पदार्थ, मिश्रण और विलयन — 17 Qs
+[2024-S2|2024_003] Which of the following statements best describes the Hardy Schulze rule?
+    1)This is applied to obtain a colloidal so | 2)The ions are removed from the solution b | 3)The amount of electrolyte required for t | 4)The partial pressure of a component in a => ANS(3): The amount of electrolyte required for the coagulation of a 
+[2024-S4|2024_016] Select the olfactory indicator from among the given options.
+    1)Clove oil | 2)Turmeric | 3)Petunia | 4)Cabbage juice => ANS(1): Clove oil
+[2024-S4|2024_020] Milk of magnesia is a suspension of in water.
+    1)magnesium oxalate | 2)magnesium chlorate | 3)magnesium bromide | 4)magnesium hydroxide => ANS(3): magnesium bromide
+[2024-S2|2024_029] In which year did Robert Brown observe the zigzag movement of colloidal particles in solution?
+    1)1826 | 2)1828 | 3)1829 | 4)1827 => ANS(3): 1829
+[2024-S3|2024_030] The method of separating a mixture of soluble solids by dissolving them in a suitable hot solvent and then lowering the temperature slowly is called:
+    1)sublimation | 2)fractional crystallisation | 3)azeotropic distillation | 4)dephlegmation => ANS(2): fractional crystallisation
+[2023-S1|2023_040] What is the state of matter that exhibits behaviour uniformity? ans X
+    1)Snow * 2 Solid X | 3)iquid v4 Gas => ANS: (2)
+[2022-S4|2022_067] The total pressure of a mixture of ideal gases is the sum of partial pressures. This is ______ law of partial pressures.
+    1)Dalton's | 2)Boyles' | 3)Charles' | 4)Avogadro’s => ANS(1): Dalton's
+[2022-S1|2022_080] By which of the following process can we separate two miscible liquids?
+    A)Crystallisation | B)Sublimation | C)Distillation | D)Chromatography => ANS(C): Distillation
+[2022-S4|2022_087] According to which of the following laws, the pressure of a mixture of gases is equal to the sum of the partial pressures of the component gases?
+    1)Charles' Law | 2)Boyle's Law | 3)Dalton's Law | 4)Graham's Law => ANS(4): Graham's Law
+[2022-S2|2022_093] Which of the following colloid is an example of foam?
+    A)Sponge | B)Butter | C)Cheese | D)Mist => ANS(A): Sponge
+[2021-S2|2021_102] Who observed that in a mixture of non-reactive gases, the total gas pressure is equal to the sum of the partial pressures of the individual gases?
+    A)Antoine Lavoisier | B)John Dalton | C)Robert Boyle | D)Amedeo Avogadro => ANS(B): John Dalton
+[2019|2019_148] The joint process of vapourisation and condensation is called:
+    A)Sublimation | B)Chromatography | C)Distillation | D)Crystallisation => ANS(C): Distillation
+[2018|2018_164] Limbs of frog, lizard, bird and human are example of ______ organs.
+    A)Homogenous | B)Heterogeneous | C)Analogous | D)Homologous => ANS(D): Homologous
+[2018|2018_172] According to Dalton’s Atomic Theory, the smallest indivisible particles of matter is called ______.
+    A)molecule | B)atom | C)compound | D)element => ANS(B): atom
+[2018|2018_172] According to Dalton’s Atomic Theory, the the largest smallest indivisible particles of matter is called ______.
+    A)molecule | B)atom | C)compound | D)element => ANS(B): atom
+[2018|2018_174] Polycot is a mixture of which among the following?
+    A)Polyester and cotton | B)Polyester and wool | C)Rayon and cotton | D)Rayon and wool => ANS(B): Polyester and wool
+[2017|2017_186] Which organ does detoxification and 36. Which is the most economical method of produces chemicals needed for digestion? removing solid matter from water?
+    A)Using deactivated carbon | B)Electrolysis | C)Distillation | D)Sedimentation => ANS(D): Sedimentation
+
+###### जीव — रक्त और संचारण — 17 Qs
+[2023-S2|2023_060] Which is an inherited blood disorder that affects the hemoglobin gene and results in ineffective erythropoiesis? ~ Thalassemia %
+    3)enous Thromboembolism X | 4)Polycythemia vera
+[2022-S2|2022_069] What is the pH of human blood?
+    A)6.5 | B)5.8 | C)10 | D)7.4 => ANS(D): 7.4
+[2021-S1|2021_099] How do humans acclimatise at high altitudes where atmospheric pressure is low for normal breathing?
+    A)By decreasing red blood cell production, | B)By increasing red blood cell production, | C)By hibernating | D)By increasing white blood cell productio => ANS(B): By increasing red blood cell production, decreasing the bind
+[2021-S1|2021_121] For what discovery was Jan Evangelista Purkinje known in 1839?
+    A)Proposed a lipid bilayer membrane | B)Discovered plasma membrane | C)Coined the term protoplasm | D)Discovered the nucleus => ANS(C): Coined the term protoplasm
+[2021-S2|2021_122] Which of the following is a correct pair?
+    A)LK Advani - Matters of Discretion | B)Khushwant Singh − Living Shadows | C)Vijay Kumar Singh - Courage and Convicti | D)K Natwar Singh - Straight from the Heart => ANS(C): Vijay Kumar Singh - Courage and Conviction
+[2020-S1|2020_127] The Atrial wall of the human heart secretes a very important peptide hormone. What is the name of that hormone?
+    1)ANF | 2)GIP | 3)CCK | 4)ADH
+[2020-S2|2020_131] In 1930, which scientist was awarded the Nobel Prize for describing the human ABO blood group system?
+    1)Karl Landsteiner | 2)Albert Claude | 3)George Wald | 4)Roger Guillemin
+[2020-S1|2020_133] Which of the following blood groups is called the ‘Universal Receiver’?
+    1)O+ | 2)O– | 3)AB+ | 4)A+ => ANS(3): AB+
+[2020-S1|2020_136] Which of the following carries blood from the heart to the kidneys?
+    1)Renal artery | 2)Coronary artery | 3)Vena cava | 4)Renal vein => ANS(1): Renal artery
+[2020-S3|2020_144] Who gave the slogans ‘Dilli Chalo’ and ‘Give me blood and I will give you Freedom’?
+    1)Mohandas Karamchand Gandhi | 2)Jawaharlal Nehru | 3)Subhash Chandra Bose | 4)Sardar Vallabh Bhai Patel => ANS(3): Subhash Chandra Bose
+[2020-S3|2020_145] The sino-artrialnode is located in the ______.
+    1)heart | 2)brain | 3)bladder | 4)stomach => ANS(1): heart
+[2019|2019_150] The ‘World Blood Donor Day’ was cele- brated around the world on ______ 2019 with the theme ‘Safe blood for all’.
+    A)16th March | B)29th April | C)14th June | D)25th May => ANS(C): 14th June
+[2019|2019_155] The terms systolic and diastolic are used in the context of _____
+    A)Detecting problems in eye sight | B)Counting blood platelets | C)Measuring blood pressure | D)Finding blood vessels => ANS(C): Measuring blood pressure
+[2019|2019_161] Which one of the following is an X-linked,
+    A)P A Sangma | B)Rabi Ray recessive disorder caused by th | C)Meira Kumar | D)Sumitra Mahajan of functional plasma clo => ANS(C): Meira Kumar
+[2018|2018_166] The smallest blood vessels which are one- cell thick, are called ______.
+    A)vena cava | B)arteries | C)veins | D)capillaries => ANS(D): capillaries
+[2018|2018_178] What is the pH value of human rebellion / blood?
+    A)8.3 | B)6.8 | C)7.4 | D)6 => ANS(C): 7.4
+[2017|2017_193] The artificial heart was invented by................
+    A)Muhammad Yunus | B)Linus Yale Jr. | C)Gazi Yasargil | D)Paul Wincheli => ANS(D): Paul Wincheli
+
+###### पर्यावरण — आर्द्रभूमि और अधिनियम — 16 Qs
+[2024-S1|2024_010] Which of the following states has mangrove forests?
+    1)Andhra Pradesh | 2)Manipur | 3)Telangana | 4)Rajasthan => ANS(1): Andhra Pradesh
+[2022-S1|2022_068] The wet temperate type of forests are found between a height of ___________ metres.
+    A)2000 and 3000 | B)1500 and 3000 | C)1000 and 2000 | D)500 to 1000 => ANS(C): 1000 and 2000
+[2022-S1|2022_076] In India, Silver fir, junipers, pines and birches are the common trees of which of the following forests?
+    A)Tropical Evergreen Forests | B)Tropical Deciduous Forests | C)Mangrove Forests | D)Montane Forests => ANS(D): Montane Forests
+[2022-S2|2022_077] Which of the following is not a technique or a step to convert normal water to potable water?
+    A)Filtration | B)Bromination | C)Boiling | D)Chlorination => ANS(B): Bromination
+[2022-S2|2022_089] In India, palm, coconut, keora, agar are the common trees of which of the following forests?
+    A)Mangrove Forests | B)Tropical Evergreen Forests | C)Tropical Deciduous Forests | D)Montane Forests => ANS(A): Mangrove Forests
+[2022-S4|2022_091] In India, trees of which forest type shed their leaves for about six to eight weeks in dry summer?
+    1)Tropical Deciduous Forests | 2)Tropical Evergreen Forests | 3)Montane Forests | 4)Tropical Thorn Forests and Scrubs => ANS(1): Tropical Deciduous Forests
+[2022-S1|2022_092] In India, palm, coconut, keora, agar are the common trees of which of the following forests?
+    A)Mangrove Forests | B)Tropical Evergreen Forests | C)Tropical Deciduous Forests | D)Montane Forests => ANS(A): Mangrove Forests
+[2021-S2|2021_108] Sandalwood is found in which type of forests in India?
+    A)Tropical thorn forests and scrubs | B)Tropical deciduous forests | C)Mangrove forests | D)Tropical evergreen forests => ANS(B): Tropical deciduous forests
+[2021|2021_120] Tso Kar wetland has been included in Ramsar Site in December 2020. In which of the following states or union territories is it located?
+    1)Lakshadweep | 2)Ladakh | 3)Goa | 4)Kerala => ANS(2): Ladakh
+[2021-S2|2021_124] What is the name of the zone where trade winds converge?
+    A)Forest zone | B)Intra-terrestrial zone | C)Inter-continental convergence zone | D)Inter-tropical convergence zone => ANS(D): Inter-tropical convergence zone
+[2020-S1|2020_127] Which forest is also referred to as ‘Monsoon Forests’?
+    1)Montane Forests | 2)Tropical Deciduous Forests | 3)Tropical Evergreen Forests | 4)Mangrove Forests
+[2020-S3|2020_129] In which year did the convention on wetlands, the 'Ramsar Convention', come into force in India?
+    1)1978 | 2)1984 | 3)1982 | 4)1991
+[2020-S1|2020_136] Hardwood trees like sal, teak, neem and shisham (useful for making furniture, transport and constructional material) are found in which type of forests?
+    1)Mediterranean Vegetation | 2)Coniferous Forests | 3)Temperate Deciduous Forests | 4)Tropical Deciduous Forests => ANS(4): Tropical Deciduous Forests
+[2020-S2|2020_143] Which of the following trees will you ﬁnd in the Littoral forests?
+    1)Ebony | 2)Sundari | 3)Cypress | 4)Chinar
+[2020-S3|2020_146] Which of the following is the most dominant species of trees found in the Tropical Deciduous Forests of India?
+    1)Coconut tree | 2)Teak tree | 3)Deodar tree | 4)Rubber tree
+[2017|2017_192] .................... are also called monsoon forests.
+    A)Tropical Rain Forest | B)Tropical deciduous Forests | C)Mangrove forests | D)Thorny Bushes => ANS(B): Tropical deciduous Forests
+
+###### भौतिक — इकाइयाँ और मापन — 16 Qs
+[2023-S4|2023_046] The number of significant figures in 0.05800 are: ans
+    1)two 2 four | 3)six x4. five => ANS: (2)
+[2022-S1|2022_084] ___________ is the change in total utility due to consumption of one additional unit of a commodity.
+    A)Product Utility (PU) | B)Revenue utility (RU) | C)Demand utility (DU) | D)Marginal utility (MU) => ANS(D): Marginal utility (MU)
+[2021-S1|2021_115] What is the dimension of the Hockey field?
+    A)91.4 × 55 m | B)100 × 55 m | C)90 × 50 m | D)100.3 × 50 m => ANS(A): 91.4 × 55 m
+[2021|2021_118] Which of the following is measured in the unit called Gauss? oA 2. Magnetic induction 7 3. Marine depth HK 4. Force
+[2020-S2|2020_139] The speed of the Central Processing Unit (CPU) is measured in_________, which represents a CPU cycle.
+    1)Gigabyte (GB) | 2)Terabyte (TB) | 3)Hertz (Hz) | 4)Kilobyte (KB)
+[2019|2019_150] Herts is the SI unit of:
+    A)Frequency | B)Force | C)Pressure | D)Energy => ANS(A): Frequency
+[2019|2019_157] What is the SI unit of pressure? Mass Media
+    A)Ohm | B)Pascal 2019? | C)Volt | D)Ampere Kyrgyzstan => ANS(B): Pascal 2019?
+[2018|2018_172] The SI unit of acceleration is
+    A)ms -1 | B)ms -2 | C)ms 2 | D)m/s => ANS(B): ms -2
+[2018|2018_172] The SI unit of acceleration is
+    A)ms -1 | B)ms -2 | C)ms 2 | D)m/s => ANS(B): ms -2
+[2018|2018_180] The SI unit of momentum is __________.
+    A)kilogram-metre per second | B)kilogram-metre per second squared | C)kilogram-metre-second | D)kilogram-metre-second squared => ANS(A): kilogram-metre per second
+[2017|2017_186] Instrument for measuring blueness of the
+    A)-4/11 | B)11/4 | C)-11/4 | D)4/11 => ANS(C): -11/4
+[2017|2017_186] Farad is unit of _________.
+    A)99936 | B)99935 | C)99940 | D)99933 => ANS(A): 99936
+[2017|2017_188] What is the unit of the physical "Inductance"?
+    A)weber | B)farad | C)henry | D)tesla => ANS(C): henry
+[2017|2017_189] Unit of impedance is _______.
+    A)ohm | B)henry | C)tesla | D)hertz => ANS(A): ohm
+[2017|2017_190] What is the unit of the physical Entropy?
+    A)watt per kelvin | B)newton per kelvin | C)pascal per kelvin | D)joule per kelvin => ANS(D): joule per kelvin
+[2017|2017_193] What is the unit of the Physical quantity :Jerk”?
+    A)meter second | B)meter per second cube | C)meter per second cube square | D)meter per second => ANS(B): meter per second cube
+
+###### भौतिक — प्रकाश — 15 Qs
+[2024-S4|2024_024] In 1835, who developed the process of applying a thin layer of metallic silver to one side of a clear glass pane and created the first mirror?
+    1)Justus von Liebig | 2)cv Raman | 3)Victor Francis Hess | 4)CH Townes => ANS(1): Justus von Liebig
+[2023-S3|2023_049] Which telescope was invented by Isaac Newton in the 17" century by using a concave mirror to collect light instead of a simple lens which produces false colours due to the dispersion of light? ans ¥
+    1)Reflecting telescope X | 2)Infrared telescope X | 3)Monocular telescope X | 4)Graphic telescope => ANS(2): Infrared telescope X
+[2023-S3|2023_065] In diffraction of white light by a prism, which colour of light from VIBGYOR will be bent most? %
+    2)Yellow X | 3)Green ~%* Violet => ANS: (4)
+[2023-S4|2023_066] In diffraction of white light by a prism, which colour of light from VIBGYOR will be bent most? %
+    2)Yellow X | 3)Green ~%* Violet => ANS: (4)
+[2022-S4|2022_071] Which of the following statements regarding the lenses is/are correct? I. Power of a convex lens is represented as a positive number. II. Power of a concave lens is represented as a negative number.
+    1)Both I and II | 2)Only II | 3)Only I | 4)Neither I nor II => ANS(2): Only II
+[2022-S3|2022_082] An image formed by the convex mirror is always ______.
+    1)virtual and inverted | 2)real and erect | 3)virtual and erect | 4)real and inverted => ANS(2): real and erect
+[2022-S4|2022_083] Behind the cornea, there is a dark muscular structure called the ______.
+    1)retina | 2)pupil | 3)iris | 4)lens
+[2022-S2|2022_089] Raman wants to use a rear-view mirror in his vehicle. Which type of mirror should he pick for it?
+    A)Convex Mirrors | B)Plane Mirrors | C)Cylinderical Mirrors | D)Concave Mirrors => ANS(A): Convex Mirrors
+[2022-S3|2022_090] The ______ of a ray is the angle measured from the reflected ray to the normal surface.
+    1)Angle of Diffusion | 2)Angle of Reflection | 3)Angle of Incidence | 4)Angle of Refraction => ANS(2): Angle of Reflection
+[2022-S1|2022_092] Raman wants to use a rear-view mirror in his vehicle. Which type of mirror should he pick for it?
+    A)Convex Mirrors | B)Plane Mirrors | C)Cylinderical Mirrors | D)Concave Mirrors => ANS(A): Convex Mirrors
+[2021-S2|2021_122] In 1674, who used a single-lens microscope to examine pond water and observed dozens of protists, which he called 'animalcules', as well as spirogyra, or green algae?
+    A)Rudolph Virchow | B)Robert Brown | C)Anton Van Leeuwenhoek | D)Robert Hooke => ANS(C): Anton Van Leeuwenhoek
+[2020-S1|2020_130] Which of the following eye disorders is known as ‘lazy eye’?
+    1)Presbyopia | 2)Hypermetropia | 3)Myopia | 4)Amblyopia => ANS(1): Presbyopia
+[2019|2019_155] Which of the following is NOT one of the tools of Robotics Process Automation?
+    A)Blue Prism | B)Ui Path | C)Automation Anywhere | D)PowerCenter => ANS(D): PowerCenter
+[2017|2017_188] Find the power of a convex image formed is at a distance from the lens when the object is the other side of the lens at 20 the optical centre?
+    A)-3.75 diopters | B)-11.25 | C)3.75 diopters | D)11.25 => ANS(D): 11.25
+[2017|2017_190] Find the power of a convex lens if image formed is at a distance of 25 from the lens when the object is placed the other side of the lens at 12 cm the optical centre?
+    A)-4.33 diopters | B)12.33 diopters | C)-12.33 diopters | D)4.33 diopters => ANS(B): 12.33 diopters
+
+###### रसायन — महत्वपूर्ण यौगिक — 14 Qs
+[2024-S2|2024_003] The colour of the surface of Mars is red because of the presence of large amounts of chemical compounds in it. What is the name of that compound?
+    1)Tin oxide | 2)Iron oxide | 3)Magnesium oxide => ANS(2): Iron oxide
+[2023-S1|2023_036] Which is the IUPAC group prefix of acyl halides compounds? %
+    2)Carbamoyl X | 3)Cyano v4 Halocarbonyl
+[2023-S4|2023_042] Which organic chemical compound is reacted with nitrous acid at 273-278K to prepare benzenediazonium chloride? ans X
+    1)Hydrazine | 2)Toluene ¥ >. Aniline X | 4)Pyridine => ANS(2): Toluene ¥ >. Aniline X
+[2023-S3|2023_053] When did Louis Pasteur discover molecular chirality and observe that erystals of some compounds exist as mirror images which laid the foundation for modern stereochemistry? ans 1. 1848 * 2. 1830 % 3. 1875 * 4 1892 Chosen Option : ~ 925 Ghurehi is the folk danc
+    4)Jharkhand => ANS: (2)
+[2021-S2|2021_102] Which chemical compound is composed of magnesium, sulphur and oxygen and is commonly used in detox bath to relax muscles and relieve pain in the shoulders, neck, back and scalp?
+    A)Epsom salt | B)Glauber's salt | C)Potash alum | D)Rock salt => ANS(A): Epsom salt
+[2021-S1|2021_103] Dry ice, mothballs, iodine crystals and zinc compounds are changed directly from solid to gaseous state with going into liquid state by which of the following methods?
+    A)Vaporization | B)Condensation | C)Melting | D)Sublimation => ANS(D): Sublimation
+[2021-S1|2021_125] Which chemical compound, with the chemical formula CH3CH2Cl, is used as a blowing agent in foamed plastics?
+    A)3-Chlorohexane | B)1-chloropropane | C)Chloromethane | D)Chloroethane => ANS(D): Chloroethane
+[2020-S1|2020_133] Which of the following statements is NOT true about compounds?
+    1)The constituents can be separated only b | 2)Compounds have a variable composition. | 3)The composition of each new substance is | 4)Elements react to form new compounds.
+[2020-S3|2020_144] Organic compounds are compounds of the element ______.
+    1)silicon | 2)nitrogen | 3)carbon | 4)lead => ANS(3): carbon
+[2020-S1|2020_147] ______ is the inflammatory compound in pepper spray.
+    1)curcumin | 2)gingerol | 3)quercetin | 4)capsaicin
+[2019|2019_149] Name the element that must be pre- sent in a compound to classify it as an organic compound.
+    A)Carbon | B)Iron | C)Ammonia | D)Zinc => ANS(A): Carbon
+[2018|2018_164] In a compound the elements are always present in definite proportions by ______.
+    A)mass | B)Volume | C)size | D)No option is correct. => ANS(A): mass
+[2018|2018_173] What is the name of the second layer of the Earth's three concentric layers? III. The relative number of atoms is variable in any compound.
+    A)SIAL | B)SIMA | C)NIFE | D)No option is correct. => ANS(B): SIMA
+[2018|2018_174] How is the nitrogen taken up by the plants? I. In the form of inorganic nitrates or nitrites II. In the form of organic compounds III. Directly taken up from the atmosphere
+    A)Only I and II | B)Only I and III | C)Only II and III | D)All I, II and III => ANS(A): Only I and II
+
+###### जीव — पाचन तंत्र — 14 Qs
+[2024-S3|2024_015] Which of the following is a medium-sized globular protein that acts as a pancreatic serine protease found in the digestive system of many vertebrates?
+    1)Trypsin | 2)Amylase | 3)Lipase | 4)Pepsin => ANS(1): Trypsin
+[2024-S2|2024_022] Which of the following muscles regulates the exit of food from the stomach into the small intestine?
+    1)Rectus | 2)Pectoralis | 3)Gastrocnemius | 4)Sphincter => ANS(4): Sphincter
+[2022-S4|2022_071] In ruminants like cattle, bacteria present in ______ helps in digestion of cellulose.
+    1)rumen | 2)oesophagus | 3)small intestine | 4)large intestine => ANS(3): small intestine
+[2022-S2|2022_077] Which among the following enzymes helps in breaking down fats?
+    A)Lipase | B)Amylase | C)Trypsin | D)Ribonuclease => ANS(A): Lipase
+[2022-S2|2022_081] In humans, the digestion of carbohydrates like starch, begins in which of the following parts?
+    A)Rectum | B)Small Intestine | C)Oesophagus | D)Buccal cavity => ANS(D): Buccal cavity
+[2021-S2|2021_098] Which enzyme is present in saliva?
+    A)Amylase | B)Rennin | C)Trypsin | D)Pepsin => ANS(A): Amylase
+[2021-S2|2021_106] Which enzyme is responsible for the oxidation reaction that occurs in some foods, mostly fruits and vegetables, that turns the food brown?
+    A)Polyphenol oxidase | B)Bromelain | C)Serrapeptase | D)Papain => ANS(A): Polyphenol oxidase
+[2020-S3|2020_135] The inner walls of small intestine have thousands of ﬁnger-like outgrowths. These are called:
+    1)Lumps | 2)Myomas | 3)Villi | 4)Benign => ANS(3): Villi
+[2018|2018_164] Which of the following is a CORRECT relation of length of small intestines of an herbivore and a carnivore?
+    A)Herbivore=Carnivore | B)Herbivore<Carnivore | C)Herbivore>Carnivore | D)No option is correct => ANS(C): Herbivore>Carnivore
+[2018|2018_167] Pepsin is an enzyme that ________.
+    A)proteins | B)starch | C)carbohydrate | D)fats => ANS(A): proteins
+[2018|2018_170] In which part of the human completely digested?
+    A)Small Intestine | B)Lever | C)Stomach | D)Large Intestine => ANS(A): Small Intestine
+[2018|2018_172] Which of the following protects the inner lining of the stomach from the action of the hydrochloric acid under the normal conditions?
+    A)Villi | B)Mucus | C)Saliva | D)Digestive Juices => ANS(B): Mucus
+[2018|2018_172] Which of the following protects the inner lining of the stomach from the action of the 2017 Nobel hydrochloric acid under the normal conditions?
+    A)Villi | B)Mucus | C)Saliva | D)Digestive Juices => ANS(B): Mucus
+[2018|2018_176] The saliva in human beings contains which enzyme?
+    A)Pepsin | B)Salivary Amylase | C)Rennin | D)Trypsin => ANS(B): Salivary Amylase
+
+###### पर्यावरण — जैव विविधता और पारितंत्र — 14 Qs
+[2023-S1|2023_043] Which hypothesis was proposed by Paul Ehrlich to suggest the importance of species richness in the maintenance of ‘ecosystems? X
+    2)Redundancy hypothesis X | 3)Predation hypothesis v4 Rivet popper hyp => ANS(2): Redundancy hypothesis X
+[2023-S2|2023_056] In the context of ecology. the given equation shows the relationship between the size of an area and the number of species preseat init. Accordiigy. by which letter is the regression coefficient denoted? logS=logC+Z oz X2A 73Z x4C
+[2022-S4|2022_071] The green plants in a terrestrial ecosystem capture about ______ percent of the energy of sunlight that falls on their leaves and convert it into food energy.
+    1)20 | 2)10 | 3)1 | 4)5 => ANS(2): 10
+[2022-S3|2022_074] ______ percent can be taken as the average value for the amount of organic matter that is present at each step of food chain and reaches the next level of consumers.
+    1)5 | 2)20 | 3)10 | 4)2
+[2021-S2|2021_110] Which statement is NOT correct regarding the food chain?
+    A)Every component of food chain forms trop
+[2021-S2|2021_110] Inter-relation between different food chains is known as a food web.
+[2021-S2|2021_110] In food chain, energy level increases from lower trophic level to higher trophic level.
+[2021-S1|2021_113] Which English ecologist was the first to describe the distinctive shape of the food web, which he called the pyramid of numbers?
+    A)Arthur Tansley | B)Eugene Odum | C)Charles Elton | D)Ernst Haeckel => ANS(C): Charles Elton
+[2021-S1|2021_121] Phytoplankton, small sea-dwelling organisms, belong to which trophic level of the food web?
+    A)Primary consumers | B)Secondary consumers | C)Primary producers | D)Decomposers => ANS(C): Primary producers
+[2021-S1|2021_125] A pyramid of biomass is a diagram that shows the population at each level of the food chain. Accordingly, ________ occupy the base with the highest biomass.
+    A)secondary consumers | B)Decomposers | C)primary consumers | D)producers => ANS(D): producers
+[2020-S3|2020_129] Which are the biodiversity hotspots of India? (A) Western Ghats (B) North East India (C) Sunderland
+    1)Only B | 2)A, B and C | 3)Only A | 4)A and B
+[2019|2019_153] _______ is the branch of biology that deals with the study of the structure of organisms and their organs.
+    A)Ecology | B)Anatomy | C)Chronobiology | D)Mycology => ANS(B): Anatomy
+[2019|2019_156] Which day has been proclaimed as The International Day for Biological Diversity (IDB) to increase understanding and awareness of biodiversity issues by The United Nations?
+    A)18 Oct | B)10 November | C)24 Apr | D)22 May => ANS(D): 22 May
+[2019|2019_162] In May 2019, Bengaluru-based medical Odisha was built by doctor _______was honoured with the kings? ‘Global Asian of the Year Award 2018-2019’ for her contributions to the ecosystem and Chodagangadeva women healthcare.
+    A)Hema Divakar | B)Shashi Wadhwa | C)Indira Hinduja | D)Neelam Kler => ANS(A): Hema Divakar
+
+###### भौतिक — तरंगें और ध्वनि — 13 Qs
+[2024-S4|2024_012] What is the wavelength range of visible light?
+    1)0.7 to0.9 um | 2)1to2um | 3)0.2 to 0.3 ym | 4)0.4 to 0.7 pm => ANS(2): 1to2um
+[2023-S4|2023_039] What is the name of the thermionic electron tube used to oscillate and amplify microwave frequency signals? *
+    2)Beam tetrodes v°. Klystron | 4)Thyratron => ANS(2): Beam tetrodes v°. Klystron
+[2023-S1|2023_051] Unit of frequency is . ans #1 hertz % 2. sec x3. gm *~4 cm
+[2023-S4|2023_062] Which colour of light from VIBGYOR has minimum wavelength? ans
+    1)iolet | 2)Yellow | 3)Green * 4 Red => ANS(1): iolet
+[2022-S4|2022_067] Which of the following statements is NOT correct regarding sound?
+    1)Sound can travel through vacuum. | 2)In human beings, the vibration of vocal  | 3)Unpleasant sounds are called noise. | 4)Frequency is expressed in hertz. => ANS(1): Sound can travel through vacuum.
+[2022-S1|2022_072] Among the following, in which material the speed of sound is highest? (at 25 ∘ C)
+    A)Nickel | B)Steel | C)Iron | D)Aluminium => ANS(D): Aluminium
+[2021-S1|2021_107] Which type of radiation designates a part of the electromagnetic spectrum with frequencies approximately from 300 GHz to 3 kHz, or equivalent, wavelengths approximately from 1 mm to 100km?
+    A)Microwaves | B)Infrared waves | C)Radio waves | D)Ultraviolet rays => ANS(C): Radio waves
+[2021-S2|2021_108] The electromagnetic spectrum describes the full range of light that is generally divided into ________ regions of wavelength and in the order of increasing energy and frequency.
+    A)six | B)eight | C)seven | D)Five => ANS(C): seven
+[2019|2019_148] Which of the following are the highest- frequency electro magnetic waves?
+    A)Gamma Rays | B)Radio Waves | C)Ultraviolet Rays | D)Microwaves => ANS(A): Gamma Rays
+[2018|2018_172] The Official Residence-cum-Office President of Bangladesh _____________.
+    A)Dhaka House | B)Sonar Bangla | C)Bangabhaban | D)No option is correct. => ANS(C): Bangabhaban
+[2018|2018_179] Which of the following wave propagate in a vacuum?
+    A)X-rays | B)Radio waves | C)UV-rays | D)Ultrasonic waves => ANS(D): Ultrasonic waves
+[2017|2017_184] Which of the following wave propagate in a vacuum?
+    A)X-rays | B)Radio waves | C)UV-rays | D)Ultrasonic waves => ANS(D): Ultrasonic waves
+[2017|2017_190] Who discovered X-Ray?
+    A)Wilhelm Rontgen | B)William Lee | C)X Rollswick | D)I Thompson => ANS(A): Wilhelm Rontgen
+
+###### जीव — कंकाल और मांसपेशियाँ — 13 Qs
+[2024-S2|2024_033] How do the muscle cells help in movement?
+    1)The blood flow of the cells helps in mov | 2)The thickness of the cell layer helps in | 3)The lining of the vessels inside help in | 4)The contraction and relaxation of these 
+[2022-S2|2022_069] Which of the following is a type of connective tissue? I. Blood II. Bone III. Ligament
+    A)Only III | B)Only II and III | C)I, II and III | D)Only I and III => ANS(C): I, II and III
+[2022-S4|2022_075] Muscles are of three types. Which of the following is NOT one of them?
+    1)Sesamoids | 2)Smooth | 3)Cardiac | 4)Skeletal => ANS(2): Smooth
+[2021-S1|2021_099] What components are often called the building blocks of the body that play a vital role in helping to repair and strengthen muscle tissues after exercise?
+    A)Carbohydrates | B)Micronutrients | C)Fats | D)Proteins => ANS(D): Proteins
+[2021-S2|2021_112] Which of the following is a group of primitive vertebrates having a large jawless sucking mouth, no limbs or paired fins and a completely cartilaginous skeleton with a persistent notochord?
+    A)Cyclostomata | B)Aschelminthes | C)Hemichordata | D)Arthropoda => ANS(A): Cyclostomata
+[2021|2021_120] How many bones are there in the human hand?
+    1)14 | 2)21 | 3)27 | 4)17 => ANS(2): 21
+[2020-S2|2020_131] Which of the following is a famous fossil site in India where a full-ﬂedged skeleton of a dinosaur was found?
+    1)Hathnora, Madhya Pradesh | 2)Waddham, Maharashtra | 3)Manendragarh, Chhattisgarh | 4)Zanskar Valley, Kashmir
+[2019|2019_158] Which is the largest body?
+    A)Femur | C)Malleus => ANS(A): Femur
+[2018|2018_163] The rhythmic contraction of muscles of canal along the gut is called
+    A)Peristalsis | B)facilitetion | C)guttation | D)No option is => ANS(A): Peristalsis
+[2018|2018_163] Scientists of which developed working muscle from stem laboratory for the
+    A)China | B)Japan | C)India | D)United States => ANS(D): United States
+[2018|2018_165] To keep warm, polar bears have a layer of ________ under their skin.
+    A)muscle | B)fat | C)cartilage | D)hair => ANS(B): fat
+[2018|2018_170] The maintenance functions of living is NOT a organisms are performed by the Rim As- ______.
+    A)chemic al processes | B)life processes | C)physic al processes | D)No option is correct. President was Ans: => ANS(B): life processes
+[2017|2017_188] Muscles get tired when there is _________.
+    A)Lactic acid | B)Na+ ions | C)ATP | D)Sulphates => ANS(C): ATP
+
+###### रसायन — सूत्र और अभिक्रियाएँ — 12 Qs
+[2024-S2|2024_007] Electrochemical cell is a device which converts chemical energy into electrical energy ina/jan_ tt
+    1)direct redox reaction | 2)indirect redox reaction | 3)oxidation reaction | 4)reduction reaction
+[2024-S3|2024_011] Which of the following reactions leads to the formation of glucose pentaacetate from acetic anhydride?
+    1)Reduction | 2)Addition of ketone | 3)Oxidation | 4)Acetylation of glucose => ANS(2): Addition of ketone
+[2023-S4|2023_035] Usually, the reduction in the taxes will have multiplier effect compared to an increase in government spending on aggregate demand. ¥ 2 smaller %
+    3)higher X | 4)equivalent
+[2023-S4|2023_050] When milk is converted into curd, which type of change is it? ans
+    1)Reversible change X | 2)Physical change | 3)Isothermal change v4 Chemical change => ANS: (4)
+[2022-S1|2022_088] What is the colour of the outer zone of completion combustion of a candle flame?
+    A)Blue | B)Yellow | C)Black | D)Orange => ANS(A): Blue
+[2021-S1|2021_113] Which compound has the chemical formula CHCl3 whose melting point is 209 K?
+    A)Carbon tetrachloride | B)Chlorophenol | C)Chloroform | D)Chloroethanol => ANS(C): Chloroform
+[2021-S2|2021_116] Isopentane, also called ________, is a branched-chain saturated hydrocarbon with the chemical formula $$C_{5}H_{12}$$.
+    A)butadiene | B)dimethylbutane | C)2-methylbutane | D)isobutane => ANS(C): 2-methylbutane
+[2020-S3|2020_140] What is the chemical name of the salt found abundantly in seawater?
+    1)Sodium Tartrate | 2)Sodium Acetate | 3)Sodium Chloride | 4)Sodium Nitrite => ANS(3): Sodium Chloride
+[2020-S3|2020_146] What is the chemical formula of dichlorodiﬂuoromethane?
+    1)CH2FCF3 | 2)C2HCl2F3 | 3)CCl2F2 | 4)CHClF2 => ANS(2): C2HCl2F3
+[2018|2018_165] What was the real name of Swami 90. Organisms use bio-catalyst to break down Vivekananda? complex substances into simpler
+    A)Surendranath Bose substances. These bio- | B)Narendranath Dutt ________. | C)Vidyadhar Roy | D)Shyamal Bose => ANS(B): Narendranath Dutt ________.
+[2017|2017_186] NAHCO is chemical formula for _______. 37. What is the Capital of Telangana State? 3
+    A)Hyderabad | B)Secunderabad | C)Vijayanagara | D)Visakhapatnam => ANS(D): Visakhapatnam
+[2017|2017_188] The Chemical formula of Ammonium is _________.
+    A)(NH ) NO | B)NH NO 2 2 3 4 3 | C)NH (NO ) | D)NH NO 4 3 2 2 3 => ANS(B): NH NO 2 2 3 4 3
+
+###### रसायन — कृषि-रसायन — 11 Qs
+[2024-S4|2024_005] Norman Ernest Borlaug was awarded the in 1970 for his contributions to the green revolution.
+    1)Nobel Prize in Chemistry | 2)Nobel Prize in Physiology | 3)Nobel Prize in Physics | 4)Nobel Peace Prize => ANS(2): Nobel Prize in Physiology
+[2024-S1|2024_013] According to the Teparinwew of Tutiiiyal Peery eect Premeniun oetich of tne tetleeying be MCT «eres were”
+    2)Crude oil | 3)Electricity | 4)Fertilisers
+[2024-S2|2024_029] In the given main characteristics of farming which is NOT a characteristic of the Indian commercial farming?
+    1)Insecticides and pesticides | 2)Chemical fertilisers | 3)High yielding variety seeds | 4)Slash and burn => ANS(2): Chemical fertilisers
+[2023-S2|2023_048] Which of the following states is NOT a major producer of fertilisers? X%
+    2)Gujarat | 3)Maharashtra | 4)Uttar Pradesh => ANS: (1)
+[2022-S2|2022_073] When an iron nail is dipped into a ______ coloured copper sulphate solution, its colour changes to ______.
+    1)green, blue | 2)blue, green | 3)blue, yellow | 4)yellow, blue => ANS(2): blue, green
+[2022-S4|2022_083] Which of the following is the correct representation of number of atoms?
+    1)(given mass/molar mass) × Avogadro numbe | 2)(avogadro number/given mass) × molar mas | 3)(molar mass/given mass) × Avogadro numbe | 4)(given mass/ Avogadro number) × molar ma
+[2021-S2|2021_100] Which of the following is used as a pesticide or fumigant for cereals and as an igniting agent in flares?
+    A)Magnesium bisulphite | B)Aluminium phosphide | C)Hydrogen peroxide | D)Ethanoic acid => ANS(B): Aluminium phosphide
+[2021-S2|2021_100] The systematic name of which compound is nitrogen trihydride that is widely used in many industrial processes, and as a fertiliser and refrigerant?
+    A)Ammonia | B)Potash | C)Urea | D)Phosphine => ANS(A): Ammonia
+[2020-S2|2020_137] Which of the following group of scientists was awarded the 2019 Nobel Prize in Chemistry "for the development of lithium-ion batteries"?
+    1)Kip Thorne, Rainer Weiss and Barry Baris | 2)Fraser Stoddart, Jean-Pierre Sauvage and | 3)Joachim Frank, Richard Henderson and Jac | 4)John B Goodenough, M Stanley Whittingham => ANS(4): John B Goodenough, M Stanley Whittingham and Akira Yoshino
+[2020-S1|2020_147] NPK is a:
+    1)Sanitizer used to clean dusty leaves | 2)Fertilizer used for increasing fertility | 3)Brand of sprinkler for irrigation | 4)Medicine used to control pests => ANS(2): Fertilizer used for increasing fertility of soil
+[2017|2017_191] Decane has how many many atoms ?
+    A)22 | B)33 | C)11 | D)44 => ANS(A): 22
+
+###### जीव — श्वसन और उत्सर्जन — 10 Qs
+[2023-S1|2023_051] Which nanual bioactive water-soluble phenolic compound is present in Fruits, vegetables and grains with red, purple, bile or black hes? v2 Anthocyanins X%
+    3)Quercetin X | 4)Naringenin
+[2022-S1|2022_068] _______ is the chemical process in which different types of chemical reactions are involved in controlling the living state of the cells in an organism.
+    A)Transportation | B)Respiration | C)Excretion | D)Metabolism => ANS(D): Metabolism
+[2022-S3|2022_074] Which of the following is correct regarding the respiration? I. Regular traditional breathing exercise (pranayama) can increase the capacity of lungs to take in more air. II. During inhalation, ribs move up and outwards and diaphragm moves down.
+    1)Both I and II | 2)Only II | 3)Neither I nor II | 4)Only I
+[2020-S3|2020_144] Which of the following organs are NOT parts of the Alimentary canal?
+    1)Colon and rectum | 2)Stomach and intestine | 3)Liver and pancreas | 4)Buccal cavity and Oesophagus => ANS(3): Liver and pancreas
+[2019|2019_153] The enzyme, Lipase is produced by which organ of the body?
+    A)Lung | B)Salivary gland | C)Liver | D)Pancreas => ANS(D): Pancreas
+[2019|2019_160] The Bacille (popularly called to prevent which
+    A)Jaundice | C)Tuberculosis => ANS(C): Tuberculosis
+[2018|2018_168] Lymph carries digested and absorbed fat from ______.
+    A)lungs | B)intestine | C)stomach | D)kidney => ANS(B): intestine
+[2018|2018_177] The process of acquiring oxygen outside the body and to use it process of breakdown of food for cellular needs is commonly ______.
+    A)respiration | B)nutrition | C)digestion | D)transportation => ANS(A): respiration
+[2017|2017_185] Kidney stones are composed of _______.
+    A)Calcium Oxalate | B)Sodium Chloride | C)Magnesium Nitrate | D)Calcium Bicarbonate => ANS(A): Calcium Oxalate
+[2017|2017_191] The pale yellow colour of urine the presence of which pigment?
+    A)Urochrome | B)Urophyll | C)Chlorophyll | D)Chloroplast => ANS(A): Urochrome
+
+###### भौतिक — दैनिक जीवन की भौतिकी — 9 Qs
+[2024-S3|2024_004] For which discovery did Henri Becquerel receive the Nobel Prize in Physics in 1903?
+    1)Spontaneous Radioactivity | 2)Radium Emanation | 3)Diagnostic Radiography => ANS(3): Diagnostic Radiography
+[2023-S3|2023_045] Which physicist is known for discovering that any periodic wave can be represented as an infinite number of weighted sinusoids, i.e.. the sum of sine and cosine waves? v2 Jean Baptiste Joseph Fourier X
+    3)Joseph-Louis Lagrange | 4)Ermest Walton => ANS: (1)
+[2022-S1|2022_068] Which of the following is correct regarding the heating of the air? I. It expands and occupies more space. II. It becomes heavier on heating.
+    A)Only I | B)Neither I nor II | C)Both I and II | D)Only II => ANS(A): Only I
+[2022-S2|2022_073] Which among the following has the highest boiling point?
+    1)NaCl | 2)CaO | 3)CaCl2 | 4)LiCl
+[2022-S2|2022_081] Kailash Satyarthi has received the Noble Prize in the field of _______.
+    A)Physics | B)Literature | C)Peace | D)Economic studies => ANS(C): Peace
+[2017|2017_187] Which of the following elements has the lowest melting point?
+    A)Boron | B)Calcium | C)Neon | D)Gold => ANS(C): Neon
+[2017|2017_188] Which of the following elements lowest melting point?
+    A)Xenon | B)Iodine | C)Barium | D)Magnesium => ANS(A): Xenon
+[2017|2017_189] Which of the following elements has lowest melting point?
+    A)Titanium | B)Sulphur | C)Argon | D)Zinc => ANS(C): Argon
+[2017|2017_190] Which of the following elements has lowest melting point?
+    A)Oxygen | B)Gold | C)Silver | D)Manganese => ANS(A): Oxygen
+
+###### रसायन — बहुलक और तंतु — 9 Qs
+[2022-S1|2022_068] Single use plastic which have low utility has been banned in India with effect from __________.
+    A)1st August 2022 | B)31st June 2022 | C)31st August 2022 | D)1st July 2022 => ANS(D): 1st July 2022
+[2021-S1|2021_111] Which is a slow cooking process that begins around 320∘ F, removes water from a sugar and breaks down the sugar into complex polymers with a sweet, nutty, or bitter taste and thus produces a golden-brown to dark brown colour?
+    A)Gelatinisation | B)Dextrinisation | C)Caramelisation | D)Maillard reaction => ANS(C): Caramelisation
+[2019|2019_152] After going through the processes of scouring and bleaching, 99% of cotton is made up of which polymer?
+    A)Epoxy | B)Cellulose | C)Proteins | D)Teflon => ANS(B): Cellulose
+[2018|2018_166] Rayon is obtained from which among following?
+    A)Silk | B)Wood pulp | C)Wool | D)Cotton => ANS(B): Wood pulp
+[2018|2018_167] Which of the following statements CORRECT? I. Melamine is a Thermosetting plastic. II. It resists fire. III. It is a poor conductor of heat.
+    A)Only I and II | B)Only I and III | C)Only II and III | D)All I, II and III => ANS(D): All I, II and III
+[2018|2018_168] Which statements are CORRECT? I. In early 1930’s Nylon was prepared from coal, water and air. II. Nylon was the first fully synthetic fibre. III. Nylon fibre was strong, elastic and light.
+    A)Only I and II | B)Only I and III | C)Only II and III | D)All I, II and III => ANS(D): All I, II and III
+[2018|2018_175] Rayon is obtained from the following?
+    A)Silk | B)Wood pulp | C)Wool | D)Cotton => ANS(B): Wood pulp
+[2018|2018_176] Which of the following is an example of thermosetting plastic?
+    A)Bakelite | B)PVC | C)Polyethylene | D)No option is correct portion Ans. A
+[2018|2018_177] In which of the following, Nylon is used?
+    A)Sleeping bags | B)Parachute | C)Toothbrush | D)All options are correct => ANS(D): All options are correct
+
+###### रसायन — कार्बन और ईंधन — 8 Qs
+[2024-S1|2024_017] Identify the INCORRECT pair regarding the material media and their refractive index?
+    1)Sapphire - 1.77 | 2)Benzene — 2.42 | 3)Ruby -1.71 | 4)Kerosene — 1.44 => ANS(1): Sapphire - 1.77
+[2023-S4|2023_035] Which of the following is a straight-chain alkane containing 12 carbon atoms that are used as a major component in ‘kerosene and some jet fuel research and also in the mbber and paper processing industry? ans X
+    1)Undecane | 2)Eicosane | 3)Heptadecane ¥* Dodecane => ANS: (4)
+[2023-S2|2023_044] Inwhich dialdebyde are two formyl groups attached to adjacent carbon centres on a benzene ring and form fluorescent conjugation products with primary amines? X%
+    2)Acetaldehyde X | 3)aleraldehyde X | 4)Isobutyraldehyde
+[2023-S2|2023_052] Which of the following is a valid bond in Alkenes that connects carbon atoms? ¥ Double bond X
+    3)Triple bond | 4)Not connected => ANS: (2)
+[2020-S1|2020_130] Which company was ranked as the largest proﬁt making PSU in India for the ﬁscal year 2018-2019?
+    1)Power Finance Corporation | 2)Power Grid Corporation | 3)Indian Oil | 4)Oil & Natural Gas Corporation => ANS(4): Oil & Natural Gas Corporation
+[2019|2019_154] Which of the following companies become India's most profitable public sector company in the fiscal year 2018-19?
+    A)Bharat Petroleum | B)Oil and Natural Gas Corporation | C)NTPC Limited | D)Indian Oil Corporation => ANS(B): Oil and Natural Gas Corporation
+[2018|2018_164] How CNG is a cleaner fuel? I. It produces oxides of Sulphur and to Nitrogen in very small amounts. II. It makes environment less polluted. III. It emits less greenhouse gases.
+    A)Only I and II | B)Only I and III | C)Only II | D)All I, II and III => ANS(A): Only I and II
+[2018|2018_177] Match the following items of column (A) with column (B). Column A/ Column B/ i. Carbon/ 1. In making in the electric wire/ ii. Copper/ 2. As fuel/ iii. Iron/ 3. In wrapping food items/ iv. Aluminium/ 4. For machinery/
+    A)I – 2, I I – 1, III – 4, IV – 3 | B)I – 3, II – 1, III – 2, IV – 4 | C)I – 1, II – 2, III – 3, IV – 4 | D)I – 4, II – 3, III – 1, IV – 2 => ANS(A): I – 2, I I – 1, III – 4, IV – 3
+
+###### भौतिक — आधुनिक भौतिकी — 8 Qs
+[2023-S4|2023_054] whats the name of the 87" element on the periodic table that has no known biological role because it has a half-life of only 22 minutes? *
+    2)Dubnium X | 3)Seaborgium ¥* Francium
+[2023-S3|2023_057] What is the atomic number of Bolrium which is named after physicist Niels Bohr, one of the founders of quantum theory? ans X
+    1)117 72 107 | 3)113 x4 101 => ANS: (2)
+[2021-S1|2021_123] Who was awarded the Society's Royal Medal for his atomic theory in 1826?
+    A)Albert Einstein | B)Antoine-Laurent de Lavoisier | C)Roger Boscovich | D)John Dalton => ANS(D): John Dalton
+[2020-S1|2020_138] Which of the following scientists was awarded a Nobel Prize for his services to Theoretical Physics, and especially for his discovery of the Law of the Photoelectric Effect?
+    1)Thomas Edison | 2)Albert Einstein | 3)Ernest Rutherford | 4)Nikola Tesla => ANS(4): Nikola Tesla
+[2020-S3|2020_144] Which scientist/s proposed the theory of relativity?
+    1)Watson and Crick | 2)Albert Einstein | 3)Charles Darwin | 4)John Dalton => ANS(2): Albert Einstein
+[2019|2019_158] Albert Einstein was Prize in Physics in the
+    A)1934 | C)1924 => ANS: (B)
+[2018|2018_181] Atomic bomb is based on which of the following principle?
+    A)Nuclear fusion | B)Nuclear ﬁssion | C)Natural radioactivity | D)All options are correct => ANS(B): Nuclear ﬁssion
+[2017|2017_189] Alpha particles are _______.
+    A)twice the mass of beta particles | B)negatively charged | C)just like helium nuclei | D)lower in ionizing power as compared gamm => ANS(C): just like helium nuclei
+
+###### भौतिक — दाब और तरल — 7 Qs
+[2024-S3|2024_011] As per the Census of India-2011, the density of population per km? was persons.
+    1)382 | 2)345 | 3)394 | 4)320 => ANS(1): 382
+[2023-S4|2023_062] According to Census of India 2011, which state in India has the highest population density? ~ 2 Bihar X%
+    3)West Bengal | 4)Kerala => ANS(3): West Bengal
+[2021-S1|2021_115] Which of the following metals having atomic number 3 is a soft, silvery metal with very low density that reacts vigorously with water and corrodes quickly in air?
+    A)Potassium | B)Sodium | C)Lithium | D)Rubidium => ANS(C): Lithium
+[2020-S3|2020_132] Which instrument records the waves reaching the surface during an earthquake?
+    1)Seismograph | 2)Chronometer | 3)Barograph | 4)Manometer => ANS(1): Seismograph
+[2019|2019_155] When pressure is applied to a fluid, the pressure change is transmitted to every part of the fluid without any loss. Which of the following laws explains this phenomenon?
+    A)Hooke's Law | B)Bernoulli's Law | C)Avogadro's Law | D)Pascal's Law => ANS(D): Pascal's Law
+[2018|2018_176] _________________ is a measure of the moisture in air.
+    A)Density | B)Viscosity | C)Impurity | D)Humidity => ANS(D): Humidity
+[2017|2017_183] Barometer was invented by
+    A)Evangelista Torricelli | B)Charles Xavier Thomas | C)Edward Teller | D)Gustav Tauschek => ANS(A): Evangelista Torricelli
+
+###### जीव — तंत्रिका और हार्मोन — 7 Qs
+[2023-S1|2023_063] Which essential amino acid is necessary for the production of our brain's chemical messengers inchiding melatonin, dopamine, noradrenaline and thyroxine? v2. Phenylalanine X%
+    3)Tryptophan | 4)aline => ANS: (2)
+[2020-S1|2020_127] What disease is caused by insulin deﬁciency?
+    1)Scleroderma | 2)Multiple Sclerosis | 3)Rheumatoid arthritis (RA) | 4)Diabetes mellitus => ANS(4): Diabetes mellitus
+[2020-S2|2020_131] How many parathyroid glands are present on the back side of the thyroid gland in humans?
+    1)Six | 2)Five | 3)Three | 4)Four
+[2019|2019_160] Which part of affected by the
+    A)Bones | C)Brain => ANS(A): Bones
+[2019|2019_160] Which one of the following statements Thyroid Day observed about gratuity is NOT CORRECT?
+    A)Gratuity is given by the employer to | B)25 th May his/her employee for the servi | D)25 th October rendered by him/her during | C)A person is eligible to receive gratuity => ANS(C): A person is eligible to receive gratuity
+[2017|2017_182] Diabetes is caused by
+    A)Excess of insulin | B)Low production of Insulin | C)Malfunction of liver | D)Higher production of bilirubin => ANS(B): Low production of Insulin
+[2017|2017_192] Which drug is used as a Thyroid Harmone ?
+    A)Metformin | B)Ketoconazola | C)Promethizin | D)Levothyroxine => ANS(D): Levothyroxine
+
+###### जीव — जैव वर्गीकरण — 5 Qs
+[2024-S1|2024_006] Identify the INCORRECT statement regarding invertebrates from the options given below.
+    1)They possess a backbone and an internal  | 2)They have radial or bilateral body symme | 3)They have a pair of solid nerve cords, s | 4)They have open circulatory system as the => ANS(1): They possess a backbone and an internal skeleton.
+[2023-S1|2023_055] Which of the following principles was added by the 42nd Constitutional Amendment in the Indian Constitution? x2. To organise agriculture and animal husbandry on modern and scientific lines 73. To protect and improve the environment and to safeguard forests and
+[2021-S2|2021_114] Which of the following artificial colouring agents is used in dietary supplements, sauces, soups and broths, bakery, dairy fats and oils, seafood, condiments, breath fresheners, desserts, convenience foods and beverages?
+    A)Acid fuchsin | B)Orange G | C)Oil red O | D)Quinoline yellow => ANS(D): Quinoline yellow
+[2020-S1|2020_138] ______ is the term used for breeding of ﬁsh in specially constructed tanks and ponds.
+    1)Viticulture | 2)Agriculture | 3)Horticulture | 4)Pisciculture => ANS(4): Pisciculture
+[2017|2017_190] When a Cuttleﬁsh is described Molluscs, it is at which level classiﬁcation?
+    A)Class | B)Order | C)Family | D)Phylum => ANS(D): Phylum
+
+###### पर्यावरण — जलवायु परिवर्तन और ओज़ोन — 5 Qs
+[2023-S4|2023_039] The target forthe first commitment period of the Kyoto Protocol is to reduce emissions of how many greenhouse gases by 5.2% from 1990 levels? x2. 10 x38 x47
+[2023-S1|2023_051] Which of the following institution has been accredited as National Implementing Entity for Adaptation Fund under United Nations Framework Convention on Climate Change (UNFCCC) in India? ans
+    1)ICAR | 2)NIRD ¥ > NABARD * 4 RBI
+[2020-S2|2020_143] Which environmental phenomenon has been linked to synthetic chemicals like chloroﬂuorocarbons (CFCs)?
+    1)Ozone depletion | 2)Tidal ﬂow | 3)Electromagnetic interference | 4)Wave propagation => ANS(1): Ozone depletion
+[2017|2017_190] Which of the following is a greenhouse gas or a gas which can deplete the ozone layer?
+    A)CH CIF | B)C H Kamal 2 2 2 | C)PF | D)COCI 5 2 => ANS(A): CH CIF
+[2017|2017_191] The ozone layer is mainly found in the lower portion of the.............................
+    A)stratosphere | B)Troposphere National | C)mesosphere | D)thermosphere => ANS(A): stratosphere
+
+###### रसायन — दैनिक जीवन का रसायन — 5 Qs
+[2021-S1|2021_113] Which inorganic compound is used to manufacture soap, rayon, paper, explosives, dyes, and petroleum products?
+    A)NaOCl | B)NaOH | C)CaOCl2 | D)NaHCO3 => ANS(B): NaOH
+[2021|2021_117] Which of the following is an extension of a temporary ﬁle?
+    1).tmp | 2).txt | 3).tnt | 4).tar => ANS(1): .tmp
+[2021|2021_120] Which of the following is responsible for producing green light in fireworks?
+    1)Silicon | 2)Potassium | 3)Sodium | 4)Barium => ANS(4): Barium
+[2020-S1|2020_138] Who among the following scientists invented dynamite?
+    1)Alfred Nobel | 2)Thomas Alva Edison | 3)Rudolf Diesel | 4)Benjamin Franklin => ANS(1): Alfred Nobel
+[2018|2018_176] Which of the following is applied on the top of the matchsticks?
+    A)Red phosphorus | B)White phosphorus | C)Potassium sulphate | D)No option is correct region Ans. A
+
+###### पर्यावरण — प्रजातियाँ और IUCN — 4 Qs
+[2022-S2|2022_073] Which of the following is an extinct species?
+    1)Hornbill | 2)Andaman wild pig | 3)Pink head duck | 4)Andaman teal => ANS(3): Pink head duck
+[2022-S1|2022_088] Which of the following is a rare species as per International Union for Conservation of Nature (IUCN)?
+    A)Lion tailed macaque | B)Asiatic buffalo | C)Gangetic dolphin | D)Blue sheep => ANS(B): Asiatic buffalo
+[2022-S4|2022_095] Which of the following is an endemic species?
+    1)Nicobar pigeon | 2)Indian wild ass | 3)Desert fox | 4)Indian rhino
+[2021-S2|2021_112] The Eld's deer subspecies, which is classified as endangered in the IUCN Red List, is found only in the:
+    A)Hemis National Park in Ladakh | B)Ranthambore National Park in Rajasthan | C)Keibul Lamjao National Park in Manipur | D)Pench National Park in Madhya Pradesh => ANS(C): Keibul Lamjao National Park in Manipur
+
+###### पर्यावरण — प्रदूषण — 3 Qs
+[2024-S2|2024_029] Which of the following statements about eutrophication is correct?
+    1)It happens when too less nitrogen is pre | 2)It is a beneficial process for environme | 3)It happens when too much nitrogen enrich | 4)It happens when too much carbon enriches => ANS(2): It is a beneficial process for environment restoration.
+[2023-S1|2023_047] Which metal ion released from tannery industry causes acute water pollution? ans <1. Mg *% 2. As 73. Cr x4. Zn
+[2017|2017_183] Sulphur Dioxide pollution is indicated by an excessive growth of which of the following?
+    A)Algal Blooms | B)Lichens human | C)Bryophytes | D)Protozoa => ANS(B): Lichens human

@@ -1,0 +1,830 @@
+1. Select the related word/letters/number
+from the given alternatives.
+Horse : Foal : Swan :?
+A. Cub B. Lamb
+C. Cygnet D. Nymph
+Ans. C
+2. Select the related word/letters/number
+from the given alternatives.
+ABCD : MOQS : : FGHI : ?
+A. RTXV B. STTV
+C. RTVX D. RVTW
+Ans. C
+3. Select the related word/letters/number
+from the given alternatives.
+BY : GT : : DW : ?
+A. CF B. FC
+C. PI D. IR
+Ans. D
+4. Select the related word/letters/number
+from the given alternatives.
+12 : 18 : 80 : ?
+A. 125 B. 100
+C. 120 D. 122
+Ans. C
+5. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. Baht B. Dinar
+C. Pound D. Iraq
+Ans. D
+6. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. A B. U
+C. E D. G
+Ans. D
+7. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. 746 B. 692
+C. 581 D. 737
+Ans. C
+8. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. 126 B. 168
+C. 224 D. 240
+Ans. D
+9. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+B, C, F, E, J, G, N, I, ?, ?
+A. R, M B. R, L
+C. R, K D. R, S
+Ans. C
+10. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+ELP, HNS, KPV, ?
+A. NRY B. UXZ
+C. OXY D. SVW
+Ans. A
+11. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+2, 3, 5, 9, 17, ?
+A. 31 B. 32
+C. 33 D. 34
+Ans. C
+12. In the following question, two statements
+are given each followed by two conclusions
+I and II. You have to consider the
+statements to be true even if they seem to
+be at variance from commonly known
+facts. You have to decide which of the
+given conclusions, if any, follows from the
+given statements.
+Statement:
+I. We are going back again to our
+ancestors and finding out the
+importance of Yoga Pranayam.
+II. People in west have already opted it. It
+does not required any external
+equipment but only body and soul.
+Conclusions:
+I. Ancient science is treasure of many
+cures and natural remedies of various
+diseases.
+II. Technology has overshadowed these
+ancient sources and introduced new
+concepts of fitness called gym.
+A. Only conclusion II follows
+B. Conclusion I and II both follow
+C. Neither I nor II follow
+D. Only conclusion I follows
+Ans. D
+13. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+Second, Minute, hour, ?
+A. Days B. Night
+C. Year D. Month
+Ans. A
+14. Amit, Bhuwan, Chetan, Dilip, Lalit and
+Fahim are sitting in a row facing west,
+Chetan is between Amit and Lalit, Bhuwan
+is just to the left of Lalit but right of Dilip.
+Chetan is sitting to the immediate right of
+Lalit. Fahim is at the extreme left end.
+Which pair is sitting by the side of Dilip?
+A. Lalit and Bhuwan
+B. Bhuwan and Fahim
+C. Amit and Fahim
+D. Chetan and Amit
+Ans. B
+15. Arrange the given words in the sequence in
+which they occur in the dictionary.
+i. Irrelevant ii. Invincible
+iii. Irresistible iv. Invariable
+v. Investigate
+A. iv, ii, v, iii, i B. iv, v, i, iii, ii
+C. ii, v, iv, i, iii D. iv, v, ii, i, iii
+Ans. D
+16. In a certain code language “READER” is
+written as “123421” and “DIRTY” is written
+as “49178”. How will “DEARER” be written
+in that code language?
+A. 432121 B. 423212
+C. 423121 D. 412312
+Ans. C
+17. In the following question, select the
+missing number from the given series.
+36 86 35
+72 59 78
+56 45 ?
+52 100 100
+A. 11 B. 13
+C. 12 D. 14
+Ans. B
+18. If “-“ stands for “division”, “+” stands for
+“multiplication”, “÷” stands for
+“subtraction” and “x” stands for “addition”,
+then which of the following equations holds
+true?
+A. 4  5  9  3  4  15
+B. 4  5  9  3  4  32
+C. 4  5  18  3  4  70
+D. 4  5  9  3  4  81
+Ans. A
+19. In the following question, which one set of
+letters when sequentially placed at the
+gaps in the given letter series shall
+complete it?
+P_q_qq_p_qr
+A. qrppr B. qrprq
+C. qrpqr D. qpprq
+Ans. B
+220. A watch reads 3:30. If the minute hand
+points towards the north-east direction,
+then in what direction will the hour hand
+point?
+A. South-west B. North-west
+C. South-east D. North-east
+Ans. D
+21. A word is represented by only one set of
+numbers as given in any one of the
+alternatives. The sets of numbers given in
+the alternatives are represented by two
+classes of alphabets as shown in the given
+two matrices. The columns and rows of
+Matrix-I are numbered from 0 to 4 and that
+of Matrix-II are numbered from 5 to 9. A
+letter from these matrices can be
+represented first by its row and next by its
+column, for example, I ‘I’ can be
+represented by 23, 34 etc. and ‘A’ can be
+represented by 65, 99 etc. Similarly, you
+have to identify the set for the word
+‘RHINO’.
+A. 13, 79, 41, 68, 33
+B. 40, 56, 23, 97, 20
+C. 32, 67, 23, 89, 12
+D. 13, 88, 34, 76, 02
+Ans. D
+22. Pointing towards Anil, Shipra syas, “His
+mother’s father is the grandfather of my
+brother”. How is Anil related to Shipra?
+A. Father-In-law B. Father
+C. Brother D. Cousin
+Ans. D
+23. If a mirror is placed on the line XY, then
+which of the answer figures is the right
+image of the given figure?
+A. B.
+C. D.
+Ans. A
+24. Study the information carefully and answer
+the question based on it.
+A. 100 B. 1200
+C. 800 D. 200
+Ans. D
+25. A piece of paper is folded and punched as
+shown below in the question figures. From
+the given answer figures, indicate how it
+will appear when opened.
+A. B.
+C. D.
+Ans.
+26. Which World Heritage Site is built on the
+right bank of the Yamuna River?
+A. Taj Mahal
+B. Hawa Mahal
+C. Hymayu’s Tomb
+D. Mahabodhi Temple Complex
+Ans. A
+27. C. V. Raman won Nobel Prize for which
+category?
+A. Literature B. Physics
+C. Peace D. Economic Studies
+Ans. B
+28. Which of the following disease is caused
+due to the deficiency of protein?
+A. Arthritis B. Kwashiorkor
+C. Goitre D. Night Blindness
+Ans. B
+29. A __________is species of plant that has
+adapted to survive in an environment with
+little liquid water.
+A. xerophyte B. hydrophyte
+C. mesophyte D. thallophyte
+Ans. A
+30. How many types of teeth are there in
+humans?
+A. 4 B. 5
+C. 2 D. 3
+Ans. A
+31. Which of the following elements has the
+lowest melting point?
+A. Boron B. Calcium
+C. Neon D. Gold
+Ans. C
+32. Atomic number of which of the following
+elements is greater than that of
+Silicon________
+A. Aluminium B. Sulphur
+C. Magesium D. Sodium
+Ans. B
+33. how many Gigabyte is equal to 1
+Pettabyte?
+A. 256 B. 512
+C. 1024 D. 1025x1024
+Ans. D
+34. Which of the following is a percussion
+musical Instrument?
+A. Mridangam B. Esraj
+C. Dilruba D. Tanpura
+Ans. A
+35. If the break even quantity for a factory
+whose variable cost of manufacturing a
+tubelight is Rs 35 per unit and selling price
+is Rs 50 per unit is 600 units, find the fixed
+cost of the factory?
+A. Rs 30000 B. Rs 21000
+C. Rs 51000 D. Rs 9000
+Ans. D
+36. Match the characteristics with their market
+structure:
+(a) A single, homogeneous product with no
+close substitutes
+(b) Few sellers with interdependent pricing
+and quantity decision
+A. (a) Pure Competition, (b) Monopolistic
+Competition
+B. (a) Pure Monopoly, (b) Monopolistic
+Competition
+C. (a) Oligopoly (b) Pure Competition
+D. (a) Pure Monopoly, (b) Oligopoly
+Ans. D
+37. Air has maximum proportion of which
+insert gas?
+A. Carbon Dioxide
+B. Nitrous Oxide
+C. Argon
+D. Carbon Monoxide
+Ans. C
+38. Who put forward the ‘Theory of Continental
+Drift’ in 1915?
+A. C. C. Paterson
+B. Nicolaus Copernicus
+C. Alfred Wegener
+D. Galileo Galilei
+Ans. C
+39. Whose picture is on the USA’s 50 dollar
+bill?
+A. Thomas Jefferson
+B. Abraham Lincoin
+C. Andrew Jackson
+D. Ulysses S. Grant
+Ans. D
+40. The rainfall due to upward movement of air
+caused by convergence of cold air masses
+against warm air masses is called
+__________.
+A. Cyclonic rainfall
+B. Oropgraphic rainfall
+C. Frontal rainfall
+D. Convectional rainfall
+Ans. C
+41. Silvassa is the Capital City of __________.
+A. Assam
+B. Chhattisgarh
+C. Dadra and Nagar Haveli
+D. Telengana
+Ans. C
+42. Which Freedom Fighter from Bengal died at
+the age of 18?
+A. Khudiram Bose
+B. Maulana Abul Kalam Azad
+C. Chittaranjan Das
+D. Raja Ram Mohan Roy
+Ans. A
+43. Which emperor shifted his capital from
+Delhi to Daulatabad?
+A. Aurangzab
+B. Muhammad Bin Tughlaq
+C. Sher Shah Suri
+D. Genghis Khan
+Ans. B
+44. Who Invented Gas Turbine?
+A. Edwin Howard Armstrong
+B. John Barber
+C. Edwin Beard Budding
+D. Nicholas Callan
+Ans. B
+45. What is the distance from the centre of the
+earth to the centre of the moon called?
+A. Orbital length of the moon
+B. Orbital length of the earth
+C. Orbital radius of the moon
+D. Orbital radius of the earth
+Ans. C
+46. Law of gravitation applies to _________
+A. Any pair of bodies
+B. The earth and the moon
+C. The planets around the Sun
+D. The earth and the objects on earth
+Ans. A
+47. Article 20 of the Indian Constitution
+“Protection in respect of conviction for
+offences” deals with?
+A. the fundamental rights of the Indian
+Citizen
+B. the Union Government
+C. the State Government
+D. the directive principles of state policy
+Ans. A
+48. Since Independence, India has been ruled
+by the Indian National Congress for how
+many years?
+A, 18 B. 26
+C. 39 D. 49
+Ans. D
+49. Which cricketer holds the fastest test
+century record?
+A. Brendon McCullum
+B. Virender Sehwag
+C. Vivian Richards
+D. Adam Gilchrist
+Ans. A
+50. Who is the author of “The Girl of My
+Dreams”?
+A. Amish Tripathi B. Durjoy Datta
+C. Keshav Aneel D. Savi Sharma
+Ans. B
+51. Factorise x 2  5x  14.
+A.  x  7   x  2  B.  x  1   x  14 
+C.  x  7   x  2  D.  x  14   x  1 
+Ans. C
+52. If sum of the roots of quadratic equation is
+1 and product of the roots is -20. Find the
+quadratic equation.
+A. x 2  x  20  0 B. x 2  x  20  0
+C. x 2  x  20  0 D. x 2  x  20  0
+Ans. A
+53. A man travels 434 km in, partly by rail and
+partly by steamer. He spends 8 hours more
+time on steamer. If the velocity of the
+steamer is 25 km/hr and the velocity of rail
+is 65 km/hr, how much distance does he
+cover by steamer?
+A. 318 km B. 398 km
+C. 265 km D. 477 km
+Ans. C
+54. Deepak lent Rs. 8800 to Jaichand for 13
+years and Rs 5500 to Kapil for 12 years on
+simple interest at the same rate of interest
+and received Rs 1443 in all from both of
+them as interest. The rate of interest per
+annum is __________.
+A. 8.5 percent B. 9 percent
+C. 9.5 percent D. 8 percent
+Ans. D
+55. If 3x  3  3  x / 2 and x  2  6  2c; then
+x can take which of the following values?
+A. 6 B. 2
+C. 10 D. -10
+Ans. B
+56. The sum of non-zero number and twice its
+reciprocal is 33/4. Find the number.
+A. 9 B. 10
+C. 11 D. 8
+Ans. D
+57. Points P and Q lie on side AB and AC of
+triangle ABC respectively such that
+segment PQ is parallel to side BC. If the
+ratio of areas of triangle APQ: triangle ABC
+is 25:36. Then the ratio of AP:PB
+is_____________.
+A. 5:6 B. 1:5
+C. 6:5 D. 5:1
+Ans. D
+58. The reciprocal of the sum of the reciprocals
+of 6/5 and 3/7 is___________.
+A. 57/18 B. 35/57
+C. 18/57 D. 57/35
+Ans. C
+59. A labourer can do a job in 36 hours. After 9
+hours he takes a break. What fraction of
+the job is yet to be done?
+A. 0.5 B. 0.25
+C. 0.75 D. 0.2
+Ans. C
+60. The equation of the line it its slope is -3/7
+and it passes through the point (5, -2)
+is__________.
+A. 3x  7y  29 B. 3x  7y  1
+C. 3x  7y  1 D. 3x  7y  29
+Ans. C
+61. If the sum of the measures of all the inter
+for angles of polygon is 1440 o , find the
+number of sides of the polygon.
+A. 8 B. 12
+C. 10 D. 14
+Ans. C
+62. 20% discount is offered on an item. By
+applying a promo code the customer wins
+30% cash back. What is the effective
+discount?
+A. 44 percent B. 30 percent
+C. 32 percent D. 22 percent
+Ans. A
+63. What is the altitude of an equilateral
+triangle whose side is 15 cm?
+A. 15 3 cm B. 10 3 cm
+   
+C. 9 3 /2 cm D. 15 3 /2 cm
+Ans. D
+64. Two students appeared for an examination.
+One of them secured 19 marks more than
+the other and his marks were 60% of the
+sum of their marks.
+The marks obtained by them are________.
+A. 78 and 59 B. 57 and 38
+C. 45 and 26 D. 99 and 80
+Ans. B
+65. The total surface area of a hemisphere is
+41.58 sq cm. Find its curved surface area.
+A. 27.72 sq cm B. 55.44 sq cm
+C. 9.24 sq cm D. 13.86 sq cm
+Ans. A
+66. If then the value of x is
+A. 3 B. 1
+C. -1 D. -1/2
+Ans. C
+67. If 5A  12B  13C; find A : B : C
+A. 60:65:156 B. 65:156:60
+C. 156:65:60 D. 13:12:5
+Ans. C
+68. If cos  A/2   x, then the value of x is
+A.    1  cos A  /2   B.    1  sin A  /2  
+C.    1  sin A  /2   D.    1  cos A  /2  
+Ans. D
+69. The average marks of 72 students is shown
+as 69. It includes a wrong entry of 45
+marks instead of 54 marks. The correct
+average is __________
+A. 68.875 marks B. 69.125 marks
+C. 68.625 marks D. 69.375 marks
+Ans. B
+70. The total cost of a dishwasher with a
+vaccum cleaner was Rs 78750. The
+vacuum cleaner was sold at a profit of 37%
+and the dishwasher at a loss of 27%. If the
+sale price was the same in both the items,
+then the cost price of the cheaper item
+was______________.
+A. Rs 51375 B. Rs 29375
+C. Rs 30750 D. Rs 27375
+Ans. D
+71. If 2cosec 2 A  x, then the value of x is
+A. sec A  sec A  1   sec A  sec A  1 
+B. cosecA  sec A  1   cosecA  sec A  1 
+C. sec A  cosecA  1   sec A  cosecA  1 
+D. cosecA  cosecA  1   cosecA  cosecA  1 
+Ans. A
+72. Refer the below table and answer the
+following Question.
+Division/STd Boys Girls
+श्रेणी/कक्षा लड़के लडककयााँ
+Division A/Standard 5
+श्रेणी /कक्षा 20 30
+A 5
+Division A/Standard 5
+श्रेणी /कक्षा 15 20
+B 5
+Division A/Standard 5
+श्रेणी /कक्षा 30 10
+C 5
+Division A/Standard 6
+श्रेणी /कक्षा 30 25
+A 6
+Division A/Standard 6
+श्रेणी /कक्षा 30 25
+B 6
+Division A/Standard 6
+श्रेणी /कक्षा 30 20
+C 6
+What is the ratio of boys to girls?
+A. 26:31 B. 31:26
+C. 33:28 D. 28:33
+Ans. B
+73. Refer the below data table and answer the
+following Question.
+Marks / अंक Boys /लड़के
+40 and above
+और उस से उपर 25
+40
+30 and above
+और उस से उपर 44
+30
+20 and above
+और उस से उपर 56
+20
+10 and above
+और उस से उपर 86
+10
+0 and above
+और उस से उपर 100
+0
+How many students have scored marks 20
+or more but less than 40?
+A. 31 B. 56
+C. 44 D. 100
+Ans. A
+74. Refer the below data table and answer the
+following Question.
+GDP growth rate for the year (in %)
+Year वर्ष में सकल घरे लू उत्पाद (जीउपी) की
+/ वर्ष
+व द् ृ धि का दर (प्रतिशि में )
+2011 8
+2012 3
+2013 3
+2014 8
+2015 -7
+If the GDP of the country was $5 trillion at
+the end of 2013, what was it at the
+beginning of 2015?
+A. $4.65 trillion B. $5.4 trillion
+C. $5.15 trillion D. $5.05 trillion
+Ans. B
+75. Refer the below data table and answer the
+following Question.
+Subjects Marks scroed
+ववर्य प्राप्ि अंक
+English / अंग्रेजी 70
+Hindi / ह द ं ी 55
+Math / गणणि 70
+Science / ववज्ञान 55
+Arts / कला 55
+Five points are to be deducted from this
+students average of marks scored because
+of poor attendance. What will be this
+student’s net average marks scroed?
+A. 56 B. 51
+C. 46 D. 61
+Ans. A
+76. Select the synonym of
+A. severance B. rendezvous
+C. annul D. disparate
+Ans. B
+77. Improve the bracketed part of the
+sentence.
+You son(will) have looked smart is a kurta.
+A. shall B. can
+C. would D. no improvement
+Ans. C
+78. In the following question, out of the four
+alternatives, select the alternative which is
+the best substitute of the phrase.
+To cut the wool off a sheep or other
+animal.
+A. to mow B. to prune
+C. to pare D. to shear
+Ans. D
+80. In the following question, out of the four
+alternatives, select the alternative which
+best expresses the meaning of the
+idiom/phrase.
+to come hell or high water
+A. to easily lose motivation
+B. whatever difficulties may occur
+C. to accomplish a very difficult task
+D. wanting revenge very badly
+Ans. B
+81. In the following question, some part of the
+sentence may have errors. Find out which
+part of the sentence has an error and
+select the appropriate option. If a sentence
+is free from error, select “No Error”.
+His reputation for (A)/being rough on(B)/
+students was well earned. (C)/No error(D)
+A. A B. B
+C. C D. D
+Ans. D
+82. Select the synonym of
+to scar
+A. to maim B. to bedeck
+C. to adorn D. to embellish
+Ans. A
+83. Improve the bracketed part of the
+sentence.
+Viren plays hockey and football (too).
+A. both B. also
+C. even D. no improvement
+Ans. D
+84. In the following question, a sentence has
+been given in Direct/Indirect speech. Out
+of the four alternatives suggested, select
+the one, which best express the same
+sentence in Indirect/Direct speech.
+Sita said to her mother, “Do you always
+get up early?”
+A. Sita asked her mother that, whether
+she always got up early.
+B. Sita asked her mother that, whether
+she has been always getting up early.
+C. Sita asked her mother that, if she has
+been always getting up early.
+D. Sita asked her mother if she always got
+up early.
+Ans. D
+85. Select the antonym of
+revel
+A. gloom B. spree
+C. bacchanal D. debauch
+Ans. A
+86. Rearrange the parts of the sentence in
+correct order.
+The fundamental cause of
+P-modern world the stupid are cocksure
+Q-the trouble is that in the
+R-while the intelligent are full of doubt
+A. RPQ B. QRP
+C. QPR D. PRQ
+Ans. C
+87. In the following question, some part of the
+sentence may have errors. Find out which
+part of the sentence has an error and
+select the appropriate option. If a sentence
+is free from error, select “No Error”.
+Tom Sawyer is one(A)/ of the best kid
+stories(B)/that was ever written. (C)/No
+error(D)
+A. A B. B
+C. C D. D
+Ans. C
+88. Select the antonym of
+subdued
+A. dim B. boisterous
+C. solemn D. crestfallen
+Ans. B
+89. In the following question, sentence given
+with blank is to be filled in with an
+appropriate word. Select the correct a
+alternative out of the four and indicate it by
+selecting the appropriate option.
+With our _________ incomes, my wife and
+I can usually afford two vacations a year.
+A. modest B. simple
+C. timid D. discreet
+Ans. A
+90. In the following question, out of the four
+alternatives, select the alternative which is
+the best substitute of the phrase.
+to divide by cutting or slicing, especially
+suddenly and forcibly.
+A. to detach B. to bisect
+C. to sever D. to dissect
+Ans. C
+91. Select the word with the correct spelling.
+A. montereal B. literatie
+C. residuum D. wrethed
+Ans. C
+92. In the following question, the sentence
+given with blank to be filled in with an
+appropriate word. Select the correct
+alternative out of the four and indicate it by
+selecting the appropriate option.
+The teacher accused Jeetu of___________
+because she knew he could never write
+such an exceptional paper.
+A. borrowing B. plagiarism
+C. piracy D. theft
+Ans. B
+93. Rearrange the parts of the sentence in
+correct order.
+It ignores the real victim,
+P-of getting justice
+Q-often compelling him/her
+R-to find extralegal methods
+A. RQP B. RPQ
+C. PRQ D. QRP
+Ans. D
+94. select the word with the correct spelling.
+A. purlius B. solemenly
+C. recesed D. heir loom
+Ans. D
+95. In the following question, a sentence has
+been given in Active/Passive voice. Out of
+four alternatives suggested, select the one,
+which best expresses the same sentence in
+Passive/Active voice,
+The investigation team viewed the CCTV
+video clip.
+A. The CCTV video clip is being viewed by
+the investigation team.
+B. The CCTV video clip was being viewed
+by the investigation team.
+C. The CCTV video clip had been viewed
+by the investigation team.
+D. The CCTV video clip was viewed by the
+investigation team.
+96. In the following passage, some of the
+words have been left out. Read the
+passage carefully and select the correct
+answer for the given blank out of the four
+alternatives.
+History rarely produces moments________
+eplphany, where politics appears as a
+creative act of redemption and the future
+becomes a collective act of healing.
+____________society carries its wounds
+like a burden, a__________ reminder that
+justice works fragmentarily. Suddenly out
+of the crassness, the ____________ of
+everyday politics, ___________a moment
+to treasure.
+A. for B. of
+C. with D. about
+Ans. B
+97. In the following passage, some of the
+words have been left out. Read the
+passage carefully and select the correct
+answer for the given blank out of the four
+alternatives.
+History rarely produces moments________
+eplphany, where politics appears as a
+creative act of redemption and the future
+becomes a collective act of healing.
+____________society carries its wounds
+like a burden, a__________ reminder that
+justice works fragmentarily. Suddenly out
+of the crassness, the ____________ of
+everyday politics, ___________a moment
+to treasure.
+A. Each B. One
+C. All D. A
+Ans. A
+98. In the following passage, some of the
+words have been left out. Read the
+passage carefully and select the correct
+answer for the given blank out of the four
+alternatives.
+History rarely produces moments________
+eplphany, where politics appears as a
+creative act of redemption and the future
+becomes a collective act of healing.
+____________society carries its wounds
+like a burden, a__________ reminder that
+justice works fragmentarily. Suddenly out
+of the crassness, the ____________ of
+everyday politics, ___________a moment
+to treasure.
+A. infinite B. pleasant
+C. long D. perpetual
+Ans. D
+99. In the following passage, some of the
+words have been left out. Read the
+passage carefully and select the correct
+answer for the given blank out of the four
+alternatives.
+History rarely produces moments________
+eplphany, where politics appears as a
+creative act of redemption and the future
+becomes a collective act of healing.
+____________society carries its wounds
+like a burden, a__________ reminder that
+justice works fragmentarily. Suddenly out
+of the crassness, the ____________ of
+everyday politics, ___________a moment
+to treasure.
+A. crudity B. delicacy
+C. beauty D. wonder
+Ans. A
+100. In the following passage, some of the
+words have been left out. Read the
+passage carefully and select the correct
+answer for the given blank out of the four
+alternatives.
+History rarely produces moments________
+eplphany, where politics appears as a
+creative act of redemption and the future
+becomes a collective act of healing.
+____________society carries its wounds
+like a burden, a__________ reminder that
+justice works fragmentarily. Suddenly out
+of the crassness, the ____________ of
+everyday politics, ___________a moment
+to treasure.
+_____________a moment to treasure.
+A. came B. went
+C. comes D. goes
+Ans. C

@@ -1,0 +1,599 @@
+HISTORY PYQs — 280 questions, chapter-wise (for part writing)
+==========================================================================================
+
+###### Modern — स्वतंत्रता संग्राम — 68 Qs
+[2024-S4|2024_009] The birthday of is celebrated as the International Day of Non-Violence.
+    1)Sardar Vallabhbhai Patel | 2)Rabindranath Tagore | 3)Mahatma Gandhi | 4)Bhimrao Ambedkar => ANS(2): Rabindranath Tagore
+[2024-S1|2024_017] Which Act opposed by Mahatma Gandhi in 1919 was a direct attack on the civil liberties and democratic rights of the Indian people?
+    1)Pitt's India Act | 2)Criminal Tribes Act | 3)Rowlatt Act | 4)Defence of India Act => ANS(3): Rowlatt Act
+[2024-S1|2024_021] Which revolutionary organisation was established at Feroz Shah Kotla in New Delhi in 19287
+    1)Bharat Naujawan Sabha | 2)Swadesh Bandhab Samiti | 3)Hindustan Socialist Republican Associati | 4)Indian Home Rule Society => ANS(3): Hindustan Socialist Republican Association
+[2024-S3|2024_023] Which important event that started in 1930 played a significant role in motivating and mobilizing Indians to join the non-violent movement for independence?
+    1)Salt Satyagraha | 2)Swadeshi movement | 3)Gadar Movement | 4)Quit India Movement => ANS(1): Salt Satyagraha
+[2024-S4|2024_024] ‘The Life Divine’, ‘The Synthesis of Yoga’ and ‘Savitri’ are the popular works of which of the following extremist freedom fighters of India?
+    1)Lala Lajpat Rai | 2)Bal Gangadhar Tilak | 3)Bipin Chandra Pal | 4)Aurobindo Ghosh => ANS(1): Lala Lajpat Rai
+[2024-S2|2024_025] In which year was the Rajiv Gandhi Khel Ratna award renamed as Major Dhyan Chand Khel Ratna award, which is the highest sporting honour in the nation?
+    1)2019 | 2)2021 | 3)1991 | 4)2014 => ANS(2): 2021
+[2024-S3|2024_026] What is the name of the famous British social reformer known for founding the Indian Home Rule League in 1916?
+    1)Anne Knight | 2)Annie Besant | 3)Catherine Osler | 4)Maria Rye
+[2024-S4|2024_027] Which British colonel is remembered as the Butcher of Amritsar for his role in the Jallianwala Bagh massacre in 1919?
+    1)Reginald Dyer | 2)Robert Clive | 3)William Slim | 4)William Birdwood => ANS(1): Reginald Dyer
+[2024-S3|2024_030] In his ‘Drain of Wealth’ argument, who among the following stated that Britain was completely draining India?
+    1)Dadabhai Naoroji | 2)Lala Lajpat Rai | 3)Badruddin Tyabji | 4)Bal Gangadhar Tilak => ANS(1): Dadabhai Naoroji
+[2024-S1|2024_032] wa the following was primarily an integral part of the Indian National Army
+    1)Abanindranath Tagore | 2)Rabindranath Tagore | 3)Subhas Chandra Bose | 4)Chittaranjan Das => ANS(1): Abanindranath Tagore
+[2023-S4|2023_035] In which session of All India Congress Committee was the Quit India Resolution accepted? ans X
+    1)Calcutta *% 2 Delhi | 3)Madras v4 Bombay => ANS: (4)
+[2023-S1|2023_040] _ In which session of the Indian National Congress was the resolution declaring Poorna Swaraj passed? %
+    2)Bombay | 3)Madras ¥* Lahore => ANS: (4)
+[2023-S1|2023_043] Who said ‘PURA is one of the mechanisms which will be utilised for transforming our villages into productive economic zones’? X
+    2)Manmohan Singh X | 3)Dadabhai Naoroji | 4)Atal Bihari Vajpayee => ANS(4): Atal Bihari Vajpayee
+[2023-S1|2023_043] Who was the first woman graduate of Calcutta University? ans X
+    1)Sarojini Naidu | 2)Annie Besant v >. Kadambini Ganguly X | 4)Rajkumari Amritkaur => ANS(1): Sarojini Naidu
+[2023-S1|2023_051] Who is referred to as ‘Frontier Gandhi’? ans X
+    1)Rajendra Prasad ¥ Khan Abdul Gaffar Khan | 3)Ashfaquilah Khan X | 4)Rajkumar Shukla => ANS: (2)
+[2023-S4|2023_054] ‘The Deccan Sabha’ was founded by which of the following nationalists? %
+    2)Pherozeshah Mehta X | 3)Surendranath Banerjee X | 4)Dadabhai Naoroji => ANS(2): Pherozeshah Mehta X
+[2023-S1|2023_055] Which great leader died due to his injuries in the Anti-Simon Commission Protest of 1928? X%
+    2)ala Hardayal X | 3)Bhagat Singh X | 4)Bal Gangadhar Tilak => ANS: (1)
+[2023-S2|2023_056] The second annual session of Indian National Congress was held at which of the following places? ans X
+    1)Bombay *%2 Delhi ~¥% Calcutta | 4)Madras
+[2023-S4|2023_058] By what name did Vinayak Savarkar form a secret organization of revolutionaries in the year 1904? X
+    2)Naujawan Bharat Sabha ¥ | 3)Abhinav Bharat | 4)Forward Bloc => ANS: (1)
+[2023-S1|2023_059] The National Rural Employment Guarantee Act, now known as Mahatma Gandhi National Rural Employment Guarantee Act, was first enacted in the year. . ans X
+    1)2000 v2 2005 | 3)2009 “~4 2014 => ANS(3): 2009 “~4 2014
+[2023-S3|2023_065] Who among the following devoted his life for the upliftment of widows and established the Widow Remarriage Association in 1893? %
+    2)Annie Besant | 3)KC Sen | 4)BM Malabari => ANS(2): Annie Besant
+[2023-S4|2023_066] Who among the following devoted his life for the upliftment of widows and established the Widow Remarriage Association in 1893? %
+    2)Annie Besant | 3)KC Sen | 4)BM Malabari => ANS(2): Annie Besant
+[2022-S4|2022_067] When was the Champaran Agrarian Act passed?
+    1)1920 | 2)1922 | 3)1918 | 4)1924 => ANS(3): 1918
+[2022-S1|2022_068] When was the Lucknow Pact signed by All India Muslim League and Indian National Congress?
+    A)1916 | B)1911 | C)1919 | D)1906 => ANS(A): 1916
+[2022-S3|2022_070] ______ is an Act of the Parliament of the United Kingdom that partitioned British India into two new independent dominions of India and Pakistan in 1947.
+    1)Indian Independence Act | 2)Pitt's India Act | 3)Rowlatt Act | 4)Government of India Act => ANS(3): Rowlatt Act
+[2022-S4|2022_071] Mahatma Gandhi abruptly called off the Non-Cooperation Movement when in ______ a crowd of peasants set fire to a police station in Chauri Chaura.
+    1)June 1922 | 2)February 1922 | 3)December 1922 | 4)April 1922 => ANS(1): June 1922
+[2022-S1|2022_072] In a drama, Hima spoke “Swaraj is my birth right and I shall have it.’’. Which Indian freedom fighter gave this slogan?
+    A)Bhagat Singh | B)Bal Gangadhar Tilak | C)Mahatma Gandhi | D)Ambika Charan Majumdar => ANS(B): Bal Gangadhar Tilak
+[2022-S4|2022_075] Who among the following is famously called the Iron Lady of India?
+    1)Mary Kom | 2)Deepika Padukone | 3)Lata Mangeshkar | 4)Indira Gandhi => ANS(4): Indira Gandhi
+[2022-S2|2022_081] In Kheda, Gujarat, Patidar peasants organised non-violent campaigns against which of the following demand of the British?
+    A)Low labour rates | B)Long working hours | C)High land revenue | D)Low price for crops => ANS(C): High land revenue
+[2022-S4|2022_083] In 1929, under the presidency of ______, the Lahore Congress formalised the demand of Purna Swaraj.
+    1)Sardar Vallabhbhai Patel | 2)Mahatma Gandhi | 3)Subhas Chandra Bose | 4)Jawaharlal Nehru => ANS(4): Jawaharlal Nehru
+[2022-S4|2022_087] Which of the following statements is correct regarding the Lucknow Pact? I. It was signed in the year 1916. II. It was signed between the moderate and radical factions of Congress.
+    1)Both I and II | 2)Neither I nor II | 3)Only I | 4)Only II => ANS(1): Both I and II
+[2022-S2|2022_089] Who received a Nobel Peace Prize for dismantling apartheid in South Africa?
+    A)Nelson Mandela | B)Rabindranath Tagore | C)Mahatma Gandhi | D)Albert John Lutuli => ANS(A): Nelson Mandela
+[2022-S4|2022_091] Who founded Trinamool Congress in 1998 and became its Chairperson, after separating from the Indian National Congress?
+    1)Jayaram Jayalalithaa | 2)Kanimozhi | 3)Supriya Sule | 4)Mamata Banerjee => ANS(4): Mamata Banerjee
+[2022-S1|2022_092] Who received a Nobel Peace Prize for dismantling apartheid in South Africa?
+    A)Nelson Mandela | B)Rabindranath Tagore | C)Mahatma Gandhi | D)Albert John Lutuli => ANS(A): Nelson Mandela
+[2022-S4|2022_095] Which Indian freedom fighter is also known as Bismarck of India?
+    1)Sardar Vallabhbhai Patel | 2)Mahatma Gandhi | 3)Lal Bahadur Shastri | 4)Jawaharlal Nehru => ANS(1): Sardar Vallabhbhai Patel
+[2021-S1|2021_105] Which ecologist’s research provided revolutionary new insights into how energy and nutrients move through the ecosystems?
+    A)Arthur Tansley | B)Ernst Haeckel | C)Charles Elton | D)Raymond L Lindeman => ANS(D): Raymond L Lindeman
+[2021-S2|2021_108] Which of the following freedom fighters wrote ‘The Story of My Experiments with Truth’?
+    A)BR Ambedkar | B)Jawahar Lal Nehru | C)Mahatma Gandhi | D)Bhagat Singh => ANS(C): Mahatma Gandhi
+[2021-S1|2021_113] ‘Waiting for a Visa’ is an autobiographical work of which of the following leaders of India?
+    A)Bhagat Singh | B)Bipin Chandra Pal | C)Bhimrao Ramji Ambedkar | D)Lala Lajpat Rai => ANS(C): Bhimrao Ramji Ambedkar
+[2021-S1|2021_121] Among the following, whose autobiography is ‘My Confession’?
+    A)Adolf Hitler | B)Leo Tolstoy | C)Nelson Mandela | D)Mahatma Gandhi => ANS(B): Leo Tolstoy
+[2020-S1|2020_127] Who was best known for hoisting the Indian National Congress ﬂag at the Gowalia Tank maidan in Bombay during the Quit India Movement?
+    1)Aruna Asaf Ali | 2)Kanaklata Barua | 3)Bhikaiji Rustom Cama | 4)Lakshmi Sahgal
+[2020-S2|2020_128] How many person(s) has/have been selected for the Rajiv Gandhi Khel Ratna Award, 2019?
+    1)1 | 2)3 | 3)2 | 4)4 => ANS(2): 3
+[2020-S3|2020_129] When was the ‘Quit India Movement’ started?
+    1)August 1942 | 2)April 1919 | 3)October 1905 | 4)February 1928
+[2020-S3|2020_132] On which date did Indian National Congress pass the Resolution of 'Poorna Swaraj' (total independence) at the Lahore Session?
+    1)21 December 1929 | 2)19 December 1929 | 3)26 December 1929 | 4)15 December 1929 => ANS(1): 21 December 1929
+[2020-S3|2020_132] On December 2019, the Prime Minister of ______ announced the commencement of the ‘Gandhi Citizenship Education Award’ to be given every year.
+    1)Bhutan | 2)Japan | 3)Portugal | 4)France
+[2020-S1|2020_133] Who among the following was elected as the President of the Indian National Congress in the years 1938 and 1939?
+    1)Annie Besant | 2)C Rajagopalachari | 3)Rajendra Prasad | 4)Subhash Chandra Bose
+[2020-S1|2020_133] In which of the following years did Mahatma Gandhi launch Champaran Satyagraha?
+    1)1927 | 2)1922 | 3)1917 | 4)1914 => ANS(3): 1917
+[2020-S2|2020_134] Which of the following freedom ﬁghters was NOT involved in the Kakori Train Robbery?
+    1)Bhagat Singh | 2)Ashfaqullah Khan | 3)Ram Prasad Bismil | 4)Chandrashekhar Azad
+[2020-S3|2020_135] As of January 2020, who among the following became the ﬁrst Indian female para-athlete and the oldest to be honoured with the ‘Rajiv Gandhi Khel Ratna award’?
+    1)Manasi Joshi | 2)Deepa Malik | 3)Karamjyoti Dalal | 4)Ramya Shanmugham => ANS(2): Deepa Malik
+[2020-S3|2020_135] Who among the following was popularly known as ‘Frontier Gandhi’?
+    1)Maulana Abul Kalam Azad | 2)Abdul Ghaffar Khan | 3)Ashfaqulla Khan | 4)Hasrat Mohani => ANS(2): Abdul Ghaffar Khan
+[2020-S1|2020_136] In which of the following years did Sarojini Naidu preside over the Indian National Congress session?
+    1)1945 | 2)1935 | 3)1915 | 4)1925 => ANS(2): 1935
+[2020-S1|2020_136] To whom did Mahatma Gandhi give the title ‘Deen Bandhu’?
+    1)Abdul Ghaffar Khan | 2)Rabindra Nath Tagore | 3)CF Andrews | 4)Rajendra Prasad => ANS(3): CF Andrews
+[2020-S2|2020_137] Who among the following was the ﬁrst recipient of the Rajiv Gandhi Khel Ratna Award?
+    1)PT Usha | 2)Vijay Amritraj | 3)Viswanathan Anand | 4)Sachin Tendulkar => ANS(3): Viswanathan Anand
+[2020-S2|2020_137] ______ was an important member of the Hindustan Republican Association, who along with his associates executed the train dacoity at Kakori.
+    1)Sohan Singh Bhakna | 2)Jatin Banerjee | 3)Khudiram Bose | 4)Ashfaqulla Khan => ANS(4): Ashfaqulla Khan
+[2020-S3|2020_140] Who is known as the 'Father of the Nation' in India?
+    1)Bhim Rao Ambedkar | 2)Mohandas Karamchand Gandhi | 3)Swami Vivekananda | 4)Mahadev Govind Ranade => ANS(2): Mohandas Karamchand Gandhi
+[2020-S3|2020_140] The ﬁrst Education Minister of Independent India was ______.
+    1)Abul Kalam Azad | 2)Triguna Sen | 3)Pranab Mukherjee | 4)Indira Gandhi => ANS(1): Abul Kalam Azad
+[2020-S3|2020_145] ______ was a mentor to both, Mahatma Gandhi and Mohammed Ali Jinnah.
+    1)Rabindranath Tagore | 2)Lala Lajpat Rai | 3)Gopal Krishna Gokhale | 4)Bal Gangadhar Tilak => ANS(3): Gopal Krishna Gokhale
+[2020-S3|2020_145] The ﬁrst Backward Classes Commission of India was headed by ______.
+    1)Nanaji Deshmukh | 2)Lokmanya Tilak | 3)Gopal Krishna Gokhale | 4)Kaka Kalelkar => ANS(4): Kaka Kalelkar
+[2019|2019_149] The mother of Mahatma Gandhi was:
+    A)Putlibai | B)Heerabai | C)Kamlabai | D)Kasturbabai => ANS(A): Putlibai
+[2019|2019_150] The quote “The shots that hit me are the last nails to the coffin of British rule in India.” Belongs to which of the fol- lowing freedom fighters?
+    A)Lala Lajpat Rai | B)Chandrashekhar Azad | C)Bhagat Singh | D)Ram Prasad Bismil => ANS(A): Lala Lajpat Rai
+[2019|2019_153] Who among the following was India’s defence minister during the 1971 was between India and Pakistan?
+    A)Yashwantrao Chavan | B)Indira Gandhi | C)Swaran Singh | D)Jagjivan Ram => ANS(D): Jagjivan Ram
+[2019|2019_155] The quote "Bombs and pistols do not make a revolution. The sword of revolution is sharpened on the whetting-stone of ideas" belongs to which of the following freedom fighters?
+    A)Bal Gangadhar Tilak | B)Subhash Chandra Bose | C)Bhagat Singh | D)Lala Lajpat Rai => ANS(C): Bhagat Singh
+[2019|2019_159] Who among book ‘Poverty
+    A)Rajagopalachari | B)Dadabhai | C)Bal Gangadhar | D)Raja Ram => ANS(B): Dadabhai
+[2018|2018_164] Which of the following is related the Tinkathiya Pratha?
+    A)Champaran | B)Kheda | C)Bardoli | D)Darbhanga => ANS(A): Champaran
+[2018|2018_165] In the last one decade, which one among awarded the ‘"Rajiv Gandhi Khel Ratna the following sectors has attracted the Award" for the year 2017?
+    A)Jitu Rai | B)Jasvir Singh | C)Sardar Singh | D)S.V. Sunil => ANS(D): S.V. Sunil
+[2018|2018_171] Which of the following was not done rectangle is 4:3
+    D)The middle circle has a radius of one Ma | A)Partition of Bengal fifth of the length | B)Formation of Bhartiya Lok Sevv Ans. C | C)Establishment of the Famine => ANS(D): The middle circle has a radius of one Mandal 86. Oxygen mole
+[2017|2017_187] Since Independence, India has been ruled by the Indian National Congress for how many years?
+    B)26 | C)39 | D)49 => ANS(D): 49
+[2017|2017_190] Gandhi Ji started the Non-Cooperation Movement in?
+    A)1880 | B)1900 | C)1920 | D)1940 of Ans. C
+[2017|2017_192] Gandhi Irwin pact happened in which year ? to
+    A)1905 | B)1931 | C)1947 | D)1942 => ANS(B): 1931
+
+###### Medieval — मुगल काल — 44 Qs
+[2024-S1|2024_013] Which amongst the following statements is correct about Mughal emperor Akbar?
+    1)He fought and won the third battle of Pa | 2)He founded a new religion called ‘Din-e  | 3)He was declared emperor in 1602. => ANS(2): He founded a new religion called ‘Din-e llahi’.
+[2024-S4|2024_020] Who amongst the following Mughal emperors got classical Hindu mythological texts Ramayana and Mahabharata translated into Persian?
+    1)Akbar | 2)Shahjahan | 3)Jahangir | 4)Aurangzeb => ANS(1): Akbar
+[2024-S2|2024_025] The Battle of Khanua was fought between Babur and .
+    1)Rana Ratna Singh | 2)Maharana Pratap | 3)Rana Sanga | 4)Medini Rao => ANS(3): Rana Sanga
+[2023-S2|2023_048] Who among the following Mughals built Moti Masjid in the Agra Fort complex? %
+    2)Jahangir | 3)Akbar X | 4)Aurangzeb => ANS(3): Akbar X
+[2023-S4|2023_054] Who among the following medieval rulers focused his attention on the construction of sarais (shelter) for the convenience of travellers? ans %
+    1)Babur ¥ 2% Sher Shah Suri | 3)Akbar X | 4)Humayun
+[2023-S2|2023_064] Who among the following was given the charge of looking after the imperial household during the Mughal administration? ans
+    1)Mir Saman * 2 Mir Bahri | 3)Mir Bakshi | 4)'Mir-e-aatish’
+[2022-S4|2022_071] Who among the following wrote a history of Akbar’s reign titled Akbar Nama?
+    1)Miya Tansen | 2)Todar Mal | 3)Raja Birbal | 4)Abul Fazl => ANS(4): Abul Fazl
+[2022-S2|2022_077] Which singer was one of the Navaratnas (Nine Jewels) in the court of Mughal Emperor Jalal ud-din Mohammad Akbar?
+    A)Alla Rakha | B)Ustad Ahmad Lahori | C)Amir Khusrau | D)Tansen => ANS(D): Tansen
+[2022-S4|2022_079] Babur, the first Mughal emperor, succeeded to the throne of Ferghana in ______ when he was 12 years old.
+    1)1494 | 2)1526 | 3)1504 | 4)1530
+[2022-S4|2022_079] ______ administration became the model followed by the great emperor Akbar when he consolidated the Mughal Empire.
+    1)Sher Shah Suri’s | 2)Alauddin Khalji’s | 3)Muhammad Tughluq’s | 4)Genghis Khan’s => ANS(1): Sher Shah Suri’s
+[2022-S1|2022_080] Sher Khan defeated Humayun at Kanauj in the year ___________.
+    A)1540 | B)1555 | C)1535 | D)1530 => ANS(A): 1540
+[2022-S2|2022_081] Who emphasized the worship of God as Nirankar (Formless) in Punjab?
+    A)Maharaja Ranjit Singh Baba Ram Singh | C)Baba Dayal Das | D)Guru Gobind Singh => ANS(C): Baba Dayal Das
+[2022-S2|2022_081] The Natya shastra which provides information regarding musical instruments is compiled by ______.
+    A)Amir Khusrau | B)Bharat Muni | C)Tansen | D)Kalidas => ANS(B): Bharat Muni
+[2022-S1|2022_084] Humayun’s Tomb situated in Delhi is built by _____________.
+    A)Gulbadan Begum | B)Biga Begum | C)Hamida Begum | D)Maham Begum => ANS(B): Biga Begum
+[2022-S2|2022_093] The famous monument, Aram Bagh, was built by Babur. It is located in ______.
+    A)Delhi | B)Uttar Pradesh | C)Madhya Pradesh | D)Bihar => ANS(B): Uttar Pradesh
+[2021-S2|2021_098] Which of the following is the birthplace of Tansen?
+    A)Agra | B)Chanderi | D)Delhi Gwalior => ANS(D): Delhi Gwalior
+[2021-S1|2021_105] Tansen, one of the well-known musicians of medieval India, was in the court of which of the following Mughal emperors?
+    A)Akbar | B)Aurangzeb | C)Babur | D)Humayun => ANS(A): Akbar
+[2021|2021_118] Which Mughal emperor built the city called ‘Makhsudabad' later popularly known as Murshidabad? J 2. Shah Jahan 7 3. Humayun A 4. Akbar
+[2021|2021_119] ______ was the Mughal emperor during the revolt of 1857.
+    1)Shah Alam II | 2)Bahadur Shah I | 3)Akbar II | 4)Bahadur Shah II => ANS(4): Bahadur Shah II
+[2020-S3|2020_129] Mughal emperor Shah Jahan got the monument Taj Mahal constructed in memory of his wife ______.
+    1)Jahanara | 2)Mumtaz Mahal | 3)Roshnara | 4)Noorjahan => ANS(2): Mumtaz Mahal
+[2020-S3|2020_129] Which Rajput ruler of Mewar in 1576 fought the Battle of Haldighati and then ﬂed the ﬁeld on his horse, Chetak?
+    1)Maharana Pratap | 2)Rana Amar Singh | 3)Maharaja Udai Singh | 4)Raja Man Singh
+[2020-S1|2020_130] In which battle did Ahmad Shah Abdali defeat the Marathas?
+    1)Third battle of Panipat | 2)Battle of Khanwa | 3)Battle of Buxar | 4)First battle of Tarain => ANS(2): Battle of Khanwa
+[2020-S3|2020_132] In which language were the Mughal court chronicles written?
+    1)Sanskrit | 2)Hindi | 3)Urdu | 4)Persian => ANS(4): Persian
+[2020-S2|2020_134] Who among the following wrote ‘Akbar Nama’?
+    1)Amir Khushro | 2)Akbar | 3)Abul Fazl | 4)Birbal => ANS(1): Amir Khushro
+[2020-S3|2020_144] Which of the following places in India would you visit to see Mughal emperor Humayun's library?
+    1)New Delhi | 2)Aligarh | 3)Aurangabad | 4)Agra
+[2020-S3|2020_146] In which year did Babur defeat the Sultan of Delhi, Ibrahim Lodi, at Panipat and capture Delhi and Agra?
+    1)1526 | 2)1530 | 3)1543 | 4)1494
+[2019|2019_152] The historical Sher Shah Suri Marg is called as:
+    A)National Highway Number 23 | B)National Highway Number 11 | C)National Highway Number 1 | D)National Highway Number 8 => ANS(C): National Highway Number 1
+[2019|2019_156] Which emperor's army did Maharana Pratap fight in the Battle of Haldighati?
+    A)Mahmud Shah | B)Humayun | C)Ibrahim Lodi | D)Akbar => ANS(D): Akbar
+[2018|2018_167] Who built the Moti Masjid in the Red Fort of Delhi?
+    A)Akbar | B)Jahangir | C)Shah Jahan | D)Aurangzeb cm Ans. D
+[2018|2018_170] When was Guru Nanak Dev
+    A)1449 AD | B)1453 | C)1469 AD | D)1499 => ANS(C): 1469 AD
+[2018|2018_172] Which of the following was industry in the Mughal period?
+    A)Pearl production | B)Silk cloth | C)Cotton cloth | D)No option is correct. => ANS(C): Cotton cloth
+[2018|2018_172] Which of the following was industry in the Mughal period?
+    A)Pearl production | B)Silk cloth | C)Cotton cloth | D)No option is correct. => ANS(C): Cotton cloth
+[2018|2018_174] Where was Guru Nanak Dev (the originator of Sikh religion) born?
+    A)Amritsar | B)Anandpur Sahib | C)Talwandi | D)Patna Sahib => ANS(C): Talwandi
+[2018|2018_179] In whose reign, the ofﬁce of the Vakil was abolished?
+    A)Akbar | B)Jahangir | C)Shah Jahan | D)Aurangzeb => ANS(C): Shah Jahan
+[2018|2018_181] Which of the following medieval rulers was called 'Jagat Guru'?
+    A)Ibrahim Qutbshah | B)Ibrahim Adilshah I | C)Akbar | D)Malik Ambar => ANS(B): Ibrahim Adilshah I
+[2017|2017_182] Shah Jahan built Taj Mahal in memory __________.
+    A)Ruqayya Sultan Begum | B)Jodha Bai | C)Mumtaz Mahal | D)Nur Jahan => ANS(C): Mumtaz Mahal
+[2017|2017_183] Battle of Panipat was fought in the 1526 between Babur and __________.
+    A)Rana Sanga | B)Muhammad Bin Tughlak | C)Hemu | D)Ibrahim Lodi => ANS(D): Ibrahim Lodi
+[2017|2017_184] In whose reign, the ofﬁce of the Vakil was abolished?
+    A)Akbar | B)Jahangir | C)Shah Jahan | D)Aurangzeb => ANS(C): Shah Jahan
+[2017|2017_188] Aurangzeb, the Mughal Emperor died in? Musical
+    A)1507 | B)1607 | C)1707 | D)1807 => ANS(C): 1707
+[2017|2017_189] Humayun was born in the year _______.
+    A)1508 | B)1608 | C)1708 | D)1808 => ANS(A): 1508
+[2017|2017_191] Battle of Haldighati in 1576 was between Akbar and....................
+    A)Sher Shah | B)Maharana Pratap | C)Hemu Vikramadtiya | D)Nader Shah => ANS(B): Maharana Pratap
+[2017|2017_192] In 1739, who defeated the Mughal army at Battle of karnal ?
+    A)Nader Shah | B)Genghis Khan | C)Hemu Vikramaditya | D)Bajirao I => ANS(A): Nader Shah
+[2017|2017_193] The Red Fort (Delhi) was built by..............
+    A)Babur | B)British | C)Shah Jahan | D)Aurangzeb => ANS(C): Shah Jahan
+[2017|2017_193] Whom did Akbar defeat in the 2 nd battle of Panipat in 1556?
+    A)Genghis Khan | B)Nader Shah | C)Hemu Vikramaditya | D)Bajirao I => ANS(C): Hemu Vikramaditya
+
+###### Modern — ब्रिटिश शासन — 29 Qs
+[2024-S3|2024_004] The proclamation of which Act by the King of England in 1773 paved the way for the establishment of the Supreme Court at Calcutta?
+    1)Regulating Act | 2)Pitt's India Act | 3)Indian Councils Act | 4)Charter Act => ANS(1): Regulating Act
+[2024-S1|2024_006] Which Governor General of India issued the famous Regulation XVII in 1829, which declared the practice of Sati illegal and punishable by the courts?
+    1)Lord William Bentinck | 2)Lord Minto | 3)Lord Ellenborough | 4)Lord Napier => ANS(1): Lord William Bentinck
+[2024-S4|2024_020] Warren Hastings became the Governor-General of Bengal from Governor of Bengal after the passing of which of the following Acts?
+    1)Pitt’s India Act, 1784 | 2)Regulating Act, 1773 | 3)Indian Council Act of 1861 | 4)Charter Act, 1813 => ANS(2): Regulating Act, 1773
+[2023-S4|2023_039] Who among the following Peshwas signed the Treaty of Bassein with the British East India Company? ans
+    1)Baji Rao II | 2)Madhav Rao X | 3)Narayan Rao X | 4)Balaji Baji Rao => ANS(4): Balaji Baji Rao
+[2023-S2|2023_044] _ Joseph Francois Dupleix was the Governor General of which of the following East India companies in India? ans X
+    1)Dutch ~2 French X | 3)English X | 4)Portuguese
+[2023-S3|2023_053] Who introduced permanent settlement policy in 1793 to fix the reverme between East India Company and landlords? ans X
+    1)ord Ripon | 2)ord William Bentinck X | 3)ord Wellesley ¥ 4 Lord Cornwallis => ANS: (4)
+[2023-S1|2023_055] In which of the following years did the East India Company abolish the diarchy system of Bengal? ans #
+    1)1772 | 2)1765 % 8. 1757 | 4)1779 => ANS(1): 1772
+[2023-S2|2023_060] Who among the following was the Governor General of India when the Permanent Settlement was introduced in Bengal for revenue collection by the East India Company? ans ¥ |. Lord Cornwallis x
+    2)ord Wellesly | 3)ord Dalhousie X | 4)ord Canning => ANS: (1)
+[2022-S2|2022_069] Under ______ (Governor General from 1813 to 1823) a new policy of “paramountcy” was initiated. Now the Company claimed that its authority was paramount or supreme, hence its power was greater than that of Indian states.
+    A)Lord Amherst | B)Lord Cornwallis | C)Lord Hastings | D)Lord Auckland => ANS(C): Lord Hastings
+[2022-S3|2022_070] Which of the following pairs is correct regarding the East India Company army? I. Sawar – Men on horses II. Musket – A heavy gun used by infantry soldiers
+    1)Neither I nor II | 2)Only I | 3)Both I and II | 4)Only II
+[2022-S1|2022_072] On 12 August ______, the Mughal emperor appointed the East India Company as the Diwan of Bengal.
+    A)1765 | B)1768 | C)1772 | D)1760 => ANS(A): 1765
+[2022-S2|2022_073] In ______, the East India Company acquired a charter from the ruler of England, Queen Elizabeth I, granting it the sole right to trade with the East.
+    1)1600 | 2)1610 | 3)1620 | 4)1580 => ANS(2): 1610
+[2022-S1|2022_076] In 1809, Lord ______ signed the Amritsar Treaty with Maharaja Ranjit Singh.
+    A)Michael John Hastings | B)William Bentinck | C)James Andrew Ramsay - Dalhousie | D)Charles T. Metcalfe => ANS(D): Charles T. Metcalfe
+[2022-S2|2022_085] In 1757, ______ led the Company’s army against Sirajuddaulah at Plassey.
+    1)Lord Cornwallis | 2)Lord Minto | 3)Warren Hastings | 4)Robert Clive => ANS(2): Lord Minto
+[2022-S4|2022_087] Who is famously known as the Tiger of Mysore?
+    1)Baji Rao I | 2)Tipu Sultan | 3)Sheikh Mohammad Abdullah | 4)Asaf Jah I => ANS(2): Tipu Sultan
+[2022-S4|2022_091] In which year was the Pitt’s India Act passed?
+    1)1819 | 2)1901 | 3)1857 | 4)1784 => ANS(4): 1784
+[2022-S2|2022_093] Who led the Battle of Plassey on behalf of the British East India Company?
+    A)Charles Stuart | B)Warren Hastings | C)Robert Clive | D)James Lancaster => ANS(C): Robert Clive
+[2022-S3|2022_094] Who among the following devised a policy that came to be known as the Doctrine of Lapse?
+    1)Lord Dalhousie | 2)Lord Hastings | 3)Lord Cornwallis | 4)Lord Minto => ANS(1): Lord Dalhousie
+[2022-S4|2022_095] Who was the Governor General of Bengal when the Permanent Settlement was introduced there in 1793?
+    1)Charles Cornwallis | 2)Lord William Bentinck | 3)Lord Mountbatten | 4)Lord Ripon => ANS(1): Charles Cornwallis
+[2021|2021_120] In which of the following years was the Diwani of Bengal transferred to the East India Company?
+    1)1880 | 2)1765 | 3)1554 | 4)1678 => ANS(2): 1765
+[2020-S1|2020_127] Who introduced the 'Doctrine of Lapse'?
+    1)Lord Lytton | 2)Lord Dalhousie | 3)Lord Wellesley | 4)Lord Canning
+[2020-S2|2020_131] Which governor general of India abolished Sati system in 1829 by declaring it an offence?
+    1)Lord Dalhousie | 2)Lord Cornwallis | 3)Lord Wellesley | 4)Lord William Bentinck => ANS(4): Lord William Bentinck
+[2020-S3|2020_140] In which year did Lord Curzon order the partition of Bengal?
+    1)1945 | 2)1905 | 3)1915 | 4)1930 => ANS(3): 1915
+[2020-S1|2020_141] When did Shuja-ud-daulah and Shah Alam sign treaties at Allahabad with Robert Clive?
+    1)1764 | 2)1767 | 3)1766 | 4)1765
+[2020-S2|2020_143] In which year was the Second Anglo-Mysore war fought between the Kingdom of Mysore and the British East India Company?
+    1)1780-1784 | 2)1769-1775 | 3)1785-1789 | 4)1766-1769 => ANS(1): 1780-1784
+[2020-S3|2020_144] During the rule of Tipu Sultan, which was the capital city of his state Mysore?
+    1)Madurai | 2)Bangalore | 3)Bidar | 4)Srirangapatnam => ANS(4): Srirangapatnam
+[2018|2018_168] Which of the following work is not cred- ited to Lord Dalhousie?
+    A)Merger of Punjab | B)Merger of Bengal | C)Merger of Mysore | D)Merger of Satara => ANS(C): Merger of Mysore
+[2018|2018_177] Permanent settlement was a of___________.
+    A)Zamindari System | B)Mahalwari System | C)Ryotwari System | D)No option is correct => ANS(A): Zamindari System
+[2018|2018_177] Who led the English Army Battle of Buxar?
+    A)Lord Clive | B)Vensittart | C)Hector Munro | D)Eyre Coot => ANS(C): Hector Munro
+
+###### Medieval — दिल्ली सल्तनत — 17 Qs
+[2024-S1|2024_002] Balban followed the tradition of ‘Sijda and Pabos’ from which of following traditions?
+    1)Chinese | 2)Persian | 3)Mangol | 4)Roman
+[2024-S1|2024_006] Who among the following Delhi Sultanate rulers took the policy of ‘blood and iron’ to deal with the Mewati community?
+    2)Rajiya | 3)Qutubuddin Aibak | 4)Iitutmish
+[2024-S3|2024_008] Who defeated Mohammad Ghori in the First Battle of Tarain fought in the year 1191?
+    1)Vidyadhar | 2)Prithviraj Chauhan | 3)Vasudev | 4)Yashovarman => ANS(2): Prithviraj Chauhan
+[2024-S4|2024_016] Which amongst the following Sultans shifted his capital from Delhi to Daulatabad?
+    2)Ibrahim Lodhi | 3)Sikandar Lodhi | 4)Feroz Shah Tughlaq
+[2024-S2|2024_018] Who was the founder of the Bahmani Sultanate?
+    1)Feroz Shah Bahmani | 2)Muhammad Bin Tughlaq | 3)Muhammad Shah | 4)Alauddin Hasan Bahman Shah => ANS(1): Feroz Shah Bahmani
+[2024-S3|2024_023] Who invaded India during the rule of Tughlaq Dynasty?
+    1)Muhammad Ghori | 2)Timur | 3)Mahmud of Ghazni | 4)Chengiz Khan => ANS(2): Timur
+[2024-S4|2024_027] Who amongst the following Delhi Sultanate rulers sent his army under Malik Kafur’s command to conquer South India?
+    1)Alauddin Khilji | 2)Ghiyas-ud-din Balban | 3)Qutub-al-din Aibak | 4)litutmish => ANS(1): Alauddin Khilji
+[2023-S2|2023_037] ‘Ghiyasuddin Balban introduced the customs of *Sijda’ and *Paibos’ as normal forms of salutations to the king as a part of etiquette. ans ><
+    1)Army X | 2)Family X | 3)Religious ¥* Court => ANS: (4)
+[2023-S4|2023_042] Balban served as naib to which of the following sultans of Delhi? ans %
+    1)Tltutmish | 2)Razia ¥ °. Nasiruddin Mahmud X 4 Qutb ud => ANS: (4)
+[2023-S4|2023_050] Who amongst the following raised the banner of revolt against Nasiruddin Khusrau? ans X
+    1)Nasiruddin Tughlaq X | 2)Muhammad bin Tughlaq X | 3)Feroz Shah Tughlaq v4 Ghiyasuddin Tughla
+[2023-S3|2023_053] Who was the Sultan of Delhi at the time of the establishment of Vijayanagara Empire? %
+    2)Iltutmish >. Mohammad bin Tughlaq | 4)Alauddin Khilji => ANS: (3)
+[2022-S2|2022_081] Who built the Pathar Ki Masjid in Patna, Bihar?
+    A)Feroz shah Tughlaq | B)Parwez Shah | C)Aurangzeb | D)Alauddin Khilji => ANS(B): Parwez Shah
+[2022-S2|2022_089] Who was the first female Muslim ruler of India?
+    A)Zebunnissa | B)Razia Sultan | C)Chand Bibi | D)Jahanara => ANS(B): Razia Sultan
+[2022-S1|2022_092] Who was the first female Muslim ruler of India?
+    A)Zebunnissa | B)Razia Sultan | C)Chand Bibi | D)Jahanara => ANS(B): Razia Sultan
+[2020-S1|2020_147] Prithviraj Chauhan defeated Muhammad Ghori in a battle in the year ______ but lost to him the following year.
+    1)1182 | 2)1163 | 3)1191 | 4)1176 => ANS(3): 1191
+[2019|2019_148] Who among the following was the first Sayyid ruler of Delhi?
+    A)Mubarak Shah | B)Alam Shah | C)Muhammad Shah | D)Khizr Shah => ANS(D): Khizr Shah
+[2017|2017_187] Which emperor shifted his capital from Delhi to Daulatabad?
+    A)Aurangzab | B)Muhammad Bin Tughlaq | C)Sher Shah Suri | D)Genghis Khan => ANS(B): Muhammad Bin Tughlaq
+
+###### Ancient — गुप्त काल — 17 Qs
+[2024-S3|2024_015] Name the Chola inscription that provided details of the way in which the sabha was organised in the local administration in the Chola empire.
+    1)Darsanam Koppu inscription | 2)Uttaramerur inscription | 3)Thiruvalangadu inscription | 4)Thirunanthikarai inscription => ANS(2): Uttaramerur inscription
+[2024-S1|2024_017] The founder of the Pallava dynasty was:
+    1)Singhamvishnu | 2)Simharaj | 3)Balasimha | 4)Simhavishnu => ANS(4): Simhavishnu
+[2024-S2|2024_029] Which power were the Badami (or Vatapi) Chalukyas originally subjects of?
+    1)Hoysalas | 2)Pandyas | 3)Pallavas | 4)Kadambas => ANS(4): Kadambas
+[2024-S3|2024_030] Which amongst the following terms was used for the land given to Brahmins during the Chola empire?
+    1)Brahmadeya | 2)Shalabhoga | 3)Tirunmatukkani | 4)Vellanvagai => ANS(1): Brahmadeya
+[2024-S2|2024_033] Mahabalipuram temple was built under the reign of which of the following dynasties?
+    1)Rashtrakuta | 2)Chola | 3)Pallava => ANS(3): Pallava
+[2022-S1|2022_068] Who wrote the "Harshacharita", a biography of Harshavardhana?
+    A)Banabhatta | B)Harisena | C)Ravikirti | D)Xuan Zang => ANS(A): Banabhatta
+[2022-S2|2022_069] The nineteenth century saw the golden age of Kathak under the patronage of ____________, the last Nawab of Oudh.
+    A)Asaf-ud-daula | B)Siraj-ud-daulah | C)Saadat Khan Burhanul mulk | D)Wajid Ali Shah => ANS(D): Wajid Ali Shah
+[2022-S2|2022_077] Rajaraja I, considered the most powerful Chola ruler, became king in ________ .
+    A)999 | B)979 | C)971 | D)985 => ANS(D): 985
+[2022-S4|2022_091] Ruler of which dynasty built the famous Iron pillar in Delhi?
+    1)Gupta | 2)Pallava | 3)Maurya | 4)Pushyabhuti => ANS(1): Gupta
+[2022-S2|2022_093] Which of the following was the capital of Pallavas?
+    A)Aihole | B)Puhar | C)Raichur Doab | D)Kanchipuram => ANS(D): Kanchipuram
+[2021-S2|2021_104] Who gives the Bharat Muni Samman?
+    A)Nalanda Dance Research Centre | B)Government of India | C)Sangeet Natak Akademi | D)State Government => ANS(A): Nalanda Dance Research Centre
+[2020-S2|2020_128] The famous Gupta period Dashavatara Temple, recognised as one of the earliest Panchayatan temples in north India, is located at:
+    1)Nachna-Kuthara | 2)Bhitargaon | 3)Tigawa | 4)Deogarh => ANS(3): Tigawa
+[2020-S2|2020_137] The famous Chinese traveller Hieun Tsang visited India during which Emperor's reign?
+    1)Ashoka | 2)Samudragupta | 3)Chandragupta I | 4)Harshavardhana => ANS(4): Harshavardhana
+[2019|2019_154] During the Gupta Period, gold coins were called by which of the following names?
+    A)Rupaka | B)Tanka | C)Drama | D)Dinaras => ANS(D): Dinaras
+[2018|2018_172] The ruler of which dynasty of South India assumed the title of Dharmaraj?
+    A)Wakatak | B)Pallava | C)Kadamb | D)Western Ganga => ANS(D): Western Ganga
+[2018|2018_172] The ruler of which dynasty of assumed the title of Dharmaraj?
+    A)Wakatak | B)Pallava | C)Kadamb | D)Western => ANS(D): Western
+[2018|2018_173] Which of the following items was NOT 285. When was Pakistan's capital Islamabad was exportable in the past Gupta period? built?
+    A)In the 1940s | B)Gold | C)Tin | D)Silver => ANS(C): Tin
+
+###### Medieval — मराठा/भक्ति-सूफी — 15 Qs
+[2024-S2|2024_029] ‘Hampi Utsava,’ which is celebrated in Karnataka, is also called . The festival that captures the pomp, splendour and glory of the historical period of Karnataka is celebrated over a week.
+    1)Nritya Mahotsav | 2)Sarhul Mahotsava | 3)Vijaya Utsava | 4)Rajasi Utsava => ANS(3): Vijaya Utsava
+[2024-S1|2024_032] Which of the following was the last dynasty of the Vijayanagara Empire?
+    1)Tuluva dynasty | 2)Saluva dynasty | 3)Aravidu dynasty | 4)Sangam dynasty => ANS(2): Saluva dynasty
+[2023-S1|2023_051] Who among the following Vijaynagar rulers married his daughter to Firuz Shah Bahmani? wv
+    2)Deva Rayal | 3)Krishna Deva Raya * 4 BukkaI => ANS: (1)
+[2023-S2|2023_052] The term ‘Dressage’ is associate with: X%
+    2)Kalidas Samman | 3)Kabir Puraskar ~* Padma Shri | 4)water polo Chosen Option : = @5 Shovana  => ANS(4): water polo Chosen Option : = @5 Shovana Narayan, a famous Ka
+[2022-S1|2022_072] The poet - saint Kabir Das was born in ______ sometime in the 15th century.
+    A)Kashi | B)Amritsar | C)Somnath | D)Agra => ANS(A): Kashi
+[2022-S2|2022_085] Who among the following was a famous ruler of the Maratha dynasty?
+    1)Prithviraj Chauhan | 2)Man Singh | 3)Chhatrapati Shivaji Maharaj | 4)Porus => ANS(3): Chhatrapati Shivaji Maharaj
+[2022-S3|2022_086] When was the Treaty of Purandar signed between Shivaji and Jai Singh I?
+    1)1665 | 2)1655 | 3)1675 | 4)1685 => ANS(1): 1665
+[2021-S1|2021_113] Tulsidas Borkar, who was awarded with the Padma Shri in 2016, was a _________ player.
+    A)nadhaswaram | B)shehnai | C)bansuri | D)Harmonium => ANS(D): Harmonium
+[2021-S2|2021_122] Yamini Krishnamurthy was honoured with the ___________ in 1977.
+    A)Padma Shri | B)Kabir Samman | C)Kalidas Samman | D)Sangeet Natak Akademi Award => ANS(D): Sangeet Natak Akademi Award
+[2018|2018_169] Which of the following languages has been used by Surdas in his writings?
+    A)Awadhi | B)Khariboli | C)Braj | D)Bundeli => ANS(C): Braj
+[2018|2018_172] Who is considered the promoter Movement in Bengal?
+    A)Chaitanya | B)Ramanand | C)Namdev | D)Ramanuj => ANS(A): Chaitanya
+[2018|2018_172] Who is considered the promoter Movement in Bengal?
+    A)Chaitanya | B)Ramanand | C)Namdev | D)Ramanuj => ANS(A): Chaitanya
+[2018|2018_176] Which ruler of Bengal gave a of Orissa to the Marathas?
+    A)Shaista khan | B)Murshid kuli khan | C)Alivardi khan | D)Sirajuddaula => ANS(C): Alivardi khan
+[2017|2017_185] Chhatrapati Shivaji Terminus station designed by
+    A)Frederick William Stevens | B)Santiago Calatrava | C)Fazlur Rahman Khan | D)Frei Otto => ANS(A): Frederick William Stevens
+[2017|2017_185] Chhatrapati Sambhaji (1680–1688 AD) the ruler of which dynasty?
+    A)Maratha | B)Nanda | C)Haryanka | D)Maurya => ANS(A): Maratha
+
+###### Ancient — उत्तर-गुप्त काल — 14 Qs
+[2024-S4|2024_001] Which of the following dynasties’ genealogy was found in the Bijolia inscription?
+    2)Chandela | 3)Parmara | 4)Gahadavala => ANS(2): Chandela
+[2024-S2|2024_003] Which Pala ruler temporarily occupied Kanauj?
+    2)Gopala | 3)Devapala | 4)Harapala
+[2024-S3|2024_004] Which of the following statements about the Pala Dynasty of eastern India is INCORRECT?
+    1)Devapala was the grandson of Gopala. | 2)Dharmapala founded the Valabhi universit | 3)The Pala kings were the followers of Bud | 4)The Pala dynasty was founded by Gopala. => ANS(2): Dharmapala founded the Valabhi university.
+[2024-S4|2024_005] The Palas were:
+    1)a dynasty that first appeared in Cambodi | 2)a dynasty that appeared in eastern India | 3)a dynasty that appeared in Puri | 4)a dynasty that united eastern India and  => ANS(2): a dynasty that appeared in eastern India
+[2024-S1|2024_010] Who among the following rulers was a part of the Tripartite Struggle for the possession of Kannauj?
+    1)Yashovarman | 2)Prithvi Raj ill | 3)Dharmapala | 4)Mahendrapal => ANS(3): Dharmapala
+[2024-S4|2024_012] Which among the following Chola emperors defeated the Pandya king Maravarman Rajsimha Il in the battle of Vellore?
+    1)Rajarajal | 2)Parantaka | | 3)Rajendra | | 4)Vijayalaya => ANS(2): Parantaka |
+[2024-S4|2024_024] Where is the Kailasa temple built by Rashtrakutas located?
+    2)Hampi | 3)Kanchi | 4)Amravati
+[2023-S3|2023_061] Atha and Udal, who gave stiff resistance to the enemy, belonged to which of the following Rajput States? ans 1. Parmar * 2 Kalchuri ¥® Chandella *% 4 Gahadavala
+[2023-S1|2023_063] The Pala Dynasty rulers were primarily patrons of which religion? *
+    2)Jain | 3)Hindu * 4 Islam => ANS: (1)
+[2022-S1|2022_088] Which of the following was the capital of Pandyas?
+    A)Kaveripattinam | B)Madurai | C)Aihole | D)Puhar => ANS(B): Madurai
+[2020-S3|2020_145] Inscriptions composed in praise of kings of ancient India are known as ______.
+    1)Tripitakas | 2)Sutras | 3)Prashastis | 4)Jatakas => ANS(3): Prashastis
+[2019|2019_151] The present day city of Bhopal was built book by which of the following Pratihara rulers?
+    A)Mahendra Bhoja | B)Rajyapala | C)Vijayasena | D)Mihir Bhoja => ANS(D): Mihir Bhoja
+[2019|2019_155] Which popular Indian band of the 90s released their first album 'Boondein' with Mohit Chauhan as the lead?
+    A)Pentagram | B)13AD | C)Silk Route X | D)Lost Stories => ANS(C): Silk Route X
+[2018|2018_165] Harshavardhan's Vallabhi conquest is found Ans. C in which of the following inscriptions? 86. Which of the following is natural fiber?
+    A)Silk | B)Rayon | C)Nylon | D)Polyester => ANS(C): Nylon
+
+###### Ancient — बौद्ध और जैन धर्म — 14 Qs
+[2024-S3|2024_011] With which of the following communities is the word 'Langar' (community kitchen) mainly associated?
+    1)Jainism | 2)Buddhism | 4)Hinduism => ANS(1): Jainism
+[2024-S1|2024_013] Mahavir Jayanti celebrates the birthday of Lord Mahavira who is the Tirthankara of Jainism.
+    1)23rd | 2)24" | 3)25! | 4)26" => ANS(2): 24"
+[2023-S1|2023_047] Alvars were the devotees of which South Indian cult? ans X
+    1)Shaktism | 2)Saivism | 3)Jainism ~¥* Vaishnavism => ANS: (4)
+[2023-S1|2023_059] The rulers of which of the following Rajput dynasties patronised Jainism and one of them is reported to have accepted Jainism under the influence of a Jain scholar Hemachandra? ans %X
+    1)Pratihara | 2)Parmara v°. Chalukya * 4 Chahman
+[2022-S2|2022_069] Buddha meditated for days on end under a peepal tree at ______, where he attained enlightenment.
+    A)Sarnath | B)Bodh Gaya | C)Kushinagar | D)Ujjain => ANS(B): Bodh Gaya
+[2021|2021_119] Phodong Monastery is located in ______.
+    1)Madhya Pradesh | 2)Bihar | 3)Sikkim | 4)Ladakh => ANS(3): Sikkim
+[2020-S3|2020_135] ‘Avesta’, also called ‘Zend-Avesta’, is the sacred book of:
+    1)Zoroastrianism | 2)Buddhism | 3)Jainism | 4)Judaism => ANS(1): Zoroastrianism
+[2020-S2|2020_139] In which of the following states is the Phodong monastery situated?
+    1)Bihar | 2)Uttar Pradesh | 3)Arunachal Pradesh | 4)Sikkim
+[2020-S1|2020_141] Bylakuppe Monastery (Namdroling) is situated in which state of India?
+    1)Karnataka | 2)Arunachal Pradesh | 3)Himachal Pradesh | 4)Maharashtra => ANS(2): Arunachal Pradesh
+[2020-S1|2020_147] Name the holy city recognized as the birthplace of the first and fourth Jain Tirthankaras.
+    1)Gaya | 2)Varanasi | 3)Ayodhya | 4)Dwaraka => ANS(1): Gaya
+[2018|2018_168] Which place is NOT associated with Gautama Buddha?
+    A)Saranath | B)Bodh Gaya | C)Kushinagar | D)Pawapuri => ANS(D): Pawapuri
+[2018|2018_169] What was the real Buddha?
+    A)Siddhartha | C)Shree Dutt => ANS(A): Siddhartha
+[2018|2018_178] Most of population in Sri Lanka borrowing follows ___________.
+    A)Hinduism | B)Islam | C)Christianity | D)Buddhism the Buddhist Ans. D written? 28 => ANS(D): Buddhism the Buddhist Ans. D written? 286. What is the relat
+[2018|2018_181] The term "Anuvrata" is associated to which religion?
+    A)Mahayana Buddhism | B)Hinayana Buddhism | C)Jainism | D)Lokayata sect => ANS(C): Jainism
+
+###### Modern — सामाजिक-धार्मिक सुधार — 13 Qs
+[2024-S2|2024_003] What was the name of Swami Vivekanand’s guru?
+    1)Swami Dayanand | 2)Swami Ram Singh | 3)Ramakrishna Paramhansa | 4)Aadi Shankaracharya => ANS(3): Ramakrishna Paramhansa
+[2024-S1|2024_013] Brahmo Samaj was earlier known as:
+    1)Prarthana Samaj | 2)Bramho Sabha | 3)Arya Samaj | 4)Veda Samaj => ANS(2): Bramho Sabha
+[2024-S4|2024_016] At which place did Raja Ram Mohan Roy form a reform association called Brahmo Sabha in the year 1828?
+    1)Pune | 2)Calcutta | 3)Madras | 4)Bombay => ANS(2): Calcutta
+[2024-S2|2024_022] Which was the first socio-religious organisation established in Bombay in 1840 to work for the annihilation of caste?
+    1)Dharma Sabha | 2)Vishwa Jain Sangathan | 3)Satyashodhak Samaj | 4)Paramhans Mandali => ANS(3): Satyashodhak Samaj
+[2024-S2|2024_025] Which organisation was started in the Pune district of Maharashtra in the 1870s with the aim of promoting education and social rights among the underprivileged group of the society?
+    1)Prarthana Samaj | 2)Satyashodhak Samaj | 3)Shoshit Seva Samaj | 4)Deepalaya Samaj => ANS(2): Satyashodhak Samaj
+[2024-S1|2024_028] Who was the founder of Arya Samaj?
+    1)Rabindranath Tagore | 2)Swami Vivekananda | 3)Keshub Chandra Sen | 4)Dayanand Saraswati => ANS(4): Dayanand Saraswati
+[2023-S1|2023_043] Maharshi Dayanand Saraswati founded the Arya Samaj organisation in 1875 at which of the following places? *%
+    2)Delhi | 3)Amritsar v4 Bombay => ANS: (4)
+[2023-S3|2023_045] Whois credited with setting up of Brahmo Sabha, for religions reforms, in 1828, which was later called Brahma Samaj? vy
+    2)Raja Ram Mohan Roy | 3)Keshub Chandra Sen | 4)Devendra Nath Tagore => ANS(2): Raja Ram Mohan Roy
+[2023-S2|2023_056] Who founded the Arya Samaj and pleaded for the right of indivichals to interpret Vedas and free themselves from the tyranny of priests? %
+    2)RG Bhandarkar 8. Swami Dayananda Saraswa | 4)MG Ranade
+[2022-S4|2022_087] The Young Bengal Movement was founded by ______.
+    1)Henry Louis Vivian Derozio | 2)Dayanand Saraswati | 3)Lala Hansraj | 4)Keshab Chandra Sen => ANS(1): Henry Louis Vivian Derozio
+[2021|2021_117] Swami Vivekananda established Ramakrishna Mission in the year ______.
+    1)1897 | 2)1899 | 3)1882 | 4)1876
+[2020-S3|2020_140] Identify the correctly matched pair of the founder and the social/socio-religious organisation founded.
+    1)Raja Ram Mohan Ray – Arya Samaj | 2)Rama Krishna Paramahansa – Ramakrishna M | 3)Dayanand Saraswati – Brahmo Samaj | 4)Swami Vivekananda – Ramakrishna Mission => ANS(4): Swami Vivekananda – Ramakrishna Mission
+[2017|2017_187] Which Freedom Fighter from Bengal died at the age of 18?
+    A)Khudiram Bose | B)Maulana Abul Kalam Azad | C)Chittaranjan Das | D)Raja Ram Mohan Roy => ANS(A): Khudiram Bose
+
+###### Modern — विविध — 10 Qs
+[2023-S2|2023_044] Who among the following founded the Indian Association along with Anand Mohan Bose? X
+    2)Gopal krishna Gokhale | 3)Pheroz Shah Mehta v 4 Surendranath Baner
+[2023-S1|2023_047] Who among the following organised Sarvajanik Ganesh Utsav to inculcate national sentiments among the masses? X
+    2)Bipin Chandra Pal | 3)Aurobindo Ghosh X | 4)ala Lajpat Rai => ANS: (1)
+[2023-S2|2023_060] Who among the following was one of the founders of the Indian Association, established in 1876?
+    2)Surendranath Banerjee
+[2023-S4|2023_062] The Muhammedan Literary Society founded in Calcutta in 1863 was founded by: ans‘. Nawab Abdul Latif %
+    2)Mirza Ghulam Ahmad X | 3)Sayyid Ahmad X | 4)Syed Ahmad Khan => ANS: (1)
+[2022-S2|2022_073] When was the Bardoli Movement launched?
+    1)1931 | 2)1932 | 3)1928 | 4)1925 => ANS(4): 1925
+[2022-S3|2022_078] When did depressed classes get the reserved seats in provincial and central legislative councils, but they were to be voted in by General electorate?
+    1)September 1930 | 2)November 1932 | 3)September 1932 | 4)November 1930
+[2022-S3|2022_082] In which year was a law passed in India to make conversion to Christianity easier?
+    1)1845 | 2)1850 | 3)1830 | 4)1840
+[2021-S2|2021_104] The Chairman of the Legislative Council is:
+    A)elected by the Chief Minister and their  | B)appointed by the Chief Minister of that  | C)elected by the members of the Legislativ | D)appointed by the Governor of that state => ANS(C): elected by the members of the Legislative Council
+[2021-S2|2021_112] How many members of the Legislative Council are there in the state of Karnataka?
+    A)68 | B)78 | C)75 | D)100 => ANS(C): 75
+[2019|2019_156] In the famous Rohilla War in the year 1774, the Rohillas were defeated by the Nawab of Awadh named:
+    A)AsifJah Mirza | B)Asaf-ud-Daula | C)Yamin-ud-Daula | D)Shuja-ud-Daula => ANS(D): Shuja-ud-Daula
+
+###### Ancient — मौर्य काल — 9 Qs
+[2022-S2|2022_077] The foundation of the Mauryan empire was laid by ______.
+    A)Kalashoka | B)Chandragupta Maurya | C)Bindusara | D)Ashoka => ANS(B): Chandragupta Maurya
+[2021-S2|2021_096] Which of the following names was used for the Indian subcontinent by ancient travellers like Megasthenes, FaHien, Huen Tsang, Al Beruni, Ibn Batuta etc. for active contribution of Indian traders?
+    A)Swaran Bhoomi | B)Swaran Jagat | C)Swaran Bet | D)Swaran Desh => ANS(A): Swaran Bhoomi
+[2019|2019_151] The Vikramashila University founded by _____
+    A)Ashoka | B)Dharmapala | C)Chandragupta-I | D)Bimbisara => ANS(B): Dharmapala
+[2018|2018_163] Which of the following found in Ashoka's
+    A)Life story | B)Internal policy | C)Foreign policy | D)All options => ANS(D): All options
+[2018|2018_168] Which of the following was not men- tioned in the Dhamma?
+    A)Obedience to parents | B)Charity | C)Paternalism | D)Faith in Sangha => ANS(D): Faith in Sangha
+[2017|2017_182] The Arthashastra was written by
+    A)Chanakya | B)Kalidasa | C)Harsha Vardhana | D)Vatsyayana => ANS(A): Chanakya
+[2017|2017_185] Ajatashatru was the son ________of
+    A)Brahmadatta | B)Bindusara | C)Bimbisara | D)Chetaka => ANS(C): Bimbisara
+[2017|2017_190] Ashoka converted to which religion after the Kalinga war?
+    A)Jainism | B)Buddhism | C)Christianity | D)Judaism => ANS(B): Buddhism
+[2017|2017_191] Chanakya was the chief advisor of....................
+    A)Babur | B)Chandragupta Maurya | C)Akbar | D)Kautilya => ANS(B): Chandragupta Maurya
+
+###### Medieval — विविध — 7 Qs
+[2023-S4|2023_035] Jaimal and Pata were the warriors who were given charge of defending the fort of . ans X
+    1)Raisen X | 2)Ajmer X | 3)Udaipur ~¥* Chittor
+[2023-S3|2023_061] The Battle of Karnal is known for the invasion of which of the following aggressors against India? ans
+    1)Nadir Shah | 2)Nasir Khan | 3)Ahmad Shah Abdali X | 4)Shah Shuja => ANS(3): Ahmad Shah Abdali X
+[2023-S4|2023_062] Which of the following was the last invasion by Mahmud Ghazni outside Punjab? *
+    2)Mathura X | 3)Kalinjar X | 4)Kanauj => ANS: (1)
+[2022-S3|2022_070] Who among the following was famously known as the "The parrot of India"?
+    1)Amir Khusro | 2)Lata Mangeshkar | 3)Pandit Ravishankar | 4)Kalidas => ANS(4): Kalidas
+[2022-S3|2022_074] In which year was Battle of Peshawar fought between Raja Jayapal and Mahmud Ghazni?
+    1)1001 | 2)1112 | 3)1305 | 4)1258 => ANS(1): 1001
+[2022-S4|2022_095] During which of the following years did Qutbuddin Aybak rule?
+    1)1206 – 1210 | 2)1320 – 1324 | 3)1290 – 1296 | 4)1266 – 1287 => ANS(1): 1206 – 1210
+[2019|2019_152] _________ attacked the southern coast of Kathiawar along the Arabian Sea, where he sacked the city of Somnath and its renowned Hindu temple in 1026.
+    A)Firoz Shah Tugalaq | B)Mahmud of Ghazni | C)Ahmed Shah Tugalaq | D)Muhammad Ghori => ANS(B): Mahmud of Ghazni
+
+###### Ancient — वैदिक काल — 5 Qs
+[2020-S1|2020_147] At one stage in the Vedic Age, the king was called 'gopati' which meant '______'.
+    1)lord of cattle | 2)lord of land | 3)lord of the people | 4)lord of the universe => ANS(1): lord of cattle
+[2018|2018_167] Which of the following is not counted under sub-vedas?
+    A)Ayurveda | B)Yajurveda | C)Gandharva Veda in | D)Shilp Veda => ANS(B): Yajurveda
+[2018|2018_170] Which of the following Vedas to as the starting source of Rudra?
+    A)Rigveda | B)Samaveda | C)Yajurveda => ANS(A): Rigveda
+[2018|2018_170] Match the following Atharvaveda Body Type I. Panchayari 1. Non-Constitut- was Raj/ ional following II. Election Com- 2. Logal /goverm- mission/ ment/ Krishnashrayi III. Central Infor- 3. Constitutional/ mation Com- mision
+    A)I – 1, II – 2, III – 3 | B)I – 2, II – 1, III – 3 | C)I – 2, II – 3, III – 1 | D)I – 1, II – 3, III – 2 => ANS(C): I – 2, II – 3, III – 1
+[2017|2017_185] The Razmnama is a Persian translation of the ________.
+    A)Mahabharata | B)Ramayana was | C)Vedas | D)Upanishads => ANS(A): Mahabharata
+
+###### World — विश्व इतिहास — 4 Qs
+[2024-S4|2024_012] Sardar Vallabhbhai Patel, who was the first Home Minister of India, is known by which sobriquet?
+    1)Iron man of India | 2)Father of Indian Unrest | 3)Grand old man of India | 4)Morning star of Indian Renaissance => ANS(1): Iron man of India
+[2020-S3|2020_129] Which American President won the Nobel Peace Prize?
+    1)Abraham Lincoln | 2)Barack Obama | 3)George Washington | 4)Bill Clinton
+[2018|2018_179] Who among the following has classiﬁed the money in to two types on the basis of its questions. nature?
+    A)John Maynard Keynes | B)Adam Smith | C)Karl Marx | D)Milton Friedman => ANS(A): John Maynard Keynes
+[2017|2017_184] Who among the following has classiﬁed the money in to two types on the basis of its questions. nature?
+    A)John Maynard Keynes | B)Adam Smith | C)Karl Marx | D)Milton Friedman => ANS(A): John Maynard Keynes
+
+###### Ancient — सिंधु सभ्यता — 4 Qs
+[2022-S4|2022_083] Which of the following Harappan town was located on Khadir Beyt in the Runn of Kutch and was divided into three parts?
+    1)Sotka-koh | 2)Chanhudaro | 3)Surkotada | 4)Dholavira => ANS(4): Dholavira
+[2022-S3|2022_090] Which city existed in the Indus valley civilization?
+    1)Dwarka | 2)Harappa | 3)Sanchi | 4)Muziris => ANS(2): Harappa
+[2020-S2|2020_143] In which year was the Harappan civilization ﬁrst discovered?
+    1)1905 | 2)1921 | 3)1926 | 4)1932 => ANS(2): 1921
+[2018|2018_176] Which of the following elements not found in Lothal as archaeological remains?
+    A)Couple Burial | B)Persian Seals | C)harbour | D)Fine variety of barley => ANS(D): Fine variety of barley
+
+###### Ancient — प्राचीन: पूर्व-इतिहास — 3 Qs
+[2018|2018_166] Which of the following places presents the total oldest evidence of Neolithic Era?
+    A)Chirnd | B)Mehrgarh | C)Burghome | D)Daimabad => ANS(B): Mehrgarh
+[2018|2018_175] Which of the following places presents the oldest evidence of Neolithic Era?
+    A)Chimd | B)Mehrgarh | C)Burghome | D)Daimabad => ANS(B): Mehrgarh
+[2018|2018_181] Which of the following Neolithic sites gives evidence of trough residence?
+    A)Burzahom | B)Brahmagiri | C)Chirand | D)Maski => ANS(A): Burzahom
+
+###### Modern — 1857 — 2 Qs
+[2024-S4|2024_001] When did the first War of Indian Independence (Sepoy Mutiny) start?
+    1)1839 | 2)1857 | 3)1887 | 4)1819 => ANS(2): 1857
+[2017|2017_183] Who is the author of 'Million Mutinies Now'?
+    A)Aurobindo Ghosh | B)K P S Gill | C)Nirad Chaudhuri | D)V S Naipaul => ANS(D): V S Naipaul
+
+###### Modern — संगठन — 2 Qs
+[2024-S1|2024_002] The Ghadar Party was founded in by Sohan Singh Bhakna, Kanshi Ram, Harnam Singh Tundilat, Lala Har Dayal and others.
+    1)1901 | 2)1913 | 3)1910 | 4)1905 => ANS(3): 1910
+[2024-S2|2024_018] Who founded the Bombay Presidency Association in 1885 along with Pherozeshah Mehta and KT Telang?
+    1)Badruddin Tyabji | 2)Behramji M Malabari | 3)AK Fazlul Haq | 4)Zakir Husain => ANS(3): AK Fazlul Haq
+
+###### Ancient — विविध — 2 Qs
+[2023-S1|2023_055] Tn the middle of which century did the Arab traveller Sulaiman visit India? JF 2 oth K3. 1 jh X 4. 6th
+[2022-S1|2022_084] Kalinga is the ancient name of coastal ______.
+    A)Tamil Nadu | B)Orissa | C)Kerala | D)Andhra Pradesh => ANS(B): Orissa
+
+###### World — विश्ह इतिहास — 1 Qs
+[2022-S3|2022_074] In which month, Hiroshima Day is observed across the world?
+    1)October | 2)August | 3)January | 4)July => ANS(2): August

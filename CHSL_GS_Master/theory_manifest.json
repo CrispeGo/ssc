@@ -1,0 +1,1822 @@
+[
+ {
+  "file": "Aptitude__Number System.pdf",
+  "category": "Aptitude",
+  "topic": "Number System"
+ },
+ {
+  "file": "Aptitude__LCM and HCF.pdf",
+  "category": "Aptitude",
+  "topic": "LCM and HCF"
+ },
+ {
+  "file": "Aptitude__Simplification.pdf",
+  "category": "Aptitude",
+  "topic": "Simplification"
+ },
+ {
+  "file": "Aptitude__Surds and Indices.pdf",
+  "category": "Aptitude",
+  "topic": "Surds and Indices"
+ },
+ {
+  "file": "Aptitude__Ratio and Proportion.pdf",
+  "category": "Aptitude",
+  "topic": "Ratio and Proportion"
+ },
+ {
+  "file": "Aptitude__Partnership.pdf",
+  "category": "Aptitude",
+  "topic": "Partnership"
+ },
+ {
+  "file": "Aptitude__Mixture and Alligation.pdf",
+  "category": "Aptitude",
+  "topic": "Mixture and Alligation"
+ },
+ {
+  "file": "Aptitude__Average.pdf",
+  "category": "Aptitude",
+  "topic": "Average"
+ },
+ {
+  "file": "Aptitude__Sequence and Series.pdf",
+  "category": "Aptitude",
+  "topic": "Sequence and Series"
+ },
+ {
+  "file": "Aptitude__Percentage.pdf",
+  "category": "Aptitude",
+  "topic": "Percentage"
+ },
+ {
+  "file": "Aptitude__Profit and Loss.pdf",
+  "category": "Aptitude",
+  "topic": "Profit and Loss"
+ },
+ {
+  "file": "Aptitude__Discount.pdf",
+  "category": "Aptitude",
+  "topic": "Discount"
+ },
+ {
+  "file": "Aptitude__Simple Interest.pdf",
+  "category": "Aptitude",
+  "topic": "Simple Interest"
+ },
+ {
+  "file": "Aptitude__Compound Interest.pdf",
+  "category": "Aptitude",
+  "topic": "Compound Interest"
+ },
+ {
+  "file": "Aptitude__Time and Work.pdf",
+  "category": "Aptitude",
+  "topic": "Time and Work"
+ },
+ {
+  "file": "Aptitude__Pipe and Cistern.pdf",
+  "category": "Aptitude",
+  "topic": "Pipe and Cistern"
+ },
+ {
+  "file": "Aptitude__Time, Speed and Distance.pdf",
+  "category": "Aptitude",
+  "topic": "Time, Speed and Distance"
+ },
+ {
+  "file": "Aptitude__Boat and Stream.pdf",
+  "category": "Aptitude",
+  "topic": "Boat and Stream"
+ },
+ {
+  "file": "Aptitude__Trigonometry.pdf",
+  "category": "Aptitude",
+  "topic": "Trigonometry"
+ },
+ {
+  "file": "Aptitude__Height and Distance.pdf",
+  "category": "Aptitude",
+  "topic": "Height and Distance"
+ },
+ {
+  "file": "Aptitude__Algebra.pdf",
+  "category": "Aptitude",
+  "topic": "Algebra"
+ },
+ {
+  "file": "Aptitude__Geometry.pdf",
+  "category": "Aptitude",
+  "topic": "Geometry"
+ },
+ {
+  "file": "Aptitude__Co-ordiante Geometry.pdf",
+  "category": "Aptitude",
+  "topic": "Co-ordiante Geometry"
+ },
+ {
+  "file": "Aptitude__Mensuration.pdf",
+  "category": "Aptitude",
+  "topic": "Mensuration"
+ },
+ {
+  "file": "Aptitude__Statistics and Data interpretation.pdf",
+  "category": "Aptitude",
+  "topic": "Statistics and Data interpretation"
+ },
+ {
+  "file": "Aptitude__Permutation and Combination.pdf",
+  "category": "Aptitude",
+  "topic": "Permutation and Combination"
+ },
+ {
+  "file": "Aptitude__Probability.pdf",
+  "category": "Aptitude",
+  "topic": "Probability"
+ },
+ {
+  "file": "Aptitude__Quadratic and Cubic Equation.pdf",
+  "category": "Aptitude",
+  "topic": "Quadratic and Cubic Equation"
+ },
+ {
+  "file": "Reasoning__Analogy.pdf",
+  "category": "Reasoning",
+  "topic": "Analogy"
+ },
+ {
+  "file": "Reasoning__Arrangement of Words.pdf",
+  "category": "Reasoning",
+  "topic": "Arrangement of Words"
+ },
+ {
+  "file": "Reasoning__Classification.pdf",
+  "category": "Reasoning",
+  "topic": "Classification"
+ },
+ {
+  "file": "Reasoning__Number Series.pdf",
+  "category": "Reasoning",
+  "topic": "Number Series"
+ },
+ {
+  "file": "Reasoning__Mathematical Operator.pdf",
+  "category": "Reasoning",
+  "topic": "Mathematical Operator"
+ },
+ {
+  "file": "Reasoning__Syllogism.pdf",
+  "category": "Reasoning",
+  "topic": "Syllogism"
+ },
+ {
+  "file": "Reasoning__Venn Diagram.pdf",
+  "category": "Reasoning",
+  "topic": "Venn Diagram"
+ },
+ {
+  "file": "Reasoning__Missing Number.pdf",
+  "category": "Reasoning",
+  "topic": "Missing Number"
+ },
+ {
+  "file": "Reasoning__Blood Relation.pdf",
+  "category": "Reasoning",
+  "topic": "Blood Relation"
+ },
+ {
+  "file": "Reasoning__Distance and Direction.pdf",
+  "category": "Reasoning",
+  "topic": "Distance and Direction"
+ },
+ {
+  "file": "Reasoning__Clock and Calender.pdf",
+  "category": "Reasoning",
+  "topic": "Clock and Calender"
+ },
+ {
+  "file": "Reasoning__Coding and Decoding.pdf",
+  "category": "Reasoning",
+  "topic": "Coding and Decoding"
+ },
+ {
+  "file": "Reasoning__Cube and Dice.pdf",
+  "category": "Reasoning",
+  "topic": "Cube and Dice"
+ },
+ {
+  "file": "Reasoning__Order and Ranking.pdf",
+  "category": "Reasoning",
+  "topic": "Order and Ranking"
+ },
+ {
+  "file": "Reasoning__Seating Arrangement.pdf",
+  "category": "Reasoning",
+  "topic": "Seating Arrangement"
+ },
+ {
+  "file": "Reasoning__Statement and Conclusion.pdf",
+  "category": "Reasoning",
+  "topic": "Statement and Conclusion"
+ },
+ {
+  "file": "Reasoning__Word Formation.pdf",
+  "category": "Reasoning",
+  "topic": "Word Formation"
+ },
+ {
+  "file": "Reasoning__Counting Figure.pdf",
+  "category": "Reasoning",
+  "topic": "Counting Figure"
+ },
+ {
+  "file": "Reasoning__Completion of Figure.pdf",
+  "category": "Reasoning",
+  "topic": "Completion of Figure"
+ },
+ {
+  "file": "Reasoning__Figure Classification.pdf",
+  "category": "Reasoning",
+  "topic": "Figure Classification"
+ },
+ {
+  "file": "Reasoning__Mirror and Water Image.pdf",
+  "category": "Reasoning",
+  "topic": "Mirror and Water Image"
+ },
+ {
+  "file": "Reasoning__Paper Cutting and Folding.pdf",
+  "category": "Reasoning",
+  "topic": "Paper Cutting and Folding"
+ },
+ {
+  "file": "Reasoning__Embedded Figure.pdf",
+  "category": "Reasoning",
+  "topic": "Embedded Figure"
+ },
+ {
+  "file": "English Language__Articles.pdf",
+  "category": "English Language",
+  "topic": "Articles"
+ },
+ {
+  "file": "English Language__Verb Agreement.pdf",
+  "category": "English Language",
+  "topic": "Verb Agreement"
+ },
+ {
+  "file": "English Language__Adverb.pdf",
+  "category": "English Language",
+  "topic": "Adverb"
+ },
+ {
+  "file": "English Language__Verb.pdf",
+  "category": "English Language",
+  "topic": "Verb"
+ },
+ {
+  "file": "English Language__Pronoun.pdf",
+  "category": "English Language",
+  "topic": "Pronoun"
+ },
+ {
+  "file": "English Language__Noun.pdf",
+  "category": "English Language",
+  "topic": "Noun"
+ },
+ {
+  "file": "English Language__Tenses.pdf",
+  "category": "English Language",
+  "topic": "Tenses"
+ },
+ {
+  "file": "English Language__Prepositions (Part -I).pdf",
+  "category": "English Language",
+  "topic": "Prepositions (Part -I)"
+ },
+ {
+  "file": "English Language__Prepositions (Part -II).pdf",
+  "category": "English Language",
+  "topic": "Prepositions (Part -II)"
+ },
+ {
+  "file": "English Language__Conditional Sentences.pdf",
+  "category": "English Language",
+  "topic": "Conditional Sentences"
+ },
+ {
+  "file": "English Language__Adjectives.pdf",
+  "category": "English Language",
+  "topic": "Adjectives"
+ },
+ {
+  "file": "English Language__Conjunction.pdf",
+  "category": "English Language",
+  "topic": "Conjunction"
+ },
+ {
+  "file": "English Language__Parts of Speech.pdf",
+  "category": "English Language",
+  "topic": "Parts of Speech"
+ },
+ {
+  "file": "English Language__Active Passive.pdf",
+  "category": "English Language",
+  "topic": "Active Passive"
+ },
+ {
+  "file": "English Language__Cloze Test - Part - 1.pdf",
+  "category": "English Language",
+  "topic": "Cloze Test - Part - 1"
+ },
+ {
+  "file": "English Language__Cloze Test - Part - 2.pdf",
+  "category": "English Language",
+  "topic": "Cloze Test - Part - 2"
+ },
+ {
+  "file": "English Language__Cloze Test - Part - 3.pdf",
+  "category": "English Language",
+  "topic": "Cloze Test - Part - 3"
+ },
+ {
+  "file": "English Language__Tricks Antonyms.pdf",
+  "category": "English Language",
+  "topic": "Tricks Antonyms"
+ },
+ {
+  "file": "English Language__Tricks Synonyms.pdf",
+  "category": "English Language",
+  "topic": "Tricks Synonyms"
+ },
+ {
+  "file": "English Language__Direct and Indirect - Part - 1.pdf",
+  "category": "English Language",
+  "topic": "Direct and Indirect - Part - 1"
+ },
+ {
+  "file": "English Language__Direct and Indirect - Part - 2.pdf",
+  "category": "English Language",
+  "topic": "Direct and Indirect - Part - 2"
+ },
+ {
+  "file": "English Language__Errors.pdf",
+  "category": "English Language",
+  "topic": "Errors"
+ },
+ {
+  "file": "English Language__Fill in the Blanks.pdf",
+  "category": "English Language",
+  "topic": "Fill in the Blanks"
+ },
+ {
+  "file": "English Language__Idioms and Phrases.pdf",
+  "category": "English Language",
+  "topic": "Idioms and Phrases"
+ },
+ {
+  "file": "English Language__One Word Substitution.pdf",
+  "category": "English Language",
+  "topic": "One Word Substitution"
+ },
+ {
+  "file": "English Language__Para jumbles.pdf",
+  "category": "English Language",
+  "topic": "Para jumbles"
+ },
+ {
+  "file": "English Language__Reading Comprehension - Part - 1.pdf",
+  "category": "English Language",
+  "topic": "Reading Comprehension - Part - 1"
+ },
+ {
+  "file": "English Language__Reading Comprehension - Part - 2.pdf",
+  "category": "English Language",
+  "topic": "Reading Comprehension - Part - 2"
+ },
+ {
+  "file": "English Language__Reading Comprehension - Part - 3.pdf",
+  "category": "English Language",
+  "topic": "Reading Comprehension - Part - 3"
+ },
+ {
+  "file": "English Language__Reading Comprehension - Part - 4.pdf",
+  "category": "English Language",
+  "topic": "Reading Comprehension - Part - 4"
+ },
+ {
+  "file": "English Language__Reading Comprehension - Part - 5.pdf",
+  "category": "English Language",
+  "topic": "Reading Comprehension - Part - 5"
+ },
+ {
+  "file": "English Language__Sentence Improvement.pdf",
+  "category": "English Language",
+  "topic": "Sentence Improvement"
+ },
+ {
+  "file": "Static GK__National Park & Wildlife Sanctuaries.pdf",
+  "category": "Static GK",
+  "topic": "National Park & Wildlife Sanctuaries"
+ },
+ {
+  "file": "Static GK__Tiger Reserve of India.pdf",
+  "category": "Static GK",
+  "topic": "Tiger Reserve of India"
+ },
+ {
+  "file": "Static GK__Award & Honour.pdf",
+  "category": "Static GK",
+  "topic": "Award & Honour"
+ },
+ {
+  "file": "Static GK__Nuclear & Thermal Power Plants in India.pdf",
+  "category": "Static GK",
+  "topic": "Nuclear & Thermal Power Plants in India"
+ },
+ {
+  "file": "Static GK__Research Institute of India.pdf",
+  "category": "Static GK",
+  "topic": "Research Institute of India"
+ },
+ {
+  "file": "Static GK__Classical & Folk Dance.pdf",
+  "category": "Static GK",
+  "topic": "Classical & Folk Dance"
+ },
+ {
+  "file": "Static GK__Important Stadium of India.pdf",
+  "category": "Static GK",
+  "topic": "Important Stadium of India"
+ },
+ {
+  "file": "Static GK__Sports Trophy.pdf",
+  "category": "Static GK",
+  "topic": "Sports Trophy"
+ },
+ {
+  "file": "Static GK__Sports Terminology.pdf",
+  "category": "Static GK",
+  "topic": "Sports Terminology"
+ },
+ {
+  "file": "Static GK__Recipient of Awards (Updated).pdf",
+  "category": "Static GK",
+  "topic": "Recipient of Awards (Updated)"
+ },
+ {
+  "file": "Static GK__Chief Minister (Updated).pdf",
+  "category": "Static GK",
+  "topic": "Chief Minister (Updated)"
+ },
+ {
+  "file": "Static GK__Cabinet Minister (Updated).pdf",
+  "category": "Static GK",
+  "topic": "Cabinet Minister (Updated)"
+ },
+ {
+  "file": "Static GK__Governor (Updated).pdf",
+  "category": "Static GK",
+  "topic": "Governor (Updated)"
+ },
+ {
+  "file": "Static GK__Currency & Capital.pdf",
+  "category": "Static GK",
+  "topic": "Currency & Capital"
+ },
+ {
+  "file": "Static GK__Country & Parliament Names.pdf",
+  "category": "Static GK",
+  "topic": "Country & Parliament Names"
+ },
+ {
+  "file": "Static GK__Defence of India.pdf",
+  "category": "Static GK",
+  "topic": "Defence of India"
+ },
+ {
+  "file": "Static GK__Military Exercise.pdf",
+  "category": "Static GK",
+  "topic": "Military Exercise"
+ },
+ {
+  "file": "Static GK__Important Organization Headquarter.pdf",
+  "category": "Static GK",
+  "topic": "Important Organization Headquarter"
+ },
+ {
+  "file": "Static GK__International Boundries.pdf",
+  "category": "Static GK",
+  "topic": "International Boundries"
+ },
+ {
+  "file": "Static GK__City Beside River.pdf",
+  "category": "Static GK",
+  "topic": "City Beside River"
+ },
+ {
+  "file": "Static GK__River System in India.pdf",
+  "category": "Static GK",
+  "topic": "River System in India"
+ },
+ {
+  "file": "Static GK__Road Transport.pdf",
+  "category": "Static GK",
+  "topic": "Road Transport"
+ },
+ {
+  "file": "Static GK__National Highway in India.pdf",
+  "category": "Static GK",
+  "topic": "National Highway in India"
+ },
+ {
+  "file": "Static GK__List of Airports.pdf",
+  "category": "Static GK",
+  "topic": "List of Airports"
+ },
+ {
+  "file": "Static GK__Lakes of India.pdf",
+  "category": "Static GK",
+  "topic": "Lakes of India"
+ },
+ {
+  "file": "Static GK__Dams.pdf",
+  "category": "Static GK",
+  "topic": "Dams"
+ },
+ {
+  "file": "Static GK__Important Temples of India.pdf",
+  "category": "Static GK",
+  "topic": "Important Temples of India"
+ },
+ {
+  "file": "Static GK__Memorial Places of Indian Leader.pdf",
+  "category": "Static GK",
+  "topic": "Memorial Places of Indian Leader"
+ },
+ {
+  "file": "Static GK__Important Monuments & Places of India.pdf",
+  "category": "Static GK",
+  "topic": "Important Monuments & Places of India"
+ },
+ {
+  "file": "Static GK__Important Revolution in India.pdf",
+  "category": "Static GK",
+  "topic": "Important Revolution in India"
+ },
+ {
+  "file": "Static GK__Nicknames.pdf",
+  "category": "Static GK",
+  "topic": "Nicknames"
+ },
+ {
+  "file": "Static GK__Important Days (Jan 2020 - Mar 2021).pdf",
+  "category": "Static GK",
+  "topic": "Important Days (Jan 2020 - Mar 2021)"
+ },
+ {
+  "file": "Static GK__UNESCO World Heritage Sites in India.pdf",
+  "category": "Static GK",
+  "topic": "UNESCO World Heritage Sites in India"
+ },
+ {
+  "file": "Static GK__Sustainable Development Goals.pdf",
+  "category": "Static GK",
+  "topic": "Sustainable Development Goals"
+ },
+ {
+  "file": "Static GK__Space & Nuclear Program of India.pdf",
+  "category": "Static GK",
+  "topic": "Space & Nuclear Program of India"
+ },
+ {
+  "file": "Static GK__Book & Author.pdf",
+  "category": "Static GK",
+  "topic": "Book & Author"
+ },
+ {
+  "file": "Static GK__Firsts in India Female.pdf",
+  "category": "Static GK",
+  "topic": "Firsts in India Female"
+ },
+ {
+  "file": "Static GK__First in India Male.pdf",
+  "category": "Static GK",
+  "topic": "First in India Male"
+ },
+ {
+  "file": "Static GK__First Male and Female in World.pdf",
+  "category": "Static GK",
+  "topic": "First Male and Female in World"
+ },
+ {
+  "file": "Physics__Unit.pdf",
+  "category": "Physics",
+  "topic": "Unit"
+ },
+ {
+  "file": "Physics__Motion.pdf",
+  "category": "Physics",
+  "topic": "Motion"
+ },
+ {
+  "file": "Physics__Work, Energy and Power.pdf",
+  "category": "Physics",
+  "topic": "Work, Energy and Power"
+ },
+ {
+  "file": "Physics__Gravitation.pdf",
+  "category": "Physics",
+  "topic": "Gravitation"
+ },
+ {
+  "file": "Physics__Pressure.pdf",
+  "category": "Physics",
+  "topic": "Pressure"
+ },
+ {
+  "file": "Physics__Floatation.pdf",
+  "category": "Physics",
+  "topic": "Floatation"
+ },
+ {
+  "file": "Physics__Viscosity.pdf",
+  "category": "Physics",
+  "topic": "Viscosity"
+ },
+ {
+  "file": "Physics__Elasticity.pdf",
+  "category": "Physics",
+  "topic": "Elasticity"
+ },
+ {
+  "file": "Physics__Simple Harmonic Motion.pdf",
+  "category": "Physics",
+  "topic": "Simple Harmonic Motion"
+ },
+ {
+  "file": "Physics__Wave.pdf",
+  "category": "Physics",
+  "topic": "Wave"
+ },
+ {
+  "file": "Physics__Sound Wave.pdf",
+  "category": "Physics",
+  "topic": "Sound Wave"
+ },
+ {
+  "file": "Physics__Heat.pdf",
+  "category": "Physics",
+  "topic": "Heat"
+ },
+ {
+  "file": "Physics__Light.pdf",
+  "category": "Physics",
+  "topic": "Light"
+ },
+ {
+  "file": "Physics__Static Electricity.pdf",
+  "category": "Physics",
+  "topic": "Static Electricity"
+ },
+ {
+  "file": "Physics__Current Electricity.pdf",
+  "category": "Physics",
+  "topic": "Current Electricity"
+ },
+ {
+  "file": "Physics__Magnetism.pdf",
+  "category": "Physics",
+  "topic": "Magnetism"
+ },
+ {
+  "file": "Physics__Atomic & Nuclear Physics.pdf",
+  "category": "Physics",
+  "topic": "Atomic & Nuclear Physics"
+ },
+ {
+  "file": "Physics__Electronics.pdf",
+  "category": "Physics",
+  "topic": "Electronics"
+ },
+ {
+  "file": "Physics__Scientific Instruments.pdf",
+  "category": "Physics",
+  "topic": "Scientific Instruments"
+ },
+ {
+  "file": "Physics__Inventions.pdf",
+  "category": "Physics",
+  "topic": "Inventions"
+ },
+ {
+  "file": "Physics__Important Discoveries in Physics.pdf",
+  "category": "Physics",
+  "topic": "Important Discoveries in Physics"
+ },
+ {
+  "file": "Physics__S.I. Units of Physical Quantity.pdf",
+  "category": "Physics",
+  "topic": "S.I. Units of Physical Quantity"
+ },
+ {
+  "file": "Physics__Conversion of Units from One System to Another System.pdf",
+  "category": "Physics",
+  "topic": "Conversion of Units from One System to Another System"
+ },
+ {
+  "file": "Chemistry__Introduction.pdf",
+  "category": "Chemistry",
+  "topic": "Introduction"
+ },
+ {
+  "file": "Chemistry__Atomic Structure.pdf",
+  "category": "Chemistry",
+  "topic": "Atomic Structure"
+ },
+ {
+  "file": "Chemistry__Periodic classification of Elements.pdf",
+  "category": "Chemistry",
+  "topic": "Periodic classification of Elements"
+ },
+ {
+  "file": "Chemistry__Chemical Bonding.pdf",
+  "category": "Chemistry",
+  "topic": "Chemical Bonding"
+ },
+ {
+  "file": "Chemistry__Oxidation & Reduction.pdf",
+  "category": "Chemistry",
+  "topic": "Oxidation & Reduction"
+ },
+ {
+  "file": "Chemistry__Acids, Bases & Salts.pdf",
+  "category": "Chemistry",
+  "topic": "Acids, Bases & Salts"
+ },
+ {
+  "file": "Chemistry__Behaviour of Gases.pdf",
+  "category": "Chemistry",
+  "topic": "Behaviour of Gases"
+ },
+ {
+  "file": "Chemistry__Electrolysis.pdf",
+  "category": "Chemistry",
+  "topic": "Electrolysis"
+ },
+ {
+  "file": "Chemistry__Carbon and its Compounds.pdf",
+  "category": "Chemistry",
+  "topic": "Carbon and its Compounds"
+ },
+ {
+  "file": "Chemistry__Fuels.pdf",
+  "category": "Chemistry",
+  "topic": "Fuels"
+ },
+ {
+  "file": "Chemistry__Metallurgy.pdf",
+  "category": "Chemistry",
+  "topic": "Metallurgy"
+ },
+ {
+  "file": "Chemistry__Important Facts About Some Metals.pdf",
+  "category": "Chemistry",
+  "topic": "Important Facts About Some Metals"
+ },
+ {
+  "file": "Chemistry__Non Metal.pdf",
+  "category": "Chemistry",
+  "topic": "Non Metal"
+ },
+ {
+  "file": "Chemistry__Common Facts.pdf",
+  "category": "Chemistry",
+  "topic": "Common Facts"
+ },
+ {
+  "file": "Chemistry__Man Made Substances.pdf",
+  "category": "Chemistry",
+  "topic": "Man Made Substances"
+ },
+ {
+  "file": "Biology__Introduction.pdf",
+  "category": "Biology",
+  "topic": "Introduction"
+ },
+ {
+  "file": "Biology__Classification of Organism.pdf",
+  "category": "Biology",
+  "topic": "Classification of Organism"
+ },
+ {
+  "file": "Biology__Study of Cell (Cytology).pdf",
+  "category": "Biology",
+  "topic": "Study of Cell (Cytology)"
+ },
+ {
+  "file": "Biology__Genetics.pdf",
+  "category": "Biology",
+  "topic": "Genetics"
+ },
+ {
+  "file": "Biology__Organic Evolution.pdf",
+  "category": "Biology",
+  "topic": "Organic Evolution"
+ },
+ {
+  "file": "Biology__Classification of Plantae.pdf",
+  "category": "Biology",
+  "topic": "Classification of Plantae"
+ },
+ {
+  "file": "Biology__Plant Morphology.pdf",
+  "category": "Biology",
+  "topic": "Plant Morphology"
+ },
+ {
+  "file": "Biology__Plant Tissue.pdf",
+  "category": "Biology",
+  "topic": "Plant Tissue"
+ },
+ {
+  "file": "Biology__Photosynthesis.pdf",
+  "category": "Biology",
+  "topic": "Photosynthesis"
+ },
+ {
+  "file": "Biology__Plant Hormones.pdf",
+  "category": "Biology",
+  "topic": "Plant Hormones"
+ },
+ {
+  "file": "Biology__Plant Diseases.pdf",
+  "category": "Biology",
+  "topic": "Plant Diseases"
+ },
+ {
+  "file": "Biology__Ecology.pdf",
+  "category": "Biology",
+  "topic": "Ecology"
+ },
+ {
+  "file": "Biology__Pollution.pdf",
+  "category": "Biology",
+  "topic": "Pollution"
+ },
+ {
+  "file": "Biology__Classification of Animal Kingdom.pdf",
+  "category": "Biology",
+  "topic": "Classification of Animal Kingdom"
+ },
+ {
+  "file": "Biology__Animal Tissue.pdf",
+  "category": "Biology",
+  "topic": "Animal Tissue"
+ },
+ {
+  "file": "Biology__Human Blood.pdf",
+  "category": "Biology",
+  "topic": "Human Blood"
+ },
+ {
+  "file": "Biology__System of the Human Body.pdf",
+  "category": "Biology",
+  "topic": "System of the Human Body"
+ },
+ {
+  "file": "Biology__Nutrients.pdf",
+  "category": "Biology",
+  "topic": "Nutrients"
+ },
+ {
+  "file": "Biology__Human Diseases.pdf",
+  "category": "Biology",
+  "topic": "Human Diseases"
+ },
+ {
+  "file": "Biology__Miscellaneous.pdf",
+  "category": "Biology",
+  "topic": "Miscellaneous"
+ },
+ {
+  "file": "Biology__List of Diseases caused by Virus, Bacteria, Protozoa and Worm.pdf",
+  "category": "Biology",
+  "topic": "List of Diseases caused by Virus, Bacteria, Protozoa and Worm"
+ },
+ {
+  "file": "Arts & Culture__Some Aspects Of Indo-islamic Architecture.pdf",
+  "category": "Arts & Culture",
+  "topic": "Some Aspects Of Indo-islamic Architecture"
+ },
+ {
+  "file": "Arts & Culture__Indian Bronze Sculpture.pdf",
+  "category": "Arts & Culture",
+  "topic": "Indian Bronze Sculpture"
+ },
+ {
+  "file": "Arts & Culture__Temple, Architechture & Sculpture.pdf",
+  "category": "Arts & Culture",
+  "topic": "Temple, Architechture & Sculpture"
+ },
+ {
+  "file": "Arts & Culture__Later Mural Traditions.pdf",
+  "category": "Arts & Culture",
+  "topic": "Later Mural Traditions"
+ },
+ {
+  "file": "Arts & Culture__Post-Mauryan Trends In Indian Art & Architecture.pdf",
+  "category": "Arts & Culture",
+  "topic": "Post-Mauryan Trends In Indian Art & Architecture"
+ },
+ {
+  "file": "Arts & Culture__Arts Of The Mauryan Period.pdf",
+  "category": "Arts & Culture",
+  "topic": "Arts Of The Mauryan Period"
+ },
+ {
+  "file": "Arts & Culture__Arts Of Indus Valley.pdf",
+  "category": "Arts & Culture",
+  "topic": "Arts Of Indus Valley"
+ },
+ {
+  "file": "Arts & Culture__Pre-Historic Rock Paintings.pdf",
+  "category": "Arts & Culture",
+  "topic": "Pre-Historic Rock Paintings"
+ },
+ {
+  "file": "Ancient History__Post-Maurya-Pre-Gupta Period (185 BC-319 AD).pdf",
+  "category": "Ancient History",
+  "topic": "Post-Maurya-Pre-Gupta Period (185 BC-319 AD)"
+ },
+ {
+  "file": "Ancient History__Harappan - Indus Civilization (2500 BC-1750 BC).pdf",
+  "category": "Ancient History",
+  "topic": "Harappan - Indus Civilization (2500 BC-1750 BC)"
+ },
+ {
+  "file": "Ancient History__Post-Gupta Period - Vardhana Dynasty (550 AD-647 AD) Pushyabhuti - Vardhana Dynasty.pdf",
+  "category": "Ancient History",
+  "topic": "Post-Gupta Period - Vardhana Dynasty (550 AD-647 AD) Pushyabhuti - Vardhana Dynasty"
+ },
+ {
+  "file": "Ancient History__Gupta Period (319 AD-540 AD).pdf",
+  "category": "Ancient History",
+  "topic": "Gupta Period (319 AD-540 AD)"
+ },
+ {
+  "file": "Ancient History__Maurya Period (322 BC - 185 BC).pdf",
+  "category": "Ancient History",
+  "topic": "Maurya Period (322 BC - 185 BC)"
+ },
+ {
+  "file": "Ancient History__Mahajanapada Period (600 BC-325 BC).pdf",
+  "category": "Ancient History",
+  "topic": "Mahajanapada Period (600 BC-325 BC)"
+ },
+ {
+  "file": "Ancient History__Vedic Culture (1500 BC-600 BC).pdf",
+  "category": "Ancient History",
+  "topic": "Vedic Culture (1500 BC-600 BC)"
+ },
+ {
+  "file": "Medieval History__The Advent of the Europeans.pdf",
+  "category": "Medieval History",
+  "topic": "The Advent of the Europeans"
+ },
+ {
+  "file": "Medieval History__Maratha State (1674-1720) and Maratha Confederacy (1720-1818).pdf",
+  "category": "Medieval History",
+  "topic": "Maratha State (1674-1720) and Maratha Confederacy (1720-1818)"
+ },
+ {
+  "file": "Medieval History__Mughal Period (1526-40 and 1555-1857).pdf",
+  "category": "Medieval History",
+  "topic": "Mughal Period (1526-40 and 1555-1857)"
+ },
+ {
+  "file": "Medieval History__Religious Movements in 15th-16th Centuries.pdf",
+  "category": "Medieval History",
+  "topic": "Religious Movements in 15th-16th Centuries"
+ },
+ {
+  "file": "Medieval History__Sultanate Period (1206-1526AD).pdf",
+  "category": "Medieval History",
+  "topic": "Sultanate Period (1206-1526AD)"
+ },
+ {
+  "file": "Medieval History__Early-Medieval Period (650-1206).pdf",
+  "category": "Medieval History",
+  "topic": "Early-Medieval Period (650-1206)"
+ },
+ {
+  "file": "Modern History__Governor General of India.pdf",
+  "category": "Modern History",
+  "topic": "Governor General of India"
+ },
+ {
+  "file": "Modern History__Economic Impact of British Rule.pdf",
+  "category": "Modern History",
+  "topic": "Economic Impact of British Rule"
+ },
+ {
+  "file": "Modern History__Partition of Bengal.pdf",
+  "category": "Modern History",
+  "topic": "Partition of Bengal"
+ },
+ {
+  "file": "Modern History__Emergence of Gandhi.pdf",
+  "category": "Modern History",
+  "topic": "Emergence of Gandhi"
+ },
+ {
+  "file": "Modern History__Expansion of British Power (In the context of Bengal, Mysore, Punjab etc.).pdf",
+  "category": "Modern History",
+  "topic": "Expansion of British Power (In the context of Bengal, Mysore, Punjab etc.)"
+ },
+ {
+  "file": "Modern History__British Policy of Divide and Rule.pdf",
+  "category": "Modern History",
+  "topic": "British Policy of Divide and Rule"
+ },
+ {
+  "file": "Modern History__Home Rule Leagues.pdf",
+  "category": "Modern History",
+  "topic": "Home Rule Leagues"
+ },
+ {
+  "file": "Modern History__Freedom Struggle.pdf",
+  "category": "Modern History",
+  "topic": "Freedom Struggle"
+ },
+ {
+  "file": "Modern History__Quit India Movement.pdf",
+  "category": "Modern History",
+  "topic": "Quit India Movement"
+ },
+ {
+  "file": "Modern History__Civil Disobedience Movement.pdf",
+  "category": "Modern History",
+  "topic": "Civil Disobedience Movement"
+ },
+ {
+  "file": "Modern History__Early Nationalists and Militant Nationalists.pdf",
+  "category": "Modern History",
+  "topic": "Early Nationalists and Militant Nationalists"
+ },
+ {
+  "file": "Modern History__Militant Revolutionary Terrorism.pdf",
+  "category": "Modern History",
+  "topic": "Militant Revolutionary Terrorism"
+ },
+ {
+  "file": "Modern History__Socio-Religious Movements in 19th-20th Centuries.pdf",
+  "category": "Modern History",
+  "topic": "Socio-Religious Movements in 19th-20th Centuries"
+ },
+ {
+  "file": "Modern History__Important legislation.pdf",
+  "category": "Modern History",
+  "topic": "Important legislation"
+ },
+ {
+  "file": "Modern History__Development of Education in British India.pdf",
+  "category": "Modern History",
+  "topic": "Development of Education in British India"
+ },
+ {
+  "file": "World History__Fascism - Nazism.pdf",
+  "category": "World History",
+  "topic": "Fascism - Nazism"
+ },
+ {
+  "file": "World History__Emergence Of Modern Turkey Mustafa Khemal Pasha.pdf",
+  "category": "World History",
+  "topic": "Emergence Of Modern Turkey Mustafa Khemal Pasha"
+ },
+ {
+  "file": "World History__Colonialism And Imperialism.pdf",
+  "category": "World History",
+  "topic": "Colonialism And Imperialism"
+ },
+ {
+  "file": "World History__Capitalism.pdf",
+  "category": "World History",
+  "topic": "Capitalism"
+ },
+ {
+  "file": "World History__American Revolution.pdf",
+  "category": "World History",
+  "topic": "American Revolution"
+ },
+ {
+  "file": "World History__Second World War.pdf",
+  "category": "World History",
+  "topic": "Second World War"
+ },
+ {
+  "file": "World History__Militarism in Japan.pdf",
+  "category": "World History",
+  "topic": "Militarism in Japan"
+ },
+ {
+  "file": "World History__Nazism in Germany.pdf",
+  "category": "World History",
+  "topic": "Nazism in Germany"
+ },
+ {
+  "file": "World History__Fascism in Italy.pdf",
+  "category": "World History",
+  "topic": "Fascism in Italy"
+ },
+ {
+  "file": "World History__Economic Depression of the World- 1929-34.pdf",
+  "category": "World History",
+  "topic": "Economic Depression of the World- 1929-34"
+ },
+ {
+  "file": "World History__Turkish Revolution - 1923.pdf",
+  "category": "World History",
+  "topic": "Turkish Revolution - 1923"
+ },
+ {
+  "file": "World History__Chinese Revolution.pdf",
+  "category": "World History",
+  "topic": "Chinese Revolution"
+ },
+ {
+  "file": "World History__Russian Revolution-1917.pdf",
+  "category": "World History",
+  "topic": "Russian Revolution-1917"
+ },
+ {
+  "file": "World History__First World War- July 28,1914 - Nov. 11,1918.pdf",
+  "category": "World History",
+  "topic": "First World War- July 28,1914 - Nov. 11,1918"
+ },
+ {
+  "file": "World History__Unification of Germany - 1848-71.pdf",
+  "category": "World History",
+  "topic": "Unification of Germany - 1848-71"
+ },
+ {
+  "file": "World History__Unification of Italy- 1848-70.pdf",
+  "category": "World History",
+  "topic": "Unification of Italy- 1848-70"
+ },
+ {
+  "file": "World History__French Revolution- 1789-93.pdf",
+  "category": "World History",
+  "topic": "French Revolution- 1789-93"
+ },
+ {
+  "file": "World History__American Revolution or American War of Independence - 1775-83.pdf",
+  "category": "World History",
+  "topic": "American Revolution or American War of Independence - 1775-83"
+ },
+ {
+  "file": "World History__Industrial Revolution.pdf",
+  "category": "World History",
+  "topic": "Industrial Revolution"
+ },
+ {
+  "file": "World History__Glorious Revolution - 1688, England.pdf",
+  "category": "World History",
+  "topic": "Glorious Revolution - 1688, England"
+ },
+ {
+  "file": "World History__Geographical Discoveries.pdf",
+  "category": "World History",
+  "topic": "Geographical Discoveries"
+ },
+ {
+  "file": "World History__Reformation.pdf",
+  "category": "World History",
+  "topic": "Reformation"
+ },
+ {
+  "file": "World History__Renaissance.pdf",
+  "category": "World History",
+  "topic": "Renaissance"
+ },
+ {
+  "file": "World History__Seven Wonders of Medieval World.pdf",
+  "category": "World History",
+  "topic": "Seven Wonders of Medieval World"
+ },
+ {
+  "file": "World History__Medieval Japan.pdf",
+  "category": "World History",
+  "topic": "Medieval Japan"
+ },
+ {
+  "file": "World History__Medieval China.pdf",
+  "category": "World History",
+  "topic": "Medieval China"
+ },
+ {
+  "file": "World History__Arab Civilization.pdf",
+  "category": "World History",
+  "topic": "Arab Civilization"
+ },
+ {
+  "file": "World History__Medieval Europe.pdf",
+  "category": "World History",
+  "topic": "Medieval Europe"
+ },
+ {
+  "file": "World History__Seven Wonders of Ancient World.pdf",
+  "category": "World History",
+  "topic": "Seven Wonders of Ancient World"
+ },
+ {
+  "file": "World History__Roman Civilization.pdf",
+  "category": "World History",
+  "topic": "Roman Civilization"
+ },
+ {
+  "file": "World History__Greek Civilization.pdf",
+  "category": "World History",
+  "topic": "Greek Civilization"
+ },
+ {
+  "file": "World History__Iranian Civilization.pdf",
+  "category": "World History",
+  "topic": "Iranian Civilization"
+ },
+ {
+  "file": "World History__Chinese Civilization.pdf",
+  "category": "World History",
+  "topic": "Chinese Civilization"
+ },
+ {
+  "file": "World History__Egyptian Civilization.pdf",
+  "category": "World History",
+  "topic": "Egyptian Civilization"
+ },
+ {
+  "file": "World History__Ancient World - Down to 500 AD Bronze Age Civilizations.pdf",
+  "category": "World History",
+  "topic": "Ancient World - Down to 500 AD Bronze Age Civilizations"
+ },
+ {
+  "file": "Geography__The Solar System.pdf",
+  "category": "Geography",
+  "topic": "The Solar System"
+ },
+ {
+  "file": "Geography__Continents and Oceans.pdf",
+  "category": "Geography",
+  "topic": "Continents and Oceans"
+ },
+ {
+  "file": "Geography__Biosphere.pdf",
+  "category": "Geography",
+  "topic": "Biosphere"
+ },
+ {
+  "file": "Geography__Lithosphere.pdf",
+  "category": "Geography",
+  "topic": "Lithosphere"
+ },
+ {
+  "file": "Geography__Hydrosphere.pdf",
+  "category": "Geography",
+  "topic": "Hydrosphere"
+ },
+ {
+  "file": "Geography__Atmosphere.pdf",
+  "category": "Geography",
+  "topic": "Atmosphere"
+ },
+ {
+  "file": "Geography__Latitude and Longitude.pdf",
+  "category": "Geography",
+  "topic": "Latitude and Longitude"
+ },
+ {
+  "file": "Geography__Different Heat Zones of the Earth.pdf",
+  "category": "Geography",
+  "topic": "Different Heat Zones of the Earth"
+ },
+ {
+  "file": "Geography__Longitudes and Time Zones.pdf",
+  "category": "Geography",
+  "topic": "Longitudes and Time Zones"
+ },
+ {
+  "file": "Geography__International Date Lines.pdf",
+  "category": "Geography",
+  "topic": "International Date Lines"
+ },
+ {
+  "file": "Geography__Motion of the Earth.pdf",
+  "category": "Geography",
+  "topic": "Motion of the Earth"
+ },
+ {
+  "file": "Geography__Effect of the Tilted Axis on Day and Night.pdf",
+  "category": "Geography",
+  "topic": "Effect of the Tilted Axis on Day and Night"
+ },
+ {
+  "file": "Geography__The Atmosphere (Composition and Layer of the Atmosphere).pdf",
+  "category": "Geography",
+  "topic": "The Atmosphere (Composition and Layer of the Atmosphere)"
+ },
+ {
+  "file": "Geography__Weather and Climate.pdf",
+  "category": "Geography",
+  "topic": "Weather and Climate"
+ },
+ {
+  "file": "Geography__Atmospheric Pressure.pdf",
+  "category": "Geography",
+  "topic": "Atmospheric Pressure"
+ },
+ {
+  "file": "Geography__Internal Structure of The Earth.pdf",
+  "category": "Geography",
+  "topic": "Internal Structure of The Earth"
+ },
+ {
+  "file": "Geography__Rocks.pdf",
+  "category": "Geography",
+  "topic": "Rocks"
+ },
+ {
+  "file": "Geography__Earthquakes and Volcanoes.pdf",
+  "category": "Geography",
+  "topic": "Earthquakes and Volcanoes"
+ },
+ {
+  "file": "Geography__Various Landforms.pdf",
+  "category": "Geography",
+  "topic": "Various Landforms"
+ },
+ {
+  "file": "Geography__The Indian Subcontinent.pdf",
+  "category": "Geography",
+  "topic": "The Indian Subcontinent"
+ },
+ {
+  "file": "Geography__Climatic Diversity in the Indian Subcontinent.pdf",
+  "category": "Geography",
+  "topic": "Climatic Diversity in the Indian Subcontinent"
+ },
+ {
+  "file": "Geography__Soil Resources of the Indian Sub-continent.pdf",
+  "category": "Geography",
+  "topic": "Soil Resources of the Indian Sub-continent"
+ },
+ {
+  "file": "Geography__Agriculture In India.pdf",
+  "category": "Geography",
+  "topic": "Agriculture In India"
+ },
+ {
+  "file": "Geography__Land use Pattern of India.pdf",
+  "category": "Geography",
+  "topic": "Land use Pattern of India"
+ },
+ {
+  "file": "Geography__Water Resources and Their Utilization in India.pdf",
+  "category": "Geography",
+  "topic": "Water Resources and Their Utilization in India"
+ },
+ {
+  "file": "Geography__Multipurpose River Valley Projects.pdf",
+  "category": "Geography",
+  "topic": "Multipurpose River Valley Projects"
+ },
+ {
+  "file": "Geography__Countries and their main Produces - Industries.pdf",
+  "category": "Geography",
+  "topic": "Countries and their main Produces - Industries"
+ },
+ {
+  "file": "Geography__Transport In India.pdf",
+  "category": "Geography",
+  "topic": "Transport In India"
+ },
+ {
+  "file": "Geography__India Facts and figures.pdf",
+  "category": "Geography",
+  "topic": "India Facts and figures"
+ },
+ {
+  "file": "Geography__General Introduction to Asia.pdf",
+  "category": "Geography",
+  "topic": "General Introduction to Asia"
+ },
+ {
+  "file": "Geography__Geography of the Indian Subcontinent.pdf",
+  "category": "Geography",
+  "topic": "Geography of the Indian Subcontinent"
+ },
+ {
+  "file": "Geography__Countries with Their Capital & Currency.pdf",
+  "category": "Geography",
+  "topic": "Countries with Their Capital & Currency"
+ },
+ {
+  "file": "Geography__River Side Cities.pdf",
+  "category": "Geography",
+  "topic": "River Side Cities"
+ },
+ {
+  "file": "Geography__Wonders of The World.pdf",
+  "category": "Geography",
+  "topic": "Wonders of The World"
+ },
+ {
+  "file": "Geography__Towns Associated with some Important Industries.pdf",
+  "category": "Geography",
+  "topic": "Towns Associated with some Important Industries"
+ },
+ {
+  "file": "Geography__Famous Sites (India).pdf",
+  "category": "Geography",
+  "topic": "Famous Sites (India)"
+ },
+ {
+  "file": "Geography__Famous Sites (World).pdf",
+  "category": "Geography",
+  "topic": "Famous Sites (World)"
+ },
+ {
+  "file": "Geography__Changed Names of Cities, States and Countries.pdf",
+  "category": "Geography",
+  "topic": "Changed Names of Cities, States and Countries"
+ },
+ {
+  "file": "Geography__Continent's Earth Area.pdf",
+  "category": "Geography",
+  "topic": "Continent's Earth Area"
+ },
+ {
+  "file": "Geography__Continent's Highest & Lowest Points.pdf",
+  "category": "Geography",
+  "topic": "Continent's Highest & Lowest Points"
+ },
+ {
+  "file": "Geography__Three Deepest Oceans.pdf",
+  "category": "Geography",
+  "topic": "Three Deepest Oceans"
+ },
+ {
+  "file": "Geography__Highest Mountain peaks (World).pdf",
+  "category": "Geography",
+  "topic": "Highest Mountain peaks (World)"
+ },
+ {
+  "file": "Geography__Geographical Epithets (Sobriquets).pdf",
+  "category": "Geography",
+  "topic": "Geographical Epithets (Sobriquets)"
+ },
+ {
+  "file": "Geography__Important Boundary Lines.pdf",
+  "category": "Geography",
+  "topic": "Important Boundary Lines"
+ },
+ {
+  "file": "Geography__Tribes and their Homeland (World).pdf",
+  "category": "Geography",
+  "topic": "Tribes and their Homeland (World)"
+ },
+ {
+  "file": "Geography__Glossary of Geographical Terms.pdf",
+  "category": "Geography",
+  "topic": "Glossary of Geographical Terms"
+ },
+ {
+  "file": "Polity & Civics__Evolution of Indian Constitution.pdf",
+  "category": "Polity & Civics",
+  "topic": "Evolution of Indian Constitution"
+ },
+ {
+  "file": "Polity & Civics__Constituent Assembly and Making of the Constitution.pdf",
+  "category": "Polity & Civics",
+  "topic": "Constituent Assembly and Making of the Constitution"
+ },
+ {
+  "file": "Polity & Civics__Different Sources of the Indian Constitution.pdf",
+  "category": "Polity & Civics",
+  "topic": "Different Sources of the Indian Constitution"
+ },
+ {
+  "file": "Polity & Civics__Important Articles of the Constitution.pdf",
+  "category": "Polity & Civics",
+  "topic": "Important Articles of the Constitution"
+ },
+ {
+  "file": "Polity & Civics__Some important Amendments of the Constitution.pdf",
+  "category": "Polity & Civics",
+  "topic": "Some important Amendments of the Constitution"
+ },
+ {
+  "file": "Polity & Civics__Some Special Features of the Indian Constitution.pdf",
+  "category": "Polity & Civics",
+  "topic": "Some Special Features of the Indian Constitution"
+ },
+ {
+  "file": "Polity & Civics__Federal and Unitary Features of the Indian Union.pdf",
+  "category": "Polity & Civics",
+  "topic": "Federal and Unitary Features of the Indian Union"
+ },
+ {
+  "file": "Polity & Civics__The Preamble.pdf",
+  "category": "Polity & Civics",
+  "topic": "The Preamble"
+ },
+ {
+  "file": "Polity & Civics__Lapse of Paramountcy.pdf",
+  "category": "Polity & Civics",
+  "topic": "Lapse of Paramountcy"
+ },
+ {
+  "file": "Polity & Civics__Integration and Merger of Indian States.pdf",
+  "category": "Polity & Civics",
+  "topic": "Integration and Merger of Indian States"
+ },
+ {
+  "file": "Polity & Civics__The Union and its Territories.pdf",
+  "category": "Polity & Civics",
+  "topic": "The Union and its Territories"
+ },
+ {
+  "file": "Polity & Civics__Reorganization of States.pdf",
+  "category": "Polity & Civics",
+  "topic": "Reorganization of States"
+ },
+ {
+  "file": "Polity & Civics__Citizenship.pdf",
+  "category": "Polity & Civics",
+  "topic": "Citizenship"
+ },
+ {
+  "file": "Polity & Civics__Directive Principles of State Policy.pdf",
+  "category": "Polity & Civics",
+  "topic": "Directive Principles of State Policy"
+ },
+ {
+  "file": "Polity & Civics__Fundamental Rights.pdf",
+  "category": "Polity & Civics",
+  "topic": "Fundamental Rights"
+ },
+ {
+  "file": "Polity & Civics__Fundamental Duties.pdf",
+  "category": "Polity & Civics",
+  "topic": "Fundamental Duties"
+ },
+ {
+  "file": "Polity & Civics__Procedure for Amending the Constitution.pdf",
+  "category": "Polity & Civics",
+  "topic": "Procedure for Amending the Constitution"
+ },
+ {
+  "file": "Polity & Civics__Executive of the Union The President.pdf",
+  "category": "Polity & Civics",
+  "topic": "Executive of the Union The President"
+ },
+ {
+  "file": "Polity & Civics__The Parliament of India.pdf",
+  "category": "Polity & Civics",
+  "topic": "The Parliament of India"
+ },
+ {
+  "file": "Polity & Civics__Executive of the States.pdf",
+  "category": "Polity & Civics",
+  "topic": "Executive of the States"
+ },
+ {
+  "file": "Polity & Civics__Special Position of Jammu & Kashmir.pdf",
+  "category": "Polity & Civics",
+  "topic": "Special Position of Jammu & Kashmir"
+ },
+ {
+  "file": "Polity & Civics__Panchayats.pdf",
+  "category": "Polity & Civics",
+  "topic": "Panchayats"
+ },
+ {
+  "file": "Polity & Civics__Municipalities.pdf",
+  "category": "Polity & Civics",
+  "topic": "Municipalities"
+ },
+ {
+  "file": "Polity & Civics__The Supreme Court.pdf",
+  "category": "Polity & Civics",
+  "topic": "The Supreme Court"
+ },
+ {
+  "file": "Polity & Civics__The High Court.pdf",
+  "category": "Polity & Civics",
+  "topic": "The High Court"
+ },
+ {
+  "file": "Polity & Civics__Inter-State Council.pdf",
+  "category": "Polity & Civics",
+  "topic": "Inter-State Council"
+ },
+ {
+  "file": "Polity & Civics__Finance Commission.pdf",
+  "category": "Polity & Civics",
+  "topic": "Finance Commission"
+ },
+ {
+  "file": "Polity & Civics__Election.pdf",
+  "category": "Polity & Civics",
+  "topic": "Election"
+ },
+ {
+  "file": "Polity & Civics__Planning Commission.pdf",
+  "category": "Polity & Civics",
+  "topic": "Planning Commission"
+ },
+ {
+  "file": "Polity & Civics__National Development Council (NDC).pdf",
+  "category": "Polity & Civics",
+  "topic": "National Development Council (NDC)"
+ },
+ {
+  "file": "Polity & Civics__National Integration Council.pdf",
+  "category": "Polity & Civics",
+  "topic": "National Integration Council"
+ },
+ {
+  "file": "Polity & Civics__Inter-State Relations.pdf",
+  "category": "Polity & Civics",
+  "topic": "Inter-State Relations"
+ },
+ {
+  "file": "Polity & Civics__Emergency Provisions.pdf",
+  "category": "Polity & Civics",
+  "topic": "Emergency Provisions"
+ },
+ {
+  "file": "Polity & Civics__Public Service Commissions.pdf",
+  "category": "Polity & Civics",
+  "topic": "Public Service Commissions"
+ },
+ {
+  "file": "Polity & Civics__Delimitation Commission of India.pdf",
+  "category": "Polity & Civics",
+  "topic": "Delimitation Commission of India"
+ },
+ {
+  "file": "Polity & Civics__The Official Languages.pdf",
+  "category": "Polity & Civics",
+  "topic": "The Official Languages"
+ },
+ {
+  "file": "Polity & Civics__National Symbols.pdf",
+  "category": "Polity & Civics",
+  "topic": "National Symbols"
+ },
+ {
+  "file": "Polity & Civics__Glossary of Constitutional Terms.pdf",
+  "category": "Polity & Civics",
+  "topic": "Glossary of Constitutional Terms"
+ },
+ {
+  "file": "Environment__Environmental Issues.pdf",
+  "category": "Environment",
+  "topic": "Environmental Issues"
+ },
+ {
+  "file": "Environment__Biodiversity And Conservation.pdf",
+  "category": "Environment",
+  "topic": "Biodiversity And Conservation"
+ },
+ {
+  "file": "Environment__Ecosystem.pdf",
+  "category": "Environment",
+  "topic": "Ecosystem"
+ },
+ {
+  "file": "Environment__Organisms And Population.pdf",
+  "category": "Environment",
+  "topic": "Organisms And Population"
+ },
+ {
+  "file": "Environment__Green Chemistry.pdf",
+  "category": "Environment",
+  "topic": "Green Chemistry"
+ },
+ {
+  "file": "Environment__Industrial Waste.pdf",
+  "category": "Environment",
+  "topic": "Industrial Waste"
+ },
+ {
+  "file": "Environment__Soil Pollution.pdf",
+  "category": "Environment",
+  "topic": "Soil Pollution"
+ },
+ {
+  "file": "Environment__Ill - Effects.pdf",
+  "category": "Environment",
+  "topic": "Ill - Effects"
+ },
+ {
+  "file": "Environment__Environmental Chemistry.pdf",
+  "category": "Environment",
+  "topic": "Environmental Chemistry"
+ },
+ {
+  "file": "Environment__Weather, Climate And Adaptations Of Animals To Climate.pdf",
+  "category": "Environment",
+  "topic": "Weather, Climate And Adaptations Of Animals To Climate"
+ },
+ {
+  "file": "Environment__Natural Resources.pdf",
+  "category": "Environment",
+  "topic": "Natural Resources"
+ },
+ {
+  "file": "Environment__Our Environment.pdf",
+  "category": "Environment",
+  "topic": "Our Environment"
+ },
+ {
+  "file": "Environment__Management of Natural Resources.pdf",
+  "category": "Environment",
+  "topic": "Management of Natural Resources"
+ },
+ {
+  "file": "Economics__Characteristics of Indian Economy.pdf",
+  "category": "Economics",
+  "topic": "Characteristics of Indian Economy"
+ },
+ {
+  "file": "Economics__Agriculture and Land Development.pdf",
+  "category": "Economics",
+  "topic": "Agriculture and Land Development"
+ },
+ {
+  "file": "Economics__National Income.pdf",
+  "category": "Economics",
+  "topic": "National Income"
+ },
+ {
+  "file": "Economics__Economic Planning.pdf",
+  "category": "Economics",
+  "topic": "Economic Planning"
+ },
+ {
+  "file": "Economics__Unemployment.pdf",
+  "category": "Economics",
+  "topic": "Unemployment"
+ },
+ {
+  "file": "Economics__Trade and Commerce.pdf",
+  "category": "Economics",
+  "topic": "Trade and Commerce"
+ },
+ {
+  "file": "Economics__New Economic Policy.pdf",
+  "category": "Economics",
+  "topic": "New Economic Policy"
+ },
+ {
+  "file": "Economics__Indian Financial System.pdf",
+  "category": "Economics",
+  "topic": "Indian Financial System"
+ },
+ {
+  "file": "Economics__Indian Fiscal System.pdf",
+  "category": "Economics",
+  "topic": "Indian Fiscal System"
+ },
+ {
+  "file": "Economics__Banking in India.pdf",
+  "category": "Economics",
+  "topic": "Banking in India"
+ },
+ {
+  "file": "Economics__Tax System.pdf",
+  "category": "Economics",
+  "topic": "Tax System"
+ },
+ {
+  "file": "Economics__Industry.pdf",
+  "category": "Economics",
+  "topic": "Industry"
+ },
+ {
+  "file": "Economics__Foreign Trade.pdf",
+  "category": "Economics",
+  "topic": "Foreign Trade"
+ },
+ {
+  "file": "Economics__Miscellaneous Facts.pdf",
+  "category": "Economics",
+  "topic": "Miscellaneous Facts"
+ },
+ {
+  "file": "Economics__Glossary of Economic Financial Terms.pdf",
+  "category": "Economics",
+  "topic": "Glossary of Economic Financial Terms"
+ }
+]

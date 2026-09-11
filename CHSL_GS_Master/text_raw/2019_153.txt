@@ -1,0 +1,835 @@
+General Intelligence
+1. Select a pair of words in which two
+words are related in the same way as
+the two words in the following word
+pair.
+Butterflies: Lepidopterists
+A. Chromosome: Botanist
+B. Postcard: Deltiologist
+C. Jewellery: Jeweller
+D. Map: Cartographer
+Ans: B
+2. Arrange the following words in a logical
+and meaningful order.
+1. Monkey 2. Elephant
+3. Rat 4. Fly
+5. Lion
+A. 3, 4, 1, 5, 2 B. 4, 3, 1, 5, 2
+C. 4, 1, 3, 2, 5 D. 3, 4, 1, 2, 5
+Ans: B
+3. Select the option that is related to the
+third letter-cluster in the same way as
+the second letter-cluster is related to
+the first letter-cluster.
+GATE : HXYX :: SINK : ____
+A. TGSE B. TETD
+C. TESD D. TFSD
+Ans: D
+4. Three of the following four words are
+alike in a certain way and one is differ-
+ent. Choose that different word.
+A. Giggling B. Hooting
+C. Jogging D. Roaring
+Ans: C
+5. In a code language, BLEND is written
+as ENHPG. How will WINNER be written
+in the same language?
+A. ZKQPHT B. ZKQPHU
+C. YKQPHT D. ZKOPHT
+Ans: A
+6. If V = 44 and FAT = 54, then how will
+you code LATE?
+A. 76 B. 110
+C. 54 D. 19
+Ans: A
+7. In a family, B is the father of K. B has
+only two children. K is the brother of R.
+R is the daughter of P. A is the grand-
+daughter of P. S is the father of A. How
+is S related to K?
+A. Son B. Brother-in-law
+C. Brother D. Son-in-law
+Ans: B
+8. A plastic toy costs Rs. 7. A plastic
+spoon costs Rs. 5. X spends Rs. 38 on
+these plastic items. Find the number of
+plastic toys he/she purchased?
+A. 3 B. 4
+C. 5 D. 2
+Ans: B
+9. Select the figure that will come next in
+the following figure series.
+A. B.
+C. D.
+Ans: A
+10. Three of the following four letter-
+cluster are alike in a certain way and
+one is different. Pick the odd one out.
+A. HSKPM B. PKSHV
+C. DWGTJ D. JQMNP
+Ans: A
+11. Select the set in which the numbers
+are related in the same way as are the
+numbers of the following set.
+(4, 14, 44)
+A. (11, 35, 107) B. (5, 15, 30)
+C. (7, 23, 69) D. (9, 30, 57)
+Ans: A
+12. Which two signs should be inter-
+changed in the following equation to
+make it correct?
+132 × 11 + 8 – 3 ÷ 12 = −16
+A. + and − B. × and ÷
+C. + and × D. − and ×
+Ans: B
+13. Four different positions of the same
+dice are shown. Find the number on
+the face opposite to the one having 3.
+A. 6 B. 4
+C. 2 D. 1
+Ans: C
+14. Three of the following four numbers are
+alike in a certain way and one is differ-
+ent. Pick the number that is different
+from the rest.
+A. 5138 B. 3128
+C. 9178 D. 9158
+Ans: B
+15. Select the option in which the given
+A. B.
+C. D.
+Ans: C
+16. Select the correct mirror image of the
+given figure when the mirror is placed
+to the right side of the figure.
+A. B.
+C. D.
+Ans: A
+17. Select the set in which the numbers
+are related in the same way as are the
+numbers of the following set.
+(4, 152, 6)
+A. (5, 287, 8) B. (4, 179, 7)
+C. (3, 55, 4) D. (2, 208, 6)
+Ans: D
+18. Three statements are given, followed
+by three conclusions numbers I, II and
+III. Assuming the statements to be
+true, even if they seem to be at vari-
+ance with commonly known facts, de-
+cide which of the conclusions logically
+follow(s) from the statements.
+Statements:
+All rocks are oceans.
+All oceans are balloons.
+Some watches are balloons.
+Conclusions:
+I. Some balloons are rocks.
+II. Some watches are oceans.
+III. All oceans are rocks.
+A. Only conclusion II follows.
+B. Only conclusions I and III follow.
+C. Only conclusions I and II follow.
+D. Only conclusion I follows.
+Ans: D
+19. Which number will replace the question
+mark (?) in the following series?
+5, 8, 20, 34, 76, 142, ?
+A. 284 B. 302
+C. 296 D. 272
+Ans: C
+20. Select the number-pair in which the
+two numbers are related in the same
+way as are the two numbers of the fol-
+lowing number-pair?
+7 : 85
+A. 3 : 31 B. 2 : 9
+C. 5 : 43 D. 8 : 113
+Ans: D
+21. How many triangles are present in the
+following figure?
+A. 14 B. 15
+C. 16 D. 13
+Ans: B
+22. ‘Chickenpox’ is related to ‘Virus’ in the
+same way as ‘Ringworm’ is related to
+‘________’.
+A. Protozoan B. Bacterium
+C. Nematodes D. Fungus
+Ans: D
+23. A paper is folded and cut as shown in
+the following figures. How will it appear
+when unfolded?
+A. B.
+C. D.
+Ans: C
+24. Select the combination of letters that
+when sequentially placed in the gaps of
+the given
+Abd_dab_ _d_b_cdab_c_
+A. cacacdc B. acacdcc
+C. ccaacdc D. cccaccd
+Ans: D
+25. Select the Venn diagram that best rep-
+resents the relationship between the
+following classes.
+Laziness, worry, strength
+A. B.
+C. D.
+Ans: C
+General Awareness
+1. In which of the following locations was
+the Global Venture Capital Summit
+2018 held?
+A. Mumbai B. Pune
+C. Ahmedabad D. Goa
+Ans: D
+2. In May 2019, Prem Singh Tamang was
+sworn in as the Chief Minister of:
+A. Arunachal Pradesh
+B. Odisha
+C. Sikkim
+D. Assam
+Ans: C
+3. AIX is the operating system of which
+company?
+A. Apple B. Unisys
+C. IBM D. Microsoft
+Ans: C
+4. Which state has proposed to set up the
+first ‘Blockchain District’ in India?
+A. Gujarat B. Maharashtra
+C. Telangana D. Tamil Nadu
+Ans: C
+5. The Sunauli border is a famous transit
+point between India and ______.
+A. Myanmar B. Nepal
+C. Pakistan D. Bhutan
+Ans: B
+6. Which of the following art forms of
+Kerala is in UNESCO’s list of the Intan-
+gible Cultural Heritage of Humanity?
+A. Theyyam B. Kutiyattam
+C. Chakyar Koothu D. Thiruvathirakali
+Ans: B
+7. _______ is the branch of biology that
+deals with the study of the structure of
+organisms and their organs.
+A. Ecology B. Anatomy
+C. Chronobiology D. Mycology
+Ans: B
+8. The Walayar Dam is in which district of
+Kerala?
+A. Kasaragod B. Palakkad
+C. Thrissur D. Idukki
+Ans: B
+9. Veteran journalist and TV anchor Karan
+Thapar is the author of which of the
+following books?
+A. Happyness
+B. Rebel Sultans
+C. Devil’s Advocate: The Untold Story
+D. Why I Am a Hindu
+Ans: C
+10. In May 2019, Suresh Kumar was ap-
+pointed as the Chief Technology Officer
+of:
+A. Amazon B. Walmart
+C. Google D. Apple
+Ans: B
+11. With which of the following sports is
+Karun Chandhok associated?
+A. Lawn Tennis B. Badminton
+C. Table Tennis D. Car Racing
+Ans: D
+12. Ottamthullal’ is a traditional dance
+form that is popular in the state of:
+A. Andhra Pradesh B. Karnataka
+C. Kerala D. Tamil Nadu
+Ans: C
+13. Scissor Cup is associated with which
+sports?
+A. badminton B. cricket
+C. hockey D. football
+Ans: D
+14. In the context of banking sector of In-
+dia, what is the full form of IMPS?
+A. Instant Payment Service
+B. Instant Payment Sector
+C. Immediate Payment Sector
+D. Immediate Payment Service
+Ans: D
+15. What is the height of the Statue of Uni-
+ty that is located in Gujarat?
+A. 93 m B. 120 m
+C. 153 m D. 182 m
+Ans: D
+16. Which is the coldest place in India?
+A. Amarnath B. Dras
+C. Leh D. Srinagar
+Ans: B
+17. Who was appointed as the 24th Chief
+of Naval Staff in May 2019?
+A. Sunil Lanba
+B. Surinder Pal Singh
+C. Bimal Verma
+D. Karambir Singh
+Ans: D
+18. Who among the following coined the
+term “battery” to describe linked ca-
+pacitors?
+A. Benjamin Franklin
+B. Luigi Galvani
+C. John Frederic Daniell
+D. Lewis Urry
+Ans: A
+19. Who among the following is the author
+of “Principles of Political Economy”?
+A. Milton Friedman
+B. John Stuart Mill
+C. Joseph Schumpeter
+D. David Ricardo
+Ans: B
+20. The enzyme, Lipase is produced by
+which organ of the body?
+A. Lung B. Salivary gland
+C. Liver D. Pancreas
+Ans: D
+21. The Book ‘Gulamgiri’ was written by:
+A. Jyotirao Phule B. Haridas Thakur
+C. Narayana Guru D. Ramabai Shinde
+Ans: A
+22. Who was the founder of the first search
+engine called ‘Archie’?
+A. David Filo B. Alan Emtage
+C. Matthew Gray D. Martijn Koster
+Ans: B
+23. Who among the following was India’s
+defence minister during the 1971 was
+between India and Pakistan?
+A. Yashwantrao Chavan
+B. Indira Gandhi
+C. Swaran Singh
+D. Jagjivan Ram
+Ans: D
+24. Chhattisgarh does NOT share its
+boundary with:
+A. West Bengal B. Uttar Pradesh
+C. Madhya Pradesh D. Telangana
+Ans: A
+25. When was the first match of ICC Crick-
+et World Cup 2019 played?
+A. 2 June 2019 B. 30 May 2019
+C. 1 June 2019 D. 31 May 2019
+Ans: B
+Quantitative Aptitude
+1. The area of a field in the shape of a
+hexagon is 2400 3 m 2 . What will be
+the cost of fencing it at Rs. 18.50 per
+metre?
+A. Rs. 4440 B. Rs. 5920
+C. Rs. 5550 D. Rs. 5180
+Ans: A
+2. In a circle with centre O, AD is a diam-
+eter and AC is a chord. B is a point on
+AC, such that OB = 5 cm and OBA =
+60. If DOC = 60, then what is the
+length of BC?
+A. 4 cm B. 3 5 cm
+C. 5 3 cm D. 5 cm
+Ans: D
+3. The given Bar Graph presents the
+number of different types of vehicles
+(in lakhs) exported by a company dur-
+ing 2014 and 2015.
+The total number of type B, D and E
+vehicles exported in 2014 is what per-
+centage of the total number of type A,
+C, D and E vehicles exported in 2015
+(correct to one decimal place)?
+A. 62.4% B. 61.6%
+C. 63.8% D. 64.2%
+Ans: D
+4. A and B can complete a task in 25
+1
+days. B alone can complete 33 % of
+a
+the same task in 15 days. In how many
+4
+days can A alone complete th of the
+15
+same task?
+A. 15 B. 10
+C. 18 D. 12
+Ans: A
+5. Tangents AB and AC are draw to a cir-
+cle from a point A, such that BAC =
+40. A chord CP is drawn parallel to BA.
+The measure of CBP is:
+A. 55 B. 45
+C. 35 D. 40
+Ans: D
+6. The marked price of an article is Rs.
+600. After allowing a discount of 25%
+on the marked price, there was a loss
+of Rs. 30. The loss percentage is:
+A. 7.50% B. 7.25%
+C. 6.25% D. 6.50%
+Ans: C
+7. What is the difference between the
+compound interest, when interest is
+compounded 5-monthly, and the sim-
+ple interest on a sum of Rs. 12,000 for
+1
+1 years at 12% per annum?
+4
+A. Rs. 90 B. Rs. 91.50
+C. Rs. 93 D. Rs. 92.50
+Ans: B
+8. A man travels a certain distance at 12
+km/h and returns to the starting point
+at 9 km/h. The total time taken by him
+1
+for the entire journey is 2 hours. The
+3
+total distance (in km) covered by him
+is:
+A. 25 B. 12
+C. 24 D. 28
+Ans: C
+cot 
+9. is equal to:
+( 1 − sin  ) ( sec  + tan  )
+A. cosec  B. sin 
+C. sec  D. 1
+Ans: A
+10. There are three numbers. If the aver-
+age of them is added to the third num-
+ber, the sums obtained are 177, 163
+and 138. What is the average of the
+largest and the smallest of the given
+numbers?
+A. 76 B. 79
+C. 81 D. 67
+Ans: A
+11. The given Bar Graph presents the
+number of different types of vehicles
+(in lakhs) exported by a company dur-
+ing 2014 and 2015.
+What is the ratio of the total number of
+type A and C vehicles exported in 2014
+to the total number of type B and E
+vehicles exported in 2015?
+A. 8 : 11 B. 7 : 9
+C. 2 : 3 D. 5 : 7
+Ans: B
+12. If x + y = 7 and xy = 10, then the val-
+ 1 1 
+ue of  +  is
+ x 3 y 3 
+A. 0.543 B. 0.131
+C. 0.133 D. 0.453
+Ans: C
+13. A man spends 72% of his income. If
+his income increases by 28% and his
+expenditure increases by 25%, then
+what is the percentage increase or de-
+crease in his savings (correct to one
+decimal place)?
+A. 26.9% decrease B. 38.4% increase
+C. 35.7% increase D. 26.3% decrease
+Ans: C
+3 3 3 4 5 2
+14. The value of  of  +  of
+4 4 4 3 2 5
+ 2 2 5 
+−  + of  is:
+ 3 3 6 
+14 41
+A. B.
+3 9
+22 50
+C. D.
+3 9
+Ans: D
+15. If the nine-digit number 43xll45y2 is
+divisible by 88, then the value of (3x –
+2y), for the smallest value of y, is:
+A. 22 B. 18
+C. 20 D. 9
+Ans: A
+16. A sum of Rs. 4,360 was to be divided
+among A, B, C and D in the ratio of 3 :
+4 : 5 : 8, but it was divided in the ratio
+1 1 1 1
+of : : : by mistake. As a result:
+3 4 5 8
+A. A received Rs. 956 more
+B. B received Rs. 318 more
+C. D received Rs. 1,144 less
+D. C received Rs. 132 less
+Ans: C
+17. By selling 72 articles, a loss equal to
+the selling price of 8 articles was in-
+curred. What is the loss percentage?
+A. 12% B. 10%
+1 1
+C. 9 % D. 11 %
+9 9
+Ans: B
+18. If 2cos 2  - 5 cos  + 2 = 0, 0 <  <
+90, then the value o (cosec  + cot )
+is:
+1
+A. B. 3
+3
+1
+C. D. 2 3
+3
+Ans: B
+19. If 8x 2 + y 2 – 12x – 4xy + 9 = 0, then
+the value of (14x – 5y) is:
+A. 9 B. 6
+C. 5 D. 3
+Ans: B
+20. The given Bar Graph presents the
+number of different types of vehicles
+(in lakhs) exported by a company dur-
+ing 2014 and 2015.
+Which type of vehicle showed 32% in-
+crease in export in 2015 as compared
+to that in the previous year?
+A. B B. A
+C. E D. D
+Ans: A
+21. The sides AB and AC of ABC are pro-
+duced to point D and E, respectively.
+The bisectors of CBD and BCE meet
+at P. If A = 72, then the measure of
+P is:
+A. 36 B. 45
+C. 60 D. 54
+Ans: D
+22. If x + y + z = 19, xyz = 216 and xy +
+yz + zx = 114, then the value of
+x 3 + y 3 + z 3 + xyz is:
+A. 32 B. 30
+C. 28 D. 35
+Ans:
+23. The value of
+tan13  tan37  tan 45  tan53  tan77 
+( )
+2 cosec 2 60  cos 2 60  − 3 cos 60  + 2
+is:
+A. 2 B. 1
+3 1
+C. D.
+2 2
+Ans: D
+24. In ABC, D is a point on side AB such
+that BD = 2 cm and DA = 3 cm. E is a
+point on BC such that DE AC , and AC
+= 4 cm. Then (Area of BDE) : (Area of
+trapezium ACED) is:
+A. 4 : 21 B. 2 : 5
+C. 1 : 5 D. 4 : 25
+Ans: A
+25. The given Bar Graph presents the
+number of different types of vehicles
+(in lakhs) exported by a company dur-
+ing 2014 and 2015.
+The average number of type A, B and
+D vehicles exported in 2015 was x%
+less than the number of type E vehicles
+exported in 2014. What is the value of
+x?
+A. 18 B. 24
+C. 20 D. 25
+Ans: A
+English Language
+1. Select the word which means the same
+as the group of words given.
+A person belonging to a foreign
+country
+A. native B. resident
+C. alien D. inhabitant
+Ans: C
+2. Select the most appropriate synonym
+of the given word.
+EXPOSE
+A. hide B. bury
+C. reveal D. protect
+Ans: C
+3. Select the most appropriate antonym
+of the given word.
+MINISCULE
+A. dwarf B. small
+C. gigantic D. meagre
+Ans: C
+4. Select the wrongly spelt word.
+A. celebrity B. celebrate
+C. celeberation D. celebrant
+Ans: C
+5. Select the most appropriate option to
+substitute the underlined segment in
+the given sentence. If there is no need
+to substitute it, select No improve-
+ment.
+Nowadays rent for a two-room
+house can run as high to Rs.
+40,000/ in Mumbai.
+A. so high so
+B. so high to
+C. No improvement
+D. As high as
+Ans: D
+6. Select the most appropriate option to
+substitute the underlined segment in
+the given sentence. If there is no need
+to substitute it, select No improve-
+ment.
+Lot of peoples visit this restaurant
+as its biryani is famous.
+A. No improvement
+B. A lot peoples
+C. A lot of people
+D. Much of people
+Ans: C
+7. Select the most appropriate synonym
+of the given word.
+ADVERSARY
+A. helper B. assistant
+C. rival D. supporter
+Ans: C
+8. Given below are four jumbled sentenc-
+es. Out of the given options pick the
+one that given their correct order.
+A. Later, they set up their own art
+school and gallery in the prison.
+B. The prisoners wanted to display
+their art work inside the prison.
+C. They took the help of volunteers
+from the School of Art.
+D. Prisoners who were interested in
+visual arts and painting could study
+there.
+A. BCAD B. DCAB
+C. BDAC D. CBAD
+Ans: A
+9. In the sentence identify the segment
+which contains the grammatical error.
+Three more elevated roads have
+been propose in the new plan to
+unclog the traffic in Delhi.
+A. in the new plan
+B. Three more elevate roads
+C. to unclog the traffic in Delhi
+D. have been propose
+Ans: D
+10. Select the most appropriate meaning of
+the given idiom.
+dance to someone’s tune
+A. argue with others on petty matters
+B. delay in making a decision
+C. do what others what you to do
+D. be engaged in an energetic activity
+Ans: C
+11. Select the most appropriate meaning of
+the given idiom.
+leave no stone unturned
+A. leave the path halfway
+B. not make enough efforts
+C. turn everything upside down
+D. try everything possible
+Ans: D
+12. Select the wrongly spelt word.
+A. earn B. eerie
+C. early D. eagel
+Ans: D
+13. In the sentence identify the segment
+which contains the grammatical error.
+Tilak rowed through the river and
+tied his boat on the other side.
+A. and tied his boat
+B. on the other side
+C. Tilak rowed
+D. through the river
+Ans: D
+14. Select the correct passive form of the
+given sentence.
+The prisoners have made these
+paintings.
+A. These prisoners have been made by
+the paintings.
+B. These paintings were made by the
+prisoners.
+C. These paintings are made by the
+prisoners.
+D. These paintings have been made by
+the prisoners.
+Ans: D
+Comprehension:
+In the following passage some words have
+been deleted. Fill in the blanks with the help
+of alternatives given. Select the most appro-
+priate option for each blank.
+During organised tours in Germany, tourists
+can (1) ______ a former Nazi compound 40
+kilometres from Berlin (2) ______ the ‘For-
+bidden City’. Around twenty thousand people
+visit this place (3) ______ year to learn
+about Nazi military history. The Nazis (4)
+______ militarily active at the compound,
+which was kept (5) ______ in a forest and
+behind a fence. They hid underground bun-
+kers in country homes, and they planned
+much of World War II here.
+SubQuestion No: 15
+15. Select the most appropriate option for
+blank No. 1.
+A. visit B. travel
+C. trip D. stay
+Ans: A
+Comprehension:
+In the following passage some words have
+been deleted. Fill in the blanks with the help
+of alternatives given. Select the most appro-
+priate option for each blank.
+During organised tours in Germany, tourists
+can (1) ______ a former Nazi compound 40
+kilometres from Berlin (2) ______ the ‘For-
+bidden City’. Around twenty thousand people
+visit this place (3) ______ year to learn
+about Nazi military history. The Nazis (4)
+______ militarily active at the compound,
+which was kept (5) ______ in a forest and
+behind a fence. They hid underground bun-
+kers in country homes, and they planned
+much of World War II here.
+SubQuestion No: 16
+16. Select the most appropriate option for
+blank No. 2.
+A. calling B. calls
+C. call D. called
+Ans: D
+Comprehension:
+In the following passage some words have
+been deleted. Fill in the blanks with the help
+of alternatives given. Select the most appro-
+priate option for each blank.
+During organised tours in Germany, tourists
+can (1) ______ a former Nazi compound 40
+kilometres from Berlin (2) ______ the ‘For-
+bidden City’. Around twenty thousand people
+visit this place (3) ______ year to learn
+about Nazi military history. The Nazis (4)
+______ militarily active at the compound,
+which was kept (5) ______ in a forest and
+behind a fence. They hid underground bun-
+kers in country homes, and they planned
+much of World War II here.
+Sub Question No: 17
+17. Select the most appropriate option for
+blank No. 3.
+A. whole B. one
+C. every D. all
+Ans: C
+Comprehension:
+In the following passage some words have
+been deleted. Fill in the blanks with the help
+of alternatives given. Select the most appro-
+priate option for each blank.
+During organised tours in Germany, tourists
+can (1) ______ a former Nazi compound 40
+kilometres from Berlin (2) ______ the ‘For-
+bidden City’. Around twenty thousand people
+visit this place (3) ______ year to learn
+about Nazi military history. The Nazis (4)
+______ militarily active at the compound,
+which was kept (5) ______ in a forest and
+behind a fence. They hid underground bun-
+kers in country homes, and they planned
+much of World War II here.
+SubQuestion No: 18
+18. Select the most appropriate option for
+blank No. 4.
+A. was B. has been
+C. have been D. were
+Ans: D
+Comprehension:
+In the following passage some words have
+been deleted. Fill in the blanks with the help
+of alternatives given. Select the most appro-
+priate option for each blank.
+During organised tours in Germany, tourists
+can (1) ______ a former Nazi compound 40
+kilometres from Berlin (2) ______ the ‘For-
+bidden City’. Around twenty thousand people
+visit this place (3) ______ year to learn
+about Nazi military history. The Nazis (4)
+______ militarily active at the compound,
+which was kept (5) ______ in a forest and
+behind a fence. They hid underground bun-
+kers in country homes, and they planned
+much of World War II here.
+SubQuestion No: 19
+19. Select the most appropriate option for
+blank No. 5.
+A. mysterious B. holy
+C. sacred D. concealed
+Ans: D
+20. Select the correct indirect form of the
+given sentence.
+Mr. Puri said to me, “Why are you
+taking down this fence?”
+A. Mr. Puri asked me why was I taking
+down this fence.
+B. Mr. Puri said to me why you were
+taking down that fence.
+C. Mr. Puri asked me why I was taking
+down that fence.
+D. Mr. Puri said to me that why are you
+taking down this fence.
+Ans: C
+21. Select the most appropriate word to fill
+in the blank.
+I had a stroke at an early age, but
+what I though was a great ______
+at that time changed my life for the
+better.
+A. injustice B. indent
+C. indication D. incentive
+Ans: A
+22. Select the word which means the same
+as the group of words given.
+Something that cannot be avoided
+A. indelible B. infallible
+C. inevitable D. invincible
+Ans: C
+23. Select the most appropriate word to fill
+in the blank.
+We have little choice early in life,
+but as we grow older choices ____.
+A. aggravate B. adrift
+C. abound D. afloat
+Ans: C
+24. Given below are four jumbled sentenc-
+es. Out of the given options pick the
+one that given their correct order.
+A. As he looked at them, their heads
+began to hang low.
+B. Akbar glanced at his courtiers in
+search of an answer.
+C. Once Akbar asked his courtiers a
+very strange question.
+D. The courtiers were dumb-founded
+by his question.
+A. CDBA B. CADB
+C. ACBD D. DCAB
+Ans: A
+25. Select the most appropriate antonym
+of the given word.
+PERPETRATE
+A. execute B. prevent
+C. perform D. commit
+Ans: B

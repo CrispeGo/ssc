@@ -1,0 +1,325 @@
+<!-- ═══════════ भाग 4 : संख्या पद्धति • बीजगणित • सरलीकरण ═══════════ -->
+<section class="part" id="part4">
+<div class="part-title">भाग 4 — संख्या पद्धति • बीजगणित • सरलीकरण</div>
+<div class="part-sub">संख्या के नियम • सर्वसमिकाओं की मशीन • कसरट का हिसाब — 24 मॉडल</div>
+
+<div class="cols">
+
+<div class="khand">खंड 0 — सर्वसमिका-इंजन (बीजगणित के 90% सवाल इन्हीं 6 से बनते हैं)</div>
+<p><i>सब यहीं बनाए हुए हैं — रटना शून्य। एक बार बना लो, जिंदगी भर चलेगा।</i></p>
+<div class="sutra"><div class="cap">I1</div>
+<b>(a±b)² = a² ± 2ab + b²</b> — बनता कैसे: (a+b)² = (a+b)(a+b) = a²+ab+ba+b² = a²+2ab+b² (बस बँटवारे का नियम)
+</div>
+<div class="sutra"><div class="cap">I2</div>
+<b>a² − b² = (a+b)(a−b)</b> — बनता कैसे: (a+b)(a−b) = a²−ab+ab−b²; बीच के पद आपस में कट जाते हैं
+</div>
+<div class="sutra"><div class="cap">I3</div>
+<b>(a±b)³ = a³ ± b³ ± 3ab(a±b)</b> — बनता कैसे: (a+b)³ = (a+b)²(a+b) — I1 का विस्तार
+</div>
+<div class="sutra"><div class="cap">I4</div>
+<b>a³ ± b³ = (a±b)(a² ∓ ab + b²)</b> — बनता कैसे: I3 को इधर-उधर करो: a³+b³ = (a+b)³ − 3ab(a+b) = (a+b)[(a+b)²−3ab]
+</div>
+<div class="sutra"><div class="cap">I5 — और SSC का प्रिय निष्कर्ष</div>
+<b>a³+b³+c³−3abc = (a+b+c)(a²+b²+c²−ab−bc−ca)</b>; और <b>a+b+c = 0 ⇒ a³+b³+c³ = 3abc</b>
+</div>
+<div class="sutra"><div class="cap">I6</div>
+<b>(a+b+c)² = a²+b²+c²+2(ab+bc+ca)</b> — I1 का तीन-अनजान वाला रूप
+</div>
+<p><span class="lbl">करणी (सर्ड) का परिमेयकरण:</span> 1/(√a+√b) को (√a−√b) से गुणा-भाग करो ⇒ <b>(√a−√b)/(a−b)</b> — I2 ही है।</p>
+<div class="ratta"><b>छोटी रटने वाली सूची (भाग 4 के लिए):</b> वर्ग 1–30 • घन 1–12 • x±1/x की कास्केड (नीचे A3 में बनती है, फिर याद) • इकाई-अंक चक्र (N4 में बनता है) • √2 ≈ 1.414, √3 ≈ 1.732, √5 ≈ 2.236 • पाइथागोरस त्रिक: (3,4,5) (5,12,13) (8,15,17) (7,24,25) (9,40,41)।</div>
+
+<div class="khand">खंड N — संख्या पद्धति के मॉडल (N1–N11)</div>
+
+<div class="model">मॉडल N1 — विभाज्यता की जाँच (नियम बनाकर समझो)</div>
+<p><span class="lbl">सबसे बड़ा संख्या-मॉडल (84 सवाल — हर साल 3-5)।</span> नियम रटो मत, बनाओ:</p>
+<div class="sutra"><div class="cap">नियम और वजह</div>
+<b>2/5/10:</b> सिर्फ आखिरी अंक (10 के गुणज वाले सभी स्थान पहले ही बँट चुके) • <b>4/8:</b> आखिरी 2/3 अंक (100 = 4×25, 1000 = 8×125)<br>
+<b>3/9:</b> अंकों का जोड़ (10 ≡ 1, इसलिए हर 10 की घात ≡ 1 — सिर्फ अंकों का जोड़ बचता है) • <b>11:</b> एक-एक छोड़कर जोड़ का फर्क<br>
+<b>मिश्रित = सह-अभाज्य तोड़ो:</b> 22 = 2×11, 24 = 8×3, 75 = 3×25, 88 = 8×11 — दोनों जाँच पास होनी चाहिए
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>कौन-सी संख्या 22 से विभाज्य है?</p>
+<div class="sol"><span class="lbl">हल:</span> 2×11: 893002 सम ✓; एक-एक छोड़कर (8+3+0)−(9+0+2) = 0 ✓ ⇒ <span class="ansline">893002</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>कौन-सी 24 से विभाज्य <b>नहीं</b> है?</p>
+<div class="sol"><span class="lbl">हल:</span> 24 = 8×3: 35751 टाँग है ⇒ 8 की जाँच में ही फेल ⇒ <span class="ansline">35751</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>कौन-सी 75 से विभाज्य नहीं?</p>
+<div class="sol"><span class="lbl">हल:</span> 75 = 3×25: 163750 ÷25 ✓ (50 पर खत्म) पर अंक-जोड़ 22 ⇒ 3 से विभाज्य नहीं ⇒ <span class="ansline">163750</span></div></div>
+<div class="caution"><b>सावधानी:</b> "विभाज्य नहीं" में <b>एक जाँच फेल = काफी</b> — पूरा भाग देकर मत बैठो। टाँग संख्या दिखे तो 8/4/2 की जाँच तुरंत करो।</div>
+
+<div class="model">मॉडल N2 — चिपके अंक वाली विभाज्यता (x, y) ⭐⭐ — SSC का दोहराया प्रिय</div>
+<p><span class="lbl">हर रूप में चलने वाला तरीका:</span> दोनों सह-अभाज्य गुणनखंडों के लिए x, y की शर्तें लिखो, फिर मिलाओ। <b>88 का सीधा नियम नहीं होता — 8×11 का तोड़ो हमेशा।</b></p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>73A215 ÷ 11 और 56B26 ÷ 9 ⇒ A+B?</p>
+<div class="sol"><span class="lbl">हल:</span> 11: (7+A+1)−(3+2+5) = A−2 ≡ 0 ⇒ <b>A = 2</b>; 9: 19+B ≡ 0 ⇒ <b>B = 8</b> ⇒ <span class="ansline">A+B = 10</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>780x533y24, 88 से विभाज्य ⇒ सबसे छोटा x+y?</p>
+<div class="sol"><span class="lbl">हल:</span> ÷8: आखिरी-3 = 3y24: 4+2y ≡ 0 (mod 8) ⇒ y ∈ {2, 6}; ÷11: x+y−2 ≡ 0 ⇒ x+y ∈ {2, 13}<br>सबसे छोटा: y = 2, x = 0 ⇒ <span class="ansline">x+y = 2</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2019 — तीन शिफ्ट में एक ही सवाल!)</span>
+<p>1230x558y2 ÷ 88 ⇒ 5x−5y?</p>
+<div class="sol"><span class="lbl">हल:</span> ÷8: 802+10y ≡ 0 ⇒ y ∈ {3, 7}; ÷11: 8−x−y ≡ 0 ⇒ x+y = 8 ⇒ (5,3) या (1,7) ⇒ 25−15 = <span class="ansline">10</span> (दूसरे जोड़े से −30 — धनात्मक वाला ही SSC का उत्तर)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>2x64y ÷ 88 ⇒ 6x−5y?</p>
+<div class="sol"><span class="lbl">हल:</span> ÷8: 640+y ≡ 0 ⇒ y ∈ {0, 8}; ÷11: 4+y−x ≡ 0 ⇒ x = y+4 ⇒ (4,0) से 24, (12,8) अमान्य, (x=1,y=8) से −34
+<div class="srcnote">[दोहरा हल] दोनों जोड़े गणितीय रूप से ठीक (21648 = 88×246 भी बैठता है) — SSC ने −34 लिया। तरीका वही है; विकल्पों से तय करो।</div></div></div>
+<div class="caution"><b>सावधानी:</b> "सबसे छोटा/बड़ा मान" पूछा हो तो <b>सारे मान्य (x,y) जोड़े</b> निकालो — सिर्फ पहला नहीं।</div>
+
+<div class="model">मॉडल N3 — शेषफल की बुनियाद</div>
+<p><span class="lbl">समझो:</span> N = dq + r हमेशा। छोटे भाजक के लिए: बड़े भाजक वाला शेषफल उसी से फिर भाग दो।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>N ÷ 512 पर शेषफल 67। N ÷ 32 पर शेषफल?</p>
+<div class="sol"><span class="lbl">हल:</span> 512 = 32×16 ⇒ 67 − 64 = <span class="ansline">3</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>8127 ÷ 8 का शेषफल?</p>
+<div class="sol"><span class="lbl">हल:</span> 8 के लिए आखिरी 3 अंक: 127 = 8×15+7 ⇒ <span class="ansline">7</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2019)</span>
+<p>(6n+3)² ÷ 9 का शेषफल?</p>
+<div class="sol"><span class="lbl">हल:</span> 36n²+36n+9 = 9(4n²+4n+1) ⇒ <span class="ansline">शेषफल 0</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>भाजक = 11 × भागफल = 5 × शेषफल; शेषफल 44 ⇒ भाज्य?</p>
+<div class="sol"><span class="lbl">हल:</span> d = 220, q = 20; D = dq+r = 220×20+44 = <span class="ansline">4,444</span></div></div>
+
+<div class="model">मॉडल N4 — इकाई अंक (घात के चक्र) — बनाओ, फिर 5 सेकंड</div>
+<div class="sutra"><div class="cap">चक्र (खुद गुणा करके देखो — पैटर्न ही है)</div>
+0,1,5,6 → <b>स्थिर</b> • 4,9 → चक्र 2 (4,6,4,6… / 9,1,9,1…) • 2,3,7,8 → चक्र 4 (2: 2,4,8,6…)<br>
+घातांक को 4 से भाग दो — शेष ही स्थान बताता है; शेष 0 ⇒ चक्र का चौथा (आखिरी) अंक
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018)</span>
+<p>194¹⁰² + 294¹⁰³ का इकाई अंक?</p>
+<div class="sol"><span class="lbl">हल:</span> 4-चक्र: सम घात → 6; टाँग घात → 4 ⇒ 6+4 = 10 ⇒ इकाई अंक <span class="ansline">0</span></div></div>
+<div class="caution"><b>सावधानी:</b> 4 की टाँग घात = 4, सम = 6 — उल्टा याद मत करो (4¹ = 4 से याद रखो)।</div>
+
+<div class="model">मॉडल N5 — अभाज्य संख्याएँ (सीमा में गिनती)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>100 और 120 के बीच कितनी अभाज्य?</p>
+<div class="sol"><span class="lbl">हल:</span> 101, 103, 107, 109, 113 ⇒ <span class="ansline">5</span> (105, 111, 117, 119 = 3×37, 9×13, 7×17 — काटते चलो)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2017)</span>
+<p>30 और 42 के बीच की अभाज्य संख्याओं का जोड़?</p>
+<div class="sol"><span class="lbl">हल:</span> 31+37+41 = <span class="ansline">109</span></div></div>
+
+<div class="model">मॉडल N6 — ल.सा./म.सा. — सिर्फ 2 सवाल (ईमानदार डेटा-खोज)</div>
+<p><span class="lbl">सच:</span> 7 सालों में सिर्फ 2 सवाल — गहरी थ्योरी छोड़ो, बस दो बातें: <b>म.सा. × ल.सा. = दोनों संख्याओं का गुणनफल</b> (म.सा. साझा हिस्सा, ल.सा. पूरा — साझा हिस्सा एक ही बार गिनो) और बहुपद का ल.सा. = गुणनखंड करके हर गुणनखंड की सबसे बड़ी घात।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2017)</span>
+<p>म.सा. = 11, ल.सा. = 825, एक संख्या 275 ⇒ दूसरी?</p>
+<div class="sol"><span class="lbl">हल:</span> 11×825/275 = <span class="ansline">33</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>(x³−8)(x+1) और (x³+1)(x−2) का ल.सा.?</p>
+<div class="sol"><span class="lbl">हल:</span> x³−8 = (x−2)(x²+2x+4); x³+1 = (x+1)(x²−x+1) (I4) ⇒ <span class="ansline">(x+1)(x−2)(x²+2x+4)(x²−x+1)</span></div></div>
+
+<div class="model">मॉडल N7 — दो अंकों की संख्या (अंक पलटना)</div>
+<div class="sutra"><div class="cap">बना हुआ नियम</div>
+संख्या = 10a+b; पलटी हुई = 10b+a ⇒ <b>फर्क = 9(b−a)</b> (बनता है: 10b+a−10a−b) और <b>जोड़ = 11(a+b)</b>
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>अंकों का जोड़ 9; पलटी संख्या मूल से 45 ज्यादा ⇒ मूल संख्या?</p>
+<div class="sol"><span class="lbl">हल:</span> 9(b−a) = 45 ⇒ b−a = 5; a+b = 9 ⇒ b = 7, a = 2 ⇒ <span class="ansline">27</span></div></div>
+<p><span class="lbl">रूप (2017):</span> इकाई का अंक y, दहाई का 5 ⇒ संख्या = 10×5+y = <b>50+y</b> — बनाना ही काम है।</p>
+
+<div class="model">मॉडल N8 — लगातार संख्याएँ / श्रेणी का जोड़ (गिनती वाले)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>3 लगातार सम संख्याओं का जोड़ 126 ⇒ सबसे छोटी × सबसे बड़ी?</p>
+<div class="sol"><span class="lbl">हल:</span> बीच वाली = 42 ⇒ 40, 44 ⇒ <span class="ansline">1,760</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>सभी दो-अंकीय टाँग संख्याओं का जोड़?</p>
+<div class="sol"><span class="lbl">हल:</span> 11 से 99 तक 45 पद ⇒ (11+99)×45/2 = <span class="ansline">2,475</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>6 से विभाज्य दो-अंकीय संख्याएँ कितनी?</p>
+<div class="sol"><span class="lbl">हल:</span> 12 से 96: (96−12)/6+1 = <span class="ansline">15</span> (गिनती = श्रेणी: (आखिरी−पहली)/कदम + 1)</div></div>
+
+<div class="model">मॉडल N9 — करणियों/संख्याओं में सबसे बड़ी</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018)</span>
+<p>2, 3√3, 4, 3√5 में सबसे बड़ी?</p>
+<div class="sol"><span class="lbl">हल:</span> सबका <b>वर्ग करो</b> (धनात्मक संख्याओं में क्रम बना रहता है): 4, 27, 16, 45 ⇒ <span class="ansline">3√5</span></div></div>
+
+<div class="model">मॉडल N10 — पृष्ठ अंकित करने में अंकों की गिनती</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>428 पृष्ठों की अंक-सूची में कितने अंक छपेंगे?</p>
+<div class="sol"><span class="lbl">हल:</span> 1–9: 9; 10–99: 90×2 = 180; 100–428: 329×3 = 987 ⇒ कुल <span class="ansline">1,176</span> (सूत्र नहीं — खंड गिनो)</div></div>
+
+<div class="model">मॉडल N11 — श्रृंखला का सरलीकरण (जोड़ी बनाओ)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>1−7+2−8+3−9+… 100 पद?</p>
+<div class="sol"><span class="lbl">हल:</span> 50 जोड़ी, हर जोड़ी (k − (k+6)) = −6 ⇒ <span class="ansline">−300</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>98²−97²+96²−95²+…+12²−11²?</p>
+<div class="sol"><span class="lbl">हल:</span> हर जोड़ी: a²−(a−1)² = 2a−1 (I2 से: (a+a−1)(a−a+1)) ⇒ 195, 191, …, 23 (44 पद, अंतर −4)<br>जोड़ = 44×(195+23)/2 = <span class="ansline">4,796</span></div></div>
+
+<div class="khand">खंड A — बीजगणित और सरलीकरण के मॉडल (A1–A13)</div>
+
+<div class="model">मॉडल A1 — सर्वसमिका रखना (सीधा प्रतिस्थापन)</div>
+<p><span class="lbl">पहचान-ट्रिगर:</span> वर्गों का ± दिखे ⇒ I2/I1; घन दिखें ⇒ I3/I4। x²−y² दिखते ही (x+y)(x−y) <b>तीन सेकंड</b> में लिखो।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>[(a²+b²−c²)² − (a²−b²+c²)²] ÷ (b²−c²)?</p>
+<div class="sol"><span class="lbl">हल:</span> I2: x+y = 2a², x−y = 2(b²−c²) ⇒ 4a²(b²−c²)/(b²−c²) = <span class="ansline">4a²</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2017)</span>
+<p>(x+9)(8−5x) में x का गुणांक?</p>
+<div class="sol"><span class="lbl">हल:</span> 8x−45x = <span class="ansline">−37</span></div></div>
+
+<div class="model">मॉडल A2 — सर्वसमिका-भिन्न (a³±b³)/(a²∓ab+b²) ⭐ — 2023 की खोज</div>
+<p><span class="lbl">समझो:</span> I4 उल्टा पढ़ो: (a³−b³)/(a²+ab+b²) = <b>a−b</b>; (a³+b³)/(a²−ab+b²) = <b>a+b</b>। दशमलव संख्याएँ दिखें तो उन्हें a, b मान लो — <b>कोई घन निकालना ही नहीं पड़ता!</b> (2023 में 4+ शिफ्ट में आया — दोहराव पक्का।)</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>(0.24×0.24×0.24 − 0.008)/(0.24×0.24 + 0.048 + 0.04)?</p>
+<div class="sol"><span class="lbl">हल:</span> a = 0.24, b = 0.2 (0.008 = 0.2³; 0.048 = 0.24×0.2) ⇒ उत्तर = a−b = <span class="ansline">0.04</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>[(4.2)³ − 0.008] ÷ [(4.2)² + 0.84 + 0.04]?</p>
+<div class="sol"><span class="lbl">हल:</span> a = 4.2, b = 0.2 ⇒ <span class="ansline">4</span></div></div>
+
+<div class="model">मॉडल A3 — x ± 1/x की कास्केड ⭐⭐ — कभी न रुकने वाला (31+ सवाल)</div>
+<p><span class="lbl">बनाओ (एक बार, फिर तालिका 2-सेकंड):</span> x + 1/x = k दिया हो तो:</p>
+<div class="sutra"><div class="cap">कास्केड (सब व्युत्पन्न)</div>
+x + 1/x = k ⇒ x² + 1/x² = <b>k² − 2</b> (वर्ग करो — बीच का पद 2 बचता है)<br>
+x⁴ + 1/x⁴ = (k²−2)² − 2 &nbsp;•&nbsp; x³ + 1/x³ = <b>k³ − 3k</b> (घन करो: बीच में 3(x+1/x) बचता है)<br>
+x − 1/x = m हो तो चिह्न बदल जाते हैं: x²+1/x² = <b>m²+2</b>, x³−1/x³ = m³+3m<br>
+x⁵+1/x⁵ = (x²+1/x²)(x³+1/x³) − (x+1/x)
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>x² + 1/x² = 14 ⇒ x³ + 1/x³?</p>
+<div class="sol"><span class="lbl">हल:</span> x+1/x = √16 = 4 ⇒ 64−12 = <span class="ansline">52</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021) — गहरी कास्केड</span>
+<p>x⁴ + 1/x⁴ = 2207 ⇒ x⁵ + 1/x⁵?</p>
+<div class="sol"><span class="lbl">हल:</span> x²+1/x² = √2209 = 47 ⇒ x+1/x = √49 = 7 ⇒ x³+1/x³ = 343−21 = 322<br>x⁵+1/x⁵ = 47×322 − 7 = <span class="ansline">15,127</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2019 — तीन शिफ्ट में एक ही)</span>
+<p>x = 2+√3 ⇒ x³ + 1/x³?</p>
+<div class="sol"><span class="lbl">हल:</span> 1/x = 2−√3 (परिमेयकरण) ⇒ x+1/x = 4 ⇒ 64−12 = <span class="ansline">52</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022) — K वाला टेढ़ा रूप</span>
+<p>x + 1/x = K/2 ⇒ x⁴ + 1/x⁴?</p>
+<div class="sol"><span class="lbl">हल:</span> x²+1/x² = (K²−8)/4 ⇒ x⁴+1/x⁴ = <span class="ansline">(K⁴−16K²+32)/16</span></div></div>
+<div class="caution"><b>सावधानी:</b> 2207-टाइप में √(2207+<b>2</b>) = √2209 — <b>+2 अंदर</b> जाता है (k²−2 का उल्टा), और पूर्ण वर्ग होना ही चाहिए (2209 = 47²) — SSC जान-बूझकर पूर्ण वर्ग देता है।</div>
+
+<div class="model">मॉडल A4 — जोड़-गुणनफल परिवार (a+b+c दिया हो / जोड़-गुणनफल दिया हो)</div>
+<p><span class="lbl">रूप 1 (a+b+c दिया):</span> I6 उल्टा: a²+b²+c² = (a+b+c)² − 2(ab+bc+ca)। और I5-निष्कर्ष: <b>तीन घन + 3abc दिखे ⇒ a+b+c = 0 लिखो, 5 सेकंड में जवाब।</b></p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>(a+b+c) = 7, ab+bc+ca = 12 ⇒ a²+b²+c²?</p>
+<div class="sol"><span class="lbl">हल:</span> 49−24 = <span class="ansline">25</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2019)</span>
+<p>(3x−7)³+(3x−8)³+(3x+6)³ = 3(3x−7)(3x−8)(3x+6) ⇒ x?</p>
+<div class="sol"><span class="lbl">हल:</span> यह a³+b³+c³ = 3abc की बराबरी है ⇒ a+b+c = 0 ⇒ 9x−9 = 0 ⇒ <span class="ansline">x = 1</span></div></div>
+<p><span class="lbl">रूप 2 (जोड़-गुणनफल दिया, व्यंजक माँगा):</span> व्यंजक को सर्वसमिकाओं में खोलो:</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>a+5b = 13, ab = 9 ⇒ a²+25b²?</p>
+<div class="sol"><span class="lbl">हल:</span> (a+5b)² − 10ab = 169−90 = <span class="ansline">79</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>a+b = 8, a−b = 6 ⇒ ab?</p>
+<div class="sol"><span class="lbl">हल:</span> ((a+b)²−(a−b)²)/4 = (64−36)/4 = <span class="ansline">7</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>p+q = 5, pq = 18 ⇒ p³+q³?</p>
+<div class="sol"><span class="lbl">हल:</span> (p+q)³−3pq(p+q) = 125−270 = <span class="ansline">−145</span>
+<div class="srcnote">[स्रोत-टिप्पणी] डेटासेट में 145 (बिना चिह्न) था — इस जोड़-गुणनफल में p, q वास्तविक संख्याएँ नहीं बनतीं; तरीका वही है।</div></div></div>
+
+<div class="model">मॉडल A5 — रैखिक समीकरण-निकाय (2-3 समीकरण)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>x+y+z = 15, 2x−y+z = 12, x−y−z = −1?</p>
+<div class="sol"><span class="lbl">हल:</span> समी1+समी3: 2x = 14 ⇒ x = 7; फिर y+z = 8 और z−y = −2 ⇒ <span class="ansline">(7, 5, 3)</span><br><b>तरीका:</b> जो दो समीकरण मिलाकर एक अनजान काट दें, वही जोड़ी चुनो। विकल्प हों तो मान रखकर जाँचना भी 10-सेकंड का काम है।</div></div>
+
+<div class="model">मॉडल A6 — निर्देशांक में रेखाएँ (2024 का नया झुकाव)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>5x+12y = 60 — अक्षों के बीच काटे गए अंतःखंड की लंबाई?</p>
+<div class="sol"><span class="lbl">हल:</span> x-खंड 12, y-खंड 5 ⇒ √(144+25) = <span class="ansline">13</span> (5-12-13 त्रिक!)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>x+y = 2 और 2x−y = 1 का कटाव बिंदु y = Kx+5 पर ⇒ K?</p>
+<div class="sol"><span class="lbl">हल:</span> कटाव (1,1) ⇒ 1 = K+5 ⇒ <span class="ansline">K = −4</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>kx+3y−(k−3) = 0 और 12x+ky−k = 0 के अनंत हल ⇒ k?</p>
+<div class="sol"><span class="lbl">हल:</span> तीनों अनुपात बराबर: k/12 = 3/k = (k−3)/k ⇒ k² = 36, जाँच के बाद <span class="ansline">k = 6</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2020)</span>
+<p>(3,−5) से ढाल 2 वाली रेखा?</p>
+<div class="sol"><span class="lbl">हल:</span> y+5 = 2(x−3) ⇒ <span class="ansline">2x−y−11 = 0</span></div></div>
+<div class="caution"><b>सावधानी:</b> अनंत हल के लिए <b>तीनों</b> अनुपात बराबर चाहिए, सिर्फ दो नहीं।</div>
+
+<div class="model">मॉडल A7 — करणियों का परिमेयकरण (जंजीर वाले) ⭐</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018)</span>
+<p>x = 1/(√5+√3), y = 1/(√7+√5), z = 1/(√7+√3) ⇒ x+y+z?</p>
+<div class="sol"><span class="lbl">हल:</span> x = (√5−√3)/2, y = (√7−√5)/2, z = (√7−√3)/4 ⇒ x+y = (√7−√3)/2<br>+z = (√7−√3)(1/2+1/4) = <span class="ansline">(3/4)(√7−√3)</span> — एक जैसी करणियाँ आपस में कट गईं</div></div>
+
+<div class="model">मॉडल A8 — कथन सही/गलत (करणी असमिकाएँ)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018)</span>
+<p>I. 4√3 &gt; 3√4 &nbsp; II. 8√2 &gt; 2√8?</p>
+<div class="sol"><span class="lbl">हल:</span> 4√3 = 6.93 &gt; 6 ✓; 8√2 = 11.31 &gt; 5.66 ✓ ⇒ <span class="ansline">दोनों सही</span> (√2≈1.414, √3≈1.732 तैयार = 5 सेकंड)</div></div>
+
+<div class="model">मॉडल A9 — BODMAS / "का" का क्रम</div>
+<div class="sutra"><div class="cap">नियम</div>
+<b>B-O-DM-AS</b> — "का" (of) = कोष्ठक के तुरंत बाद (गुणा ही है, पर पहले)
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>15 − 3 of 12 ÷ 2 + 3 of 2 ÷ 2?</p>
+<div class="sol"><span class="lbl">हल:</span> (3 of 12)÷2 = 18; (3 of 2)÷2 = 3 ⇒ 15−18+3 = <span class="ansline">0</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>11.5 − [5 + 0.5×(9−3×2)]?</p>
+<div class="sol"><span class="lbl">हल:</span> भीतर: 9−6 = 3 ⇒ 0.5×3 = 1.5 ⇒ 5+1.5 = 6.5 ⇒ <span class="ansline">5</span></div></div>
+<div class="caution"><b>सावधानी:</b> ÷ से पहले "of"; और ऋण के बाद कोष्ठक खुलते समय चिह्न का फैलाव — 15−18+3 में लोग 15−21 कर बैठते हैं।</div>
+
+<div class="model">मॉडल A10 — पूर्ण वर्ग पहचानना</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018)</span>
+<p>√(3⁴ + 12²)?</p>
+<div class="sol"><span class="lbl">हल:</span> 81+144 = 225 ⇒ <span class="ansline">15</span> (9-12-15 — 3-4-5 परिवार! त्रिक पहचानो, जड़ सीधी निकलेगी)</div></div>
+
+<div class="model">मॉडल A11 — बहुपद का विस्तार (बिंदु के इर्द-गिर्द)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>x²+2x+3 को x = −2 के इर्द-गिर्द खोलो?</p>
+<div class="sol"><span class="lbl">हल:</span> u = x+2 (x = u−2): (u−2)²+2(u−2)+3 = u²−2u+3 ⇒ <span class="ansline">(x+2)² − 2(x+2) + 3</span>
+<div class="srcnote">[स्रोत अस्पष्ट] डेटासेट की प्रति में विकल्पों का क्रम OCR में बदला था; तरीका पक्का है — बदलो, खोलो, वापस करो।</div></div></div>
+
+<div class="model">मॉडल A12 — घातांक नियम</div>
+<p><span class="lbl">समझो:</span> आधार एक जैसा बनाओ: 9 = 3², 8 = 2³, 0.25 = (0.5)² — फिर गुणा में घातें <b>जुड़ती</b> हैं, घात की घात में <b>गुणा</b>। <span class="srcnote">[स्रोत अस्पष्ट] इस परिवार के 2024 के 2-3 सवाल OCR में बिगड़े थे; आधार नियम यही है।</span></p>
+
+<div class="model">मॉडल A13 — %-सरलीकरण और मिली-जुली BODMAS</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022-ढाँचा)</span>
+<p>60% of 870 − √1444 + 18×19?</p>
+<div class="sol"><span class="lbl">हल:</span> % को भिन्न बनाओ (60% = 3/5), जड़ का मान निकालो, फिर DM-AS बाएँ से दाएँ: 522 − 38 + 342 = <span class="ansline">826</span>
+<div class="srcnote">[स्रोत अस्पष्ट] इस परिवार के कई 2022-24 सवाल OCR में कटे; ढाँचा: % → भिन्न, √ → मान, फिर क्रम।</div></div></div>
+
+</div><!-- /cols -->
+
+<div class="wide">
+<div class="khand">भाग 4 — मुख्य सावधानियाँ</div>
+<table class="tbl">
+<tr><th style="width:6%">क्र.</th><th style="width:52%">सावधानी</th><th>उदाहरण</th></tr>
+<tr><td>1</td><td>"विभाज्य नहीं" में एक जाँच फेल = काफी (टाँग ⇒ 8 फेल)</td><td>35751</td></tr>
+<tr><td>2</td><td>चिपके अंक: <b>सारे मान्य (x,y) जोड़े</b> देखो — "सबसे छोटा/बड़ा"</td><td>780x533y24 → 2</td></tr>
+<tr><td>3</td><td>88 = 8×11 — सह-अभाज्य तोड़ो (88 का सीधा नियम नहीं)</td><td>N2</td></tr>
+<tr><td>4</td><td>छोटे भाजक पर शेषफल: 67 − 64 = 3</td><td>2024</td></tr>
+<tr><td>5</td><td>इकाई अंक 4 की घात: सम→6, टाँग→4 (4¹ = 4 से याद)</td><td>194¹⁰²</td></tr>
+<tr><td>6</td><td>x²+1/x² = k से ऊपर जाओ तो √(k+<b>2</b>) — पूर्ण वर्ग होगा</td><td>2207 → 47 → 7</td></tr>
+<tr><td>7</td><td>x−1/x कास्केड में चिह्न बदलते हैं (+2, +3m)</td><td>A3</td></tr>
+<tr><td>8</td><td>तीन घन + 3abc ⇒ a+b+c = 0 — सीधा लिखो</td><td>x = 1</td></tr>
+<tr><td>9</td><td>(a³−b³)/(a²+ab+b²) = a−b — घन निकालने ही नहीं हैं</td><td>0.24</td></tr>
+<tr><td>10</td><td>"of" BODMAS में ÷ से <b>पहले</b></td><td>15−18+3 = 0</td></tr>
+<tr><td>11</td><td>अंक-पलट: फर्क = 9(b−a), जोड़ = 11(a+b)</td><td>27</td></tr>
+<tr><td>12</td><td>गुणांकों के चिह्न: (x+9)(8−5x) ⇒ 8−45 = −37</td><td>2017</td></tr>
+<tr><td>13</td><td>अंतःखंड लंबाई = √(x-खंड²+y-खंड²) — त्रिक पहचानो</td><td>13</td></tr>
+<tr><td>14</td><td>अनंत हल: तीनों अनुपात बराबर (सिर्फ दो नहीं)</td><td>k = 6</td></tr>
+</table>
+</div><!-- /wide -->
+
+<div class="wide" style="break-before:page">
+<div class="khand">भाग 4 — एक नज़र में (पहचानो → तरीका)</div>
+<table class="tbl">
+<tr><th style="width:9%">मॉडल</th><th style="width:49%">सवाल में क्या दिखेगा</th><th>एक-लाइन तरीका</th></tr>
+<tr><td>N1</td><td>विभाज्यता की जाँच (हाँ/नहीं)</td><td>सह-अभाज्य तोड़ो; "नहीं" में एक फेल काफी</td></tr>
+<tr><td>N2</td><td>x, y चिपके अंक, 88/99/22 वाले</td><td>दोनों गुणनखंडों की शर्तें, सारे जोड़े</td></tr>
+<tr><td>N3</td><td>शेषफल (संख्या/बीजगणित)</td><td>N = dq+r; शेष को छोटे भाजक से दोबारा</td></tr>
+<tr><td>N4</td><td>घात का इकाई अंक</td><td>चक्र 4; घात ÷4 का शेष = स्थान</td></tr>
+<tr><td>N5</td><td>सीमा में अभाज्य गिनो/जोड़ो</td><td>2,3,5,7 के गुणज काटो</td></tr>
+<tr><td>N6</td><td>म.सा.×ल.सा. / बहुपद ल.सा.</td><td>गुणनफल ÷ दी हुई; गुणनखंड की बड़ी घात</td></tr>
+<tr><td>N7</td><td>अंक पलटने वाले सवाल</td><td>फर्क 9(b−a); जोड़ 11(a+b)</td></tr>
+<tr><td>N8</td><td>लगातार संख्याएँ, गिनती</td><td>बीच वाली = औसत; (आखिरी−पहली)/कदम+1</td></tr>
+<tr><td>N9</td><td>मिश्रित में सबसे बड़ी (करणी)</td><td>सबका वर्ग करो</td></tr>
+<tr><td>N10</td><td>पृष्ठ-अंकन में अंक गिनो</td><td>1-अंक/2-अंक/3-अंक खंड</td></tr>
+<tr><td>N11</td><td>श्रृंखला ± के साथ</td><td>जोड़ी बनाओ ⇒ हर जोड़ी एक मान ⇒ श्रेणी</td></tr>
+<tr><td>A1</td><td>वर्गों/घनों के ± वाले व्यंजक</td><td>I2/I3 पहचानो, तीन सेकंड में रखो</td></tr>
+<tr><td>A2</td><td>(a³∓b³)/(a²±ab+b²) दशमलव रूप में</td><td>सीधा a−b / a+b लिखो</td></tr>
+<tr><td>A3</td><td>x ± 1/x की कास्केड</td><td>k²−2, k³−3k; m²+2, m³+3m</td></tr>
+<tr><td>A4</td><td>जोड़-गुणनफल से व्यंजक</td><td>I6 उल्टा; तीन घन = a+b+c 0</td></tr>
+<tr><td>A5</td><td>2-3 रैखिक समीकरण</td><td>मिलाकर अनजान काटो</td></tr>
+<tr><td>A6</td><td>रेखा: खंड, कटाव, ढाल</td><td>y = mx+c; त्रिक पहचानो</td></tr>
+<tr><td>A7</td><td>1/(√a+√b) की जंजीर</td><td>परिमेयकरण ⇒ साझा करणियाँ कटती हैं</td></tr>
+<tr><td>A8</td><td>करणी के कथन सही/गलत</td><td>√2, √3, √5 के मान से जाँच</td></tr>
+<tr><td>A9</td><td>भारी BODMAS "of" सहित</td><td>B-O-DM-AS</td></tr>
+<tr><td>A10</td><td>√(वर्ग+वर्ग)</td><td>पाइथागोरस त्रिक पहचानो</td></tr>
+<tr><td>A11</td><td>बिंदु के इर्द-गिर्द विस्तार</td><td>u = x−a रखो, खोलो, वापस</td></tr>
+<tr><td>A12</td><td>घातांक वाले व्यंजक</td><td>आधार समान करो; गुणा में जोड़</td></tr>
+<tr><td>A13</td><td>% + √ + × मिला-जुला</td><td>% → भिन्न; फिर BODMAS</td></tr>
+</table>
+</div><!-- /wide -->
+</section>

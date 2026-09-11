@@ -1,0 +1,398 @@
+<!-- ═══════════ भाग 2 : अनुपात • औसत • ब्याज • साझेदारी ═══════════ -->
+<section class="part" id="part2">
+<div class="part-title">भाग 2 — अनुपात एवं आयु • औसत • ब्याज • साझेदारी</div>
+<div class="part-sub">हिस्सों में बाँटना • बराबर करना • पैसा उगाना — 25 मॉडल (+आयु के 5 उप-मॉडल)</div>
+
+<div class="cols">
+
+<div class="khand">खंड 0 — बुनियादी औज़ार</div>
+<p><span class="lbl">औज़ार T1 — अनुपात का मतलब:</span> a : b यानी a/b। "₹X को a : b में बाँटो" मतलब X को (a+b) टुकड़ों में काटो — पहले वाले को a टुकड़े: हिस्सा = a/(a+b) × X। जैसे 1488 को 28:35:30 में बाँटना है और तीसरे का हिस्सा चाहिए: 1488 × 30/93 = 480। बस यही भिन्न-काटना है।</p>
+<p><span class="lbl">औज़ार T2 — समानुपात की एक ही जड़:</span> a : b :: c : d का मतलब बस <b>ad = bc</b> (आड़ा गुणा बराबर)। पूरे अध्याय के तीन प्रसिद्ध नाम इसी से निकलते हैं — कुछ अलग रटने को बचा ही नहीं:
+तीसरा समानुपाती (a : b :: b : x) ⇒ x = b²/a • चौथा समानुपाती (a : b :: c : x) ⇒ x = bc/a • मध्य समानुपाती (a : x :: x : b) ⇒ x = √(ab)</p>
+<p><span class="lbl">औज़ार T3 — जोड़े वाले अनुपात जोड़ना:</span> A:B = 3:4 और B:C = 5:6। बीच वाला (B) दोनों जगह है — उसे एक ही नंबर बनाओ: B = 12 (4 और 6 का ल.सा.) ⇒ 9:12 और 10:12 ⇒ A:B:C = 9:12:10। उदाहरण: राम:श्याम = 3:4, श्याम:घनश्याम = 5:6 ⇒ 15:20:24 ⇒ राम:घनश्याम = <b>5:8</b></p>
+<p><span class="lbl">औज़ार T4 — औसत = बराबर बाँटना:</span> n चीज़ों का औसत A है ⇒ कुल जोड़ = nA। सोच ऐसे: सबको A बनाने के लिए जो ऊपर से लेकर नीचे दिया गया, वही औसत है। इसी से "मास्टर आने पर औसत +1" का मतलब निकलेगा: मास्टर ने अपनी उम्र में से हर बच्चे को 1 साल दे दिया (V2 में पूरा)।</p>
+<p><span class="lbl">औज़ार T5 — SI सीधी रेखा, CI गुणक-शृंखला:</span> साधारण ब्याज (SI) हर साल <b>पहली रकम पर</b> एक ही r% = Pr/100 — सीधी रेखा। चक्रवृद्धि ब्याज (CI) हर साल <b>मौजूदा पूरी रकम पर</b> r% — यानी वही गुणक वाला खेल (भाग 1 का F3): A = P(1+r/100)ⁿ। आबादी बढ़ना CI ही है नए कपड़ों में; कीमत गिरना (depreciation) ऋणात्मक r वाला CI।</p>
+<div class="ratta"><b>छोटी रटने वाली सूची (भाग 2 के लिए):</b> 1.1ⁿ → 1.21, 1.331 • 1.05ⁿ → 1.1025, 1.157625 • 1.04ⁿ → 1.0816, 1.124864 • वर्ग 21–30 • √2 ≈ 1.414, √3 ≈ 1.732। बाकी सब खुद बनाओ।</div>
+
+<div class="khand">खंड R — अनुपात और समानुपात के मॉडल (R1–R8)</div>
+
+<div class="model">मॉडल R1 — रकम बाँटना (जोड़े वाले अनुपात समेत) — सबसे ज्यादा इस्तेमाल होने वाला</div>
+<p><span class="lbl">हर रूप में चलने वाला तरीका:</span> कुल ÷ (सारे हिस्सों का जोड़) × अपना हिस्सा।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>₹1,488 को X, Y, Z में बाँटा गया; X:Y = 4:5, Y:Z = 7:6 ⇒ Z को कितना मिला?</p>
+<div class="sol"><span class="lbl">हल:</span> Y को दोनों जगह बराबर करो: Y = 35 ⇒ X:Y:Z = 28:35:30 (जोड़ 93) ⇒ Z = 1488 × 30/93 = <span class="ansline">₹480</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>राम:श्याम = 3:4, श्याम:घनश्याम = 5:6 ⇒ राम:घनश्याम = ?</p>
+<div class="sol"><span class="lbl">हल:</span> श्याम = 20 ⇒ 15:20:24 ⇒ <span class="ansline">15:24 = 5:8</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>P कुल का 1/5 लगाता है, Q कुल का 1/4 ⇒ P:Q:R = ?</p>
+<div class="sol"><span class="lbl">हल:</span> R का हिस्सा = 1 − 1/5 − 1/4 = 11/20 ⇒ 1/5 : 1/4 : 11/20 = (×20) = <span class="ansline">4 : 5 : 11</span></div></div>
+<div class="caution"><b>सावधानी:</b> जोड़े वाले सवालों में सिर्फ बीच वाले को बराबर करना है — पूरी LCM-मशीन नहीं चलानी।</div>
+
+<div class="model">मॉडल R2 — अनुपातों की तुलना (सबसे बड़ा कौन?)</div>
+<p><span class="lbl">समझो:</span> a/b बनाम c/d — आड़ा गुणा करके तुलना करो (ad बनाम bc) या दशमलव में बदल लो।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>3:4, 5:8, 1:2, 6:9 में सबसे बड़ा कौन-सा?</p>
+<div class="sol"><span class="lbl">हल:</span> 0.75, 0.625, 0.5, 0.667 ⇒ <span class="ansline">3:4</span></div></div>
+<div class="caution"><b>सावधानी:</b> 6:9 = 2:3 ≈ 0.67 — "बड़े नंबर = बड़ा अनुपात" नहीं होता। छोटा करके देखो।</div>
+
+<div class="model">मॉडल R3 — खर्च का अनुपात + दाम बदलना (भाग 1 से जोड़)</div>
+<p><span class="lbl">समझो:</span> माल की मात्रा वही रही, दाम बदला ⇒ नया खर्च-अनुपात = मात्रा × (1 + दाम-बदलाव)। कुल बदलाव = (नया जोड़ − पुराना जोड़)/पुराना जोड़।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>गेहूँ:सब्ज़ी:तेल का खर्च 12:8:5; दाम 50%, 25%, 40% बढ़े। कुल खर्च में % बदलाव?</p>
+<div class="sol"><span class="lbl">हल:</span> नया अनुपात = 12×1.5 : 8×1.25 : 5×1.4 = 18:10:7 (जोड़ 35); पुराना जोड़ 25 ⇒ <span class="ansline">+40%</span> (मात्रा वही, दाम बदला)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>P:Q = 1:2, Q:R = 3:2; P का 1/3, P के आधे से ₹4,400 कम है ⇒ Q की कमाई?</p>
+<div class="sol"><span class="lbl">हल:</span> P/3 = P/2 − 4400 ⇒ P/6 = 4400 ⇒ P = 26,400 ⇒ Q = 2P = <span class="ansline">₹52,800</span></div></div>
+<div class="caution"><b>सावधानी:</b> "P का 1/3" बनाम "P का 1/2" — दोनों P पर हैं, Q पर नहीं। शब्द-दर-शब्द पढ़ो।</div>
+
+<div class="model">मॉडल R4 — दो संख्याएँ: अनुपात + एक जैसा जोड़ ⇒ नया अनुपात</div>
+<p><span class="lbl">समझो:</span> (ak + x)/(bk + x) = c/d लिखो — एक सीधा समीकरण, 5 सेकंड में हल। <b>अंदरूनी सच:</b> दोनों में एक जैसी चीज़ जोड़ने से अनुपात <b>1 की तरफ</b> जाता है — फर्क वही रहता है पर संख्याएँ बड़ी हो जाती हैं। इसी से जवाब की जाँच कर लो।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>दो संख्याएँ 9:16 में हैं; दोनों में 40 जोड़ने पर 2:3 हो जाती हैं। फर्क = ?</p>
+<div class="sol"><span class="lbl">हल:</span> (9k+40)/(16k+40) = 2/3 ⇒ 27k+120 = 32k+80 ⇒ k = 8 ⇒ 72, 128 ⇒ फर्क = <span class="ansline">56</span></div></div>
+<p><span class="lbl">उल्टा रूप (2020):</span> "दो संख्याएँ तीसरी से 35% और 50% कम; दूसरी को कितने % बढ़ाएँ = पहली?" — 65:50 ⇒ 15/50 = <b>30%</b> (भाग 1 के A15 का अनुपात-रूप)</p>
+
+<div class="model">मॉडल R5 — सिक्के / नोटों के मान</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018)</span>
+<p>₹1, 50 पैसे और 25 पैसे के सिक्के बराबर संख्या में हैं; कुल ₹105। हर तरह के कितने सिक्के?</p>
+<div class="sol"><span class="lbl">हल:</span> "बराबर संख्या" = एक सेट बनाओ: सेट की कीमत = 1 + 0.5 + 0.25 = ₹1.75 ⇒ सेट = 105/1.75 = <span class="ansline">60</span></div></div>
+<p><span class="lbl">तरीका:</span> बराबर संख्या देखो ⇒ एक सेट की कीमत निकालो ⇒ भाग दो। कोई सूत्र नहीं।</p>
+
+<div class="model">मॉडल R6 — समानुपाती (तीसरा / चौथा / मध्य) — SSC का प्रिय ⭐</div>
+<p><span class="lbl">समझो:</span> तीनों T2 की एक ही बराबरी (ad = bc) से निकलते हैं — नाम अलग, गुणा एक:</p>
+<div class="sutra"><div class="cap">तीन नाम, एक जड़</div>
+तीसरा समानुपाती (a, b का): b : x की जगह a : b :: b : x ⇒ <b>x = b²/a</b><br>
+चौथा समानुपाती (a, b, c का): <b>x = bc/a</b> • मध्य समानुपाती (a, b के बीच): <b>x = √(ab)</b>
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>15 और 120 का तीसरा समानुपाती?</p>
+<div class="sol"><span class="lbl">हल:</span> 120²/15 = 120 × 8 (पहले 120/15 = 8 काटो) = <span class="ansline">960</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>3 और 27 के बीच मध्य समानुपाती?</p>
+<div class="sol"><span class="lbl">हल:</span> √81 = <span class="ansline">9</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>27 और 18 का तीसरा समानुपाती?</p>
+<div class="sol"><span class="lbl">हल:</span> 18²/27 = 324/27 = <span class="ansline">12</span> (ध्यान: बाद वाली संख्या का वर्ग — 27²/18 नहीं)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>x को 7, 11, 18, 23 में जोड़ने पर चारों समानुपात में हो जाते हैं। x = ?</p>
+<div class="sol"><span class="lbl">हल:</span> (7+x)(23+x) = (11+x)(18+x) ⇒ 161+30x = 198+29x ⇒ <span class="ansline">x = 37</span>
+<div class="srcnote">[स्रोत अस्पष्ट] आगे का भाग (मध्य समानुपाती वाला) OCR में कटा है; ढाँचा यही है — पहले x, फिर √(गुणनफल)।</div></div></div>
+<div class="caution"><b>सावधानी:</b> "तीसरा समानुपाती" में <b>बाद वाली</b> संख्या का वर्ग ऊपर जाता है (b²/a) — 27, 18 का उत्तर 12 है, 40.5 नहीं।</div>
+
+<div class="model">मॉडल R7 — उम्र के सवाल — 5 उप-मॉडल ⭐</div>
+<p><span class="lbl">समझो:</span> उम्र के सवाल = 2 सीधे समीकरण बनाने का खेल। दो हथियार: (1) "x साल पहले/बाद" ⇒ दोनों की उम्र में <b>एक जैसा</b> x जुड़ता/घटता है — इसलिए <b>उम्रों का फर्क हमेशा कभी नहीं बदलता</b>। (2) "A, B का n गुना" ⇒ वह बात <b>उसी वक्त</b> की उम्रों पर लगती है जिस वक्त की बात हो रही है।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024) — उप-मॉडल (क): अनुपात + स्थिर फर्क</span>
+<p>2000 में मोनू बहन का 3 गुना था। 2010 में मोनू बहन से 24 साल बड़ा है। मोनू की उम्र 2010 में?</p>
+<div class="sol"><span class="lbl">हल:</span> फर्क हमेशा 24 ही है। 2000 में: M = 3S और M − S = 24 ⇒ 2S = 24 ⇒ S = 12, M = 36 ⇒ 2010 में = 36+10 = <span class="ansline">46</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024) — उप-मॉडल (ख): दो वक्त, दो बातें</span>
+<p>4 साल पहले रवि, काव्या का 4 गुना था। 7 साल बाद रवि काव्या का 3 गुना होगा। अब दोनों की उम्रों का जोड़?</p>
+<div class="sol"><span class="lbl">हल:</span> R−4 = 4(K−4); R+7 = 3(K+7) ⇒ R = 4K−12 और R = 3K+14 ⇒ K = 26, R = 92 ⇒ जोड़ = <span class="ansline">118</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024) — उप-मॉडल (ग): गुना घटना (3× → 2×)</span>
+<p>पिता अभी बेटी का 3 गुना है; 10 साल बाद 2 गुना होगा। बेटी की अभी की उम्र?</p>
+<div class="sol"><span class="lbl">हल:</span> F = 3D; F+10 = 2(D+10) ⇒ 3D+10 = 2D+20 ⇒ <span class="ansline">D = 10</span><br><b>गहराई:</b> दोनों की उम्र बढ़ती है पर फर्क वही रहता है — इसीलिए गुना हमेशा गिरता है (3× से 2×)। उल्टा दिखे तो समीकरण जाँचो।</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024) — उप-मॉडल (घ): जोड़/फर्क दिया हो</span>
+<p>पिता मुझसे 25 साल बड़ा है। 5 साल पहले दोनों की उम्रों का जोड़ 39 था। मेरी उम्र?</p>
+<div class="sol"><span class="lbl">हल:</span> (x−5) + (x+25−5) = 39 ⇒ 2x+15 = 39 ⇒ <span class="ansline">x = 12</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024) — उप-मॉडल (ङ): दोगुना/आधा वाली भाषा</span>
+<p>10 साल बाद पिता बेटे का 2 गुना; 10 साल पहले 6 गुना था। 10 साल पहले दोनों का जोड़?</p>
+<div class="sol"><span class="lbl">हल:</span> F+10 = 2(S+10); F−10 = 6(S−10) ⇒ S = 15, F = 40 ⇒ 10 साल पहले का जोड़ = 30+5 = <span class="ansline">35</span></div></div>
+<div class="caution"><b>सावधानी:</b> (1) "10 साल पहले पिता की उम्र थी…" — 10 घटाना <b>उसी</b> उम्र में है। (2) "10 साल पहले का जोड़" बनाम "अभी का जोड़" — दोनों अलग माँगे जाते हैं। (3) "गुना" हमेशा उसी वक्त का है जिसकी बात चल रही है।</div>
+
+<div class="model">मॉडल R8 — अनुपात-निर्भरता (सीधी/उलटी)</div>
+<p><span class="lbl">समझो:</span> सीधी निर्भरता (direct) = अनुपात स्थिर (y/x = k); उलटी निर्भरता (inverse) = गुणनफल स्थिर (xy = k)। k निकालो, लगा दो।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>A के नंबर अभ्यास के समय पर सीधे निर्भर हैं। 6 घंटे → 70 नंबर। 90 नंबर के लिए लगभग कितने घंटे?</p>
+<div class="sol"><span class="lbl">हल:</span> 70/6 = 90/t ⇒ t = 540/70 ≈ <span class="ansline">7.7 घंटे</span></div></div>
+
+<div class="khand">खंड V — औसत के मॉडल (V1–V6)</div>
+
+<div class="model">मॉडल V1 — बुनियादी जोड़ ÷ गिनती + गायब सदस्य</div>
+<p><span class="lbl">समझो:</span> जोड़ = n × औसत। किसी एक का मान चाहिए तो: उसका मान = पूरा जोड़ − बाकियों का जोड़।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>टीम (10 खिलाड़ी + कप्तान) का औसत 32। खिलाड़ियों के स्कोर: 22, 11, 5, 34, 21, 32, 0, 28, 9, 53। कप्तान का स्कोर?</p>
+<div class="sol"><span class="lbl">हल:</span> जोड़ = 11×32 = 352; खिलाड़ियों का जोड़ = 215 ⇒ कप्तान = <span class="ansline">137</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>अभय+पत्नी+बच्चे का औसत 6 साल पहले 42 था; पत्नी+बच्चे का औसत 8 साल पहले 30 था। अभय की अभी की उम्र?</p>
+<div class="sol"><span class="lbl">हल:</span> 3 का जोड़ (6 साल पहले) = 126 ⇒ अब = 126 + 3×6 = 144; 2 का जोड़ (8 साल पहले) = 60 ⇒ अब = 60 + 2×8 = 76 ⇒ अभय = 144−76 = <span class="ansline">68</span></div></div>
+<div class="caution"><b>सावधानी:</b> "x साल पहले का औसत" से आज लौटने के लिए <b>हर सदस्य</b> को +x करना है — एक को नहीं। यही इस सवाल की चाल है।</div>
+
+<div class="model">मॉडल V2 — जोड़ना / निकालना / बदलना (औसत का उछाल) ⭐</div>
+<p><span class="lbl">समझो (T4 का असली इस्तेमाल):</span> नया सदस्य आया और औसत Δ से हिला ⇒ उसने बराबरी भरकर <b>ऊपर से ढेर सारा</b> लाया है:</p>
+<div class="sutra"><div class="cap">औसत-उछाल के नियम</div>
+<b>शामिल:</b> नया सदस्य = पुराना औसत + (n+1)×Δ &nbsp;•&nbsp; <b>निकाला:</b> निकला सदस्य = पुराना औसत + n×Δ (औसत गिरा तो घटाकर)<br>
+<b>बदलना</b> (a की जगह b): गिनती वही रहती है ⇒ <b>b − a = n×Δ</b>
+</div>
+<p><b>क्यों:</b> 36 बच्चों का औसत 14 है; मास्टर आया और 37 का औसत 15 हो गया — मास्टर ने 37वें सदस्य के लिए 15 तो दिया ही, साथ में 36 बच्चों को हर एक को 1-1 साल ऊपर खींचने के लिए 36 और दिए ⇒ 15 + 36 = 51।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>36 छात्रों का औसत 14; मास्टर को जोड़ने पर औसत 15। मास्टर की उम्र?</p>
+<div class="sol"><span class="lbl">हल:</span> T = 14 + 37×1 = <span class="ansline">51</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (क्लासिक, 2022-युग)</span>
+<p>15 संख्याओं का औसत 53; एक हटाने पर 14 का औसत 55। कौन-सी संख्या हटी?</p>
+<div class="sol"><span class="lbl">हल:</span> हटी संख्या = 53×15 − 55×14 = 795−770 = <span class="ansline">25</span> (जोड़ का फर्क ही उसकी वैल्यू है)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>3 छात्रों का औसत 55। 2 और जुड़े ⇒ औसत 50 (−5)। B, A से 15 ज्यादा है। A?</p>
+<div class="sol"><span class="lbl">हल:</span> A+B = 5×50 − 3×55 = 85; B = A+15 ⇒ 2A+15 = 85 ⇒ <span class="ansline">A = 35</span></div></div>
+<div class="caution"><b>सावधानी:</b> पूरे जोड़ निकालने की जल्दी मत करो — सिर्फ <b>बदलाव × गिनती</b> वाला हिस्सा काफी है। बदलने (replace) में गुणक n है, n+1 नहीं — गिनती बराबर रहती है।</div>
+
+<div class="model">मॉडल V3 — दो टोलियों का वज़नदार औसत</div>
+<p><span class="lbl">समझो:</span> कुल औसत = (n₁A₁ + n₂A₂)/(n₁+n₂) — यही <b>मिश्रण-नियम (alligation)</b> का बिना-नाम वाला रूप है (भाग 9 से जुड़ता है): औसत के दोनों तरफ की दूरियाँ उल्टे अनुपात में गिनती बताती हैं।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>आदमी:औरतें = 2:3; औसत वजन 56, 51 kg। पूरे दफ्तर का औसत?</p>
+<div class="sol"><span class="lbl">हल:</span> (2×56 + 3×51)/5 = 265/5 = <span class="ansline">53 kg</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>सब कर्मचारियों का औसत वेतन ₹8,850; 9 तकनीशियनों का ₹10,000; बाकी नौकरों का ₹7,700। कुल कर्मचारी?</p>
+<div class="sol"><span class="lbl">हल:</span> औसत के दोनों तरफ दूरी: 8850−7700 = 1150 और 10000−8850 = 1150 ⇒ गिनती 1:1 ⇒ नौकर 9 ⇒ कुल = <span class="ansline">18</span></div></div>
+
+<div class="model">मॉडल V4 — औसतों का औसत (वज़न वाला जाल)</div>
+<p><span class="lbl">समझो:</span> दो टोलियों के औसत मिलाना है तो <b>गिनती से वज़न</b> लगाओ — सीधा (49+27)/2 करना तभी सही है जब दोनों की गिनती बराबर हो।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>बल्लेबाज़ का 7 मैचों का औसत 49, 9 मैचों का 27 ⇒ 16 मैचों का औसत?</p>
+<div class="sol"><span class="lbl">हल:</span> (7×49 + 9×27)/16 = (343+243)/16 = <span class="ansline">36.625</span> — (49+27)/2 = 38 गलत</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>12 महीनों के वेतन: ₹12,000×3, ₹15,000×3, ₹21,000×3, ₹30,000×3 ⇒ औसत?</p>
+<div class="sol"><span class="lbl">हल:</span> गिनती बराबर (3-3-3-3) ⇒ सीधा औसत = (12+15+21+30)/4 = <span class="ansline">₹19,500</span></div></div>
+
+<div class="model">मॉडल V5 — लगातार संख्याएँ (AP)</div>
+<p><span class="lbl">समझो:</span> लगातार संख्याएँ संतुलित होती हैं — ऊपर-नीचे की चीज़ें एक-दूसरे को काट देती हैं ⇒ <b>औसत = बीच वाली संख्या</b>। पहली n प्राकृतिक संख्याओं का औसत = (n+1)/2 (जोड़ी बनाओ: 1+n, 2+(n−1)… सबका जोड़ n+1)।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>m से शुरू होने वाली 5 लगातार प्राकृतिक संख्याओं का औसत?</p>
+<div class="sol"><span class="lbl">हल:</span> बीच वाली = <span class="ansline">m+2</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2020)</span>
+<p>4 लगातार सम संख्याओं का औसत 27। कौन-सी जोड़ें कि औसत 28 हो जाए?</p>
+<div class="sol"><span class="lbl">हल:</span> V2 वाला नियम: नई संख्या = नया औसत + n×Δ = 28 + 4×1 = <span class="ansline">32</span> (जाँच: 140−108 = 32 ✓)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>10 लगातार संख्याएँ; दो बीच वालों का औसत 13.5। पहली 6 का जोड़?</p>
+<div class="sol"><span class="lbl">हल:</span> संख्याएँ 9–18 ⇒ 9+10+11+12+13+14 = <span class="ansline">69</span></div></div>
+
+<div class="model">मॉडल V6 — औसत चाल — दो अलग दुनिया ⭐⭐ (गति का दरवाज़ा)</div>
+<p><span class="lbl">समझो:</span> औसत चाल = <b>कुल दूरी ÷ कुल समय</b> — चालों का औसत नहीं! समय हर हिस्से का अलग लगता है:</p>
+<div class="sutra"><div class="cap">दो मामले</div>
+<b>समय बराबर</b> (3h, 4h, 5h अलग-अलग चाल) ⇒ सीधा औसत: Σ(vᵢtᵢ)/Σtᵢ<br>
+<b>दूरी बराबर</b> (हर हिस्सा D km) ⇒ हर का उल्टा: avg = n ÷ (1/v₁ + 1/v₂ + …) — <b>हर्मोनिक</b>
+</div>
+<p><b>हर्मोनिक क्यों:</b> धीमे हिस्से में समय ज्यादा जाता है, इसलिए धीमी चाल का वज़न ज्यादा — औसत हमेशा सीधे औसत से नीचे आता है (80 और 60 का आना-जाना = 68.57, 70 नहीं)।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>तीन बराबर हिस्से 80, 60, 30 km/h से ⇒ औसत चाल?</p>
+<div class="sol"><span class="lbl">हल:</span> 3 ÷ (1/80 + 1/60 + 1/30) = 3 ÷ (3+4+8)/240 = 3×240/15 = <span class="ansline">48 km/h</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>3h @60, 4h @50, 5h @50 ⇒ औसत?</p>
+<div class="sol"><span class="lbl">हल:</span> (180+200+250)/12 = <span class="ansline">52.5</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>100-100 km के तीन हिस्से 200, 300, 600 km/h से ⇒ औसत?</p>
+<div class="sol"><span class="lbl">हल:</span> 300 ÷ (0.5 + 1/3 + 1/6) = 300/1 = <span class="ansline">300 km/h</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>यात्रा का 1/3 हिस्सा @10, 1/4 @15, बाकी @20 ⇒ औसत चाल?</p>
+<div class="sol"><span class="lbl">हल:</span> लंबाई 60 लो (12 का ल.सा.): हिस्से = 20, 15, 25 km; समय = 2+1+1.25 = 4.25 ⇒ 60/4.25 = <span class="ansline">240/17 km/h</span></div></div>
+<div class="caution"><b>सावधानी:</b> चालों का सीधा औसत तभी सही है जब <b>समय</b> बराबर हो। दूरी बराबर हो तो हर्मोनिक — हमेशा।</div>
+
+<div class="khand">खंड I — ब्याज के मॉडल (I1–I11)</div>
+
+<div class="model">मॉडल I1 — SI की बुनियाद — एक समीकरण, तीन अनजान</div>
+<div class="sutra"><div class="cap">सूत्र</div>
+SI = P × r × t/100 — हर सवाल इन 4 में से 3 देता है, चौथी माँगता है
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>₹450 पर 4.5% सालाना SI से कितने साल में ₹81 ब्याज होगा?</p>
+<div class="sol"><span class="lbl">हल:</span> t = 81×100/(450×4.5) = <span class="ansline">4 साल</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>₹4,400 @10% + ₹7,500 @8% SI, 12 साल ⇒ कुल मिश्रधन?</p>
+<div class="sol"><span class="lbl">हल:</span> 4400×2.2 = 9,680; 7500×1.96 = 14,700 ⇒ <span class="ansline">₹24,380</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2024)</span>
+<p>8 साल का SI रकम के 4/5 के बराबर है। दर?</p>
+<div class="sol"><span class="lbl">हल:</span> r×t = 100 × भिन्न ⇒ r×8 = 100×4/5 = 80 ⇒ <span class="ansline">r = 10%</span><br><b>तरकीब:</b> "SI = रकम का भिन्न" देखते ही P कट जाता है — r×t = 100×भिन्न।</div></div>
+
+<div class="model">मॉडल I2 — रकम n गुना हो गई (SI)</div>
+<div class="sutra"><div class="cap">निकला हुआ सूत्र</div>
+रकम n गुना ⇒ SI = (n−1)P ⇒ <b>r × t = 100(n−1)</b> — P हमेशा कट जाता है
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2020)</span>
+<p>16% SI से रकम 5 गुना हो गई। समय?</p>
+<div class="sol"><span class="lbl">हल:</span> rt = 400 ⇒ t = 400/16 = <span class="ansline">25 साल</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>25 साल में रकम 3 गुनी ⇒ दर?</p>
+<div class="sol"><span class="lbl">हल:</span> rt = 200 ⇒ <span class="ansline">r = 8%</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>₹3,000 → ₹6,000; r और t संख्या में बराबर। r?</p>
+<div class="sol"><span class="lbl">हल:</span> rt = 100 और r = t ⇒ r² = 100 ⇒ <span class="ansline">r = t = 10</span></div></div>
+<div class="caution"><b>सावधानी:</b> "n गुना" में SI = (n−1)P होता है, nP नहीं। दोगुनी = ब्याज उतना ही जितनी रकम।</div>
+
+<div class="model">मॉडल I3 — टुकड़ों में दरें (पहले 3 साल 5%, फिर 2 साल 8%…)</div>
+<p><span class="lbl">समझो:</span> SI जुड़ने वाली चीज़ है — पूरा दर% = Σ(दरᵢ × सालᵢ)। एक लाइन बनाओ, P से गुणा करो।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>3 साल @5% + 2 साल @8%; कुल SI ₹7,750 ⇒ मूलधन?</p>
+<div class="sol"><span class="lbl">हल:</span> दर = 15+16 = 31% ⇒ P = 7750×100/31 = <span class="ansline">₹25,000</span>
+<div class="srcnote">[स्रोत अस्पष्ट] संख्याओं पर OCR-शोर की आशंका थी; तरीका पक्का: पहले कुल प्रतिशत बनाओ, फिर एक ही भाग।</div></div></div>
+
+<div class="model">मॉडल I4 — ज्यादा दर पर ज्यादा ब्याज</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>4 साल के लिए; दर 6% ज्यादा होती तो ₹5,700 ज्यादा मिलते। मूलधन?</p>
+<div class="sol"><span class="lbl">हल:</span> P × 6 × 4/100 = 5700 ⇒ <span class="ansline">P = ₹23,750</span>
+<div class="srcnote">[स्रोत अस्पष्ट] संख्याएँ OCR-समायोजित; तरीका: अतिरिक्त SI = P·x·t/100।</div></div></div>
+
+<div class="model">मॉडल I5 — दो रकमें, दर एक ही</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>₹12,000 पर 3 साल + ₹10,000 पर 4 साल, दर एक ही; कुल SI ₹6,080। दर?</p>
+<div class="sol"><span class="lbl">हल:</span> r(36000+40000)/100 = 6080 ⇒ 760r = 6080 ⇒ <span class="ansline">8%</span> (P×t वाले पद जोड़ो — r अकेला अनजान)</div></div>
+
+<div class="model">मॉडल I6 — दो हिस्सों में सौदा (मिश्रण-नियम का छुपा रूप)</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>₹30,000 दो हिस्सों में @8% और @9%; कुल सालाना SI ₹2,650 ⇒ पहला हिस्सा?</p>
+<div class="sol"><span class="lbl">हल:</span> मिश्रित दर = 2650/30000 = 8.833% ⇒ औसत के दोनों तरफ दूरी: (9 − 8.833) : (8.833 − 8) = 1/6 : 5/6 ⇒ 8% वाला हिस्सा = 30000 × 1/6 = <span class="ansline">₹5,000</span>
+<div class="srcnote">[स्रोत अस्पष्ट] OCR में संख्या-शक; विकल्प बिगड़े थे। तरीका: कुल दर निकालो, दूरियों से बाँटो।</div></div></div>
+
+<div class="model">मॉडल I7 — CI की बुनियाद — गुणक मशीन</div>
+<p><span class="lbl">समझो:</span> A = P(1+r/100)ⁿ। आगे जाना है तो गुणा, पीछे (मूलधन निकालना) तो भाग — गुणक-शृंखला में सफर।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>10% CI से 2 साल का CI ₹4,200 ⇒ मूलधन?</p>
+<div class="sol"><span class="lbl">हल:</span> P(1.21−1) = 4200 ⇒ <span class="ansline">P = ₹20,000</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>2 साल बाद के ₹13,230 का आज का मान (5% CI) = ?</p>
+<div class="sol"><span class="lbl">हल:</span> 13230 ÷ 1.1025 = <span class="ansline">₹12,000</span> (1.05² = 1.1025 — रटने वाली सूची से)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>2 साल बाद का ₹9,360 (@20% CI) — आज का मान?</p>
+<div class="sol"><span class="lbl">हल:</span> 9360 ÷ 1.44 = <span class="ansline">₹6,500</span> (1.2² = 1.44)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>₹3,20,000 → ₹4,05,000 @12.5% CI। समय?</p>
+<div class="sol"><span class="lbl">हल:</span> 405/320 = 1.265625 = (9/8)² (क्योंकि 12.5% = 1/8 ⇒ गुणक 9/8) ⇒ <span class="ansline">2 साल</span><br><b>तरकीब:</b> अनुपात को गुणक की घात में तोड़ो।</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>आबादी अभी 1,33,100; हर साल +10%。 2 साल पहले?</p>
+<div class="sol"><span class="lbl">हल:</span> 133100 ÷ 1.21 = <span class="ansline">1,10,000</span></div></div>
+
+<div class="model">मॉडल I8 — छमाही / तिमाही CI — SSC का प्रिय मोड़ ⭐⭐</div>
+<div class="sutra"><div class="cap">एक लाइन का नियम</div>
+"छमाही" का मतलब: <b>दर आधी, समय दोगुना</b> — गिनती की इकाई बदल गई: A = P(1 + r/200)^(2t)<br>
+तिमाही: दर ÷4, अवधियाँ ×4। सालाना दर देखकर धोखा मत खाओ — पहले अवधियाँ गिनो
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>₹10,000, 1.5 साल @20% सालाना, छमाही गणना। CI?</p>
+<div class="sol"><span class="lbl">हल:</span> 3 अवधियाँ @10%: 10000 × 1.331 = 13,310 ⇒ <span class="ansline">CI = ₹3,310</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>₹8,000 @20% सालाना छमाही, 1.5 साल ⇒ मिश्रधन?</p>
+<div class="sol"><span class="lbl">हल:</span> 8000 × 1.1³ = <span class="ansline">₹10,648</span> (= 8×11³ — 1.1³ = 1.331 तैयार रखो)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>₹40,000, 2 साल 6 महीने @20% छमाही। CI?</p>
+<div class="sol"><span class="lbl">हल:</span> 5 अवधियाँ @10%: 1.1⁵ = 1.61051 ⇒ CI = 40000×0.61051 = <span class="ansline">₹24,420.40</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>₹8,400, 1.5 साल @12% छमाही। CI?</p>
+<div class="sol"><span class="lbl">हल:</span> 3 अवधियाँ @6%: 1.06³ = 1.191016 ⇒ CI = <span class="ansline">₹1,604.50</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2022)</span>
+<p>10% सालाना CI = x% छमाही CI के बराबर। x?</p>
+<div class="sol"><span class="lbl">हल:</span> (1+x/100)² = 1.10 ⇒ x = (√1.1 − 1)×100 = <span class="ansline">4.88%</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2017 और 2018 — एक ही सवाल दोनों साल!)</span>
+<p>₹10,000 @18% — छमाही बनाम सालाना, 1 साल का अतिरिक्त ब्याज?</p>
+<div class="sol"><span class="lbl">हल:</span> सालाना: 1800; छमाही: 10000×1.09² − 10000 = 1881 ⇒ अतिरिक्त = <span class="ansline">₹81</span><br><b>गहराई:</b> अतिरिक्त = P(r/200)² — पहले छमाहे के ब्याज पर ब्याज लगा: 10000×0.0081 = 81।</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021) — घातें पहचानो</span>
+<p>₹3,90,625 → ₹4,56,976 @8% छमाही। समय?</p>
+<div class="sol"><span class="lbl">हल:</span> 25⁴ = 390625, 26⁴ = 456976 ⇒ अनुपात = (26/25)⁴ = (1.04)⁴ ⇒ 4 छमाहे = <span class="ansline">2 साल</span> (SSC जान-बूझकर साफ़ घातें चुनता है — पहचानना कला है)</div></div>
+<div class="caution"><b>सावधानी:</b> "1.5 साल @20%" देखकर 1.5 में गुणा मत करो — पहले अवधियाँ गिनो (3), फिर अवधि-दर (10%)।</div>
+
+<div class="model">मॉडल I9 — CI बनाम SI का फर्क</div>
+<div class="sutra"><div class="cap">निकले हुए सूत्र</div>
+2 साल: CI − SI = <b>Pr²/10000</b> (पहले साल के ब्याज पर ब्याज) &nbsp;•&nbsp; 3 साल: CI − SI = Pr²(300+r)/1000000<br>
+सुंदर तरकीब: <b>फर्क ÷ सालाना SI = r/100</b>
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>2 साल: CI = ₹550, SI = ₹500। दर?</p>
+<div class="sol"><span class="lbl">हल:</span> सालाना SI = 250; फर्क = 50 ⇒ r/100 = 50/250 ⇒ <span class="ansline">r = 20%</span> — कुछ भी बड़ा गुणा करने की जरूरत नहीं</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>CI − SI (3 साल, 4%) = ₹76 ⇒ मूलधन?</p>
+<div class="sol"><span class="lbl">हल:</span> P×16×304/10⁶ = 76 ⇒ P = <span class="ansline">₹15,625</span> (= 5⁶ — फिर वही: साफ़ घातें)
+<div class="srcnote">[स्रोत-टिप्पणी] OCR में 276 था; सत्यापित सही मान 76 है (गणना से पुष्टि)।</div></div></div>
+
+<div class="model">मॉडल I10 — साल-दर-साल ब्याज</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023)</span>
+<p>₹50,000 @10% CI। तीसरे साल का ब्याज?</p>
+<div class="sol"><span class="lbl">हल:</span> CI में ब्याज खुद बढ़ता है: साल1: 5,000; साल2: 5,500; साल3: <span class="ansline">₹6,050</span> = 50000 × 1.1² × 0.1</div></div>
+
+<div class="model">मॉडल I11 — किस्तें (उल्टा CI) — कठिन</div>
+<p><span class="lbl">समझो:</span> हर किस्त का <b>आज का मान</b> जोड़कर उधार के बराबर: x/(1+i) + x/(1+i)² = P (i = अवधि-दर)।</p>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2021)</span>
+<p>₹8,925 का भुगतान 2 बराबर छमाही किस्तों में @8% सालाना (छमाही गणना)। किस्त?</p>
+<div class="sol"><span class="lbl">हल:</span> i = 4%: x(1/1.04 + 1/1.0816) = 8925 ⇒ <span class="ansline">x ≈ ₹4,732</span> (जाँच: 4732/1.04 + 4732/1.0816 = 4550+4375 = 8925 ✓)</div></div>
+
+<div class="khand">खंड P — साझेदारी (P1–P3) — छोटा पर पक्का</div>
+<div class="sutra"><div class="cap">मूल नियम</div>
+लाभ ∝ <b>पूँजी × समय</b> (पैसा जितनी देर लगा रहा) ⇒ हिस्सों का अनुपात = C₁T₁ : C₂T₂
+</div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2023) — समय एक जैसा</span>
+<p>अनम:बिकाश = 3:2 पूँजी; अनम को ₹3,840 मिले। कुल लाभ?</p>
+<div class="sol"><span class="lbl">हल:</span> कुल = 3840 × 5/3 = <span class="ansline">₹6,400</span></div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018) — अलग समय पर जुड़ा</span>
+<p>लोकेश ₹2,40,000 से शुरू; 3 महीने बाद विशाल ₹2,10,000। साल के अंत में अनुपात?</p>
+<div class="sol"><span class="lbl">हल:</span> 240000×12 : 210000×9 = 288 : 189 = <span class="ansline">32 : 21</span> (महीनों में समय लिखो — सोच वही)</div></div>
+<div class="pyq"><span class="qsrc">वास्तविक PYQ (2018)</span>
+<p>U:V = 184000:224000; U का हिस्सा ₹20,700। कुल लाभ?</p>
+<div class="sol"><span class="lbl">हल:</span> कुल = 20700 × 408/184 = <span class="ansline">₹45,900</span></div></div>
+<div class="caution"><b>सावधानी:</b> "6 महीने बाद जुड़ा" — उसका समय 6 महीने, पहले वाले का 12। कभी उल्टा मत करना।</div>
+
+</div><!-- /cols -->
+
+<div class="wide">
+<div class="khand">भाग 2 — मुख्य सावधानियाँ</div>
+<table class="tbl">
+<tr><th style="width:6%">क्र.</th><th style="width:52%">सावधानी</th><th>उदाहरण</th></tr>
+<tr><td>1</td><td><b>उम्रों का फर्क कभी नहीं बदलता</b> — अनुपात बदलता है, फर्क नहीं</td><td>मोनू: 3× → फर्क 24 ही</td></tr>
+<tr><td>2</td><td>"n गुना" ⇒ SI = (n−1)P, nP नहीं</td><td>5 गुना @16% → 25 साल</td></tr>
+<tr><td>3</td><td>बराबर दूरी की औसत चाल = <b>हर्मोनिक</b>, सीधा औसत नहीं</td><td>80/60/30 → 48</td></tr>
+<tr><td>4</td><td>औसतों के औसत में <b>गिनती का वज़न</b> लगाओ</td><td>49 &amp; 27 → 36.625</td></tr>
+<tr><td>5</td><td>"x साल पहले का औसत" से आज: <b>हर सदस्य को +x</b></td><td>अभय = 68</td></tr>
+<tr><td>6</td><td>छमाही CI: <b>दर ÷2, अवधियाँ ×2</b> — "सालाना" शब्द धोखा देता है</td><td>20% → 3 @10%</td></tr>
+<tr><td>7</td><td>CI−SI (2 साल) = Pr²/10⁴; <b>फर्क ÷ सालाना SI = r/100</b></td><td>550/500 → 20%</td></tr>
+<tr><td>8</td><td>समानुपाती में क्रम मायने रखता है: तीसरा = b²/a</td><td>27, 18 → 12</td></tr>
+<tr><td>9</td><td>एक जैसा जोड़: संख्याएँ 1 की तरफ जाती हैं (फर्क स्थिर)</td><td>9:16 +40 → 2:3</td></tr>
+<tr><td>10</td><td>खर्च-बदलाव में <b>मात्रा वही</b> रहती है, दाम बदलता है</td><td>12:8:5 → +40%</td></tr>
+<tr><td>11</td><td>शामिल: +(n+1)×Δ; <b>बदलने में सिर्फ n×Δ</b> (गिनती वही)</td><td>V2</td></tr>
+<tr><td>12</td><td>12.5% = 1/8 ⇒ गुणक 9/8 — अनुपात को घात में तोड़ो</td><td>(9/8)² = 2 साल</td></tr>
+</table>
+</div><!-- /wide -->
+
+<div class="wide">
+<div class="khand">भाग 2 का संदर्भ-बोर्ड — भिन्न↔प्रतिशत + चक्रवृद्धि-एंकर (रटने योग्य, बाकी सब बनाओ)</div>
+<table class="tbl">
+<tr><th style="width:22%">भिन्न</th><th style="width:14%">%</th><th style="width:14%">गुणक</th><th style="width:26%">CI-एंकर</th><th>मान</th></tr>
+<tr><td>1/6</td><td>16.67%</td><td>7/6</td><td>1.1²</td><td>1.21</td></tr>
+<tr><td>1/7</td><td>14.28%</td><td>8/7</td><td>1.1³</td><td>1.331</td></tr>
+<tr><td>1/8</td><td>12.5%</td><td>9/8</td><td>1.05²</td><td>1.1025</td></tr>
+<tr><td>1/9</td><td>11.11%</td><td>10/9</td><td>1.05³</td><td>1.157625</td></tr>
+<tr><td>1/11</td><td>9.09%</td><td>12/11</td><td>1.04²</td><td>1.0816</td></tr>
+<tr><td>1/12</td><td>8.33%</td><td>13/12</td><td>1.04³</td><td>1.124864</td></tr>
+</table>
+<p style="margin:4pt 0"><span class="lbl">कैसे इस्तेमाल करो:</span> भिन्न-वाले सवाल (मान लो 12.5% का CI-प्रश्न) में गुणक घात में लगाओ — (9/8)ⁿ सीधे अनुपात देता है; बाकी भिन्न 100÷n से खुद बनाओ (1/5 = 20%, 1/4 = 25%…)। CI-एंकर छमाही/तिमाही दरों के लिए पहले दर ÷2 या ÷4 करके लगाओ।</p>
+</div><!-- /wide -->
+
+<div class="wide" style="break-before:page">
+<div class="khand">भाग 2 — एक नज़र में (पहचानो → तरीका)</div>
+<table class="tbl">
+<tr><th style="width:9%">मॉडल</th><th style="width:49%">सवाल में क्या दिखेगा</th><th>एक-लाइन तरीका</th></tr>
+<tr><td>R1</td><td>रकम a:b ((:c)) में बाँटो</td><td>कुल ÷ जोड़ × हिस्सा; जोड़े में बीच वाला बराबर करो</td></tr>
+<tr><td>R2</td><td>कौन-सा अनुपात बड़ा/छोटा</td><td>आड़ा गुणा या दशमलव</td></tr>
+<tr><td>R3</td><td>खर्च-अनुपात + दाम % बदला</td><td>मात्रा × गुणक; जोड़ों का फर्क</td></tr>
+<tr><td>R4</td><td>अनुपात + दोनों में एक जैसा जोड़</td><td>(ak+x)/(bk+x) = c/d ⇒ k</td></tr>
+<tr><td>R5</td><td>बराबर संख्या में सिक्के/नोट</td><td>एक सेट की कीमत ÷ कुल</td></tr>
+<tr><td>R6</td><td>तीसरा/चौथा/मध्य समानुपाती</td><td>b²/a • bc/a • √(ab)</td></tr>
+<tr><td>R7</td><td>उम्र: गुना, साल पहले/बाद</td><td>फर्क स्थिर; गुना उसी वक्त का; 2 समीकरण</td></tr>
+<tr><td>R8</td><td>सीधी/उलटी निर्भरता</td><td>y/x = k या xy = k</td></tr>
+<tr><td>V1</td><td>औसत दिया, एक सदस्य गायब</td><td>जोड़ = n×avg; फर्क निकालो</td></tr>
+<tr><td>V2</td><td>जोड़ने/हटाने/बदलने से औसत हिला</td><td>नया = औसत + (n+1)Δ; बदले में nΔ</td></tr>
+<tr><td>V3</td><td>दो टोलियों का मिला औसत</td><td>वज़नदार औसत; दूरियाँ उलटा अनुपात</td></tr>
+<tr><td>V4</td><td>औसतों का औसत</td><td>गिनती से वज़न; बराबर हो तभी सीधा</td></tr>
+<tr><td>V5</td><td>लगातार संख्याएँ</td><td>औसत = बीच वाली; (n+1)/2</td></tr>
+<tr><td>V6</td><td>औसत चाल</td><td>कुल दूरी ÷ कुल समय; दूरी बराबर ⇒ हर्मोनिक</td></tr>
+<tr><td>I1</td><td>SI के 3 में से कुछ दिए</td><td>SI = Prt/100</td></tr>
+<tr><td>I2</td><td>SI में रकम n गुनी</td><td>rt = 100(n−1)</td></tr>
+<tr><td>I3</td><td>अलग-अलग सालों पर अलग दर</td><td>कुल % = Σ(दर×साल)</td></tr>
+<tr><td>I4</td><td>दर x% ज्यादा होती तो y ज्यादा मिलते</td><td>P = y×100/(x·t)</td></tr>
+<tr><td>I5</td><td>दो रकमें, दर एक, कुल SI</td><td>P×t के पद जोड़ो</td></tr>
+<tr><td>I6</td><td>दो हिस्सों पर अलग दर, कुल ब्याज</td><td>मिश्रित दर + दूरी-बँटवारा</td></tr>
+<tr><td>I7</td><td>CI: मूलधन/समय/मिश्रधन</td><td>गुणक-शृंखला; अनुपात को घात में तोड़ो</td></tr>
+<tr><td>I8</td><td>छमाही/तिमाही गणना</td><td>दर ÷m, अवधियाँ ×m</td></tr>
+<tr><td>I9</td><td>CI − SI का फर्क</td><td>2 साल: Pr²/10⁴; फर्ख÷SI = r/100</td></tr>
+<tr><td>I10</td><td>kवें साल का CI</td><td>पहले साल का ब्याज × (1+r)^(k−1)</td></tr>
+<tr><td>I11</td><td>किस्तों में भुगतान</td><td>किस्तों के आज-मान का जोड़ = उधार</td></tr>
+<tr><td>P1</td><td>बराबर समय की साझेदारी</td><td>लाभ ∝ पूँजी</td></tr>
+<tr><td>P2</td><td>अलग समय पर जुड़ी पूँजी</td><td>C₁T₁ : C₂T₂</td></tr>
+<tr><td>P3</td><td>एक का हिस्सा दिया, कुल माँगा</td><td>हिस्सा × (कुल अनुपात/अपना अनुपात)</td></tr>
+</table>
+</div><!-- /wide -->
+</section>

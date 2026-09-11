@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@id/madView2">
+        <androidx.appcompat.widget.Toolbar android:id="@id/toolbar" android:background="?colorPrimary" android:layout_width="match_parent" android:layout_height="?actionBarSize" app:titleTextColor="@android:color/white" />
+        <Button android:id="@+id/zipDownloadBtn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="12.0dp" android:layout_marginRight="12.0dp" android:layout_marginTop="8.0dp" android:layout_marginBottom="4.0dp" android:padding="12dp" android:text="📦 Download All as ZIP" android:textColor="#ffffff" android:textSize="15.0sp" android:textStyle="bold" android:backgroundTint="@color/colorSecondary" android:onClick="onZipButtonClick" />
+        <FrameLayout android:id="@id/shimmerContainer" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include layout="@layout/shimmer_item" />
+        </FrameLayout>
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/recyclerView8" android:padding="8.0dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent" />
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView android:orientation="horizontal" android:id="@id/madView2" android:background="#2a2a2a" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:elevation="8.0dp" app:adSize="BANNER" app:adUnitId="@string/banner_ads" />
+</RelativeLayout>

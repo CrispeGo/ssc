@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SSC CHSL गणित — प्रश्न-तर्क मास्टर पुस्तक</title>
+<style>
+:root{--ink:#1c1c1c;--acc:#17456e;--line:#9a9a9a;--warn:#b06a2c}
+*{box-sizing:border-box}
+html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body{margin:0;background:#e9e9e9;color:var(--ink);font-family:"Noto Sans Devanagari","Lohit Devanagari","Nirmala UI","Mangal","Noto Sans","DejaVu Sans",sans-serif;font-size:14.5px;line-height:1.6}
+.book{max-width:206mm;margin:0 auto;background:#fff;box-shadow:0 0 8px rgba(0,0,0,.28)}
+/* ---- toolbar (केवल स्क्रीन) ---- */
+.toolbar{position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid #bbb;display:flex;align-items:center;gap:12px;padding:8px 14px;max-width:206mm;margin:0 auto;flex-wrap:wrap}
+.tb-name{font-weight:700;font-size:13px;color:var(--acc);white-space:nowrap}
+.tb-nav{display:flex;gap:4px;flex-wrap:wrap;flex:1}
+.navbtn{font-size:11.5px;padding:3px 8px;border:1px solid #bbb;border-radius:3px;color:#22507e;text-decoration:none;cursor:pointer;background:#fff}
+.navbtn.active{background:var(--acc);color:#fff;border-color:var(--acc)}
+.navbtn.soon{color:#9a9a9a;cursor:default;background:#f3f3f3}
+.printbtn{font-family:inherit;font-size:12.5px;font-weight:700;color:#fff;background:var(--acc);border:none;border-radius:3px;padding:6px 14px;cursor:pointer;white-space:nowrap}
+/* ---- पुस्तक तत्व ---- */
+.part{padding:12mm 14mm 10mm}
+.part-title{font-size:20px;color:var(--acc);border-bottom:2.5px solid var(--acc);padding-bottom:6px;margin:2px 0 4px;line-height:1.4}
+.part-sub{font-size:12.5px;color:#555;margin:0 0 10px}
+.khand{font-size:16px;color:var(--acc);border-bottom:1.2px solid var(--acc);padding-bottom:3px;margin:16px 0 8px}
+.model{font-size:14.2px;color:#111;border-left:3.5px solid var(--acc);padding-left:8px;margin:13px 0 6px;line-height:1.45}
+.lbl{font-weight:700;color:var(--acc)}
+.cols{column-count:2;column-gap:7mm;column-rule:.5px solid #b9b9b9}
+.wide{column-span:all}
+p{margin:4px 0;text-align:justify}
+.pyq{background:#f8f8f5;border:.7px solid #aaa;padding:6px 9px;margin:6px 0;break-inside:avoid;font-size:.97em}
+.qsrc{font-size:10px;color:#667;font-weight:700;letter-spacing:.3px}
+.sol{margin-top:3px}
+.opts{color:#333;font-size:.95em}
+.ansline{font-weight:700}
+.sutra{border:1.1px solid #444;background:#fff;padding:7px 11px;margin:7px 0;break-inside:avoid}
+.sutra .cap{font-size:10.5px;font-weight:700;color:#667;letter-spacing:.4px;text-align:center;margin-bottom:3px}
+.caution{border:.8px solid var(--warn);background:#fdf7ef;padding:6px 9px;margin:6px 0;break-inside:avoid}
+.ratta{border:3px double #555;background:#fcfcfa;padding:8px 12px;margin:8px 0;break-inside:avoid}
+.srcnote{font-size:11px;color:#555;border-left:2.5px solid #999;padding-left:7px;margin:4px 0}
+table.tbl{border-collapse:collapse;width:100%;font-size:12px;margin:6px 0}
+.tbl th{border-bottom:1.2px solid #333;text-align:left;padding:3px 6px}
+.tbl td{border-bottom:.5px solid #c5c5c5;padding:3px 6px;vertical-align:top}
+.tbl tr{break-inside:avoid}
+sup,sub{line-height:0}
+/* ---- आवरण-सामग्री ---- */
+.titlepage{padding:52mm 18mm 16mm;text-align:center}
+.titlepage .t1{font-size:17px;letter-spacing:2px;color:#555}
+.titlepage .t2{font-size:34px;font-weight:700;color:var(--acc);margin:10px 0 4px;line-height:1.3}
+.titlepage .t3{font-size:15px;color:#444;margin:4px 0 26px}
+.titlepage .t4{font-size:12.5px;color:#666;line-height:1.9}
+.titlepage hr{border:none;border-top:1.6px solid var(--acc);width:44mm;margin:16px auto}
+@page{size:A4;margin:15mm 13mm 17mm 15mm}
+@media print{
+ body{background:#fff;font-size:9.6pt;line-height:1.55}
+ .book{max-width:none;box-shadow:none}
+ .toolbar{display:none!important}
+ .part{padding:0;break-before:page}
+ .titlepage{break-after:page}
+ .khand,.model,.part-title{break-after:avoid}
+ .pyq,.sutra,.caution,.ratta,.tbl{break-inside:avoid}
+ a{color:inherit;text-decoration:none}
+}
+@media screen and (max-width:760px){ .cols{column-count:1} .part{padding:8mm 6mm} }
+</style>
+</head>
+<body>
+<div class="toolbar">
+  <div class="tb-name">SSC CHSL गणित — प्रश्न-तर्क मास्टर पुस्तक</div>
+  <div class="tb-nav">
+    <a class="navbtn active" href="#part1">भाग 1</a>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 2</span>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 3</span>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 4</span>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 5</span>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 6</span>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 7</span>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 8</span>
+    <span class="navbtn soon" title="क्रमिक रूप से जुड़ेगा">भाग 9</span>
+  </div>
+  <button class="printbtn" onclick="window.print()">प्रिंट / PDF बनाएँ</button>
+</div>
+<div class="book">
+
+<!-- ═══════════ आवरण-सामग्री ═══════════ -->
+<section class="part" id="frontmatter">
+  <div class="titlepage">
+    <div class="t1">एस एस सी &nbsp;सी एच एस एल</div>
+    <div class="t2">गणित<br>प्रश्न-तर्क मास्टर पुस्तक</div>
+    <div class="t3">प्रश्न-मॉडल आधारित सम्पूर्ण Tier-I गणित</div>
+    <hr>
+    <div class="t4">
+      193 परीक्षा-पत्रों (2017–2024) के 4,825 वास्तविक सवालों का विश्लेषण<br>
+      170 सवाल-मॉडल • पहले समझ, फिर हल • कुछ भी रटने की ज़रूरत नहीं • हर हल जाँचा हुआ<br>
+      हिन्दी माध्यम
+    </div>
+  </div>
+
+  <div class="khand">विषय-सूची</div>
+  <table class="tbl">
+    <tr><th style="width:14%">भाग</th><th>विषय-क्षेत्र</th><th style="width:16%">मॉडल</th></tr>
+    <tr><td>भाग 1</td><td>व्यावसायिक अंकगणित — प्रतिशत (Percentage) • लाभ-हानि (Profit &amp; Loss) • छूट (Discount)</td><td>34</td></tr>
+    <tr><td>भाग 2</td><td>अनुपात एवं आयु • औसत • साधारण/चक्रवृद्धि ब्याज • साझेदारी</td><td>25 + 5 उप</td></tr>
+    <tr><td>भाग 3</td><td>समय-कार्य • पाइप/टंकी • गति-समय-दूरी • रेलगाड़ी • नाव-धारा</td><td>17 + 4 उप</td></tr>
+    <tr><td>भाग 4</td><td>संख्या पद्धति • बीजगणित • सरलीकरण</td><td>24</td></tr>
+    <tr><td>भाग 5</td><td>ज्यामिति — त्रिभुज • वृत्त • चतुर्भुज • बहुभुज</td><td>20</td></tr>
+    <tr><td>भाग 6</td><td>क्षेत्रमिति — 2D (क्षेत्रफल) • 3D (आयतन/पृष्ठ)</td><td>14</td></tr>
+    <tr><td>भाग 7</td><td>त्रिकोणमिति</td><td>10</td></tr>
+    <tr><td>भाग 8</td><td>आँकड़ा-निरूपण (Data Interpretation) — सारणी • दंड • पाई • रेखा आरेख</td><td>17</td></tr>
+    <tr><td>भाग 9</td><td>मिश्रण-नियम (Alligation) + शेष मॉडल + मास्टर-सूची एवं संयुक्त स्मरण-सामग्री</td><td>9</td></tr>
+  </table>
+
+  <div class="khand">पारिभाषिक शब्दावली</div>
+  <table class="tbl">
+    <tr><th>हिन्दी</th><th>अंग्रेज़ी</th><th>हिन्दी</th><th>अंग्रेज़ी</th></tr>
+    <tr><td>प्रतिशत</td><td>Percentage</td><td>क्रय मूल्य</td><td>Cost Price (CP)</td></tr>
+    <tr><td>विक्रय मूल्य</td><td>Selling Price (SP)</td><td>अंकित मूल्य</td><td>Marked Price (MP)</td></tr>
+    <tr><td>छूट</td><td>Discount</td><td>लाभ / हानि</td><td>Profit / Loss</td></tr>
+    <tr><td>साधारण ब्याज</td><td>Simple Interest (SI)</td><td>चक्रवृद्धि ब्याज</td><td>Compound Interest (CI)</td></tr>
+    <tr><td>मूलधन</td><td>Principal</td><td>मिश्रधन</td><td>Amount</td></tr>
+    <tr><td>औसत</td><td>Average</td><td>अनुपात</td><td>Ratio</td></tr>
+    <tr><td>समानुपात</td><td>Proportion</td><td>महत्तम समापवर्तक</td><td>HCF</td></tr>
+    <tr><td>लघुत्तम समापवर्त्य</td><td>LCM</td><td>गुणक</td><td>Multiplier</td></tr>
+    <tr><td>विगत वर्ष प्रश्न</td><td>PYQ</td><td>आँकड़ा-निरूपण</td><td>Data Interpretation (DI)</td></tr>
+  </table>
+  <p style="font-size:11.5px;color:#555">पहली बार आने वाले जरूरी English शब्द कोष्ठक में दिए हैं; उसके बाद छोटे रूप (CP, SP, MP, SI, CI, PYQ आदि) इस्तेमाल हुए हैं। गणित के चिह्न (×, ÷, ±, √, π, θ, ₹, °) दुनिया भर में एक जैसे हैं, इसलिए ज्यों के त्यों रखे हैं।</p>
+
+  <div class="khand">गणित के चिह्न — एक नज़र में</div>
+  <table class="tbl">
+    <tr><th style="width:13%">चिह्न</th><th>मतलब</th><th style="width:13%">चिह्न</th><th>मतलब</th></tr>
+    <tr><td>%</td><td>प्रतिशत — हर 100 में से कितने</td><td>₹</td><td>रुपया</td></tr>
+    <tr><td>⇒</td><td>इससे मिलेगा / अगला कदम</td><td>∴</td><td>इसलिए (निष्कर्ष)</td></tr>
+    <tr><td>≈</td><td>लगभग बराबर</td><td>≠</td><td>बराबर नहीं</td></tr>
+    <tr><td>≥ / ≤</td><td>बड़ा या बराबर / छोटा या बराबर</td><td>: :</td><td>अनुपात : समानुपात</td></tr>
+    <tr><td>√</td><td>वर्गमूल (√25 = 5)</td><td>x², x³</td><td>x का वर्ग, x का घन</td></tr>
+    <tr><td>π</td><td>पाई ≈ 22/7 ≈ 3.14 (वृत्त वाला स्थिर अंक)</td><td>θ</td><td>कोण (त्रिकोणमिति में)</td></tr>
+    <tr><td>a/b</td><td>भिन्न — a ऊपर (अंश), b नीचे (हर)</td><td>°</td><td>डिग्री (कोण की इकाई)</td></tr>
+  </table>
+
+
+  <div class="khand" style="break-before:page">पुस्तक की संरचना</div>
+  <div class="cols">
+    <p>पूरा गणित <b>9 भागों</b> में, <b>170 सवाल-मॉडलों</b> के रूप में सजाया गया है। पूरी किताब का तरीका एक ही है — अध्याय रटना नहीं, <b>सवाल का डिज़ाइन पहचानना</b>: SSC का सवाल कैसे बनता है और उसके पीछे की गणित क्या है।</p>
+    <p>हर मॉडल का ढंग (जहाँ जरूरी हो):</p>
+    <p><b>समझो</b> — ज़ीरो से पूरी सोच (कुछ भी रटवाना नहीं) • <b>पहचान</b> — सवाल के शब्दों से मॉडल पहचानना • <b>हर रूप में चलने वाला तरीका</b> • <b>सबसे तेज़ तरीका</b> — जहाँ गणित की कसौटी पर सही हो • <b>दूसरे रूप</b> • <b>वास्तविक PYQ</b> (पिछले साल के असली सवाल) और <b>हल</b> • <b>सावधानी</b> — सिर्फ असली जाल।</p>
+    <p>जहाँ किसी उपशीर्षक की जरूरत नहीं थी, वहाँ हटा दिया गया है। एक ही तरीक़ वाले दोहराए जाने वाले सवाल एक ही मॉडल में समा गए हैं; हर जरूरी रूप का एक नमूना सवाल दिया गया है।</p>
+
+    <div class="khand">यह पुस्तक कैसे पढ़ें</div>
+    <p>1. कोई भी भाग शुरू करने से पहले उसका <b>बुनियादी औज़ार</b> वाला हिस्सा पढ़ो — उस भाग के सारे मॉडल उसी पर खड़े हैं।</p>
+    <p>2. हर मॉडल में पहले <b>"समझो"</b> वाला हिस्सा पढ़ो। सूत्र याद करने की कोशिश मत करो — बनाना सीखो। एक बार बनाना आ गया तो भूलोगे नहीं।</p>
+    <p>3. फिर PYQ को <b>खुद हल करने की कोशिश</b> करो — फिर हल से मिलाओ। खुद से लड़ाई किए बिना कोई सवाल दिमाग में नहीं उतरता।</p>
+    <p>4. गलती हुई तो उसी मॉडल की <b>सावधानी</b> दोबारा पढ़ो — गलती की जड़ वहीं मिलेगी। SSC एक ही जाल को थोड़े-थोड़े बदलाव से बार-बार इस्तेमाल करता है।</p>
+    <p>5. हर भाग के आखिर में <b>"एक नज़र में"</b> की पहचान-तालिका है — परीक्षा से ठीक पहले रिवीजन के लिए। सवाल के शब्द देखो, मॉडल पहचानो, तरीका याद करो।</p>
+    <p>6. <b>[स्रोत अस्पष्ट]</b> का मतलब: स्कैन में अंक बिगड़े हुए थे, इसलिए हमने बना-बनाकर कुछ नहीं लिखा। ऐसे सवाल तरीका सीखने के लिए ही हैं — इनके नंबर को आखिरी सच मत मानो।</p>
+
+    <div class="khand">स्रोत-टिप्पणी (जरूर पढ़ें)</div>
+    <p>1. आधार-सामग्री: 193 असली परीक्षा-पत्र (2017–2024), 4,825 सवाल। किताब का हर मॉडल इसी ढेर में दिखने वाले असली सवालों से निकाला गया है।</p>
+    <p>2. तस्वीर-रूप (स्कैन) वाले प्रश्न-पत्रों में उत्तर-कुंजी की जगह अक्सर <i>छात्र का भरा हुआ विकल्प</i> मिला, जो हमेशा सही नहीं होता। इसलिए इस किताब का <b>हर हल अलग से गणना करके जाँचा</b> गया है। जहाँ स्रोत का चुना हुआ विकल्प गणित के जवाब से अलग निकला, वहाँ गणित वाला जवाब ही सही माना गया और अंतर साफ़ टिप्पणी से बताया गया है।</p>
+    <p>3. जहाँ मूल पाठ OCR (स्कैन पढ़ने वाली मशीन) की वजह से पढ़ा नहीं जा सका, वहाँ <b>कुछ भी बनाया नहीं गया</b> — ऐसी जगह <b>[स्रोत अस्पष्ट]</b> से चिह्नित है।</p>
+    <p>4. सवालों का अनुवाद मतलब बिल्कुल वही रखते हुए आसान हिन्दी में किया गया है; सारी संख्याएँ, विकल्प और जवाब मूल स्रोत जैसे ही हैं। सवाल के साथ लिखा साल (जैसे <i>2024</i>) बताता है कि सवाल किस साल के असली परीक्षा-पत्र से है।</p>
+
+  </div>
+</section>

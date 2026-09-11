@@ -1,0 +1,859 @@
+1. Select the related word/letters/number
+from the given alternatives.
+Cup : Coffee:: Bowl : ?
+A. Dish B. Spoon
+C. Soup D. Food
+Ans. C
+2. Select the related word/letters/number
+from the given alternatives.
+ZYX : ABC:: VUT : ?
+A. EFG B. FGH
+C. DEF D. CDE
+Ans. A
+3. Select the related word/letters/number
+from the given alternatives.
+ACE : HJL:: LNP : ?
+A. SUW B. MOQ
+C. IJK D. BDF
+Ans. A
+4. Select the related word/letters/number
+from the given alternatives.
+96 : 32:: 48 : ?
+A. 14 B. 12
+C. 16 D. 18
+Ans. C
+5. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. Blend B. Mingle
+C. Jumble D. Clash
+Ans. D
+6. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. ACE B. ONE
+C. EON D. RED
+Ans. D
+7. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. 1716 B. 2730
+C. 3360 D. 4086
+Ans. D
+8. Select the odd word/letters/number/
+number pair from the given alternatives.
+A. 211 B. 287
+C. 283 D. 277
+Ans. B
+9. A series is given with one term
+Select the correct alternative from
+given ones that will complete the series.
+Narendra Modi, Manmohan Singh,
+Bihari Vajpayee, ?
+A. V.P. Singh
+B. P.V. Narasimha Rao
+C. Chandra Shekhar
+D. Jawaharlal Nehru
+Ans. B
+10. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+FU, LO, RI, ?
+A. PK B. XC
+C. UF D. RI
+Ans. B
+11. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+DE, GI, KN, ?
+A. PS B. PR
+C. PT D. TP
+Ans. C
+12. A series is given with one term missing.
+Select the correct alternative from the
+given ones that will complete the series.
+2, 7, 16, ? , 46, 67
+A. 26 B. 27
+C. 29 D. 31
+Ans. C
+13. In the following question, two statements
+are given each followed by two conclusions
+I and II. You have to consider the
+statements to be true even if they seem to
+be at variance from commonly known
+facts. You have to decide which of the
+given conclusions, if any, follows from the
+given statements.
+Statement:
+(I) Determination is the key to success. If
+a person determines to achieve a
+certain goal in his or her life, no one
+can stop him/her from achieving it.
+(II) Prioritizing various determined goals is
+another important aspect of decision
+making.
+Conclusions:
+(I) If I determine to achieve three goals in
+near future, my energy will get divided
+into three parts and I can never
+succeed.
+(II) Making a prior plan for achieving those
+three things I can get near to all my
+goals.
+A. Only conclusion II follows
+B. Conclusion I and II both follow
+C. Neither I nor II follow
+missing. D. Only conclusion I follows
+the Ans. A
+14. Five boys are sitting facing towards South.
+Atal Raj is between Rohit and Vishal. Vishal is
+to the immediate right of Manoj and Manoj
+is to the immediate right of Shekhar. Who
+is sitting in the middle?
+A. Vishal B. Manoj
+C. Raj D. Shekhar
+Ans. A
+2
+15. Arrange the given words in the sequence
+which they occur in the dictionary.
+i. Application ii. Approve
+iii. Appeal iv. Astonishing
+A. ii, iii, iv, i B. iii, ii,i, iv
+C. iii, i, ii, iv D. i, ii, iii, iv
+Ans. C
+16. If in a certain code language, "STUBBORN"
+is written as "TUVCANQM". How
+"TRAINING" written in that code language?
+A. USBJMHFM B. USBJMHMF
+C. JBSUFMHM D. USBJMHME
+Ans. B
+17. If "+" means "minus", "x" means
+by", "÷" means "plus" and "-"
+"multiplied by", then
+300  10  5  36  57  ?
+A. 150 B. 171
+C. 230 D. 234
+Ans. B
+18. Which of the following interchanges
+signs and numbers will make the
+equation correct?
+7  9  5  68
+A. + and =, 5 and 6
+B. + and =, 7 and 9
+C. x and +, 5 and 7
+D. x and +, 7 and 9
+Ans. C
+19. If "+" means "minus", "x" means
+by", "÷" means "plus" and "-"
+"multiplied by", then
+76  4  4  12  37  ?
+A. 9 B. 7
+C. 8 D. 3
+Ans. C
+20. A man walks 20 m towards north, then
+turns right and walks 3 m, then turns
+and walks 4 m and from there he walks
+m towards east. How far and in
+direction is he from his initial position?
+A. 25 m east B. 25 m north-east
+C. 20 m north D. 24 m north
+Ans. B
+21 . A word is represented by only one
+numbers as given in any one of
+alternatives. The sets of numbers given
+the alternatives are represented by
+classes of alphabets as shown in the
+two matrices. The columns and rows
+Matrix-I are numbered from 0 to 4 and
+of Matrix-II are numbered from 5 to
+letter from these matrices can
+in represented first by its row and next by its
+column, for example, ‘Q’ can be
+represented by 22, 33 etc. and ‘G’ can be
+represented by 86, 89 etc. Similarly, you
+have to identify the set for the word
+‘CREED’.
+is
+"divided
+means
+A. 32, 76, 65, 56, 77
+B. 54, 67, 78, 56, 79
+C. 43,32, 65, 56, 77
+D. 32, 85, 56, 65, 78
+Ans. A
+in 22. While posing for a family photo, the father
+given is standing to the right of the son and left
+of the grandmother. The mother is sitting
+to the left of her daughter and right of the
+grandmother. Who is seated in the middle?
+A. Grandmother B. Son
+C. Father D. Mother
+Ans. A
+23. If a mirror is placed on the line MN, then
+which of the answer figures is the right
+"divided
+image of the given figure?
+means
+he
+left
+4 A. B.
+which
+C. D.
+Ans. C
+24. Identify the diagram that best represents
+set of the relationship among the given classes.
+the Country, State, City
+in
+two
+given A. B.
+of
+that
+9. A C. D.
+be Ans. D
+3
+25. A piece of paper is folded and punched
+shown below in the question figures.
+the given answer figures, indicate
+will appear when opened.
+A. B.
+C. D.
+Ans. A
+26. Rock Shelters of Bhimbetka is in _______.
+A. Maharashtra B. Himachal
+C. Karnataka D. Madhya Pradesh
+Ans. D
+27. Highest Civilian Honour received
+Anupam Kher is _______.
+A. Padma Shri
+B. Padma Bhushan
+C. Padma Vibhushan
+D. Bharat Ratna
+Ans. B
+28. _______is a strong drug that doctors
+to people to make them calm or help
+sleep.
+A. Barbiturate B. Antidepressant
+C. Antihistamine D. Beta-Blocker
+Ans. A
+29. Artocarpus integra is the scientiﬁc name
+_______.
+A. Guava B. Pineapple
+C. Silver Oak D. Jack fruit
+Ans. D
+30. Which organ stores fat soluble vitamins?
+A. Blood B. Skin
+C. Liver D. Pancreas
+Ans. C
+31. Fe has 26 protons in its nucleus. What
+the number of electrons in Fe 2 + (II) ion?
+A. 24 B. 26
+C. 28 D. 13
+Ans. A
+32. Which of the following elements has
+lowest melting point?
+A. Titanium B. Sulphur
+C. Argon D. Zinc
+Ans. C
+33. ALU is a part of a computer is _______.
+A. Application B. ROM
+C. RAM D. Processor
+Ans. D
+as 34. English is the ofﬁcial language of _______.
+From A. Chandigarh
+how it B. Dadra and Nagar Haveli
+C. Daman and Diu
+D. Delhi
+Ans. A
+35. If demand curve for roller skates is
+D  23000  19P and supply curve is
+S  18000  6P, ﬁnd the equilibrium Price?
+A. Rs 100 B. Rs 400
+C. Rs 50 D. Rs 200
+Ans. D
+36. Match the characteristics with their market
+structure:
+(a) Expand out put until MC = MR
+Pradesh (b) Elasticity of demand depends on pricing
+policies of rivals
+A. (a) Pure competition, (b) Pure
+Monopoly
+by
+B. (a) Pure Monopoly, (b) Monopolistic
+competition
+C. (a) Pure competition, (b) Oligopoly
+D. (a) Monopolistic competition, (b)
+Oligopoly
+Ans. D
+give 37. Panna National Park is in which state?
+them A. Rajasthan B. Maharashtra
+C. Gujarat D. Madhya Pradesh
+Ans. D
+38. BSE SENSEX Constitutes number _______
+of companies.
+of A. 30 B. 40
+C. 50 D. 60
+Ans. A
+39. International Date line passes through
+middle of _______Ocean.
+A. Arctic B. Indian
+C. Atlantic D. Paciﬁc
+Ans. D
+40. What is the capital of Turkey?
+are
+A. Jerusalem B. Canberra
+C. Wellington D. Ankara
+Ans. D
+41. Before its Independence, Bangladesh was
+part of _______.
+the
+A. India B. China
+C. Pakistan D. United Kingdom
+Ans. C
+42. Humayun was born in the year _______.
+A. 1508 B. 1608
+C. 1708 D. 1808
+Ans. A
+4
+43. Who Invented the 3-D printer?
+A. Nick Holonyak
+B. Elias Howe
+C. Chuck Hull
+D. Christiaan Huygens
+Ans. C
+44. Alpha particles are _______.
+A. twice the mass of beta particles
+B. negatively charged
+C. just like helium nuclei
+D. lower in ionizing power as compared
+gamma rays
+Ans. C
+45. Unit of impedance is _______.
+A. ohm B. henry
+C. tesla D. hertz
+Ans. A
+46. Who has served maximum time as
+Prime Minister of India?
+A. Jawaharlal Nehru
+B. Indira Gandhi
+C. Manmohan Singh
+D. Lal Bahadur Shastri
+Ans. A
+47. What is the maximum number of
+in Lok Sabha?
+A. 512 B. 542
+C. 552 D. 532
+Ans. C
+48. In 2012 London Olympics, Saina
+won the _______.
+A. Gold Medal
+B. Silver Medal
+C. Bronze Medal
+D. Didn't win any Medal
+Ans. C
+49. Who is the author of "Go
+#AccheDin for Comedy"?
+A. Preeti Shenoy
+B. Nikita Singh
+C. Shatrugna Vadwlas
+D. Ashwin Sanghi
+Ans. C
+50. Periyar Tiger Reserve is in which state?
+A. Telangana B. Tamil Nadu
+C. Kerala D. Uttarakhand
+Ans. C
+51. A trader had 6 quintals of wheat. He
+part of it at 7% proﬁt and the rest at
+proﬁt, so that he made a total proﬁt
+11%. How much wheat did he sell at
+proﬁt?
+A. 360 kg B. 240 kg
+C. 120 kg D. 480 kg
+Ans. D
+52. Badki can bake 45 cakes in 9 hours, Badki
+and Chutki together can bake 80 cakes in
+10 hours. How many cakes Chutki can
+bake in 40 hours?
+A. 125 B. 10
+C. 120 D. 20
+Ans. C
+53. Of the 5 numbers whose average is 72, the
+ﬁrst is 1/8 times the sum of other 4. The
+ﬁrst number is _______.
+to
+A. 60 B. 26
+C. 40 D. 80
+Ans. C
+54. If 6/7th of 8/5th of a number is 192, then
+3/4th of that number is _______.
+A. 105 B. 77
+the C. 36 D. 80
+Ans. A
+55. The value of x for which the expressions
+5x  17 and 17x  5 become equal is
+_______.
+A. 11/6 B. -11/6
+C. 6/11 D. -6/11
+Members
+Ans. A
+56. On dividing 111a 2 b 2 c 2 by 37a 2 , we get
+__________.
+A. 2c 2 B. 2b 2
+Nehwal
+C. 3 D. 3b 2 c 2
+Ans. D
+57. If a merchant offers a discount of 30% on
+the list price, then he makes a loss of 16%.
+What % proﬁt or % loss will he make if he
+A. 14 percent proﬁt
+Clown: B. 4 percent loss
+C. 26 percent proﬁt
+D. 8 percent proﬁt
+Ans. B
+58. If 5x  4  2  x and 4x  5  2x  5, then x
+can take which of the following values?
+A. 3 B. 6
+C. -7 D. -1
+Ans. D
+59. A bank offers 15% compound interest per
+half year. A customer deposits Rs 8800
+sold a
+each on 1st January and 1st July of a year.
+17%
+At the end of the year, the amount he
+of
+would have gained by way of interest is
+17%
+__________.
+A. Rs 8315 B. Rs 2079
+C. Rs 4158 D. Rs 1039
+Ans. C
+5
+60. If 4x  5y   37 and 7x  t   16,
+x  y  ___ __ __
+A. -8 B. 8
+C. 2 D. -2
+Ans. A
+61. The co-ordinates of the centroid
+triangle ABC are (3,-2). What are the
+ordinates of vertex C if co-ordinates
+and B are (-2,5) and (6,-2) respectively?
+A. (-5,-9) B. (5,-9)
+C. (5,9) D. (-5,9)
+Ans. B
+62. The slope of the line passing through
+points (-5,1) and (x,-4) is -5/8. Find x.
+A. 4 B. 3
+C. 2 D. -1
+Ans. B
+63. A triangular prism has 9 edges. How
+vertices does it have?
+A. 8 B. 6
+C. 12 D. 10
+Ans. B
+64. The diagonal of a square equals the
+an equilateral triangle. If the area of
+square is 12 sq cm, what is the area of
+equilateral triangle?
+A. 12√3 sq cm B. 6√3 sq cm
+C. 12√2 sq cm D. 24 sq cm
+Ans. B
+65. The ratio of present ages of Ranjini
+Shahid is 5:4. After 13 years the ratio
+their ages will be 6:5. What is
+present age?
+A. 52 B. 65
+C. 60 D. 32
+Ans. B
+66. If the curved surface area of a right
+cone is 10010 sq cm and its slant height
+91 cm, ﬁnd its total surface area.
+A. 27720 sq cm B. 4620 sq cm
+C. 6930 sq cm D. 13860 sq cm
+Ans. D
+67. If sin  4  /3  x, then the value of x is
+A. -2 B. -2/√3
+C. √3/2 D. √2
+Ans. C
+68. When a number is increased by
+becomes 107% of itself. What is
+number?
+A. 336 B. 420
+C. 400 D. 252
+Ans. C
+then 69. If cos  A  B   cos  A  B   x, then the
+value of x is
+A. 2sinAsinB B. 2cosAcosB
+C. 2cosAsinB D. 2sinAcosB
+Ans. A
+of a
+70. A car travels a certain distance at 24 km/h
+co-
+and comes back at 36 km/h. Find the
+of A
+average speed for total journey.
+A. 28.8 km/hr B. 30 km/hr
+C. 27.6 km/hr D. 31.2 km/hr
+Ans. A
+the 71. If sec A  tan A  x, then the value of x is
+ 
+A. 1 / sec 2 A  tan 2 A
+ 
+B. 1 / sec 2 A  tan 2 A
+ 
+many C. 1/ sec 2 A  tan 2 A
+D. 1 /  sec A  tan A 
+Ans. D
+72. Refer the below data table and answer the
+side of following Question.
+the
+Boys/ लड़के Girls/ लडककय ाँ
+the
+Medical/ मेडडकल 40 75
+Engineering/ इंजीनियर ग ं 100 25
+What percent student who chose
+Engineering are girls?
+and
+A. 20 B. 10.42
+of
+C. 50 D. 25
+Ranjini's
+Ans. A
+73. Refer the below data table and answer the
+following Question.
+Cumulative production
+circular संचयी उत्प दि
+is
+January/ जिव ी 200
+February/ फ व ी 850
+March/ म चच 1450
+April/ अप्रैल 1950
+May/ मई 2320
+June/ जूि 2600
+28, it
+How many cars were manufactured in the
+the
+months of April and May?
+A. 650 B. 1100
+C. 4270 D. 870
+Ans. D
+6
+74. Refer the below data table and answer
+following Question.
+Days of the week Distance jogged (in kms)
+सप्त ह क ददि दौड़ी गयी द ू ी (ककलोमीट में
+Monday/ सोमव 3.5
+Tuesday/ मंगलव 2
+Wednesday/ ब ध ु व 3
+Thursday/ ग रु ु व 0.5
+Friday/ शुक्रव 3.5
+Saturday/ शनिव 2.5
+Sunday/ ववव 3.5
+If 400 calories are burned by jogging 5
+how many calories were burnt in the
+week?
+A. 1480 calories B. 1530 calories
+C. 1430 calories D. 1380 calories
+Ans. A
+75. Refer the below data table and answer
+following Question.
+Item Yearly Expense in Rs lakhs
+वस्तु ल ख रुपये में व वषचक खचच
+Raw Materials/ 12
+कच्च म ल
+Labour/ क्ष्रम 6
+Rent/ कक य 6
+Interest/ ब्य ज 4
+Taxes/ क 4
+Labour and Interest are what percent
+total expenses?
+A. 31.25 percent B. 24 percent
+C. 16.75 percent D. 38.5 percent
+Ans. A
+76. In the following question, the
+given with blank to be ﬁlled in with
+appropriate word. Select the
+alternative out of the four and indicate
+by selecting the appropriate option.
+Brijesh said that he has
+_____________ of stepping
+although he is under a lot of pressure
+so.
+A. intuition B. intention
+C. point D. object
+Ans. B
+77. In the following question, a sentence
+been given in Active/Passive voice.
+four alternatives suggested, select the
+which best expresses the same sentence
+Passive/Active voice.
+Lakhs of tourists view the Taj Mahal
+year.
+the A. The Taj Mahal is being viewed by lakhs
+of tourists every year.
+B. Every year the Taj Mahal is being
+) viewed by lakhs of tourists.
+C. Every year the Taj Mahal was being
+viewed by lakhs of tourists.
+D. The Taj Mahal is viewed by lakhs of
+tourists every year.
+Ans. D
+78. Rearrange the parts of the sentence in
+correct order.
+They have now
+P-by a paternalistic state
+km, Q-of goods mandated
+given R-been turned into consumers
+A. QRP B. QPR
+C. PRQ D. RQP
+Ans. D
+79. In the following question, out of the four
+the alternatives, select the alternative which is
+the best substitute of the phrase.
+Causing a burning sensation like that of hot
+liquid on the skin
+A. piping B. igneous
+C. sizzling D. scalding
+Ans. D
+80. In the following question, out of the four
+alternatives, select the alternative which
+best expresses the meaning of the
+idiom/phrase.
+dead ringer
+A. a competition whose outcome is
+of
+already decided (by unfair means)
+B. a candidate fraudulently substituted for
+another in a competition
+C. a person who was in a situation to
+warn others is now missing
+sentence D. a warning which comes too late, after
+an the damage is done
+correct Ans. B
+it 81. Select the antonym of
+pervert
+no A. virtuous B. libertine
+down, C. deviant D. debauchee
+to do Ans. A
+82. In the following question, some part of the
+sentence may have errors. Find out which
+part of the sentence has an error and
+select the appropriate option. If a sentence
+has is free from error, select 'No Error'.
+Out of The Directors are(A)/now inquiring(B)/in
+one, the cause of the ﬁre.(C)/No error(D)
+in A. A B. B
+C. C D. D
+every Ans. C
+7
+83. In the following question, the
+given with blank to be ﬁlled in with
+appropriate word. Select the
+alternative out of the four and indicate
+by selecting the appropriate option.
+As the judge enters the courtroom,
+_____________ calls upon all occupants
+the room to stand.
+A. formality B. pattern
+C. culture D. habit
+Ans. A
+84. In the following question, out of the
+alternatives, select the alternative
+best expresses the meaning of
+idiom/phrase.
+dark horse
+A. a candidate about whom little is
+but who unexpectedly wins
+B. a good person who has been
+maligned
+C. a person despised by everybody
+D. a very unpredictable contestant,
+sometimes wins sometimes loses
+Ans. A
+85. Select the synonym of
+parlance
+A. deﬁnitive B. lingo
+C. canonical D. classic
+Ans. B
+86. Select the word with the correct spelling.
+A. bordeux B. ambienc
+C. macakues D. culinary
+Ans. D
+87. Select the synonym of
+obstreperous
+A. boisterous B. bashful
+C. reticent D. taciturn
+Ans. A
+88. Select the word with the correct spelling.
+A. metaled B. lonsome
+C. piquancy D. shuﬂed
+Ans. C
+89. Improve the bracketed part of
+sentence.
+We were still waiting in the queue
+tickets when the show (had begun).
+A. was beginning B. begins
+C. began D. no improvement
+Ans. C
+90. Select the antonym of
+frazzle
+A. prostration B. vigour
+C. enervation D. lassitude
+Ans. B
+sentence 91. In the following question, out of the four
+an alternatives, select the alternative which is
+correct the best substitute of the phrase.
+it An organization set up to provide help
+and raise money for those in need.
+A. conglomerate B. donation
+in
+C. charity D. dole
+Ans. C
+92. In the following question, some part of the
+sentence may have errors. Find out which
+four part of the sentence has an error and
+which select the appropriate option. If a sentence
+the is free from error, select 'No Error'.
+She was an(A)/only child who(B)/had
+been very welcome.(C)/No error(D)
+known A. A B. B
+C. C D. D
+unfairly
+Ans. D
+93. Rearrange the parts of the sentence in
+wins
+correct order.
+Elections globally
+P-dominated by numbers, percentages
+Q-and tallies
+R-can be dry affairs
+A. RQP B. PQR
+C. RPQ D. QRP
+Ans. C
+94. In the following question, a sentence has
+been given in Direct/Indirect speech. Out
+of the four alternatives suggested, select
+the one, which best express the same
+sentence in Indirect/Direct speech.
+"Alas! I have broken my grandfather's
+watch" said Amit.
+A. Amit was sorrowful that he broke his
+grandfather's watch.
+B. Amit exclaimed sorrowfully that he has
+broken his grandfather's watch.
+C. Amit was sorrowful that he had broken
+the
+his grandfather's watch.
+for D. Amit exclaimed sorrowfully that he had
+broken his grandfather's watch.
+Ans. D
+95. Improve the bracketed part of the
+sentence.
+It was so hot during the concert that some
+spectators passed (out).
+A. away B. by
+C. over D. no improvement
+Ans. D
+8
+96. In the following passage, some of
+words have been left out. Read
+passage carefully and select the
+answer for the given blank out of the
+alternatives.
+_____________ various signs of
+slowdown such as languishing
+production and adverse _____________of
+the drought on rural livelihoods
+demand, the government is apparently
+unable ____________ unwilling to
+public spending to ____________
+material distress or to kick-start
+___________ to increase employment.
+____________various signs of
+slowdown such as languishing
+production
+A. As B. Despite
+C. So D. Because
+Ans. B
+97. In the following passage, some of
+words have been left out. Read
+passage carefully and select the
+answer for the given blank out of the
+alternatives.
+_____________ various signs of
+slowdown such as languishing
+production and adverse _____________of
+the drought on rural livelihoods
+demand, the government is apparently
+unable ____________ unwilling to
+public spending to ____________
+material distress or to kick-start
+___________ to increase employment.
+adverse _________ of the drought on
+livelihoods and demand
+A. effects B. effect
+C. affects D. affect
+Ans. A
+98. In the following passage, some of
+words have been left out. Read
+passage carefully and select the
+answer for the given blank out of the
+alternatives.
+_____________ various signs of
+slowdown such as languishing
+production and adverse _____________of
+the drought on rural livelihoods
+demand, the government is apparently
+unable ____________ unwilling to
+public spending to ____________
+material distress or to kick-start
+___________ to increase employment.
+the government is apparently
+_____________
+the A. hence B. but
+the C. or D. nor
+correct Ans. C
+four 99. In the following passage, some of the
+words have been left out. Read the
+economic passage carefully and select the correct
+industrial answer for the given blank out of the four
+alternatives.
+and _____________ various signs of economic
+slowdown such as languishing industrial
+increase production and adverse _____________of
+people’s the drought on rural livelihoods and
+economic demand, the government is apparently
+unable ____________ unwilling to increase
+economic public spending to ____________ people’s
+industrial material distress or to kick-start economic
+___________ to increase employment.
+spending to __________ people's material
+distress
+A. cool off B. cut
+the C. less D. mitigate
+the Ans. D
+correct 100. In the following passage, some of the
+four words have been left out. Read the
+passage carefully and select the correct
+economic answer for the given blank out of the four
+industrial alternatives.
+_____________ various signs of economic
+and slowdown such as languishing industrial
+production and adverse _____________of
+increase the drought on rural livelihoods and
+people’s demand, the government is apparently
+economic unable ____________ unwilling to increase
+public spending to ____________ people’s
+rural material distress or to kick-start economic
+___________ to increase employment.
+distress or to kick-start economic
+___________ to increase employment.
+A. activity B. happening
+the C. performance D. acts
+the Ans. A
+correct
+four
+economic
+industrial
+and
+increase
+people’s
+economic
+unable
+9

@@ -1,0 +1,12 @@
+{
+  "name": "chsl-zip-web",
+  "version": "1.0.0",
+  "description": "Mobile web app that mirrors the CHSL Previous Year Papers Android app and adds one-tap PDF/ZIP downloading (individual, per year/category, selected, everything).",
+  "private": true,
+  "scripts": {
+    "setup": "cd backend && npm install",
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev"
+  },
+  "engines": { "node": ">=18" }
+}

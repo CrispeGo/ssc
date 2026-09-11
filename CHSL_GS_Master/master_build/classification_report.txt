@@ -1,0 +1,781 @@
+==============================================================================
+GS PYQ CLASSIFICATION REPORT
+==============================================================================
+Total parsed questions: 4455  (slots 4825; placeholders/image-Q = 370)
+
+--- SUBJECT TOTALS ---
+GEOGRAPHY      622  (14.0%)   answers: 528/622 = 85%
+STATIC         566  (12.7%)   answers: 485/566 = 86%
+CA             511  (11.5%)   answers: 415/511 = 81%
+CULTURE        389  ( 8.7%)   answers: 332/389 = 85%
+POLITY         335  ( 7.5%)   answers: 301/335 = 90%
+UNKNOWN        309  ( 6.9%)   answers: 257/309 = 83%
+ECONOMICS      300  ( 6.7%)   answers: 236/300 = 79%
+NO-TEXT        282  ( 6.3%)   answers: 219/282 = 78%
+HISTORY        280  ( 6.3%)   answers: 245/280 = 88%
+BIOLOGY        240  ( 5.4%)   answers: 210/240 = 88%
+CHEMISTRY      197  ( 4.4%)   answers: 173/197 = 88%
+COMPUTER       182  ( 4.1%)   answers: 151/182 = 83%
+PHYSICS        166  ( 3.7%)   answers: 149/166 = 90%
+ENVIRONMENT     63  ( 1.4%)   answers: 48/63 = 76%
+NON-GS          13  ( 0.3%)   answers: 12/13 = 92%
+
+--- YEAR x SUBJECT MATRIX ---
+year    HISTORY  GEOGRAP   POLITY  ECONOMI  PHYSICS  CHEMIST  BIOLOGY  ENVIRON  CULTURE   STATIC  COMPUTE       CA  NO-TEXT  UNKNOWN   total
+2024         49       86       67       46       20       22       21        5       93       66       52       87        1        7     622
+2023         41       83       52       87       22       29       19        6       43       44        1      101      235       42     805
+2022         58      124       60       50       26       22       35       12       50       76       52      144        2       12     725
+2021         17       80       32       27       20       41       65       13      137      173        9      125        0       40     780
+2020         43       84       42       21       11       22       24       13       31       91       28       25       25       62     522
+2019         14       63       20       12       10       12       14        5       10       63       17       17        5       52     317
+2018         35       63       41       44       30       27       36        0       12       22       15       10       10       62     408
+2017         23       39       21       13       27       22       26        9       13       31        8        2        4       32     276
+
+--- TOPIC TABLES PER SUBJECT ---
+
+### HISTORY  (total 280)
+    68  Modern-FreedomStruggle       e.g. Q.15 The birthday of is celebrated as the International Day of Non-Violence.
+    44  Medieval-Mughal              e.g. Q.13 Which amongst the following statements is correct about Mughal emperor Akbar?
+    29  Modern-BritishRule           e.g. Q.16 The proclamation of which Act by the King of England in 1773 paved the way for the 
+    17  Medieval-Sultanate           e.g. Q.20 Balban followed the tradition of ‘Sijda and Pabos’ from which of following traditio
+    17  Ancient-Gupta&Later          e.g. Q.13 Name the Chola inscription that provided details of the way in which the sabha was 
+    15  Medieval-Maratha/Bhakti-Sufi e.g. Q.18 ‘Hampi Utsava,’ which is celebrated in Karnataka, is also called . The festival tha
+    14  Ancient-PostGupta            e.g. Q.7_ Which of the following dynasties’ genealogy was found in the Bijolia inscription?
+    14  Ancient-Buddhism/Jainism     e.g. Q.21 With which of the following communities is the word 'Langar' (community kitchen) ma
+    13  Modern-SocioReligious        e.g. Q.15 What was the name of Swami Vivekanand’s guru?
+     9  Ancient-Mauryan              e.g. The foundation of the Mauryan empire was laid by ______.
+     5  Modern-Misc3                 e.g. Who among the following founded the Indian Association along with Anand Mohan Bose? X
+     5  Modern-Misc2                 e.g. When was the Bardoli Movement launched?
+     5  Ancient-Vedic                e.g. At one stage in the Vedic Age, the king was called 'gopati' which meant '______'.
+     4  Medieval-Misc2               e.g. Which of the following was the last invasion by Mahmud Ghazni outside Punjab? *
+     4  Ancient-IVC                  e.g. Which of the following Harappan town was located on Khadir Beyt in the Runn of Kutch and
+     3  Medieval-Misc3               e.g. Jaimal and Pata were the warriors who were given charge of defending the fort of . ans X
+     3  Ancient-Prehistory           e.g. Which of the following places presents the total oldest evidence of Neolithic Era?
+     2  Modern-1857                  e.g. Q.25 When did the first War of Indian Independence (Sepoy Mutiny) start?
+     2  Modern-Organizations         e.g. Q.10 The Ghadar Party was founded in by Sohan Singh Bhakna, Kanshi Ram, Harnam Singh Tun
+     2  World-Misc                   e.g. Q.25 Sardar Vallabhbhai Patel, who was the first Home Minister of India, is known by whi
+     2  World-Revolution             e.g. Who among the following has classiﬁed the money in to two types on the basis of its ques
+     1  Ancient-Misc3                e.g. Tn the middle of which century did the Arab traveller Sulaiman visit India? JF 2 oth K3.
+     1  World-Wars&After             e.g. In which month, Hiroshima Day is observed across the world?
+     1  Ancient-Misc2                e.g. Kalinga is the ancient name of coastal ______.
+
+### GEOGRAPHY  (total 622)
+   152  States&Boundaries            e.g. Q5 Bali Yatra, is a traditional cultural festival of which state?
+    82  World-Geo                    e.g. Q.5 Which country’s national game is Chinlone (Caneball)?
+    64  Rivers                       e.g. Q.7 Which river is known as the sorrow of Bihar?
+    47  Climate                      e.g. Q.13 Which of the following statements about climate is INCORRECT?
+    45  SolarSystem                  e.g. Q.18 Ursa Major is a/an:
+    36  Population                   e.g. Q.15 According to the Census of India, who are considered to be literates?
+    35  Mountains/Passes             e.g. Q.8 The Himalayas’ outermost range is called .
+    23  EarthBasics                  e.g. Which of the following is a yellowish green to green coloured gemstone often found in ma
+    20  Agriculture-Geo              e.g. Q.25 Whtet ef tive feowing streamers arr ise abot the ponttive unpwet ef ter Carmen Hewe
+    18  Transport/Highways           e.g. Q.13 In which year was the Konkan Railway constructed?
+    17  Plains&Landforms             e.g. Q.15 The Bist Doab Canal System and Makhu Canal System are associated with which state o
+    17  Lakes/Waterfalls             e.g. Q.19 The largest inland salt lake ‘Sambhar’ is located in the. of India.
+    17  Minerals&Industry            e.g. Q.15 The district of Shivamogga that is famous for its Iron-Ore and Manganese mineral is
+    12  Soils                        e.g. Q.8 Which type of soil is found on about 40% of the total area of India?
+     7  Mountains2                   e.g. Which of the following is NOT a subdivision of the Meghalaya plateau? ans X
+     6  Astronomy                    e.g. Q.13 A distinctive cross-shaped constellation best seen in the northern hemisphere durin
+     6  Energy&Industry              e.g. Q.8 Where is the Narora Nuclear Power plant located?
+     5  Oceanography                 e.g. Which of the following is NOT correct regarding the Pacific Ocean?
+     5  Dams&Projects                e.g. Which of the following statement is correct regarding large dams? I. They have social pr
+     3  EarthBasics2                 e.g. The Earth has been divided into many time zones. How many degrees does each time zone co
+     2  EarthBasics3                 e.g. Which of the following is the product as a result of the process of hydrolysis of orthoc
+     2  Astronomy2                   e.g. Which among the following is another word for universe?
+     1  World-Misc2                  e.g. In which of the following midnight Sun is visible?
+
+### POLITY  (total 335)
+    82  Articles/FundamentalRights   e.g. Q.9_ In which judgement did the Supreme Court extend the scope of Article 21 and observe
+    43  Misc-Polity                  e.g. Q3 has called the Right to Constitutional Remedy as the ‘Soul of the Constitution’.
+    39  Parliament                   e.g. Q.20 Which Article of the Constitution mentions that “the Parliament consists of the Pre
+    23  Executive-President/PM       e.g. Which among the following is not required to be the Vice-President of India?
+    22  Duties&DPSP                  e.g. Q.7 Fundamental Duties were added in Part-lV of the Constitution under Article 51-A in t
+    22  Constitution                 e.g. Q.5 The establishment of Union Public Service Commission, State Public Service Commissio
+    22  UnionStructure               e.g. Q.2_ In which year did the Indian Constitution declare Hindi in Devanagari script to be 
+    20  Laws&Acts                    e.g. Q.15 Which Act was enacted by the British which regulated the manufacture, sale, possess
+    16  Amendments&Emergency         e.g. Q.24 Which of the following Articles was amended by The Constitution Fiftieth Amendment 
+    14  PanchayatiRaj                e.g. Q.17 wach of the following states/UTs has the first 100% fully digital literate Panchaya
+    11  Bodies&Elections             e.g. The Bureau of Indian Standard is a statutory body working under the aegis of which union
+    10  Judiciary                    e.g. Q.6 Who among the following launched the digital platform ‘FASTER’?
+     6  Laws2                        e.g. In which year was the Dowry Prohibition Act passed in India?
+     4  Misc2                        e.g. Q.18 Federalism in the Indian constitutional context means:
+     1  UnionStructure2              e.g. He should be a citizen of India.
+
+### ECONOMICS  (total 300)
+    39  RBI&Monetary                 e.g. Q.13 The Central Office of the Reserve Bank of India was initially established in which 
+    36  Markets-Cost                 e.g. Q.4 In cost theory, the usual shape of the curve is a rectangular hyperbola.
+    32  NationalIncome               e.g. Q.11 ___sat Market Price refers to the sum total of factor incomes earned by residents o
+    26  Planning                     e.g. Q.21 Which of the following statements are true? i. The First Five-Year Plan was based o
+    26  Markets&Trade                e.g. Q.18 Whirl at the following states ieuce FALSE aber the Speck Beovemie Zones (KEZs) of I
+    26  Money&Banking2               e.g. Which of the following statements is/are correct regarding liquidity trap? i. It is the 
+    22  Budget&Tax                   e.g. Q.20 is defined as excess of total expenditure over total receipts excluding borrowings 
+    21  Misc-Eco                     e.g. Q.20 What is the primary aim of Regional Rural Banks in India?
+    16  Money&Banking                e.g. Q.10 Which of the following is issued by commercial banks at a discount on face value?
+    12  Poverty&Employment           e.g. Q.12 According to the National Crime Records Bureau data, from 2016 to 2019, suicide cas
+    12  Schemes                      e.g. Q.22 By which ministry of Government of India was the Deendayal Antyodaya Yojana started
+     9  Institutions                 e.g. Which of these is NOT an NGO involved in microfinance related activities? ~¥ 2 NABARD in
+     8  Reforms&Industry             e.g. Q.7 In1955,___—snoted the possibility of using small-scale industries for promoting rura
+     6  Agriculture-Eco              e.g. Q.17 The Green Revolution was due to the introduction of:
+     5  Sectors                      e.g. What was the percentage of women working in the primary sector of India as of 2011-2012?
+     4  Inflation                    e.g. Q.7 Price control and rationing are direct control measures to check :
+
+### PHYSICS  (total 166)
+    46  Motion&Force                 e.g. Q.21 Which of the following devices is used to accelerate charged particles to high velo
+    19  Electricity/Magnetism        e.g. Q.25 In which year did Hans Christian Oersted discover that a compass needle gets deflec
+    16  Heat                         e.g. Q.9 Who developed the technique of preserving the quality of food by raising its tempera
+    15  Optics                       e.g. Q.5 In 1835, who developed the process of applying a thin layer of metallic silver to on
+    14  Units&Measurement            e.g. ___________ is the change in total utility due to consumption of one additional unit of 
+    11  Waves                        e.g. Q.5 What is the wavelength range of visible light?
+     8  Work/Energy/Machines         e.g. Q.3. Who was the first to use the term ‘horsepower’ that refers to the power produced by
+     7  Pressure/Fluids              e.g. Q.6 As per the Census of India-2011, the density of population per km? was persons.
+     5  Electricity2                 e.g. Which experiment was designed to trace the motion of the earth through the ‘Luminiferous
+     5  ModernPhysics                e.g. whats the name of the 87" element on the periodic table that has no known biological rol
+     5  DailyLife-Phy                e.g. Which among the following has the highest boiling point?
+     4  Misc-Phy                     e.g. Q.2_ For which discovery did Henri Becquerel receive the Nobel Prize in Physics in 1903?
+     4  Heat2                        e.g. The somatosensory receptors in human Ans. D beings detect ______. 98. Air expands when i
+     3  ModernPhysics2               e.g. Who was awarded the Society's Royal Medal for his atomic theory in 1826?
+     2  Units2                       e.g. The number of significant figures in 0.05800 are: ans
+     2  Sound                        e.g. Among the following, in which material the speed of sound is highest? (at 25 ∘ C)
+
+### CHEMISTRY  (total 197)
+    39  PeriodicTable/Atom           e.g. Q.11 A proton bonds to the oxygen atom of a solvent water to give a hydronium ion.
+    35  Acids/Bases/Salts            e.g. Q.16 In which year did Eric A. Cornell, Wolfgang Ketterle and Carl E. Wieman receive the
+    24  Gases                        e.g. Q.11. Which of the following contains small droplets of liquid or particles of solid dis
+    18  Metals/Alloys                e.g. Q.15 Which of the following is an example of a ‘solid in a liquid’ type of solution?
+    17  Matter&Mixtures              e.g. Q.9 Which of the following statements best describes the Hardy Schulze rule?
+    14  Compounds                    e.g. Q.18 The colour of the surface of Mars is red because of the presence of large amounts o
+    12  Formulas&Reactions           e.g. Q.24 Electrochemical cell is a device which converts chemical energy into electrical ene
+     9  Polymers/Fibres              e.g. Single use plastic which have low utility has been banned in India with effect from ____
+     8  Organic/Fuels                e.g. Q.18 Identify the INCORRECT pair regarding the material media and their refractive index
+     6  Agri-Chem                    e.g. Q.25 According to the Teparinwew of Tutiiiyal Peery eect Premeniun oetich of tne tetleey
+     5  Misc-Chem                    e.g. Q.1 Norman Ernest Borlaug was awarded the in 1970 for his contributions to the green rev
+     5  DailyLife-Chem               e.g. Which inorganic compound is used to manufacture soap, rayon, paper, explosives, dyes, an
+     4  PeriodicTable2               e.g. A diagonal relationship is found between which pair of the following elements? ans v1. L
+     1  Acids2                       e.g. What is the pH of normal milk?
+
+### BIOLOGY  (total 240)
+    50  Plants                       e.g. Q.18 In a dihybrid cross between two heterozygous fruit flies with brown bodies and red 
+    47  Cell&Genetics                e.g. Q.24 Which of the following enzymes are essential of DNA replication in an animal cell?
+    25  Disease&Immunity             e.g. Q.13 Which of the following is NOT a mutation-based disease?
+    25  Body-Facts                   e.g. Q.12 Which group of animals has a segmented spinal column together with a few primitive 
+    18  Nutrition/Deficiency         e.g. Q.4 Identify a carbohydrate but does not fit into the definition.
+    17  Circulation                  e.g. Which is an inherited blood disorder that affects the hemoglobin gene and results in ine
+    14  Digestion                    e.g. Q.7 Which of the following is a medium-sized globular protein that acts as a pancreatic 
+    13  Skeleton/Muscles             e.g. Q.21 How do the muscle cells help in movement?
+    10  Respiration/Excretion        e.g. Which nanual bioactive water-soluble phenolic compound is present in Fruits, vegetables 
+     7  Nervous/Hormones             e.g. Which essential amino acid is necessary for the production of our brain's chemical messe
+     6  Cell&Genetics2               e.g. Solanum lycopersicum L. is the scientific name of which of the following highly consumed
+     3  AnimalHusbandry              e.g. Which of the following principles was added by the 42nd Constitutional Amendment in the 
+     3  Disease&Immunity2            e.g. Which is the toxin-causing bacterium that spoils cream, cheese and milk and makes them t
+     2  Classification               e.g. Q.12 Identify the INCORRECT statement regarding invertebrates from the options given bel
+
+### ENVIRONMENT  (total 63)
+    21  Parks&Sanctuaries            e.g. Q.9 Which is the natural habitat of the Asiatic Lion in India?
+    16  Wetlands&Acts                e.g. Q.22 Which of the following states has mangrove forests?
+    14  Biodiversity/Ecosystem       e.g. Which hypothesis was proposed by Paul Ehrlich to suggest the importance of species richn
+     5  ClimateChange/Ozone          e.g. The target forthe first commitment period of the Kyoto Protocol is to reduce emissions o
+     4  Species&IUCN                 e.g. Which of the following is an extinct species?
+     3  Pollution                    e.g. Q.23 Which of the following statements about eutrophication is correct?
+
+### CULTURE  (total 389)
+   145  Music                        e.g. Q.1 Who among the following wrote the popular Telugu patriotic song ‘Desamunu preminchum
+    93  ClassicalDances              e.g. Q.1_ Which of the following Indian classical dances has originated from Andhra Pradesh?
+    38  Festivals/Fairs              e.g. Q.6 Jamshedi Navroz is a festival of community.
+    28  Dance-Persons                e.g. Q.19 was an Indian dancer and choreographer best known for creating a fusion style of da
+    27  Architecture                 e.g. Q.16 Brihadiswara Temple of Tanjore was built by which of the following Chola emperors?
+    17  FolkDances                   e.g. Q.14 The Yakshagana is the dance-drama primarily associated with which of the following 
+    14  Literature-Culture           e.g. Q.25 Where is the oldest centre of lace work located in Gujarat?
+    12  Films                        e.g. Q.17 Who among the following is a Choreographer in Indian film Industry?
+     4  Martial&Misc                 e.g. Q.16 Who was the Indian Buddhist monk who is credited with the development of many ancie
+     4  Literature2                  e.g. ‘Uttar Ramcharita’ was the composition of which of the following poets? *
+     4  Paintings                    e.g. Thangka painting style depicts ______ deity.
+     3  Theatre&Puppetry             e.g. Who among the following personalities is associated with synthesising classical and mode
+
+### STATIC  (total 566)
+   150  Sports-Others                e.g. Q.2_ In Kabaddi, a super tackle is when a raider is caught/self out/declared out with or
+   119  Books&Authors                e.g. Q.5 The famous book ‘Sangraha Choodamani’, which deals with the current system of Carnat
+    65  Awards                       e.g. Q.16 In which year was the first Arjuna Award given to a woman hockey player?
+    45  Sports-Cricket               e.g. Q.3 Who is the Indian batsman after whom the Ranji Trophy is named?
+    38  Sports-Equipment/Rules       e.g. Q.21 The Ultimate Kho-Kho League was started in which year?
+    17  Institutes&Places            e.g. Q.10 Lakshmibai National Institute of Physical Education (LNIPE) is located at____.
+    16  Parliaments&Orgs             e.g. Q.2 What was the name of the person who bas been elected as the Chalr of the 62" session
+    15  Airports/Ports/Misc-India    e.g. Which of the following airports is India's first to be completely powered by solar energ
+    14  Persons&Infra2               e.g. Who became the first Vice-Chancellor of Jawaharlal Nehru University in 1969? ans
+    14  Abbreviations                e.g. What is the full form of FTP?
+    12  Firsts&Superlatives          e.g. Q.25 Which does social networking service place the biggest emphasis on professional net
+    11  Currencies                   e.g. Q.17 Which of the following currency note was discarded by the Government of India in No
+    11  Misc-Static                  e.g. Q.7 Which of the following statements is/are correct? I- Radio broadcasting started in I
+    10  Days&Themes                  e.g. Q.18 National Sports Day is celebrated on the birthday of ____«.
+     7  NationalSymbols              e.g. Q.14 From which book is the national song of India compiled?
+     7  Sports2                      e.g. What is the distance between the hurdles in 100 m women’s hurdles in metres? ans X
+     6  Persons&Infra                e.g. Q.12 The Atal Tunnel has been built by Border Road Organisation at an altitude of 3000 m
+     5  Tribes                       e.g. Q.15 In which state is the Raika tribe found?
+     2  Nicknames                    e.g. Q.21 Which city is referred to as the ‘Manchester of India’?
+     1  Awards2                      e.g. Who won the Saraswati Samman for the year 2020?
+     1  Days2                        e.g. When was Menstrual Hygiene Day
+
+### COMPUTER  (total 182)
+    61  Internet&Tech                e.g. Q.16 What kind of technology is most frequently used to manage and digitise e-land recor
+    42  MSOffice                     e.g. Q.17 How can you insert a blank row at the top of a worksheet?
+    31  Misc-Comp                    e.g. Q.17 Which was the first programmable general purpose computer in the world?
+    20  MSOffice2                    e.g. Q.5 Where is the Save button in Microsoft Word?
+    19  Hardware&Network             e.g. Q.19 What enables loT devices to gather data and exchange it over the network?
+     9  Hardware&Network2            e.g. Which generation of computers used machine code as the programming language?
+
+### CA  (total 511)
+   511  current-affairs              e.g. Q.4 In April 2023, India’s External Affairs Minister S Jaishankar launched the project f
+
+### NO-TEXT  (total 282)
+   235  placeholder                  e.g. [question PDF me image tha — OCR se capture nahi hua]
+    29  hindi-font-broken            e.g. "सोवा वायरस" (SOVA Virus) िजसे हाल ही म ख़बरों म दे खा गया है , एक ______ है ।
+    18  empty/short                  e.g. Q4 ‘
+
+--- DUPLICATE / REPEAT ANALYSIS ---
+distinct question-keys: 3818; groups repeated >=2 times: 75
+repeated-question volume (sum of group sizes): 403
+
+TOP 80 REPEATED QUESTIONS (count | subject | question | answers-consistency):
+  x235 [NO-TEXT] (2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023,2023) [question PDF me image tha — OCR se capture nahi hua]  <<NO-ANSWER>>
+  x17 [NO-TEXT] (2019,2019,2019,2018,2018,2018,2018,2018,2018,2018,2018,2018,2018,2017,2017,2017,2017)   <<CHECK-OPTIONS-ORDER>>
+  x5 [CHEMIST] (2022,2022,2020,2020,2020) Which of the following statements is correct?  <<CHECK-OPTIONS-ORDER>>
+  x3 [COMPUTE] (2022,2022,2022) Which of the following is NOT an application software?  <<CHECK-OPTIONS-ORDER>>
+  x3 [STATIC] (2021,2021,2018) Which of the following pairs is NOT correctly matched?  <<CHECK-OPTIONS-ORDER>>
+  x2 [STATIC] (2023,2023) Saavaj is the official mascot of which of the following events? X  <<NO-ANSWER>>
+  x2 [BIOLOGY] (2023,2023) The deficiency of Vitamin A causes: %  <<NO-ANSWER>>
+  x2 [CA] (2023,2023) In 2022, what time did Chahat Arora wrap up the 100 m breaststroke race at the FINA World Swimm  <<CONSISTENT>>
+  x2 [POLITY] (2023,2023) While travelling in a tain, one of the travellers started speaking against the Indian freedom s  <<CONSISTENT>>
+  x2 [HISTORY] (2023,2023) Who among the following devoted his life for the upliftment of widows and established the Widow  <<CONSISTENT>>
+  x2 [PHYSICS] (2023,2023) In diffraction of white light by a prism, which colour of light from VIBGYOR will be bent most?  <<NO-ANSWER>>
+  x2 [POLITY] (2023,2023) Match list I with list II and choose your answer from the code below. List-I List-II (a) Habeas  <<NO-ANSWER>>
+  x2 [CA] (2023,2023) Name the campaign launched by the Madhya Pradesh government on the occasion of National Girl Ch  <<CONSISTENT>>
+  x2 [ECONOMI] (2023,2023) Which of the following statements is/are FALSE with respect to simple model of the circular flo  <<CONSISTENT>>
+  x2 [CULTURE] (2023,2023) Which of the following Indian classical dancers was the recipient of the Padma Vibbushan award   <<CONSISTENT>>
+  x2 [ECONOMI] (2023,2023) The Physical Quality of Life Index does NOT include which of the following indicators? ~  <<CONSISTENT>>
+  x2 [GEOGRAP] (2023,2023) ° Rajini Gabra and Harni Gabra is the cultural festival of which of the following Indian states  <<CONSISTENT>>
+  x2 [CA] (2023,2023) Who was appointed as the first woman Vice-Chancellor of Jawaharlal Nehru University (JNU), New   <<CONSISTENT>>
+  x2 [CHEMIST] (2023,2023) What mmerical scale was introduced in 1932 that determined the electronegativity of fluorine to  <<NO-ANSWER>>
+  x2 [STATIC] (2023,2023) In which year did Rudcankksh Patil win gold in men’s 10 mair rifle event in ISSF World Cup? ans  <<NO-ANSWER>>
+  x2 [POLITY] (2022,2022) Which article of the Indian constitution specifies equality before the law?  <<CONSISTENT>>
+  x2 [ECONOMI] (2022,2022) Law of Demand states that, there is a negative relationship between ______.  <<CHECK-OPTIONS-ORDER>>
+  x2 [CA] (2022,2022) Which of the following sports was NOT played at Tokyo Olympics 2020 held in 2021?  <<CHECK-OPTIONS-ORDER>>
+  x2 [ECONOMI] (2022,2022) The Planning Commission of India was replaced by NITI Aayog in ______.  <<CONSISTENT>>
+  x2 [HISTORY] (2022,2022) Who was the first female Muslim ruler of India?  <<CONSISTENT>>
+  x2 [HISTORY] (2022,2022) Who received a Nobel Peace Prize for dismantling apartheid in South Africa?  <<CONSISTENT>>
+  x2 [CA] (2022,2022) As of 2022, India is the ______ largest economy in the world (as measured by nominal GDP).  <<CONSISTENT>>
+  x2 [PHYSICS] (2022,2022) Raman wants to use a rear-view mirror in his vehicle. Which type of mirror should he pick for i  <<CONSISTENT>>
+  x2 [POLITY] (2022,2022) When was the Direct Tax Code Bill introduced in the Parliament of India?  <<CONSISTENT>>
+  x2 [COMPUTE] (2022,2022) Neeti wants to use an input device that works by sensing the user’s finger movement and downwar  <<CONSISTENT>>
+  x2 [CA] (2022,2022) Which country hosted the FIFA U-17 Women’s World Cup 2022?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2022,2022) Which among the following is another word for universe?  <<CONSISTENT>>
+  x2 [CA] (2022,2022) “Pay Roll Automation for Disbursement of Monthly Allowances (PADMA)” was launched in June 2022   <<CONSISTENT>>
+  x2 [CA] (2022,2022) Who among the following received the OSCAR for the best actor in leading role in 2022?  <<CONSISTENT>>
+  x2 [POLITY] (2022,2022) In which year was the Dowry Prohibition Act passed in India?  <<CONSISTENT>>
+  x2 [CA] (2022,2022) PV Sindhu, a famous badminton player of India, won _______ Open title in July 2022.  <<CONSISTENT>>
+  x2 [CA] (2022,2022) Who became the first athlete to win Gold in Yogasana at the 36th National Games, India in 2022?  <<CONSISTENT>>
+  x2 [ENVIRON] (2022,2022) In India, palm, coconut, keora, agar are the common trees of which of the following forests?  <<CONSISTENT>>
+  x2 [CA] (2022,2022) In September 2022, who was appointed as the Attorney General of India?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2022,2022) Which among the following lakes is also known as the "Srinagar's Jewel"?  <<CONSISTENT>>
+  x2 [CULTURE] (2022,2022) Shri Mani Prasad is associated with which form of music?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2022,2022) Which among the following peaks is the highest peak of Jharkhand?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2022,2022) Which pass connects the Kullu Valley with the Lahaul and Spiti Valleys of Himachal Pradesh, Ind  <<CONSISTENT>>
+  x2 [STATIC] (2022,2022) Who among the following was the architect of the Integrated Guided Missile Development Program   <<CONSISTENT>>
+  x2 [BIOLOGY] (2022,2022) Chikungunya is an infection caused by ______ mosquito.  <<CONSISTENT>>
+  x2 [CULTURE] (2022,2022) Aga Khan Palace is located in ______ city of Maharashtra.  <<CONSISTENT>>
+  x2 [BIOLOGY] (2018,2018) Which among the following is NOT an event during the photosynthesis process?  <<CONSISTENT>>
+  x2 [HISTORY] (2018,2018) Which of the following was industry in the Mughal period?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2018) Which of the following is satellite of the Solar System?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2018) Which geographical division of oldest?  <<CONSISTENT>>
+  x2 [HISTORY] (2018,2018) Who is considered the promoter Movement in Bengal?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2018) Which of the following has become country in the world to pay equal men and women?  <<CONSISTENT>>
+  x2 [CA] (2018,2018) Who was conferred with the Prize for Literature?  <<CONSISTENT>>
+  x2 [ECONOMI] (2018,2018) The Government of India has working on the provisions of 2017. What does ‘D’ stand for in  <<CONSISTENT>>
+  x2 [PHYSICS] (2018,2018) The SI unit of acceleration is  <<CONSISTENT>>
+  x2 [PHYSICS] (2018,2018) Warm air is ______.  <<CONSISTENT>>
+  x2 [HISTORY] (2018,2017) Who among the following has classiﬁed the money in to two types on the basis of its questions.   <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2017) SIDO is related to the development of which of the following?  <<CONSISTENT>>
+  x2 [HISTORY] (2018,2017) In whose reign, the ofﬁce of the Vakil was abolished?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2017) Angel Falls is situated on which river?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2017) In a bid to boost their bilateral strategic partnership and to increase defence co- operation,   <<CONSISTENT>>
+  x2 [POLITY] (2018,2017) In January 2018, Dr. Vinod Paul ﬁrst Indian to be awarded prestigious Dogramaci Family Health F  <<CONSISTENT>>
+  x2 [CULTURE] (2018,2017) Nepali language is written in script?  <<CONSISTENT>>
+  x2 [PHYSICS] (2018,2017) Which of the following wave propagate in a vacuum?  <<CONSISTENT>>
+  x2 [POLITY] (2018,2017) Which among the following is level of Government in India? I. Local level government II. State   <<CONSISTENT>>
+  x2 [POLITY] (2018,2017) The idea of people’s participation Panchayati Raj System extends to other levels?  <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2017) In sexual reproduction the male Africa gametes are generally _______.  <<CONSISTENT>>
+  x2 [BIOLOGY] (2018,2017) Which tissue provides support to plants and also stores food? Sabha  <<CONSISTENT>>
+  x2 [CA] (2018,2017) Where was the India’s ﬁrst ‘All India Institute of Ayurveda (AIIA)’ inaugurated on ‘Ayurveda Da  <<CONSISTENT>>
+  x2 [GEOGRAP] (2018,2017) Which region of India is set to get the country’s ﬁrst ever ‘Air Dispensary’? and  <<CONSISTENT>>
+  x2 [ECONOMI] (2018,2017) Which expert committee has been CANNOT constituted by Reserve Bank of India to look into the is  <<CONSISTENT>>
+  x2 [CA] (2018,2017) On 24 January 2018, the Ministry of Women and Child Development launched a Management Informati  <<CONSISTENT>>
+  x2 [BIOLOGY] (2018,2017) Many marine animals use _______dissolved in sea-water to shells.  <<CONSISTENT>>
+  x2 [STATIC] (2018,2017) Which of the statements given are correct? A) Zhansaya Abdumalik won the Women's World Junior C  <<CONSISTENT>>
+  x2 [PHYSICS] (2017,2017) Which of the following elements has lowest melting point?  <<CHECK-OPTIONS-ORDER>>
+
+--- CA (count-only bucket) YEAR-WISE ---
+  2024:   87
+  2023:  101
+  2022:  144
+  2021:  125
+  2020:   25
+  2019:   17
+  2018:   10
+  2017:    2
+
+CA repeated questions (top 25):
+  x2 (2023,2023) In 2022, what time did Chahat Arora wrap up the 100 m breaststroke race at the FINA World Swimm
+  x2 (2023,2023) Name the campaign launched by the Madhya Pradesh government on the occasion of National Girl Ch
+  x2 (2023,2023) Who was appointed as the first woman Vice-Chancellor of Jawaharlal Nehru University (JNU), New 
+  x2 (2022,2022) Which of the following sports was NOT played at Tokyo Olympics 2020 held in 2021?
+  x2 (2022,2022) As of 2022, India is the ______ largest economy in the world (as measured by nominal GDP).
+  x2 (2022,2022) Which country hosted the FIFA U-17 Women’s World Cup 2022?
+  x2 (2022,2022) “Pay Roll Automation for Disbursement of Monthly Allowances (PADMA)” was launched in June 2022 
+  x2 (2022,2022) Who among the following received the OSCAR for the best actor in leading role in 2022?
+  x2 (2022,2022) PV Sindhu, a famous badminton player of India, won _______ Open title in July 2022.
+  x2 (2022,2022) Who became the first athlete to win Gold in Yogasana at the 36th National Games, India in 2022?
+  x2 (2022,2022) In September 2022, who was appointed as the Attorney General of India?
+  x2 (2018,2018) Who was conferred with the Prize for Literature?
+  x2 (2018,2017) Where was the India’s ﬁrst ‘All India Institute of Ayurveda (AIIA)’ inaugurated on ‘Ayurveda Da
+  x2 (2018,2017) On 24 January 2018, the Ministry of Women and Child Development launched a Management Informati
+
+--- UNKNOWN BUCKET: 309 (all listed) ---
+  [2024_004] Q.20 Which Section of the Representation of People’s Act (RPA), 1951 deprives the prisoners of their right to 
+  [2024_007] Q.8 Which type of system did the leaders of independent India decide to adopt?
+  [2024_008] Q.5 Ina spread sheet, page orientation is changed through .
+  [2024_009] Q.7 Ina symport:
+  [2024_013] Q.2. Which of the following toame won the 8"" Pro Kabadd) League 20227
+  [2024_016] Q.16 Which of the following is the correct relationship?
+  [2024_025] Q.25 With reference te Chethlegirt Vitew feervad exeuidtes the Selberwie ctutercente und unlect the ceurest ep
+  [2023_037] White light is an example of: ans >
+  [2023_038] Prafetad 4 8 S-a1 GIaR oT ae SST OTT AB e x2 Ot (Karen) X
+  [2023_038] RG mT ea Se NST TN RS SD ST M8 <1. SOR, GRA CEPA SR faa SAAT, 2010 XK 2. Gah, Uae 1a & SIR aR ural afiaH, 2014
+  [2023_038] 2 THT ST (leg bye)’ BSG Sasa é1 x2 Bat *°. qefict x4. peda
+  [2023_038] Unde sideurd 4 aie pcieg veel ae aa guitar few ATE A? ans
+  [2023_039] The Unlawful Activities (Prevention) Act, which provides for the more effective prevention of certain unlawful
+  [2023_039] Which of the given statements is/are correct with respect to NAFED? i. NAFED is registered under the Multi-Sta
+  [2023_040] 6 (808 D Hos WarSorr Hes ypHHF s0GHS G08? ans 4 * STROH x3. srorer X4 5d)
+  [2023_040] According to David Ricardo, during a high deficit situation taxation and borrowing are__means of spending. ans
+  [2023_041] si eSeUA (Carl Anderson) $Ul AHL Wale dl alowed As yet CHa Stell ella sé ed], Bq on BASAletolL geAiditet Bed B
+  [2023_041] oflQniell Se leet Wie YAH (AU MLONSlSA UA SIL ot Wil aslA7 AQUA AGA WENA ArMett ULSUs Wacrilulell aie Aagal Ha
+  [2023_042] What is the TUPAC name of allylamine which is used to make pharmaceuticals and other chemicals? %
+  [2023_043] Which of the following is the right relationship between geometric length (I.,) and magnetic length (L,,)? “1L
+  [2023_043] Whoamong the following leaders received the ‘Lifetime Achievement Award’ during the 13th Sansad Ratna Awards? 
+  [2023_043] When did British Empire Games start? ans X
+  [2023_044] ° Final goods are divided into: X
+  [2023_044] Which of the following statements is correct about the value of money? i. It is directly related to the price 
+  [2023_046] As per the responsibilities defined in National Food Security Act, 2013, which of the following is a responsib
+  [2023_046] Which of these is NOT a characteristic of durable goods? X
+  [2023_046] Which of the following is the primary factor contributing to the dryness of old wells? X%
+  [2023_047] The plan that mainly aims to coordinate both, private and public investment and output plans through targets i
+  [2023_048] Which of the following options best describes the purpose of Pradhan Mantri Sram Yogi Maan-Dhan (PM-SYM) schem
+  [2023_048] Indian Comnci of Historical Research, an autonomous organisation, was set up by the Goverment of Tadia in ans 
+  [2023_049] Identify the correct statement/s regarding budgetary deficit? i. Deficit acts as a flow that adds to the stock
+  [2023_049] In India which Act divided the powers between the Central and units in terms of three lists? ans X
+  [2023_050] What was the percentage of India’s population that belonged to the Muslim religion in 2011? XK
+  [2023_051] Which of the following statements is/are correct with respect to income or output? i. Income or output are flo
+  [2023_052] Supply of Money is the quantity of money : X
+  [2023_053] What level of prevention is targeted by water defluoridation? ans >< 1. Tertiary prevention X 2. Primordial pr
+  [2023_056] ” Pafehad 4S ora unde tidurs A Uap afer acior tet e2 X + Urdu Gate Gt Lal Se 2 GR) GAYA Hl SAG LEAT SAR TAHT V
+  [2023_058] The IUPAC name of an element is Unnilennium. What is the symbol of the element? ans ¥
+  [2023_058] Which of the following is an open pit copper mine? ans
+  [2023_058] The minimum distance of distinct vision for a young adult person with no defect in eyes is: ans
+  [2023_058] In the 1930s, which of the following theories was propounded by Arthur Holmes about the mantle? X%
+  [2023_060] When did the Government of India bring the gender sensitivities of the budgetary allocation in its statement f
+  [2023_060] Sociologist Jan Breman described the change in the nature of the relationship between landlords, belonging to 
+  [2023_061] ‘Safeguarding India’s Intangible Cultural Heritage and Diverse Cultural Traditions of India’ is a scheme of wh
+  [2023_063] __ Rast-Goftar, a newspaper, propagated the messages of socio-religious reforms for which of the following soc
+  [2023_064] Which of these conditions enhance the potential of METs to attract more resources and expand services to their
+  [2023_064] Which of the following erstwhile Princely states was primarily associated with Kathak? v2 Avadh %
+  [2023_065] Which of the following steps is NOT involved in a Water Cycle? %
+  [2023_066] Which of the following steps is NOT involved in a Water Cycle? %
+  [2022_086] Which Indian player is also called as Dhing Express?
+  [2022_086] Who among the following wrote "The Bench"?
+  [2022_087] Which Indian city is also known as Queen of Deccan?
+  [2022_089] Some what before the time of Mauryan empire, about ______ years ago, emperors in China began building the Grea
+  [2022_090] Who among the following appointed Aziz Khummar a wine distiller to high administrative post?
+  [2022_091] India is the ______ producer of pulses and the ______ consumer of pulses.
+  [2022_092] Some what before the time of Mauryan empire, about ______ years ago, emperors in China began building the Grea
+  [2022_093] Which of the following two teams played in the final match of season 8 of PKL?
+  [2022_093] Who is famously known as the father of Indian nuclear programme?
+  [2022_094] For which of the following films, has Akshay Kumar won a National award?
+  [2022_095] What is the radius of the earth?
+  [2022_095] In humans the neck is joined by the head by which of the following joints?
+  [2021_096] Where is the JRD Tata Sports Complex located?
+  [2021_097] Identify the correct formula to find the potential difference between two points.
+  [2021_098] Match column A with column B.
+  [2021_099] Which of the following is the first city in history to host the Paralympic Games for a second time?
+  [2021_099] Which kind of sport is bungee jumping?
+  [2021_102] The election of the next Vice-President is to be held within _____ of the expiry of the term of office of the 
+  [2021_103] What is the other name of trap shooting?
+  [2021_103] What is the common name of Parthenium hysterophorus?
+  [2021_103] Credit money refers to money whose money value is more than commodity value.
+  [2021_104] What does ‘p’ in pH stand for?
+  [2021_104] What is a way in which adaptation does NOT take place?
+  [2021_105] A candidate seeking election as Vice-President is required to make a security deposit of _____.
+  [2021_106] From which of the following years was the National Kalidas Samman started in India?
+  [2021_108] Which outside layer of the Earth is less dense, thick, and andesitic to granite composition?
+  [2021_109] In 1869, who named a new term ‘Oecologie’that defined the study of the relationship of organisms with their en
+  [2021_110] Who among the following is known as a descendant of Ishwari Prasad, the first Kathak teacher?
+  [2021_110] All the chains formed by nutritional relations are used to understand energy flow.
+  [2021_110] Which is a visible sign of severe iodine deficiency?
+  [2021_110] In which of the following years did Pandit Bhimsen Gururaj Joshi give his first ever live performance?
+  [2021_111] Who among the following personalities was awarded the Officer of the Legion of Honour award?
+  [2021_112] _________’s ‘The Year of the Runaways’ follows the lives of three migrant workers who flee India to look for w
+  [2021_113] Members of Public Accounts Committee are elected for a period of:
+  [2021_116] When was the Sri Shanmukhananda National Eminence Award set up?
+  [2021_116] Identify the correct statement in relation toampere.
+  [2021_117] Which of the following banks has launched contactless ‘RuPay Select’ debit card in association with NPCI (Nati
+  [2021_117] ______ is generally called as milk sugar as it is found in milk.
+  [2021_118] Who among the following was NOT a ruler of the Kushana dynasty?
+  [2021_118] Which of the following pigments causes the red colour in onions? oA 2. Anthocyanins HK 3. Chlorophylis PK 4. B
+  [2021_118] As per the standards set by the Department of Telecom, Government of India, for all the new designs of mobile 
+  [2021_119] When was the Federation of Indian Chambers of Commerce and Industry (FICCI) established in India?
+  [2021_119] Which is the largest of the following Duns with an approximate length of 35-45 km and a width of 22-25 km?
+  [2021_119] A ﬁle with the ______ ﬁle extension is a Word Open XML Macro-Enabled Document ﬁle.
+  [2021_120] Who among the following has launched the Global Pravasi Rishta portal and mobile app, to connect with Indian D
+  [2021_120] Who among the following was a leader who led a revolt against the British rule from North East India?
+  [2021_120] Which economic thought talks about methodological individualism, or the idea that people will act in meaningfu
+  [2021_121] Which of the following is true?
+  [2021_122] Which of the following equipment is used in throwing events?
+  [2021_123] In which of the following cities was Lata Mangeshkar born?
+  [2021_126] Name a common ingredient made from the starchy part of corn kernels used as a thickening agent for gravies, ma
+  [2021_126] The first linguistic state in India got established in:
+  [2020_127] Which of the following is INCORRECTLY paired?
+  [2020_128] What is the symbol of Tin?
+  [2020_128] When did the Sarkaria Commission submit its report?
+  [2020_128] During the phenomenon of aphelion, the approximate distance between the earth and the sun is:
+  [2020_129] The three-carbon molecules broken down from six-carbon molecules of glucose during the ﬁrst step in the proces
+  [2020_130] Which Indian social activist and politician led the Self-Respect Movement or Dravidian Movement against Brahmi
+  [2020_130] The December 1929 session of Congress, in which the resolution for 'Poorna Swaraj' was passed, was presided ov
+  [2020_130] Who is known as the ‘Father of Public Sector Undertakings’ in India?
+  [2020_131] Which Indian banknote released in November 2016 features Mangalyaan on the reverse side?
+  [2020_131] Which function key displays the Print Preview window in Microsoft Oﬃce?
+  [2020_131] Which famous personality said the following? “Don't take rest after your ﬁrst victory because if you fail in s
+  [2020_131] Which Indian writer was awarded the ‘Rabindranath Tagore Literary Prize 2019’?
+  [2020_131] When was the Backward and Minority Communities Employees Federation (BAMCEF) established in India?
+  [2020_132] What was India’s rank in the world in terms of military power as per the ‘Global Firepower Nations Index 2019’
+  [2020_133] Which of the following converts analogue information into digital form?
+  [2020_133] Who among the following is NOT an Indian weightlifter?
+  [2020_133] Who among the following won the 'BBC Sports Personality of the Year 2019' award?
+  [2020_133] Which of the following nations has the most powerful passport in the world as per ‘Henley Passport Index 2020’
+  [2020_133] Millions of years ago the Indian subcontinent was separated from the mainland by a large sea known as the:
+  [2020_133] Which of the following is NOT a good conductor of electricity?
+  [2020_134] Which of the following passes cuts through Pir Panjal range and links Manali and Leh by road?
+  [2020_135] Which of the following is a system designed to transmit information between electronic musical instruments?
+  [2020_135] UNDP's ‘Human Development Report’ (HDR) measures development by combining which of the following three indicat
+  [2020_135] During India's struggle for independence, who among the following became the President of the All India States
+  [2020_135] What was the rank of the Indian passport in the world as per ‘Henley Passport Index 2020’?
+  [2020_136] The State Government of Goa launched the ‘Swasthya Sakhi Project’ in January 2020 to ensure the:
+  [2020_137] As of January 2020, who among the following has the distinction of having the highest career batting average i
+  [2020_137] In which year did the Dalai Lama cross over into India and take asylum?
+  [2020_137] JP Nadda was elected as the President of the Bharatiya Janata Party (BJP) on 20 January 2020. He is the ______
+  [2020_137] Who among the following headed the nine-judge constitutional bench that declared the right to privacy as a fun
+  [2020_138] Which of the following teams won the 129th edition of Durand Cup in August 2019?
+  [2020_138] In which of the following years did India come under the direct rule of the British crown?
+  [2020_139] In which year did Telangana become the 29th state of India?
+  [2020_139] Who has been appointed the Director General of the National Security Guard (NSG) in October 2019?
+  [2020_139] Which of the following nations ‘unintentionally’ shot down a Ukrainian Boeing 737-800 passenger aircraft in Ja
+  [2020_139] Who among the following was chosen as the Time Magazine’s 2019 Person of the year?
+  [2020_141] Where were the first Winter Paralympics Games held?
+  [2020_141] Which woman astronaut has set the record for the longest single spaceflight by a woman?
+  [2020_141] What is the normal air pressure at sea level?
+  [2020_141] Who has won DSC Prize for South Asian Literature 2019?
+  [2020_143] Which of the following ministries launched the two campaigns, named Angikaar and Ecourse?
+  [2020_143] Which of the following Articles ensures to provide free and compulsory education to all children in the age gr
+  [2020_144] Select the correctly matched pair of name of the company and its founder.
+  [2020_144] Vinesh Phogat is an ace Indian ______.
+  [2020_144] At which of the following hill stations can tourists visiting in winter experience living in igloos?
+  [2020_144] Jeff Bezos is the CEO of:
+  [2020_145] The Indian Government annexed ______ in 1948 under the code name 'Operation Polo'.
+  [2020_145] In May 2020, the Government of India raised the net borrowing limit for state governments to ______% of the gr
+  [2020_145] Who has developed the Automatically Programmable Tool (APT)?
+  [2020_145] 1 Petabyte (PB) = 1024 ______.
+  [2020_145] Who was India's ﬁrst Chief of Defence Staff?
+  [2020_145] Locomotion in ______ takes place with the help of a muscular foot.
+  [2020_145] As of April 2020, ______ holds the record for delivering the most number of balls by any woman cricketer in Wo
+  [2020_145] Depression is a ______ disorder.
+  [2020_145] Which of the following is an example of a terrestrial natural disaster?
+  [2020_146] What is the height of Mt. Godwin Austen, also known as Mt. K2?
+  [2020_146] At which position was India ranked at the 14th Asian Shooting Championship?
+  [2020_146] According to a Social Mobility Index released by World Economic Forum on 20 January 2020, India was ranked at 
+  [2020_146] In which city was the ‘11th Nuclear Energy Conclave (NEC)-2019’ held?
+  [2020_147] In April 2020, Facebook—an American social media and technology company — announced its plan to buy ______% eq
+  [2020_147] Which of the following Indian-origin UK politicians was previously Chief Secretary to the Treasury before bein
+  [2020_147] Which of the following is a vertebrate?
+  [2019_148] Who among the following is the 2019 winner of the $100,000 Nine Dots Prize?
+  [2019_148] Who is the director of the film ‘PM Nar- endra Modi’?
+  [2019_148] During the passage of the Royal Titles Act 1876, the office of the British Prime Minister was occupied by:
+  [2019_148] In which year was Google incorporated as a private company?
+  [2019_148] In May 2019, the Government of India approved a new scheme which assures minimum monthly pension to all shop- 
+  [2019_148] Which of the following terms refers to the running down or payment of a loan in instalments?
+  [2019_149] In December 2016, the National Pay- ments Corporation of India developed a mobile payment app named as ______
+  [2019_149] Which of the following types of bank accounts does NOT earn any interest for the account holder?
+  [2019_150] In May 2019, which of the following companies announced that it would stop selling its smartphones in India?
+  [2019_150] The investment and financial services major Goldman Sachs has sanctioned $250 million to construct one of its 
+  [2019_150] In which year was Satya Sodhak Samaj founded by Jyotirao Phule?
+  [2019_151] Who among the following wrote the 'The Namesake'?
+  [2019_151] Which one of the following is an Tool?
+  [2019_151] Which one of the following is the joint Army exercises between France and India?
+  [2019_152] World Metrology Day' was celebrated in India on in ______ 2019.
+  [2019_152] _______ is the process by which water vapour in the air is changed into liquid water.
+  [2019_152] Google was founded in 1998 by Larry Page and _______
+  [2019_153] In which of the following locations was the Global Venture Capital Summit 2018 held?
+  [2019_153] In May 2019, Suresh Kumar was ap- pointed as the Chief Technology Officer of:
+  [2019_153] Which is the coldest place in India?
+  [2019_154] The scientific discipline concerned the description of rock successions their interpretation in terms of a gen
+  [2019_154] In which year did the Convention Wadga
+  [2019_155] Which of the following banks was founded by Muttaiya Chidambaram Chettiar Muthiah Chidambaram Chettiar in Chen
+  [2019_155] In which year was the State Financial Corporation Act passed? The Act provides for the establishment of state 
+  [2019_156] Which one of the following is a monetary principle stating that "bad money drives out good"?
+  [2019_156] Who among the following was awarded the third Sayaji Ratna Award in November 2018 which has been established i
+  [2019_157] Where was the Cooperation Organization Forum held from 23-26 May
+  [2019_157] The average of a numbers 75% of the numbers is each of the remaining decreased by 9, then the the numbers is :
+  [2019_157] If x 2 – 6x + 1 = 0, then  1  ( )  x 4 +   x 2 + 1 is :  x 2 
+  [2019_157] For θ being an acute 4 1.25, then the value of equal to : 3 4
+  [2019_158] Which one of the following business groups Switzerland is associated to Carborundum Universal Austria Limited 
+  [2019_158] Who amongst the following institution names ‘Kalashram’ training in dance disciplines?
+  [2019_158] In March 2019, the bought how many USD long-term forex swap ease liquidity ahead of
+  [2019_158] If a 10-digit number divisible by 88, then the is :
+  [2019_158] 10 years ago, the average of five members was 38 new members join, whose 8 years. If the present family is the
+  [2019_159] As a part of 22 May 2019. Kolkata and annual bilateral India and ____.
+  [2019_159] Which of the home to the world, K2?
+  [2019_159] At NASA’s aanual Challenge, a the ‘AIAA Award’ in April
+  [2019_159] The responsibility supervising banks, which Cooperative which one of
+  [2019_160] Which of the the World Leaders Anti-Semitism in
+  [2019_160] Who among the was NOT banned ball tampering in
+  [2019_160] When is the World every year?
+  [2019_160] If a 2 + b 2 + = 135 0) then the value
+  [2019_160] The simplified value 15 of 8 + 6 + [(27
+  [2019_160] Two circles of radii at the points A the distance circles is x cm, then ( )
+  [2019_162] In 2019 who became an election in Japan?
+  [2019_162] Who developed the started as a Finland?
+  [2019_162] Who won the American World’s Best 2019 as a pianist?
+  [2019_162] Who presides over two Houses of
+  [2019_162] If (x + 7) 3 + (2x + (2x + 8) (2x + 3), of x?
+  [2019_162] If 3 3 x + 4 3 x = 5 3 x
+  [2019_162] If x = 2 - √3 then
+  [2018_163] The competitive company can be ___________.
+  [2018_163] Konkan coast is stretched from where to where?
+  [2018_163] Which part of deals with Union
+  [2018_163] How much amount reserved for the Mission’ named Government of India?
+  [2018_164] Which of the following indicates circle of the Saranath Pillar?
+  [2018_164] Which place is now known as Water' in India?
+  [2018_164] The motion of a freely falling an example of ______________ accelerated motion.
+  [2018_165] 1 km/hr equals ___________ m/s.
+  [2018_166] Amir Khusrow was the disciple of whom?
+  [2018_166] Which year has been set as goal completing the Mumbai-Ahmedabad bullet train project operated with the help Ja
+  [2018_166] Find the current (in A) when a charge 500 Coulomb flows in 25 seconds.
+  [2018_167] Which film has been awarded with Environment film in 64th National awards?
+  [2018_167] Myanmar shares around _________ with India.
+  [2018_167] Which of the following company has are launched secret Zuma Mission for United States government?
+  [2018_167] Air moves from the region where the _______________.
+  [2018_168] Which among the following is NOT a ‘geographical indicator?
+  [2018_168] Kishanganga Project is a major reason for contention between India and________.
+  [2018_168] What is the name of the new upgraded version of indigenous transport aircraft SARAS?
+  [2018_169] Which of the following fibre?
+  [2018_169] 1 m/s equals ____________
+  [2018_169] ___________ bears that they are not easily snowy background.
+  [2018_170] Which of the following maximum earning in Indian
+  [2018_170] The eminent Saint Vallabhacharya associated with which of the branches?
+  [2018_170] Which of the following awarded the Nobel Peace Prize
+  [2018_170] Who is the the present Prime of Pakistan?
+  [2018_170] The bodies of penguins are and their feet have webs, good swimmers.
+  [2018_170] Which of the statements are correct? A) Dani Pedrosa won the Motorcycle Grand Prix B) Bernhard Langer won the 
+  [2018_171] As per the data released by the Income-
+  [2018_172] _________ are details of appearance or behavior or in other words, a particular form or a particular function 
+  [2018_172] The secret Zuma Mission for government has been launched SpaceX’s ______ rocket.
+  [2018_172] The ‘National Trade Facilitation Plan’ has been formulated implementation of World Organisation’s Trade Facili
+  [2018_172] Calculate the pressure (in Pa) 800 N is applied to an area of
+  [2018_172] _________ are details of appearance or behavior or in other words, a particular form or a particular function 
+  [2018_172] The secret Zuma Mission for government has been launched SpaceX’s ______ rocket.
+  [2018_172] The ‘National Trade Facilitation Plan’ has been formulated implementation of World Organisation’s Trade Facili
+  [2018_172] Calculate the pressure (in Pa) 800 N is applied to an area of
+  [2018_173] Pancreatic juice require which medium for 2 seconds?
+  [2018_173] The central government has set an shows how the document would look when ambitious target of raising how much 
+  [2018_174] Where did the telegraph line be laid first?
+  [2018_174] Who among the following is NOT one of the recipients of Major Dhayan Chand Award for the year 2017?
+  [2018_174] SARAS PT1N is how many seater passenger aircraft designed and developed by CSIR-NAL?
+  [2018_174] As the object covers unequal distances in equal intervals of time, it is said to be in ____________ motion.
+  [2018_175] Which year has been set completing the bullet train project operated help of Japan?
+  [2018_176] From May 2017, the Real Estate has come into effect. The mandates depositing how much the funds collected from
+  [2018_176] As the object covers equal in equal intervals of time, it is be in ____________ motion.
+  [2018_177] Which of the following elements not found in the form archaeological remains Kalibanga?
+  [2018_178] For internal financing Plans, the Government ___________.
+  [2018_178] Which of the following agitation did NOT happen of Bengal?
+  [2018_178] At which place the Disaster Management (BIMSTEC DMEx 2017), October 2017?
+  [2018_178] ICAR’ launched National Higher Education Project association with World is ICAR (Indian Council of Research) l
+  [2018_178] On 19 September 2017, approved Fugitive Offenders Bill, 2017. The the responsibility to Fugitive Economic ____
+  [2018_179] Jain literature is also called as _______. m∠X = 30°,
+  [2018_179] Which of the following statements CORRECT?
+  [2018_179] When the vibrating object moves backwards, it creates a region of low pressure in the medium called
+  [2018_180] Which of the following is NOT considered as If 20% of consumers of drink A start Amir Khusro's creation?
+  [2018_180] What is the weight of one mole Carbon
+  [2018_181] Income and consumption are ________.
+  [2018_181] When was Consumer Protection Act (COPRA) passed?
+  [2018_181] The terminal part of the carpel in a ﬂower, which may be sticky is ________.
+  [2018_181] Find the current (in A) when a charge of 1200C ﬂows in 6 seconds.
+  [2018_181] In a ________wave particles of the medium vibrate in a direction perpendicular to the direction of wave propag
+  [2018_181] The polar ice-caps are made of ________water.
+  [2017_182] Tectona grandis Linn is the scientiﬁc of
+  [2017_182] Which of the following is also known as a name Common Water Hyacinth?
+  [2017_183] Which among the following is white phosphorus?
+  [2017_183] Evidence suggests that life on Earth has existed for about __________.
+  [2017_183] Pulitzer Prize was established in ________.
+  [2017_183] What is the retirement age of the Minister of India?
+  [2017_184] Jain literature is also called as _______. m∠X = 30°,
+  [2017_184] Which of the following statements CORRECT?
+  [2017_184] When the vibrating object moves backwards, it creates a region of low pressure in the medium called
+  [2017_185] The common name of dichlorodiﬂuoromethane is _________.
+  [2017_185] Who among the following has not scored a double hundred in an ODI?
+  [2017_186] Match the characteristics with their market
+  [2017_187] How many types of teeth are there in humans?
+  [2017_187] how many Gigabyte is equal to 1 Pettabyte?
+  [2017_187] Which of the following is a percussion musical Instrument?
+  [2017_187] Which cricketer holds the fastest test century record?
+  [2017_188] _________is a drug or substance makes you feel relaxed and body work and react more slowly.
+  [2017_188] Carica papaya is the scientiﬁc _________.
+  [2017_188] _________is the ﬁrst Indian company to list on NASDAQ.
+  [2017_188] In which form of government priests the name of God?
+  [2017_188] Vikas Khanna is an award _________ starred Indian chef.
+  [2017_189] _______is a strong drug that doctors to people to make them calm or help sleep.
+  [2017_189] BSE SENSEX Constitutes number _______ of companies.
+  [2017_189] Before its Independence, Bangladesh was part of _______. the
+  [2017_191] Bambusa dendrocalmus is the name of....................
+  [2017_191] Acinoyx jubatus is the scientific of........................
+  [2017_191] How many Union Territories are there in India?
+  [2017_191] A hard coal containing little volatile mater is called...................
+  [2017_191] Human beings ‘hearing range is................
+  [2017_192] A series of instructions written programmer according to a given set or conventions is called.................
+  [2017_192] Which of these is not an Indian
+  [2017_192] Vertebrates belongs to the
+
+--- RANDOM SAMPLES PER SUBJECT (10 each, for QA) ---
+  [HISTORY/Modern-SocioReligious] Maharshi Dayanand Saraswati founded the Arya Samaj organisation in 1875 at which of the following pl
+  [HISTORY/Modern-FreedomStruggle] Q.15 The birthday of is celebrated as the International Day of Non-Violence.
+  [HISTORY/Modern-FreedomStruggle] Who received a Nobel Peace Prize for dismantling apartheid in South Africa?
+  [HISTORY/Ancient-Misc2] Kalinga is the ancient name of coastal ______.
+  [HISTORY/Medieval-Mughal] Babur, the first Mughal emperor, succeeded to the throne of Ferghana in ______ when he was 12 years 
+  [HISTORY/Modern-FreedomStruggle] ‘The Deccan Sabha’ was founded by which of the following nationalists? %
+  [HISTORY/Modern-BritishRule] Who among the following Peshwas signed the Treaty of Bassein with the British East India Company? an
+  [HISTORY/Medieval-Mughal] Whom did Akbar defeat in the 2 nd battle of Panipat in 1556?
+  [HISTORY/Modern-FreedomStruggle] Q.18 In his ‘Drain of Wealth’ argument, who among the following stated that Britain was completely d
+  [HISTORY/Ancient-Gupta&Later] During the Gupta Period, gold coins were called by which of the following names?
+  [GEOGRAP/Minerals&Industry] Q.15 The district of Shivamogga that is famous for its Iron-Ore and Manganese mineral is located in 
+  [GEOGRAP/Population] Q.2 According to the Census of India-2011, which state has the lowest sex ratio?
+  [GEOGRAP/World-Geo] Iris possible to derive the value of GDP of a country. Which function of money is applicable here? ¥
+  [GEOGRAP/Rivers] Which of the following river forms the Dhuadhar falls?
+  [GEOGRAP/EarthBasics2] In 2018, India was the ______ producer of groundnut in the world.
+  [GEOGRAP/States&Boundaries] Paithani Saree belongs to the state of _________.
+  [GEOGRAP/World-Geo] In 2015, the nominal rate of interest in a country was 5.5% and the inflationrate then was 2.5%. So 
+  [GEOGRAP/SolarSystem] Q.10 Which of the following rocky planets is the fastest planet in our solar system — traveling thro
+  [GEOGRAP/World-Geo] With which country’s university Indian Ans. C Railways has signed an agreement for 491. Which of the
+  [GEOGRAP/EarthBasics] Indian Standard Time (IST) is ahead of Greenwich Mean Time (GMT) by ______.
+  [POLITY/UnionStructure] Konkani is the official language of..................
+  [POLITY/Parliament] On 10 April 2017, Lok Sabha passed the Motor Vehicles (Amendment) Bill, 2016. The Bill seeks to amen
+  [POLITY/Judiciary] Who appoints the Chief Justice of India?
+  [POLITY/Duties&DPSP] _ Which of the following is NOT included in the category of Directive Principles of State Policy of 
+  [POLITY/PanchayatiRaj] The election to constitute a Panchayat should be completed before the expiration of a period of_____
+  [POLITY/Articles/FundamentalRi] Under which Article of Indian Constitution, a person can move to a High Court if his Fundamental Rig
+  [POLITY/Articles/FundamentalRi] The Indian parliament has power to impose restrictions on trade, commerce and intercourse through wh
+  [POLITY/Duties&DPSP] Q.7 Fundamental Duties were added in Part-lV of the Constitution under Article 51-A in the year 1976
+  [POLITY/Articles/FundamentalRi] Which of the following is mentioned in Article 39 A of the Indian Constitution ? ~
+  [POLITY/Laws&Acts] Which of the following state's legislative assembly adopted a redesigned logo consisting of the Nati
+  [ECONOMI/RBI&Monetary] Which among the following is correct about Reverse Repo Rate?
+  [ECONOMI/RBI&Monetary] ______ came into existence on 12 July 1982 by transferring the agricultural credit functions of RBI 
+  [ECONOMI/Markets-Cost] Proportional taxes would help to reduce the autonomous expenditure multiplier because : X%
+  [ECONOMI/RBI&Monetary] Which of these MFIs are NOT regulated by the RBI? %
+  [ECONOMI/Schemes] “Skilling of girls in non-traditional livelihood (NTL)” has been included in which flagship scheme?
+  [ECONOMI/Markets-Cost] Which of the following is NOT a common product offered by microfinance institutions in India? %
+  [ECONOMI/Money&Banking] The measures of money supply, namely, M1, M2, M3 and M4, in this order, indicate: ans
+  [ECONOMI/Money&Banking2] Who among the following came up with his own style of dance called ‘Hi-dance’, which he later rechri
+  [ECONOMI/Institutions] Which of these is NOT an NGO involved in microfinance related activities? ~¥ 2 NABARD in Mumbai %
+  [ECONOMI/Money&Banking] When the commodity value of money is less than the monetary value of money, it is called ___________
+  [PHYSICS/Motion&Force] What is the name of the force with which earth pulls everything towards itself?
+  [PHYSICS/Optics] Find the power of a convex image formed is at a distance from the lens when the object is the other 
+  [PHYSICS/Heat] In which of the following ways of heat transfer no medium is required?
+  [PHYSICS/Motion&Force] Q.5 Who calculated the approximate location of the planet Neptune by studying gravity- induced distu
+  [PHYSICS/Motion&Force] For a body moving with uniform accel- eration its final velocity equals ____________.
+  [PHYSICS/Units&Measurement] The SI unit of momentum is __________.
+  [PHYSICS/Motion&Force] if the uncertainty in position and momentum are equal, the uncertainty in velocity will be: A "x1. h
+  [PHYSICS/Units&Measurement] The speed of the Central Processing Unit (CPU) is measured in_________, which represents a CPU cycle
+  [PHYSICS/Motion&Force] Inany economy, the income velocity of the hoarded money (idle) by the public is equal to. . X
+  [PHYSICS/Pressure/Fluids] Barometer was invented by
+  [CHEMIST/Agri-Chem] Which of the following is used as a pesticide or fumigant for cereals and as an igniting agent in fl
+  [CHEMIST/Acids/Bases/Salts] Which Indian territory was formerly III. Bases are bitter in taste and generate known as 'Black Wate
+  [CHEMIST/Metals/Alloys] Which of the following INCORRECT regarding
+  [CHEMIST/Metals/Alloys] The particles of which metal on heating to the boiling point of 357°C go from liquid state to gas st
+  [CHEMIST/PeriodicTable/Atom] Jadugora, in is an important following?
+  [CHEMIST/PeriodicTable2] What mmerical scale was introduced in 1932 that determined the electronegativity of fluorine to be
+  [CHEMIST/Formulas&Reactions] NAHCO is chemical formula for _______. 37. What is the Capital of Telangana State? 3
+  [CHEMIST/Acids/Bases/Salts] Q.6 In which year did Johannes Nicolaus Bronsted and Thomas Martin Lowry propose the fundamental con
+  [CHEMIST/Matter&Mixtures] Q.4 Select the olfactory indicator from among the given options.
+  [CHEMIST/Gases] Which of the following and converted into thin
+  [BIOLOGY/Disease&Immunity] Which of the following pairs of 'disease - duration' is correct? I. Acute - long duration II. Chroni
+  [BIOLOGY/Digestion] Which of the following protects the inner lining of the stomach from the action of the hydrochloric 
+  [BIOLOGY/Nutrition/Deficiency] Which of the following pairs of 'mineral – source' is correct? I. Vitamin A – Papaya II. Iron – Spin
+  [BIOLOGY/Skeleton/Muscles] Q.21 How do the muscle cells help in movement?
+  [BIOLOGY/Body-Facts] Amoeba belongs to the phylum
+  [BIOLOGY/Digestion] In humans, the digestion of carbohydrates like starch, begins in which of the following parts?
+  [BIOLOGY/Respiration/Excretion] Kidney stones are composed of _______.
+  [BIOLOGY/Cell&Genetics] Which cytologist demonstrated the role of the endoplasmic reticulum (ER) in protein processing and s
+  [BIOLOGY/Plants] Identify the plant that shows adaptation through leaves that are reduced to spines.
+  [BIOLOGY/Disease&Immunity] Chikungunya is an infection caused by ______ mosquito.
+  [ENVIRON/Parks&Sanctuaries] Reni Village in Garhwal was known for what environmental movement in 1970?
+  [ENVIRON/Parks&Sanctuaries] How many Indian biosphere reserves are included in the UNESCO World Network of Biosphere Reserves, a
+  [ENVIRON/Parks&Sanctuaries] Which of the following is a Floating National Park of India?
+  [ENVIRON/Wetlands&Acts] Sandalwood is found in which type of forests in India?
+  [ENVIRON/Parks&Sanctuaries] Which biosphere was declared as India's 16"* Biosphere Reserve in 2009, noted for the conservation o
+  [ENVIRON/ClimateChange/Ozone] The ozone layer is mainly found in the lower portion of the.............................
+  [ENVIRON/Species&IUCN] Which of the following is an endemic species?
+  [ENVIRON/Species&IUCN] Which of the following is an extinct species?
+  [ENVIRON/Parks&Sanctuaries] As of October 2019, what is the total number of wildlife sanctuaries in India?
+  [ENVIRON/Wetlands&Acts] Which of the following is not a technique or a step to convert normal water to potable water?
+  [CULTURE/Paintings] The 'Pattachitra' style of painting is one of the oldest and most popular art forms of ______
+  [CULTURE/Architecture] Which of the following sites does NOT feature in the United Nations’ World Heritage List as of June 
+  [CULTURE/Festivals/Fairs] Which festival marks the beginning of the Tibetan New Year?
+  [CULTURE/Dance-Persons] Q.16 Terah taali dance belongs to which of the following states?
+  [CULTURE/ClassicalDances] Who among the following is a 19th century exponent of the Kathak dance?
+  [CULTURE/Architecture] New Delhi's Lotus Temple was designed by an architect from ______.
+  [CULTURE/Music] Q.16 Which folk music is based on the Mahabharata with Bhima portrayed as hero?
+  [CULTURE/Music] Maithili Thakur and Lydian Nadhaswaram were bestowed with Sur Jyotsna National Music Awards ________
+  [CULTURE/Dance-Persons] The Who among the a famous dancer of
+  [CULTURE/Festivals/Fairs] Match the columns. States Cultural festivals A) Bihar I) Bihu B) Arunachal Pradesh II) Tam Ladu C) A
+  [STATIC/Firsts&Superlatives] Who was the first Indian woman to win an Olympic medal?
+  [STATIC/Parliaments&Orgs] Which of the following art forms of Kerala is in UNESCO’s list of the Intan- gible Cultural Heritage
+  [STATIC/Firsts&Superlatives] Which child activist became the first Indian to be awarded the ‘Changemaker Award 2019’ (given by th
+  [STATIC/Sports-Equipment/Rules] What is the name of the traditional Indian sport shown in the picture below? image
+  [STATIC/Awards] Which of the following pairs is NOT correctly matched?
+  [STATIC/Sports-Others] Which of the following countries never organised Olympic games?
+  [STATIC/Institutes&Places] Q.13 National Institute of Mountaineering and Adventure Sports (NIMAS) is located at
+  [STATIC/Awards] Manjamma Jogati became India’s first transgender folk dancer to receive a Padma Shri honour for her 
+  [STATIC/Sports-Others] Q.21 Which sport is NOT played in mixed doubles?
+  [STATIC/Sports-Others] In which of the following cities is the headquarters of All India Chess Federation situated?
+  [COMPUTE/MSOffice] Which of the following shortcut key is used to save a file in MS-Word 365?
+  [COMPUTE/Misc-Comp] Which among the following generations of Computer used vacuum tubes?
+  [COMPUTE/Internet&Tech] Q.15 Which organisation, in collaboration with the Central Board of Secondary Education (CBSE), and 
+  [COMPUTE/Misc-Comp] What is an output device that transform the signal from the computer's sound card into audio?
+  [COMPUTE/Internet&Tech] In the world of computers, what is ‘Ub- untu’?
+  [COMPUTE/Misc-Comp] Rishu wants to input data to the computer by pressing keys. Which input device should he use?
+  [COMPUTE/MSOffice2] In Microsoft Word, first line and hanging 1 are special forms of ____________.
+  [COMPUTE/Misc-Comp] In the context of memory size in computer data storage, one gigabyte is equal to how many megabytes?
+  [COMPUTE/Misc-Comp] Which of the following is NOT an output device?
+  [COMPUTE/Internet&Tech] After which of the following centuries, did the practice of donating land in South India go a long w
+  [CA/current-affairs] Who is the governor of Reserve Bank of India as of 2022?
+  [CA/current-affairs] Q.14 In year 2023, the Government of India launched which of the following schemes to bring Indian-o
+  [CA/current-affairs] In 2023, which Indian Tennis player became the oldest to win the ATP Masters 1000 title? X%
+  [CA/current-affairs] Q.15 As of March 2024, who among the following is the Chairperson of the National Green Tribunal?
+  [CA/current-affairs] Who among the following Indian Grandmasters defeated the world number one Magnus Carlsen and become 
+  [CA/current-affairs] The Mines and Minerals (Development and Regulation) Amendment Bill, 2021 was introduced in Lok Sabha
+  [CA/current-affairs] _______ has been re-elected as the President of International Solar Alliance in October 2022.
+  [CA/current-affairs] Who among the following has been chosen as the male goalkeeper of the year by the International Hock
+  [CA/current-affairs] Gurucharan Singh received the Padma Shri from the Government of India in 2023 for his contributions 
+  [CA/current-affairs] In Budget 2022, the Khelo India Scheme, a flagship Central Sector Scheme of the Ministry of Youth Af
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]
+  [NO-TEXT/hindi-font-broken] बौ ल वैशाली और नालंदा न न ल खत म से कस रा य म
+  [NO-TEXT/hindi-font-broken] जब उ तर से बहने वाली जल-धाराएँ कम ढलान वाले भू-तलीय ढालू मैदान म वखं डत होती ह, तो कस कार क न ेपणीय 
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]
+  [NO-TEXT/placeholder] [question PDF me image tha — OCR se capture nahi hua]

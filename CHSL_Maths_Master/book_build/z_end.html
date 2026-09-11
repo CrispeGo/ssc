@@ -1,0 +1,12 @@
+</div><!-- /book -->
+<script>
+// प्रिंट बटन + नेविगेशन (केवल स्क्रीन; मुद्रण में छिपा रहता है)
+document.querySelectorAll('.navbtn:not(.soon)').forEach(function(b){
+  b.addEventListener('click', function(e){
+    if(b.tagName==='A') return;
+    e.preventDefault();
+  });
+});
+</script>
+</body>
+</html>
