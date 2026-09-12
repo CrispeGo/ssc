@@ -120,6 +120,12 @@ CH = {
   'Sectors': 'क्षेत्र',
   'Inflation': 'मुद्रा स्फीति',
  },
+ 'COMPUTER': {
+  'Internet&Tech': 'इंटरनेट और तकनीक',
+  'MSOffice': 'MS Office', 'MSOffice2': 'MS Office',
+  'Hardware&Network': 'हार्डवेयर और नेटवर्किंग', 'Hardware&Network2': 'हार्डवेयर और नेटवर्किंग',
+  'Misc-Comp': 'विविध कंप्यूटर',
+ },
 }
 
 GROUPS = {'SCIENCE': ['BIOLOGY', 'CHEMISTRY', 'PHYSICS', 'ENVIRONMENT']}
