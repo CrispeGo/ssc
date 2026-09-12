@@ -126,6 +126,19 @@ CH = {
   'Hardware&Network': 'हार्डवेयर और नेटवर्किंग', 'Hardware&Network2': 'हार्डवेयर और नेटवर्किंग',
   'Misc-Comp': 'विविध कंप्यूटर',
  },
+ 'CULTURE': {
+  'Music': 'संगीत',
+  'ClassicalDances': 'शास्त्रीय नृत्य',
+  'Dance-Persons': 'नृत्य-व्यक्तित्व',
+  'FolkDances': 'लोक नृत्य',
+  'Festivals/Fairs': 'त्योहार और मेले',
+  'Architecture': 'स्थापत्य',
+  'Literature-Culture': 'साहित्य', 'Literature2': 'साहित्य',
+  'Films': 'सिनेमा',
+  'Paintings': 'चित्रकला',
+  'Theatre&Puppetry': 'रंगमंच और कठपुतली',
+  'Martial&Misc': 'विविध कला',
+ },
 }
 
 GROUPS = {'SCIENCE': ['BIOLOGY', 'CHEMISTRY', 'PHYSICS', 'ENVIRONMENT']}
