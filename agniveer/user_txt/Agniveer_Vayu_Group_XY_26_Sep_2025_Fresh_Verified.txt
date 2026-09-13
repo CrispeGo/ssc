@@ -1,0 +1,1269 @@
+AGNIVEER VAYU — GROUP XY
+26 SEPTEMBER 2025 — ALL SHIFTS
+MEMORY-BASED PAPER
+FRESH PDF-BASED EXTRACTION — QUESTIONS + OPTIONS
+
+SOURCE OF TRUTH:
+Agniveer Vayu Science & Other than Science (Group XY) 02-2026
+(26 Sept 2025 All shifts) Memory-Based Paper.pdf
+
+Extraction:
+- Fresh extraction directly from this uploaded PDF.
+- Previous TXT/file was not used as a source.
+- English question + English options retained.
+- Hindi duplicate blocks removed.
+- "Correct Option" answer-key lines removed.
+- Question order preserved.
+- No missing content has been invented.
+- Formula/diagram-heavy content is retained in text form as exposed by the PDF blocks; original PDF remains the visual reference.
+
+============================================================
+
+Q.1
+The dimensional formula [ML-1T-2] does not represent:
+Pressure
+1.
+Stress
+2.
+Young’s modulus
+3.
+Power
+4.
+
+Q.2
+Which of the following statements is NOT true?
+The mass of an object is a measure of its inertia
+1.
+A force produces change of momentum
+2.
+In a high jump an athlete is made to fall on a cushioned bed to decrease his time of fall, and hence the
+impact
+3.
+In an isolated system (where there is no external force), the total momentum remains constant
+4.
+
+Q.3
+Newton's third law of motion applies to which of the following situations?
+When a person jumps from the boat to the bank of the river, the boat goes backwards
+1.
+Passengers standing in a bus fall in the rear direction when the stationary bus suddenly starts moving
+2.
+When a person falls on a cement floor, he gets hurt
+3.
+While catching a fast moving cricket ball, a fielder moves his hands backwards.
+4.
+
+Q.4
+A thin spherical conducting shell has charge Q on it. The potential inside the conductor has a
+constant value throughout. The electric field inside the conductor is?
+Radially outward
+1.
+Radially inward
+2.
+Zero
+3.
+Insufficient information
+4.
+
+Q.5
+If the kinetic energy of a body becomes four times of its initial value, then the new momentum
+will be three times of the initial value
+1.
+will be four times of the initial value
+2.
+will be two times of the initial value
+3.
+will remain unchanged
+4.
+
+Q.6
+If the radius of the earth is reduced by 1%, what will be the effect on g?
+will decrease
+1.
+will increase
+2.
+will remain unchanged
+3.
+decrease first, increases later
+4.
+
+Q.7
+Sound waves are not affected by the medium through which it travels
+1.
+Sound waves travel faster in air than in liquid
+2.
+Sound waves travel faster in solids than in air
+3.
+Sound waves cannot travel through a solid
+4.
+
+Q.8
+A corona around the moon is seen when we view it on a fogy or misty night. This is due to:
+Diffraction patterns of air born water droplets
+1.
+Dispersion of light by air born water droplets
+2.
+Scattering of light by air born water droplets
+3.
+Formation of diffused image of moon
+4.
+
+Q.9
+Human eye has a near point i.e. distance of distinct vision at approximately 25cm. For a normal eye,
+which of the following statements is true?
+The image formed on the retina is virtual, erect and diminished.
+1.
+The image formed on the retina is real, inverted and diminished.
+2.
+The image formed on the retina is real, inverted and magnified.
+3.
+The image formed on the retina is virtual, erect and magnified.
+4.
+
+Q.10
+131 °F
+1.
+67 °F
+2.
+107 °F
+3.
+97 °F
+4.
+
+Q.11
+The given logic symbol represents
+AND gate
+1.
+OR gate
+2.
+NOT gate
+3.
+NAND gate
+4.
+
+Q.12
+Joule’ s Law
+1.
+Faraday's second law of electromagnetic Induction
+2.
+Faraday’s first law of electromagnetic Induction
+3.
+Coulomb's Law
+4.
+
+Q.13
+The increase in the width of the depletion region in a p-n junction diode is due to :
+both forward bias and reverse bias
+1.
+increase in forward current
+2.
+forward bias only
+3.
+reverse bias only
+4.
+
+Q.14
+The nuclear fusion cannot occur in  earth beacuse of ________
+less mass of nuclides 
+1.
+the temperature is not high enough to overcome coulombic repulsion
+2.
+the gravitational attractive force of earth
+3.
+due to the repulsive force between the neutrons  in nuclei
+4.
+
+Q.15
+3U
+1.
+4U
+2.
+2U
+3.
+None of these
+4.
+
+Q.16
+Which of the given statements is correct for a conservative force field
+(p) The total mechanical energy is conserved.
+(q) The work done around a closed path is zero.
+(r) Gain in kinetic energy = Loss in potential energy.
+(p) & (q)
+1.
+Only (p)
+2.
+(p), (q) & (r)
+3.
+(q) & (r)
+4.
+
+Q.17
+Time (T), velocity (C) and angular momentum (h) are chosen as fundamental quantities instead of
+mass, length and time. In terms of these, the dimensions of mass would be :
+[M] = [T −1C −2h −1]
+1.
+[M] = [T −1C2h]
+2.
+[M] = [T −1C −2h]
+3.
+[M] = [TC −2h]
+4.
+
+Q.18
+During the flow of electric current through a metallic wire with the help of a battery, the metallic
+wire remains:
+Positively charged
+1.
+Negatively charged
+2.
+Neutral
+3.
+Can't say
+4.
+
+Q.19
+The angle of contact at the interface of water-glass is 0°, Ethylalcohol-glass is 0°, Mercury-glass is
+140° and Methyliodideglass is 30°. A glass capillary is put in a trough containing one of these four
+liquids. It is observed that the meniscus is convex. The liquid in the trough is
+water
+1.
+ethylalcohol
+2.
+mercury
+3.
+methyliodide
+4.
+
+Q.20
+At a metro station, a girl walks up a stationary escalator in time t1 . If she remains stationary on the
+escalator, then the escalator take her up in time t2. The time taken by her to walk up on the moving
+escalator will be
+(t1 + t 2)/2
+1.
+t1t2/(t2 – t1)
+2.
+t1t2/(t2 + t1)
+3.
+t1 – t2
+4.
+
+Q.21
+Which one of the following statements for an object falling freely under the influence of gravity is
+correct?
+Zero acceleration always implies zero velocity
+1.
+Zero acceleration has no relation with the velocity of the object
+2.
+Zero velocity at any instant necessarily means zero acceleration at that instant
+3.
+Acceleration is constant all throughout the free fall
+4.
+
+Q.22
+Both 1 and 2
+1.
+only 1
+2.
+Only 2
+3.
+Neither 1 nor 2
+4.
+
+Q.23
+Bats can ascertain distances, directions, nature, and the size of the obstacles at night. This is
+possible by the reflection of the:
+Ultrasonic waves from the bat.
+1.
+Ultrasonic waves from the distant objects.
+2.
+Supersonic waves from the bat
+3.
+Supersonic waves from the distant objects.
+4.
+
+Q.24
+A light ray falls on a glass surface of refractive index √3, at an angle 60°. The angle between the
+refracted and reflected rays would be:
+120°
+1.
+30°
+2.
+60°
+3.
+90°
+4.
+
+Q.25
+A bullet of mass 100g is fired from a gun of mass 20 kg with a velocity of 100 m/s. The recoil
+velocity of the gun is:
+0.5 ms-1
+1.
+0.1 ms
+2.
+-1
+0.4 ms
+3.
+-1
+0.2 ms
+4.
+-1
+
+Q.26
+The three vertices of a parallelogram ABCD are : A(-2, 3), B (6, 7) and C (8 , 3) , then the fourth
+vertex D is
+1, 0
+1.
+0, 1
+2.
+-1, 0
+3.
+0, -1
+4.
+
+Q.27
+The radius of the circle passing through the point P (6, 2) two of whose diameter are x + y = 6 and
+x + 2y = 4 is
+10
+1.
+2√5
+2.
+6
+3.
+4
+4.
+
+Q.28
+What is lim
+x
+ equal to?
+x →0
+1
+1.
+log5e
+2.
+loge5
+3.
+5
+4.
+
+Q.29
+If p times the pth term of an AP is equal to q times the qth term (p ≠ q), then what is the (p + q)th
+term equal to?
+0
+1.
+p + q
+2.
+pq
+3.
+pq(p + q)
+4.
+
+Q.30
+The equation y2 + 4x + 4y + k = 0 represents a parabola whose lauts rectum is
+1
+1.
+2
+2.
+3
+3.
+4
+4.
+
+Q.31
+If x = a sin pt and y = b cos pt, then the value of
+dx2 at t = 0:
+a2
+1.
+b
+−
+b2
+2.
+a
+−
+b2
+3.
+a
+a2
+4.
+b
+
+Q.32
+|
+|
+z  − 2i
+z  +  2i
+= 1 is
+The locus of the point z = x + iy satisfying
+X-axis
+1.
+Y-axis
+2.
+y = 2
+3.
+x = 2
+4.
+
+Q.33
+If A and B are square matrices of order n × n, then (A - B)2 is equal to?
+A2 - B2
+1.
+A  - 2AB + B
+2.
+2
+2
+A  - AB - BA + B
+3.
+2
+2
+More than one of the above
+4.
+
+Q.34
+dxtany = sin(x + y) + sin(x −y)
+Solve the following:
+cos y - 2 sin x = c
+1.
+sec y + 2 sin x = c
+2.
+sec y - 2 cos x = c
+3.
+sec y + 2 cos x = c
+4.
+
+Q.35
+{
+π
+mx + 1,  if x ≤
+2
+π
+If f(x) =
+, is continuous at x =
+2, then
+π
+sinx + n,  if x >
+2
+m = 1, n = 0
+1.
+nπ
+2  + 1
+2.
+m =
+mπ
+2
+3.
+n =
+π
+2
+4.
+m = n =
+
+Q.36
+π / 2
+0
+What is ∫
+dx?
+sin3x + cos3x
+π
+1.
+π
+2
+2.
+π
+4
+3.
+0
+4.
+
+Q.37
+The equation of the straight line joining the origin to the point of intersection of y - x + 7 = 0 and
+y + 2x - 2 = 0 is
+3x + 4y = 0
+1.
+3x - 4y = 0
+2.
+4x - 3y = 0
+3.
+4x + 3y = 0
+4.
+
+Q.38
+A unit vector is coplanar to the vector →a = l̂ + ĵ  + 2k̂    and
+ˆl −ˆj
+√2
+1.
+2.
+( )
+ˆj −ˆk
+±
+√2
+−ˆl + ˆk
+√2
+3.
+4.
+(
+)
+ˆi + ˆj + ˆk
+±
+√3
+
+Q.39
+The relation R = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 3), (1, 3)} on a set A = {1, 2, 3} is
+reflexive transitive but not symmetric
+1.
+reflexive, symmetric but not transitive
+2.
+symmetric, transitive but not reflexive
+3.
+reflexive but neither symmetric not transitive
+4.
+
+Q.40
+If the roots α and β of the quadratic equation 9x2 - 3x + (m - 4) = 0 are such that α - β = 1, then the
+value of m is:
+2
+1.
+1
+2.
+3
+3.
+4
+4.
+
+Q.41
+( )
+The value of the expression 2 sec–1 2 + sin–1
+1
+2 is
+π
+6
+1.
+5π
+6
+2.
+7π
+6
+3.
+1
+4.
+
+Q.42
+If n - 1P3 ∶ n + 1P3 = 5 ∶ 12, then n is
++7
+1.
+-7
+2.
+-8
+3.
++8
+4.
+
+Q.43
+Find ∫
+1 + x2 dx
+esec(x) + C
+1.
+2.
+(
+)
+1
+e
+1 + x2
++ C
+e
+1 + x2
++ C
+3.
+(
+)
+etan −1 x + C
+4.
+
+Q.44
+The area enclosed between the curves y = 2x2 and y = 6 is
+2√3
+1.
+4√3
+2.
+6√3
+3.
+8√3
+4.
+
+Q.45
+The equation of the tangent at the point (a sec ϕ, b tan ϕ) to the hyperbola
+a2 −
+b2 = 1 is:
+x
+y
+btanϕ = 1
+1.
+asecϕ −
+x
+y
+btanϕ = 0
+2.
+asecϕ −
+x
+y
+btanϕ = 0
+3.
+asecϕ +
+x
+y
+b2tanϕ = 0
+4.
+a2secϕ −
+
+Q.46
+The value of n, for which
+an + bn
+ is the harmonic mean of a and b, is
+-1
+1.
+0
+2.
+1
+3.
+1/2
+4.
+
+Q.47
+If A and B are two events such that P(A) = 0.4, P(B) = 0.8 and P(B | A) = 0.6 then find P(A ∪ B) ?
+0.75
+1.
+0.25
+2.
+0.96
+3.
+None of these
+4.
+
+Q.48
+|
+|
+1
+2λ
+1
+λ2
+1
+3λ2
+If λ is a non-real cube root of -2, then the value of
+is equal to.
+2
+2λ
+1
+-11
+1.
+-12
+2.
+-13
+3.
+0
+4.
+
+Q.49
+What is (1 + tanα tanβ)2 + (tanα - tanβ)2 equal to?
+tan α tan β
+1.
+2
+2
+sec α sec β
+2.
+2
+2
+tan  α cot β
+3.
+2
+2
+sec α tan β
+4.
+2
+2
+
+Q.50
+If the mean deviation 1, 1 + d, 1 + 2d, ..., 1 + 100d from their mean is 255, then d is equal to
+10.1
+1.
+10.2
+2.
+10.3
+3.
+10.4
+4.
+
+Q.51
+Select the ANTONYM of the given word.
+OPPRESSIVE
+Voluntary
+1.
+Wise
+2.
+Humane
+3.
+Prosperous
+4.
+
+Q.52
+Select the most appropriate meaning of the given idiom.
+Put the cart before the horse
+To follow the logical order
+1.
+doing things in the wrong order
+2.
+To lie about a situation
+3.
+To do last things ﬁrst
+4.
+
+Q.53
+Select the most appropriate synonym of the given word.
+Victory
+Strange
+1.
+Triumph
+2.
+Trick
+3.
+Despair
+4.
+
+Q.54
+Select the option that can be used as a one-word substitute for the given group of words.
+Showing great attention to detail and correct behaviour
+Punctual
+1.
+Zealous
+2.
+Punctilious
+3.
+Disciplined
+4.
+
+Q.55
+Choose appropriate determiner for the given sentence:
+_________ of the students were affected by the sudden bus strike.
+Many
+1.
+Much
+2.
+Less
+3.
+A little
+4.
+
+Q.56
+Select the option that expresses the given sentence in indirect speech.
+The mechanic said, 'I can fix your car by tomorrow'.
+The mechanic said that he could fix my car by tomorrow.
+1.
+The mechanic said that he could fix my car by the next day.
+2.
+The mechanic said that I could fix your car by the next day.
+3.
+The mechanic said that I could fix your car by tomorrow.
+4.
+
+Q.57
+I would have left if I ______ you were not coming.
+Know
+1.
+Had known
+2.
+Had knew
+3.
+Knew
+4.
+
+Q.58
+Arrange the sentence parts:
+(A) in his bag
+(B) kept
+(C) the documents
+(D) he
+DCBA
+1.
+DBCA
+2.
+DABC
+3.
+BACD
+4.
+
+Q.59
+Select the option that can be used as a one-word substitute for the given group of words.
+A small shop that sells fashionable clothes
+Boutique
+1.
+Store
+2.
+Tailoring
+3.
+Couture
+4.
+
+Q.60
+Find the incorrect part of the sentence:
+She has been teaching in this school since five years.
+No error
+1.
+She has been teaching
+2.
+in this school
+3.
+since five years
+4.
+
+Q.61
+Select the most appropriate synonym of the given word.
+Judicious
+Sensible
+1.
+Imprudent
+2.
+Careless
+3.
+Short-sighted
+4.
+
+Q.62
+Change the voice
+They are playing cricket:
+Cricket was played by them
+1.
+Cricket has been played by them
+2.
+Cricket is being played by them
+3.
+Cricket was being played by them
+4.
+
+Q.63
+Select the most appropriate meaning of the given idiom.
+Water under the bridge
+To be very sick.
+1.
+Anything from the past that isn't significant or important anymore.
+2.
+A paranormal sense that allows you to communicate with the dead.
+3.
+Someone else who takes the blame.
+4.
+
+Q.64
+Select the option that expresses the following sentence in active voice.
+The issue has been successfully resolved by the customer care team.
+The customer care team successfully resolves the issue.
+1.
+The customer care team successfully resolved the issue.
+2.
+The issue has successfully resolved the customer care team.
+3.
+The customer care team has successfully resolved the issue.
+4.
+
+Q.65
+Choose the correctly spelt word.
+Philosophy
+1.
+Phelosophy
+2.
+Philosophie
+3.
+Filosophy
+4.
+
+Q.66
+Select the most appropriate ANTONYM of the given word.
+Desperate
+Hopeful
+1.
+Sloping
+2.
+Bleak
+3.
+Erratic
+4.
+
+Q.67
+Directions: Choose the appropriate preposition on for the given sentence:
+We can offer a discount ______ special items.
+for
+1.
+from
+2.
+in
+3.
+on
+4.
+
+Q.68
+Read the following passage and answer the questions given below.
+Respiratory syncytial virus that typically produces a mild cold like illness but in susceptible
+individuals, particularly infants under six months of age, is a major cause of severe and potentially fatal lower
+respiratory diseases. Severe bronchiolitis and pneumonia caused by (RSV) occurs most commonly in the
+elderly and in young children. An estimated 60 to 70 percent of children have been infected with RSV by age
+one, and nearly all children have been infected by age two. Because RSV effectively evades immunity, repeat
+infections are common. RSV infection is seasonal, occurring as an annual epidemic during the winter in most
+countries in temperate regions.
+Direct person-to-person contact is thought to be the most common route of RSV transmission. The virus also
+can be transmitted through the air, such as by coughing or sneezing, and through direct contact with a
+contaminated surface followed by touching of the face. Symptoms generally appear within four to six days of
+infection and include runny nose, cough, headache, fever, and wheezing. In instances of severe illness,
+affected individuals may have a high fever, severe wheezing, rapid or laboured breathing, and bluish lips or
+fingers. Infants may only show signs of irritability, fatigue, and breathing difficulties, even in severe cases.
+The only pharmacological therapy available for treatment of RSV is the nucleoside analogue ribavirin, which
+can be administered orally, parenterally (by injection or infusion), or by inhalation.
+Which of these statements is NOT true, in case of RSV infection?
+RSV effectively evades immunity, so repeat infections are common.
+1.
+RSV infection is seasonal, occurring as an annual wide spread illness during the winter season
+2.
+RSV infection is often fatal for the elderly and young children,
+3.
+RSV virus can be transmitted through the air.
+4.
+
+Q.69
+How does the RSV transmission most commonly occur?
+Through direct contact with a contaminated surface
+1.
+Direct person-to-person contact
+2.
+Through the air
+3.
+Through blood transfusion
+4.
+
+Q.70
+RSV infection is most common in the countries in ___________ regions.
+Tropical
+1.
+Polar
+2.
+Temperate
+3.
+Wet
+4.
+
+Q.71
+Which of the following diagram shows the relationship between all these.
+Ireland, Dublin, Greece
+(a) 
+1.
+(b)
+2.
+(c) 
+3.
+(d) 
+4.
+
+Q.72
+168
+1.
+150
+2.
+182
+3.
+132
+4.
+
+Q.73
+Select the letter-cluster from among the given options that can replace the question mark (?) in the
+following series.
+SKH, PMG, MOF, JQE, ?
+GSD
+1.
+SDF
+2.
+GTD
+3.
+HSD
+4.
+
+Q.74
+1.
+2.
+3.
+4.
+
+Q.75
+Looking at the portrait of Ravi, Vikas said. "I have no brother or sister but Ravi's father is my
+father's son". How is Vikas related to Ravi ?
+Father
+1.
+Son 
+2.
+Brother 
+3.
+Husband
+4.
+
+Q.76
+The smaller of the two angles between the hour hand and the minute hand at 3:52 pm in a clock
+will be:
+165°
+1.
+166°
+2.
+164°
+3.
+162°
+4.
+
+Q.77
+In a certain code language, NORMAL is written as DIPKRO and OBTAIN is written as DYLKRQ.
+How will PROFIT be written in that language?
+IRFUMQ
+1.
+IERLUP
+2.
+IFRMUQ 
+3.
+IREULP
+4.
+
+Q.78
+Select the figure that will come next in the following series.
+1.
+2.
+3.
+4.
+
+Q.79
+1, 5, 3, 2, 4
+1.
+3, 5, 1, 4, 2
+2.
+3, 5, 1, 2, 4
+3.
+3, 5, 2, 1, 4
+4.
+
+Q.80
+In the given figure, how many hockey players are playing football?
+55
+1.
+35
+2.
+41
+3.
+22
+4.
+
+Q.81
+Select the option that will come next in the following figure series.
+1.
+2.
+3.
+4.
+
+Q.82
+Choose the option that would follow next in the given figure series.
+1.
+2.
+3.
+4.
+
+Q.83
+Dinesh is taller than Chinku and Elina. Akash is not as tall as Elina. Chinku is taller than Akash.
+Dinesh is not as tall as Bikash. Who among them is next to the tallest one?
+Bikash
+1.
+Chinku
+2.
+Akash
+3.
+Dinesh
+4.
+
+Q.84
+Which of the given options best classifies the following items:
+Altimeter, Barometer, Dynamometer, Thermometer
+Heating equipment
+1.
+Measuring instruments
+2.
+Navigation equipment
+3.
+Weighing instruments
+4.
+
+Q.85
+In the following question, select the number which can be placed at the sign of question mark (?)
+from the given alternatives.
+16
+1.
+18
+2.
+20
+3.
+22
+4.
+
+Q.86
+If the ratio of A ∶ B is 3 ∶ 6 and ratio of B ∶ C is 7 ∶ 28, then find the ratio of A ∶ B ∶ C.
+3 ∶ 7 ∶ 28
+1.
+1 ∶ 2 ∶ 8
+2.
+2 ∶ 1 ∶ 8
+3.
+6 ∶ 7 ∶ 28
+4.
+
+Q.87
+The H.C.F and L.C.M of the two numbers are 14 and 140 respectively. If one of these numbers is
+28, find the other numbers.
+70
+1.
+140
+2.
+280
+3.
+200
+4.
+
+Q.88
+Two phone are sold at ₹ 18,000 each. The first phone sold a loss of 10% and another phone sold at
+a profit of 20%, then, what is the net loss/profit (in ₹) –
+800
+1.
+1500
+2.
+1200
+3.
+1000
+4.
+
+Q.89
+0.625
+1.
+0.725
+2.
+1.345
+3.
+0.995
+4.
+
+Q.90
+What is the probability of getting a black face card?
+1/26
+1.
+3/26
+2.
+5/26
+3.
+7/26
+4.
+
+Q.91
+Find the volume of a cylinder if the circumference of its base is 66 cm and height of cylinder is 40
+cm? (Use π = 22/7)
+13860 cm3
+1.
+17200 cm3
+2.
+11200 cm3
+3.
+22440 cm3
+4.
+
+Q.92
+20
+1.
+16
+2.
+25
+3.
+18
+4.
+
+Q.93
+The cost of 7 chairs, 2 tables and 5 fans is Rs. 9350. If the cost of 3 chairs and a fan is Rs. 1950,
+find the cost of 2 chairs, 1 table and 2 fans.
+Rs. 2500
+1.
+Rs. 2725
+2.
+Rs. 3050
+3.
+Rs. 3700
+4.
+
+Q.94
+Which of the following is a supersonic cruise missile?
+Brahmos
+1.
+Akash
+2.
+Prithvi
+3.
+Trishul
+4.
+
+Q.95
+Who is the CEO of Google?
+Larry Page
+1.
+Sergey Brin
+2.
+Sundar Pichai
+3.
+Satya Nadella
+4.
+
+Q.96
+Which shortcut key is used to delete a file permanently in Windows?
+Delete
+1.
+Backspace
+2.
+F2
+3.
+Shift + Delete
+4.
+
+Q.97
+What is the chemical formula of baking soda?
+NaHCO3
+1.
+NH4Cl
+2.
+Na2CO3
+3.
+CaSO4
+4.
+
+Q.98
+International Labour Day is observed on
+May 1
+1.
+May 17
+2.
+December 10
+3.
+June 5
+4.
+
+Q.99
+The power to summon the Houses of the Parliament is vested with the ______.
+Speaker
+1.
+Vice President
+2.
+Prime Minister
+3.
+President
+4.
+
+Q.100
+Which foreign country is closest to Andaman Islands?
+Srilanka
+1.
+Myanmar 
+2.
+Indonesia 
+3.
+Pakistan 
+4.
+

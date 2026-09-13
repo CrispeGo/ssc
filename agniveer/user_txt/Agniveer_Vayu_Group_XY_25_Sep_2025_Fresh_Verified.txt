@@ -1,0 +1,1279 @@
+AGNIVEER VAYU — GROUP XY
+25 SEPTEMBER 2025 — ALL SHIFTS
+MEMORY-BASED PAPER
+FRESH PDF-BASED EXTRACTION — QUESTIONS + OPTIONS
+
+SOURCE OF TRUTH:
+Agniveer Vayu Science & Other than Science (Group XY) 02-2026
+(25 Sept 2025 All shifts) Memory-Based Paper.pdf
+
+Extraction:
+- Built directly from the uploaded PDF's visual page/block order.
+- English question and all English options retained.
+- Hindi duplicate sections excluded.
+- "Correct Option" answer-key lines excluded.
+- No previous TXT used.
+- No missing content was invented.
+- Formula/diagram rendering may be represented in plain text; the original PDF remains the visual reference.
+
+============================================================
+
+Q.1
+Which of the following components is used to create an N-type semiconductor?
+a. Trivalent impurity
+b. Pentavalent impurity
+c. Intrinsic semiconductor
+d. Extrinsic semiconductor
+a and c
+1.
+b and d
+2.
+b and c
+3.
+a and d
+4.
+
+Q.2
+The relationship between the magnetic (χ) susceptibility and the magnetic permeability (μ) is given
+by :
+((μ)0 is the permeability of free space and (μ)r is relative permeability)
+μ
+μ0 −1
+1.
+χ =
+μr
+μ0 + 1
+2.
+χ =
+−b ±√b2 −4ac
+2a
+χ = μr + 1
+3.
+x =
+μ
+μ0
+4.
+χ = 1 −
+
+Q.3
+The first law of thermodynamics is based on the law of conservation of
+energy
+1.
+mass
+2.
+momentum
+3.
+None of these
+4.
+
+Q.4
+Three capacitors each of capacity 4 μF are to be connected in such a way that the effective
+capacitance is 6 μF. This can be done by
+connecting all of them in series
+1.
+connecting them in parallel
+2.
+connecting two in series and one in parallel
+3.
+connecting two in parallel and one in series.
+4.
+
+Q.5
+When a charged particle enters into a magnetic field with velocity perpendicular to the direction of
+the magnetic field. The particle follows a curved path. What will happen to the radius of this curved
+path if the magnetic field is increased?
+particle goes in straight line. 
+1.
+​radius will remain same 
+2.
+radius will increase
+3.
+radius will decrease
+4.
+
+Q.6
+Circular 
+1.
+elliptical 
+2.
+Linear 
+3.
+Helical 
+4.
+
+Q.7
+The dimensional formula of constant a in van der Waals gas equation (p +
+V2)(V −b) = RT :
+[ML3T−2]
+1.
+[ML5T−2]
+2.
+[ML2T−1]
+3.
+[ML2T−5]
+4.
+
+Q.8
+The disintegration constant λ of a radioactive element is 0.00231 per day. Its half life is
+500 days
+1.
+400 days
+2.
+200 days
+3.
+300 days
+4.
+
+Q.9
+In
+¯
+K)
+1.
+¯
+E ×
+ω(
+→E)
+2.
+→K ×
+ω(
+¯
+E
+3.
+¯
+K ×
+¯
+E)
+4.
+¯
+K ×
+1
+ω(
+
+Q.10
+Moment of inertia of a uniform circular disc about a diameter is I. Its moment of inertia about an
+axis perpendicular to its plane and passing through a point on its rim will be
+4I
+1.
+6I
+2.
+3I
+3.
+5I
+4.
+
+Q.11
+The ratio of the distances travelled by a freely falling body in the1st, 2nd, 3rd and 4th second:
+1 ∶ 1 ∶ 1 ∶ 1
+1.
+1 ∶ 2 ∶ 3 ∶ 4
+2.
+1 ∶ 4 ∶ 9 ∶ 16
+3.
+1 ∶ 3 ∶ 5 ∶ 7
+4.
+
+Q.12
+Given the current i(t) and voltage v(t) of a circuit element, the power p(t) and energy w(t) are given
+by:
+p(t) = v(t).i(t) and w(t) = ∫t
+0i(τ)dτ
+1.
+p(t) = v(t).i(t) and w(t) = ∫t
+0p(τ)dτ
+2.
+p(t) = v(t).i(t) and w(t) = ∫t
+0v(τ)dτ
+3.
+p(t) = v(t) + i(t) and w(t) = ∫t
+0p(τ)dτ
+4.
+
+Q.13
+If the magnification produced by a lens is negative, then the image is:
+Virtual and erect
+1.
+Real and inverted
+2.
+Virtual and inverted
+3.
+Real and erect
+4.
+
+Q.14
+A measured temperature in Fahrenheit scale is 200° F. What will be its value in Celsius scale?
+93.3°C
+1.
+40°C
+2.
+99°C
+3.
+30°C
+4.
+
+Q.15
+An athlete with a mass 60 kg in the Olympic Games covers a distance of 100 m in 10s. His kinetic
+energy can be estimated to be in the range of:
+200 J – 500 J
+1.
+200000 J – 500000 J
+2.
+20000 J – 50000 J
+3.
+2000 J – 5000 J
+4.
+
+Q.16
+10
+1.
+12.5
+2.
+7.5
+3.
+5
+4.
+
+Q.17
+The radius of curvature of a spherical mirror is 15. Find its focal length.
+9 cm
+1.
+8.5 cm
+2.
+7.5 cm
+3.
+2.7 cm
+4.
+
+Q.18
+A bus starts from rest and rolls down a hill with a constant acceleration of 0.5 m/s2. what is the
+force acting on it if its mass is 8 tonnes?
+40 N
+1.
+400 N
+2.
+4000 N
+3.
+40000 N
+4.
+
+Q.19
+-50
+1.
+40
+2.
+50
+3.
+-40
+4.
+
+Q.20
+An unbalanced force of 90 N acts on an object and produces an acceleration of 15 m/s2 in it. Then,
+the mass of the object is
+15 kg
+1.
+90 kg
+2.
+1350 kg
+3.
+6 kg
+4.
+
+Q.21
+A non-SI unit called 'nit' is the unit of which of the following photometric quantities used to
+measure a multitude of light intensity?
+Luminous exposure
+1.
+Luminance
+2.
+Luminosity
+3.
+Luminous emittance
+4.
+
+Q.22
+Dimensional formula of Pressure?
+ML0T2
+1.
+ML-1T-2
+2.
+MLT2
+3.
+ML2T-1
+4.
+
+Q.23
+The following is the relation between the object distance and the image distance in a plane mirror
+image :
+object distance > image distance
+1.
+object distance = image distance
+2.
+object distance < image distance
+3.
+not related
+4.
+
+Q.24
+Which trend is found about the distance between the galaxies?
+Constant
+1.
+Increasing
+2.
+Unpredictable
+3.
+Decreasing
+4.
+
+Q.25
+A ball possesses 3000 units of momentum. What would be the ball's new momentum if its velocity
+was doubled?
+3000 units
+1.
+6000 units
+2.
+20000 units
+3.
+9000 units
+4.
+
+Q.26
+The value of ∫
+( x + 1 ) 2dx
+is
+−log x
+x + 1  + log x - log (x + 1)
+1.
+log x
+( x + 1 )  + log x - log (x + 1)
+2.
+log x
+x + 1  log x - log (x + 1)
+3.
+−log x
+x + 1  - log x - log (x +1)
+4.
+
+Q.27
+|
+|
+1
+a
+a2 −bc
+1
+b
+b2 −ac
+is equal to ?
+1
+c
+c2 −ab
+0
+1.
+3abc
+2.
+(a + b + c)3
+3.
+a3 + b3+ c3 - 3abc
+4.
+
+Q.28
+The ratio in which the plane x - 2y + 3z = 17 divides the line joining the points (-2, 4, 7) and (3, -5,
+8) is
+10 : 3
+1.
+3 : 1
+2.
+3 : 10
+3.
+10 : 1
+4.
+
+Q.29
+A
+1.
+adj(A)
+2.
+A-1
+3.
+Null matrix.
+4.
+
+Q.30
+If 5 tan A = 3, then the value of
+sin A + 2cosA  is
+7/9
+1.
+5/13
+2.
+9/13
+3.
+5/7
+4.
+
+Q.31
+​∫
+sin2 x ⋅cos2 x equals :
+tan x . cot x + c 
+1.
+tan x - cot x + c
+2.
+tan x - cot 2x + c
+3.
+tan x + cot x + c
+4.
+
+Q.32
+The area of the region bounded by the parabola y2 = 4ax and its latus rectum is:
+4a2
+3  sq. units
+1.
+8a2
+3  sq. units
+2.
+2a2
+3  sq. units
+3.
+9a2
+5  sq. units
+4.
+
+Q.33
+A biased coin with the probability of getting head equal to
+4 is tossed five times. What is the
+probability of getting tail in all the first four tosses followed by head ?
+81
+512
+1.
+81
+1024
+2.
+81
+256
+3.
+27
+1024
+4.
+
+Q.34
+If y = p cos 2x + q sin 2x, then
+dx2 is equal to?
+-2y
+1.
+-4y
+2.
+2y
+3.
+4y
+4.
+
+Q.35
+The distance between the parallel lines y - 8 = 0 and y + 1 = 0 is ______ .
+8
+1.
+7
+2.
+1
+3.
+9
+4.
+
+Q.36
+4 ​, then what is the value of k?
+1
+1.
+1/2
+2.
+1/3
+3.
+1/4
+4.
+
+Q.37
+dx +
+x = sin x is :
+Solution of the differential equation
+x(y + cos x) = sin x + c
+1.
+x(y – cos x) = sin x + c
+2.
+xy cos x = sin x + c
+3.
+x(y + cos x) = cos x + c
+4.
+
+Q.38
+Find the standard deviation of 8, 12, 13, 15, 22.
+3.54
+1.
+3.72
+2.
+4.21
+3.
+4.6
+4.
+
+Q.39
+3π
+4 cm2/sec
+1.
+4
+3cm2/sec
+2.
+4π
+3 cm2/sec
+3.
+3
+4cm2/sec
+4.
+
+Q.40
+If A = {1, 3, 6} and B = {5, 6} then (A ∪ B) will be:
+{1, 2, 3, 4, 5}
+1.
+{2, 4}
+2.
+{1, 3, 5, 6}
+3.
+{2, 4, 5}
+4.
+
+Q.41
+Find the modulus of the complex number
+1 −( 1 −i ) .
+√5 
+1.
+√2
+2.
+√7
+3.
+1
+4.
+
+Q.42
+dt = 3x + 8 will be
+The solution of
+3
+1
+8
+1.
+3e ( t + c ) −
+x =
+1
+8
+3
+2.
+3e3 ( t + c ) −
+x =
+1
+3
+8
+3.
+3e ( t + c ) +
+x =
+1
+8
+3
+4.
+3e ( t + c ) +
+x =
+
+Q.43
+In how many ways can 8 persons sit in a row ?
+7!
+1.
+8!
+2.
+6!
+3.
+None of these
+4.
+
+Q.44
+2.5 +
+5.8 + … +
+For any n ∈ N,
+( 3n −1 ) ( 3n + 2 ) =
+n
+6n + 4
+1.
+n2
+6n + 4
+2.
+n2
+6n + 4
+3.
+1
+2.
+n
+6n2 + 4
+4.
+
+Q.45
+What is the distance between the lines 3x + 4y = 9 and 6x + 8y = 18?
+0
+1.
+3 units
+2.
+9 units
+3.
+18 units
+4.
+
+Q.46
+The 6th term of a G.P. is 32 and its 8th term is 128, then the common ratio of the G.P. is
+-1
+1.
+2
+2.
+4
+3.
+-4
+4.
+
+Q.47
+The middle term in the expansion of (x2 +
+x2 + 2)n is
+( 2n ) !
+( n ! )2
+1.
+( 2n ! )
+2 ) ! ]2
+2.
+n
+[ (
+n
+2 ) ! ]2
+3.
+n
+[ (
+1.2.5..( 2n + 1 )
+n !
+2n
+4.
+
+Q.48
+The function f(x) = x3 - 3x2 + 6 is an increasing function for:
+0 < x < 2
+1.
+x < 2
+2.
+x > 2 or x < 0
+3.
+all x
+4.
+
+Q.49
+The domain of sin-1 x is
+(-π, π )
+1.
+[-1, 1]
+2.
+(0, 2π)
+3.
+(-∞, ∞)
+4.
+
+Q.50
+1/2
+1.
+1/4
+2.
+1
+3.
+1/6
+4.
+
+Q.51
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+I love the dogs /; but I don’t like / the dog my friend Tinzie / owns since it bites people.
+owns since it bites people
+1.
+; but I don’t like
+2.
+I love the dogs
+3.
+the dog my friend Tinzie
+4.
+
+Q.52
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+Are you sure that / you will be broadcast / the news to everyone / across the country?
+the news to everyone 
+1.
+across the country 
+2.
+you will be broadcast 
+3.
+Are you sure that 
+4.
+
+Q.53
+Direction: The following sentence has been split into four segments. Identify the segment that
+contains a grammatical error.
+Don’t let the failure / demotivate you, as / failures are the / stepping stones to success.
+failures are the 
+1.
+Don’t let the failure
+2.
+stepping stones to success 
+3.
+demotivate you as
+4.
+
+Q.54
+Select the option that can be used as a one-word substitute for the given group of words.
+A sudden and violent change or upheaval
+Tranquility
+1.
+Serenity
+2.
+Equanimity
+3.
+Turbulence
+4.
+
+Q.55
+Select the option that can be used as a one-word substitute for the given group of words.
+The place where soldiers live
+Unit
+1.
+Regiment
+2.
+Brigade
+3.
+Barracks
+4.
+
+Q.56
+Select the option that can be used as a one-word substitute for the given group of words.
+one who does something for pleasure
+Anarchist
+1.
+Atheist
+2.
+Hedonist
+3.
+Aggressor
+4.
+
+Q.57
+Select the option that expresses the given sentence in passive voice.
+Rover would not swallow the pill.
+The pill would not be swallowing by Rover.
+1.
+The pill would not swallowed by Rover.
+2.
+The pill would not be swallowed by Rover.
+3.
+The pill would not be swallow by Rover.
+4.
+
+Q.58
+Select the option that expresses the given sentence in passive voice.
+Does Sneha not lick the butter?
+Is the butter being licked by Sneha?
+1.
+Is the butter not licked by Sneha?
+2.
+Sneha does not lick the butter?
+3.
+Was Sneha not licking the butter?
+4.
+
+Q.59
+Select the option that expresses the given sentence in passive voice.
+The magazine house was expecting unpublished authors for their forthcoming exclusive issue on
+new trends.
+Unpublished authors will be expected by the magazine house for their forthcoming exclusive issue on
+new trends.
+1.
+Unpublished authors were being expected by the magazine house for their forthcoming exclusive
+issue on new trends.
+2.
+Unpublished authors was expected by the magazine house for their forthcoming exclusive issue on
+new trends.
+3.
+Unpublished authors were expected by the magazine house for their forthcoming exclusive issue on
+new trends.
+4.
+
+Q.60
+Select the correct indirect form of the given sentence.
+Ramita said, “I wish I didn’t have to meet my step-mother.”
+Ramita said she wished she hadn’t have to meet her step-mother.
+1.
+Ramita said she wished she didn’t meet her step-mother.
+2.
+Ramita said she wished she didn’t have to meet her step-mother.
+3.
+Ramita said she wished hadn’t met her step-mother.
+4.
+
+Q.61
+Select the correct indirect form of the given sentence.
+He says to Gayatri, “You are writing an apology to the warden.”
+He told Gayatri that she is writing an apology to the warden.
+1.
+He tells Gayatri that she is writing an apology to the warden.
+2.
+He says to Gayatri that she was writing an apology to the warden.
+3.
+He tells Gayatri that she was writing an apology to the warden.
+4.
+
+Q.62
+Select the INCORRECTLY spelt word.
+Practice
+1.
+Quarentine
+2.
+Concentrate
+3.
+Elicit
+4.
+
+Q.63
+Select the INCORRECTLY spelt word.
+Numerous
+1.
+Critiqued
+2.
+Inacuracies
+3.
+Inconsistencies
+4.
+
+Q.64
+Select the INCORRECTLY spelt word.
+Analytically
+1.
+Appropreately
+2.
+Apparently
+3.
+Astonishingly
+4.
+
+Q.65
+Select the INCORRECTLY spelt word.
+Renewel
+1.
+Horizon 
+2.
+Composer 
+3.
+Algebra
+4.
+
+Q.66
+Read the following passage about mother tongue and answer the questions that follow.
+Formal education through the medium of a language that is not a child’s mother tongue, leading to
+children not learning their own language fully (not learning the language that the parent generation knows).
+This is a subtractive language learning situation, where the dominant language is learned at the cost of the
+mother tongue. Instead, knowledge in dominant languages can be added to the children's linguistic repertoire,
+at no cost to the mother tongues. In this kind of additive language learning situation the result is additive
+bilingualism or multilingualism, and the maintenance of the mother tongue. Subtractive language learning
+also means that these children will tend not to speak their mother tongue to their own children. 
+Homogenizing mass media, entertainment and other cultural products in dominant languages takes place
+through which these products send the message that the languages in which films, TV and pop music come
+have a higher status than others. Urbanization, migration and employment mobility of people often lead to the
+disintegration of language communities, with fewer chances for children to hear and use their parents’
+language(s) on a daily basis. A labor market which requires knowledge of dominant languages and does not
+offer economic or psychological incentives for maintaining the smaller languages. Insufficient protection of
+linguistic human rights and ideologies see not multilingualism but monolinguals in dominant languages as
+normal, sufficient and desirable, both for states (one nation - one language) and for individuals. This leads to
+parents often thinking that their children have to choose between either learning their mother tongue (and
+losing out on the labor market) or learning the dominant language (and sacrificing their own language).
+What is known as the 'additive language learning situation'?
+Learning through English medium. 
+1.
+Leaning another language without harming the mother tongue.
+2.
+Learning through mother tongue 
+3.
+Learning mother tongue with the support of another language.
+4.
+
+Q.67
+Choose the correct statement.
+In the current scenario of language learning:
+Parents have no choice but to choose between mother tongue or dominant language. 
+1.
+Parents have no choice but do not choose mother tongue. 
+2.
+Parents have choice, but choose the dominant language to the mother tongue
+3.
+Government has no choice, but to impose a dominant language among its people.
+4.
+
+Q.68
+Which of the following statements, according to the author, is TRUE?
+Homogenisation of certain instruments of society leads to language hierarchies.
+1.
+Mother tongue is always the dominant language in society. 
+2.
+Some language are superior and some are inferior, 
+3.
+Language domination takes place through political interference. 
+4.
+
+Q.69
+What is 'subtractive language learning'?
+Learning to subtract in languages
+1.
+Learning the dominant language which undermines the mother tongue
+2.
+Learning English at the cost of mother tongue
+3.
+Simultaneously learning two languages which support each other
+4.
+
+Q.70
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+I noticed that they / did not went to / the museum but entered / a shopping complex.
+the museum but entered
+1.
+a shopping complex.
+2.
+did not went to
+3.
+I noticed that they
+4.
+
+Q.71
+DHKM
+1.
+FJMO
+2.
+CGJL
+3.
+EILN
+4.
+
+Q.72
+There are seven row houses, M, N, O, P, Q, R and S, in a campus, but not necessarily in the same
+sequence. P is not at any of the ends. R is to the immediate right of P. S is third from the left. O is at
+the left end. M is second from the right. O is not beside N. Where is P located?
+At the right end 
+1.
+Third from the left 
+2.
+Beside S 
+3.
+Second from the left 
+4.
+
+Q.73
+1.
+2.
+3.
+4.
+
+Q.74
+Select the related word from the given alternatives.
+Godavari : Nasik :: Rapti :?
+Varanasi
+1.
+Kanpur
+2.
+Lucknow
+3.
+Gorakhpur
+4.
+
+Q.75
+Select the option that is related to the third figure in the same way as the second figure is related to
+the first figure.
+1.
+2.
+3.
+4.
+
+Q.76
+In an examination, Krishna ranks 27th from the bottom and 36th from the top. What is the total
+number of students?
+63
+1.
+64
+2.
+61
+3.
+62
+4.
+
+Q.77
+Select the number that can replace the question mark (?) in the following series.
+0, 1, 1, 3, 2, ?, 3, 13, 4, 21
+2
+1.
+3
+2.
+7
+3.
+0
+4.
+
+Q.78
+45˚
+1.
+45.5˚
+2.
+27.6˚
+3.
+40˚
+4.
+
+Q.79
+Select the figure form among the given options that can replace the question mark (?) in the
+following series.
+1.
+2.
+3.
+4.
+
+Q.80
+Two workers K and L start walking from the same point. K walks 5 km North, then turns right and
+walks 2 km. Meanwhile, L walks 3 km West, then turns South and walks 4 km. Finally L turns left
+and walks 5 km. Where is K with respect to L?
+K is 1 km South of L
+1.
+K is 9 km North of L
+2.
+K is 9 km South of L
+3.
+K is 1 km North of L
+4.
+
+Q.81
+Four letter-clusters have been given, out of which three are alike in some manner and one is
+different. Select the odd letter-cluster.
+QSU
+1.
+UWY
+2.
+CEG
+3.
+HJI
+4.
+
+Q.82
+In a certain code language, 'OTHER' is written as 'QQEGO', and 'ABOUT' is written as 'CYQWQ'.
+How will 'FAITH' be written in that language?
+CCQKE
+1.
+KQECC
+2.
+CCKQE
+3.
+SDIKE
+4.
+
+Q.83
+The sequence of folding a piece of paper and the manner in which the folded paper has been cut is
+shown in the following figures. How would this paper look when unfolded?
+1.
+2.
+3.
+4.
+
+Q.84
+If Neelam says, “Anita's father Raj Is the only son of my father-in-law Sunil", then how is Kavita,
+who is the sister of Anita, related to Sunil?
+Grand Daughter
+1.
+Niece
+2.
+Daughter
+3.
+Daughter-in-law
+4.
+
+Q.85
+Select the correct mirror image of the given figure when the mirror is placed at MN as shown
+below.
+1.
+2.
+3.
+4.
+
+Q.86
+Which of the four Vedas contains a collection of magic spells and charms to fend off evil spirits and
+diseases?
+Rig Veda
+1.
+Sama Veda
+2.
+Yajur Veda
+3.
+Atharva Veda
+4.
+
+Q.87
+Who is the 28th Chief of the Air Staff of India?
+Air Chief Marshal Rakesh Kumar Singh Bhadauria
+1.
+Air Chief Marshal Vivek Ram Chaudhari
+2.
+Air Chief Marshal Amar Preet Singh
+3.
+Air Chief Marshal Anil Khosla
+4.
+
+Q.88
+The headquarters of ISRO (Indian Space Research Organisation) is located at:
+Jaipur
+1.
+Bengaluru
+2.
+Nagpur 
+3.
+Chennai
+4.
+
+Q.89
+Ganga
+1.
+Krishna 
+2.
+Kaveri
+3.
+Godavari
+4.
+
+Q.90
+What is the shortcut key used to permanently delete a file or folder?
+Alt + Delete
+1.
+Ctrl + Alt + Delete
+2.
+Ctrl + Delete
+3.
+SHIFT + Delete
+4.
+
+Q.91
+The chemical formula of washing soda is _______.
+Na2CO3.10H2O
+1.
+Ca(OH)2
+2.
+Na2SO4
+3.
+NaHCO3
+4.
+
+Q.92
+Exceptional service in emergency
+1.
+Bravery on battlefield
+2.
+Outstanding performance in sports
+3.
+Exceptional social services
+4.
+
+Q.93
+A number is increased by 30% and then decreased by 25%. Evaluate the net increase or decrease in
+% ?
+Decrement 2.5%
+1.
+Increment 2.5%
+2.
+Decrement 5%
+3.
+Increment 5%
+4.
+
+Q.94
+If LCM of two numbers is 189 and the numbers are in the ratio 9 : 7, then find the sum of the
+numbers.
+48
+1.
+12
+2.
+16
+3.
+24
+4.
+
+Q.95
+√2/√3
+1.
+2/√3
+2.
+1/√3
+3.
+1/√2
+4.
+
+Q.96
+4 dozen mangoes are there in a box. If 6 mangoes are rotten, then the probability of choosing a
+good mango is
+1
+8
+1.
+21
+24
+2.
+9
+14
+3.
+11
+16
+4.
+
+Q.97
+Rs. 11200
+1.
+Rs. 12400
+2.
+Rs. 12800
+3.
+Rs. 19200
+4.
+
+Q.98
+If the price of petrol be raised by 20%, then the percentage by which a car owner must Reduce his
+consumption so as not to increase his expenditure on petrol is
+1
+3
+1.
+16
+2
+3
+2.
+16
+2
+3
+3.
+15
+1
+3
+4.
+15
+
+Q.99
+Length of a rectangle is twice its breadth. If the perimeter of the rectangle is 78 m, then what will
+be the area of the rectangle?
+300 m2
+1.
+338 m2
+2.
+169 m2
+3.
+507 m2
+4.
+
+Q.100
+The cost of 7 chairs, 2 tables and 5 fans is Rs. 9350. If the cost of 3 chairs and a fan is Rs. 1950,
+find the cost of 2 chairs, 1 table and 2 fans.
+Rs. 2500
+1.
+Rs. 2725
+2.
+Rs. 3050
+3.
+Rs. 3700
+4.
+

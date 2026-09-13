@@ -1,0 +1,51 @@
+USER-PROVIDED PAPERS — STATUS TRACKER
+=====================================
+(Updated: 12 Sep 2026 | Format: TXT only — koi PDF nahi banaya gaya)
+
+JO BHEJA GAYA HAI (sab received ✅)
+-----------------------------------
+
+GROUP XY (Science + Other than Science) — sab 100 questions:
+
+1. 16 Nov 2024 (All shifts)
+   - TXT: Agniveer_Vayu_Group_XY_16_Nov_2024_Fresh_Verified.txt  [100 Q]
+   - Status: stored ✅
+
+2. 22 Mar 2025 (All questions)
+   - TXT: Agniveer_Vayu_Group_XY_22_Mar_2025_All_Questions.txt  [100 Q]
+   - Status: stored ✅
+
+3. 25 Sep 2025 (All shifts)
+   - TXT: Agniveer_Vayu_Group_XY_25_Sep_2025_Fresh_Verified.txt  [100 Q]
+   - Source PDF: user_pdf_sources/(25 Sept 2025).pdf
+   - Status: stored ✅
+
+4. 26 Sep 2025 (All shifts)
+   - TXT: Agniveer_Vayu_Group_XY_26_Sep_2025_Fresh_Verified.txt  [100 Q]
+   - Source PDF: user_pdf_sources/(26 Sept 2025).pdf
+   - Status: stored ✅
+
+5. 27 Sep 2025 (All shifts)
+   - TXT: Agniveer_Vayu_Group_XY_27_Sep_2025_Fresh_Verified.txt  [100 Q]
+   - Source PDF: user_pdf_sources/(27 Sept 2025).pdf
+   - Status: stored ✅
+
+6. 28 Sep 2025 (All shifts)
+   - TXT: Agniveer_Vayu_Group_XY_28_Sep_2025_Fresh_Verified.txt  [100 Q]
+   - Source PDF: user_pdf_sources/(28 Sept 2025).pdf
+   - Status: stored ✅
+
+FOLDERS
+-------
+- agniveer/user_txt/        -> sabhi TXT files (questions + options)
+- agniveer/user_pdf_sources/-> source PDFs (figures/formulas ke visual reference ke liye)
+
+PENDING (jab user bolega tab karenge)
+-------------------------------------
+- [ ] Answer keys (agar user alag se dega)
+- [ ] Option-format normalize (kuch TXT me 1/2/3/4, kuch me a/b/c/d)
+- [ ] Garbled math/figure questions ki repair (source PDF se)
+- [ ] Analysis / important questions / mock test — user ke kehne par
+- [ ] PDF generation — SIRF jab user explicitly bole
+
+AUR BHI FILES AAYENGI → yahi folder me add karte jayenge.

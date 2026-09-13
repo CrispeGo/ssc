@@ -1,0 +1,680 @@
+AGNIVEER VAYU (GROUP XY)
+SCIENCE + OTHER THAN SCIENCE
+22 MARCH 2025 — MEMORY-BASED PAPER
+CLEAN QUESTION + OPTIONS TRANSCRIPTION
+
+Source: Uploaded Testbook PDF.
+Total: 100 questions.
+Note: Answer keys from the source are intentionally omitted. Figure-based questions are marked [FIGURE] because a plain TXT file cannot reproduce the original diagrams. Mathematical expressions are normalized where the PDF's text layer split symbols.
+
+============================================================
+PHYSICS — QUESTIONS 1–25
+============================================================
+
+Q.1 When the length and area of cross-section both are doubled, then its resistance:
+1. Will become half
+2. Will be doubled
+3. Will remain the same
+4. Will become four times
+
+Q.2 The surface charge density of a thin spherical shell placed in an air medium is 88.54 C/m². The intensity of the electric field measured 12 mm outside the shell from the centre of the shell is 5.625 × 10¹² N/C. The thin spherical shell has a radius of:
+1. 10.5 mm
+2. 6.0 mm
+3. 0.35 mm
+4. 9.0 mm
+
+Q.3 An electric dipole is formed by two equal and opposite charges q with separation d. The charges have same mass m. It is kept in a uniform electric field E. If it is slightly rotated from its equilibrium orientation, then its angular frequency ω is:
+1. √(qE/md)
+2. √(2qE/md)
+3. √(2qE/md)
+4. √(qE/2md)
+
+Q.4 A long solenoid of 50 cm length having 100 turns carries a current of 2.5 A. The magnetic field at the centre of the solenoid is:
+(μ₀ = 4π × 10⁻⁷ T m A⁻¹)
+1. 6.28 × 10⁻⁵ T
+2. 3.14 × 10⁻⁵ T
+3. 6.28 × 10⁻⁴ T
+4. 3.14 × 10⁻⁴ T
+
+Q.5 Which is not an electromagnetic wave?
+1. Radio
+2. Infrared
+3. Sound
+4. Ultraviolet
+
+Q.6 The dimensions of energy are:
+1. [M¹L⁻¹T⁻¹]
+2. [M²L²T²]
+3. [M¹L⁻²T⁻¹]
+4. [M¹L²T⁻²]
+
+Q.7 The dimensional formula for specific gravity is given by:
+1. [M¹L⁰T¹]
+2. [M¹L¹T⁰]
+3. [M⁰L⁰T⁰]
+4. [M⁰L¹T¹]
+
+Q.8 An object is placed 30 cm before a concave mirror of focal length of 20 cm to get a real image. What will be the distance of the image from the mirror?
+1. 60 cm
+2. 30 cm
+3. 20 cm
+4. 40 cm
+
+Q.9 The magnetic moment of a circular coil carrying current is:
+1. Inversely proportional to the length of the square of the wire in the coil
+2. Directly proportional to length of wire
+3. Inversely proportional to length of the wire
+4. Directly proportional to the length of the square of the wire in the coil
+
+Q.10 The cyclic integral of (δQ − δW) for a process is:
+1. Positive
+2. Negative
+3. Zero
+4. Unpredictable
+
+Q.11 If the pressure at point A is P and the atmospheric pressure is Pₐ, then the gauge pressure is equal to:
+1. P
+2. P + Pₐ
+3. P − Pₐ
+4. None of these
+
+Q.12 With two slits spaced 0.2 mm apart, a screen at a distance of 1 m, the third bright fringe is found to be displaced 7.5 mm from the central fringe. Find the wavelength of the light used?
+1. 500 mm
+2. 500 nm
+3. 250 nm
+4. 250 mm
+
+Q.13 Kirchoff's current law is based on conservation of ______ while Kirchoff's voltage law is based on conservation of _________.
+1. Mass, Charge
+2. Energy, Charge
+3. Charge, Energy
+4. Charge, Mass
+
+Q.14 n-p-n transistors are preferred over p-n-p transistors because they have:
+1. high mobility of holes
+2. equal to mobility of holes
+3. low mobility of holes
+4. higher mobility of electrons than the mobility of holes in p-n-p transistors
+
+Q.15 A spring has a spring constant of 1000 N/m and its initial expansion is 10 cm. Calculate the work done in extending the spring from 10 cm to 20 cm.
+1. 15 J
+2. 20 J
+3. 30 J
+4. 40 J
+
+Q.16 The velocity of sound in air is taken as 332 m/s. If the pressure of a gas is taken double, then what will be the velocity of sound in air?
+1. 996 m/s
+2. 664 m/s
+3. 166 m/s
+4. 332 m/s
+
+Q.17 If the mass of a planet is four times the mass of the earth and the radius is half of the earth, then the gravitational acceleration of the planet is:
+1. 16g
+2. g/16
+3. 4g
+4. g
+
+Q.18 Velocity at mean position of a particle executing S.H.M. is v, then velocity of the particle at a distance equal to half of the amplitude:
+1. 4v
+2. 2v
+3. v√3/2
+4. v√3/4
+
+Q.19 Second law of thermodynamics defines:
+1. Internal Energy
+2. Entropy
+3. Heat
+4. Work
+
+Q.20 If wavelength of photon is 6000 Å, then its energy will be:
+1. 0.66 eV
+2. 1.66 eV
+3. 2.06 eV
+4. 3.5 eV
+
+Q.21 What is the moment of inertia of a ring of mass 'M' and radius 'R' about a tangent to the circle of the ring?
+1. 5MR²/2
+2. MR²/2
+3. 3MR²/2
+4. 7MR²/2
+
+Q.22 A Carnot engine has an efficiency of 1/6. When the temperature of the sink is reduced by 62°C, its efficiency is doubled. The temperatures of the source and the sink are, respectively:
+1. 62°C, 124°C
+2. 99°C, 37°C
+3. 124°C, 62°C
+4. 37°C, 99°C
+
+Q.23 Calculate the work done by a force F⃗ = 2î + 3ĵ + k̂ on a particle when the particle is displaced by S⃗ = î + 2ĵ − 4k̂.
+1. 4
+2. 6
+3. 8
+4. 7
+
+Q.24 Which of the following statement is/are correct for an adiabatic process?
+1. In an adiabatic process the pressure, volume and temperature of the system may change with time.
+2. In an adiabatic process, there is no exchange of heat between the system and surrounding.
+3. An adiabatic process is the part of thermodynamics process.
+4. All of the above
+
+Q.25 The displacement of a car during its journey is given by s = xt² − yt + z where x, y and z are constants and t is the time. The acceleration of the car at t = 4 s is:
+1. 4 m/s²
+2. 2x
+3. √2 kmph
+4. None of the above
+
+
+============================================================
+MATHEMATICS — QUESTIONS 26–50
+============================================================
+
+Q.26 Let
+A = [[1, 5, −1], [0, 2, 6], [0, 0, 1]],
+then the adjoint of A is:
+1. [[2, 0, 0], [−5, 1, 0], [32, −6, 2]]
+2. [[−1, 0, 0], [0, −2, −6], [0, 0, 1]]
+3. [[−1, −5, 1], [1, −2, −6], [0, 0, −1]]
+4. None of these
+
+Q.27 Find d²y/dx² if y = sin(log x).
+1. [sin(log x) + x·cos(log x)]/x²
+2. −[sin(log x) + cos(log x)]/x²
+3. [x·sin(log x) − cos(log x)]/(2x)
+4. [sin(log x) + cos(log x)]/(2x)
+
+Q.28 Evaluate: tan 75° + cot 75°.
+1. 0
+2. ∞
+3. 4
+4. Undefined
+
+Q.29 Find lim(x→0⁺) x ln x.
+1. 0
+2. ∞
+3. 1
+4. −1
+
+Q.30 If A is an orthogonal Matrix. Then Inverse of the Matrix is:
+1. Aᵀ
+2. (Aᵀ)⁻¹
+3. (A⁻¹)ᵀ
+4. (Aᵀ)⁻¹/4
+
+Q.31 Solve the following:
+1/(1 + cos θ) + 1/(1 − cos θ) = ?
+1. 2cosec²θ
+2. 2sin²θ
+3. 2sec²θ
+4. 2tan²θ
+
+Q.32 In a class of 15 students, 5 fail in a test. Marks of remaining 10 students are 9, 6, 8, 7, 8, 9, 5, 6, 7 and 4. The median of marks of all 15 students is:
+1. 5
+2. 6
+3. 7
+4. 4
+
+Q.33 Find the angle θ between the vectors a⃗ = −2î + 3ĵ + k̂ and b⃗ = 3î − 2ĵ + k̂.
+1. cos⁻¹(4/7)
+2. cos⁻¹(5/7)
+3. cos⁻¹(5/9)
+4. None of these
+
+Q.34 What is the probability that a leap year selected at random contains 53 Sundays?
+1. 1/7
+2. 2/7
+3. 7/366
+4. 26/183
+
+Q.35 Find the number of permutations of 4 letters taken from the word EXAMINATION.
+1. 1504
+2. 2520
+3. 2552
+4. 2454
+
+Q.36 If y = e^(5x), then d²y/dx² = ?
+1. 25y
+2. 15y
+3. 10y
+4. 5y
+
+Q.37 lim(x→0) [(1 − cos 2x)/x²] is:
+1. 2
+2. 0
+3. 1
+4. 4
+
+Q.38 Find the modulus of z = (1 − i)⁴.
+1. 2
+2. 4
+3. −4
+4. None of these
+
+Q.39 If
+A = [[1, 2, 1], [−1, −1, 0], [1, 0, 0]],
+then A⁵ =:
+1. A
+2. Identity Matrix
+3. Null Matrix
+4. A⁻¹
+
+Q.40 Evaluate: ∫ sin x sec²x dx.
+1. sin x + c
+2. tan x + c
+3. cot x + c
+4. sec x + c
+
+Q.41 Differentiate cos(cos(x)) with respect to x.
+1. sin(sin(x))(sin(x))
+2. sin(sin(x))(cos(x))
+3. cos(sin(x))(sin(x))
+4. sin(cos(x))(sin(x))
+
+Q.42 The arithmetic mean of the squares of the first n natural numbers is:
+1. n(n+1)(2n+1)/6
+2. n(n+1)(2n+1)/2
+3. (n+1)(2n+1)/6
+4. (n+1)(2n+1)/3
+
+Q.43 The integral ∫₀^(π/2) |sin x − cos x| dx is equal to:
+1. 2√2
+2. 2(√2 − 1)
+3. 2(√2 + 1)
+4. √2 + 1
+
+Q.44 Simplify the following: (2 + √y)⁴ + (2 − √y)⁴.
+1. y² + 24y + 16
+2. 2y² + 48y + 32
+3. y² + 48y + 32
+4. 2y² + 24y + 32
+
+Q.45 If A = {1, 2, 3, 4, 5}, B = {1, 4, 5} and R = {(a,b): a ∈ A, b ∈ B and a < b}, then find the domain of R.
+1. {1, 2, 3, 4}
+2. {1, 2, 3, 4, 5}
+3. {1, 3, 4, 5}
+4. None of these
+
+Q.46 If the median of the observations 2, 3, 5, 6, x, 8, 9 is 6 then x CANNOT be equal to:
+1. 8
+2. 1
+3. 10
+4. 7
+
+Q.47 Find the intercepts cut off by the plane x + 2y − 4z = 8.
+1. (1, 2, 4)
+2. (1, 2, −4)
+3. (8, 4, 2)
+4. (8, 4, −2)
+
+Q.48 The number of terms in the expansion of (x + y + z)¹⁰ is:
+1. 11
+2. 33
+3. 66
+4. None of these
+
+Q.49 The area bounded by the curve y = sin x between x = 0 and x = π is:
+1. 0
+2. 1
+3. 2
+4. 4
+
+Q.50 The axis of symmetry of the parabola y² = x is:
+1. Y axis
+2. X axis
+3. −Y axis
+4. −X axis
+
+
+============================================================
+ENGLISH — QUESTIONS 51–77
+============================================================
+
+Q.51 Change the given statement to indirect speech.
+Tom: “I’ll be there at eight. Is that all right?”
+1. Tom said that he would be there at eight and he checked if it was all right.
+2. Tom said that he will be there at eight and asked if it was all right.
+3. Tom told that he would be there at eight. And asked if it is all right.
+4. Tom said he will there at eight and asked if that is all right.
+
+Q.52 A sentence has been given with a blank to be filled with an appropriate option. Choose the correct alternative.
+John rushed to the spot and saw his wife and kid ________ on the road.
+1. lain
+2. lying
+3. lie
+4. laying
+
+Q.53 Choose the part of the sentence that is incorrect in questions.
+He said (1) / that the horse (2) / died at (3) / the night. (4)
+1. (1)
+2. (2)
+3. (3)
+4. (4)
+
+Q.54 In the following questions, out of the four alternatives choose the one which can be substituted for the given words / sentence.
+'Edible' means that which is:
+1. Worth eating
+2. Can not be deleted
+3. Can be edited
+4. Edifying
+
+Q.55 Select the word OPPOSITE in meaning to the given word.
+Deficient
+1. Skimpy
+2. Broken
+3. Ample
+4. Terrible
+
+Q.56 Find the part of the given sentence that has an error in it. If there is no error, choose 'No error'.
+It is believed that difficult tasks demand lot of our resources.
+1. It is believed that
+2. No error
+3. difficult tasks demand lot
+4. of our resources.
+
+Q.57 Some parts of a sentence have been jumbled up, and labelled P, Q, R and S. Select the option that gives the correct sequence in which these parts can be rearranged to form a meaningful and grammatically correct sentence.
+
+The Government of India Act was passed by
+P. separate acts namely, the Government of India Act 1935 and
+Q. the longest act enacted by the British Parliament
+R. the British Parliament in August 1935, it was
+S. at that time, hence it was divided into two
+the Government of Burma Act 1935,
+
+1. QSPR
+2. PQRS
+3. SPQR
+4. RQSP
+
+Q.58 A sentence has been given with a blank to be filled with an appropriate option. Choose the correct alternative.
+I ______ the cake before my mother arrived.
+1. had baked
+2. bake
+3. baked
+4. have baked
+
+Q.59 Choose the word opposite in meaning to the given word.
+UNSCRUPULOUS
+1. Dedicated
+2. Single-minded
+3. Superfluous
+4. Conscientious
+
+Q.60 Here is a letter to MTNL complaining that your phone has not been working for a few days. The sentences have got jumbled up. Rearrange the sentences to make the complaint coherent.
+
+I. My landline phone has not been working for a week.
+II. I am a resident of House No. X, Street Y, Chennai.
+III. Please set my phone right at the earliest.
+IV. I informed the Area Manager telephonically about it but there is no response.
+
+1. I, II, III, IV
+2. II, I, IV, III
+3. IV, III, II, I
+4. III, II, IV, I
+
+Q.61 Four words are given out of which only one word is correctly spelt. Find the correctly spelt word.
+1. Greatfull
+2. Greatful
+3. Gratefull
+4. Grateful
+
+Q.62 Select the most appropriate option to fill in the blank.
+I enjoy finding ways to make the most of my budget by being _______.
+1. lethargic
+2. miser
+3. frugal
+4. gloomy
+
+Q.63 Choose the option that is the active form of the sentence.
+The roads have been dug up again by the municipal authorities.
+1. The municipal authorities have dug up the roads again.
+2. The municipal authorities are being dug up the roads again.
+3. The municipal authorities are dug up the roads again.
+4. The municipal authorities were dug up the roads again.
+
+Q.64 Which of the following is the correct noun form of the word 'Destroy'?
+1. Destructive
+2. Destruction
+3. Destruct
+4. Destructing
+
+Q.65 Select the option that expresses the given sentence in passive voice.
+His parents will send him to a boarding school next year.
+1. He will be sent to a boarding school next year by his parents.
+2. He will be sent to a boarding school by his parents next year.
+3. He is to be sent to a boarding school next year by his parents.
+4. He would be sent to a boarding school next year by his parents.
+
+Q.66 Select the most appropriate synonym of the given word.
+Grandeur
+1. Magnificence
+2. Liable
+3. Commotion
+4. Power
+
+Q.67 Read the passage given below and answer the questions that follow.
+
+Almond trees are deciduous with a hardy dormancy. Typically growing 3–4.5 metres (10–15 feet) tall, the trees are strikingly beautiful when in flower; they produce fragrant, five-petaled, light pink to white flowers from late January to early April north of the Equator. The flowers are self-incompatible and thus require insect pollinators to facilitate cross-pollination with other cultivars. The growing fruit (a drupe) resembles a peach until it approaches maturity; as it ripens, the leathery outer covering, or hull, splits open, curls outward, and discharges the pit. Despite their common label, almonds are not true nuts (a type of dry fruit) but rather seeds enclosed in a hard fruit covering.
+
+The sweet almond is cultivated extensively in certain favourable regions, though nut crops are uncertain wherever frosts are likely to occur during flowering. While more than 25 types of almonds are grown in California, Marcona and Valencia almonds come from Spain, and Ferragnes are imported from Greece.
+
+In which months does the Almond tree produce flower?
+1. Late January to early April
+2. Late April to early January
+3. January
+4. March to May
+
+Q.68 Which of the following options is correct?
+1. The flowers of Almond have five petals.
+2. The flowers are self-incompatible.
+3. The flowers require insect pollinators to facilitate cross-pollination.
+4. All of the above
+
+Q.69 What can be deduced from the given passage?
+1. Almond trees absorbs a lot amount of water
+2. Almonds are not true nuts
+3. Almonds are exported from India to America
+4. None of the above
+
+Q.70 What does the word 'extensively' mean in the given passage?
+1. in a way that covers or affects a large area.
+2. in a way that covers or affects a tiny area.
+3. found in a particular region
+4. covering a sandy area
+
+Q.71 Who is the author of the famous book 'Meghdoot'?
+1. Bhasa
+2. Kalidasa
+3. Sudraka
+4. Vatsyayana
+
+Q.72 Which of the following sports have the largest number of participants in terms of either side?
+1. Rugby football
+2. Water polo
+3. Baseball
+4. Cricket
+
+Q.73 Why is tungsten used in the incandescent lamp filaments?
+1. Tungsten has high melting point
+2. Tungsten is less corroding at high temperatures
+3. Tungsten is very hard & difficult to break the thin filament
+4. Tungsten is an inert element in last column Group 18 periodic table
+
+Q.74 In Microsoft Word, a collection of frequently used commands such as save, undo, print preview is located on the _______.
+1. Quick access toolbar
+2. Task bar
+3. Status bar
+4. Context Menu
+
+Q.75 Which is the most abundant metal in the Earth crust?
+1. Copper
+2. Iron
+3. Aluminium
+4. Silver
+
+Q.76 Which colour ribbon is used as a symbol for solidarity with HIV positive people and those living with AIDS?
+1. Blue
+2. Pink
+3. Red
+4. Orange
+
+Q.77 Time of zero-hour in Parliament is:
+1. 9 am to 10 am
+2. 10 am to 11 am
+3. 11 am to 12 noon
+4. 12 noon to 1 pm
+
+
+============================================================
+RAGA — QUESTIONS 78–100
+============================================================
+
+Q.78 Which of the given shapes would complete the sequence?
+1. [FIGURE OPTION — see source PDF, page 21–22]
+2. [FIGURE OPTION — see source PDF, page 21–22]
+3. [FIGURE OPTION — see source PDF, page 21–22]
+4. [FIGURE OPTION — see source PDF, page 21–22]
+
+Q.79 Select the figure from among the given options that can replace the question mark (?) in the following series.
+1. [FIGURE OPTION — see source PDF, page 22]
+2. [FIGURE OPTION — see source PDF, page 22]
+3. [FIGURE OPTION — see source PDF, page 22]
+4. [FIGURE OPTION — see source PDF, page 22]
+
+Q.80 Four numbers have been given, out of which three are alike in some manner and one is different. Select the number that is different.
+1. 105
+2. 348
+3. 252
+4. 231
+
+Q.81 One morning after sunrise, Vikram and Shailaish were standing in a park with their backs towards each other. Vikram's shadow fell exactly towards his left. In which direction was Shailaish facing?
+1. North
+2. East
+3. South
+4. West
+
+Q.82 Two bells ring at intervals of 63 seconds and 74 seconds. If they both ring at 10 O'clock in the morning together, after how many seconds will they ring together again?
+1. 4482
+2. 4662
+3. 4552
+4. 4772
+
+Q.83 Which answer figure is the exact mirror image of the given question figure when mirror is held at PQ?
+1. [FIGURE OPTION — see source PDF, page 23–24]
+2. [FIGURE OPTION — see source PDF, page 23–24]
+3. [FIGURE OPTION — see source PDF, page 23–24]
+4. [FIGURE OPTION — see source PDF, page 23–24]
+
+Q.84 Select the figure that will replace the question mark (?) in the following figure series.
+1. [FIGURE OPTION — see source PDF, page 24]
+2. [FIGURE OPTION — see source PDF, page 24]
+3. [FIGURE OPTION — see source PDF, page 24]
+4. [FIGURE OPTION — see source PDF, page 24]
+
+Q.85 Six students are sitting around a circular table facing the centre. Salman is an immediate neighbour of both Kiran and Shwetha. Bala is sitting second right to Salman. Shwetha is sitting third to the left of Bala. Akshay is an immediate neighbour of both Bala and Nishitha. Who is the immediate neighbour of Nishitha and Salman?
+1. Bala
+2. Kiran
+3. Shwetha
+4. Akshay
+
+Q.86 If Ammonia : Gas then Camphor : ?
+A. Gas
+B. Solid
+C. Liquid
+D. Semi-solid
+1. A
+2. C
+3. B
+4. D
+
+Q.87 If A = 1, LION = 23 and CAMEL = 16 then what is the value of TIGER?
+1. 36
+2. 46
+3. 32
+4. 56
+
+Q.88 In the series next term will be:
+3, 11, 23, 39, 59, ..........
+1. 63
+2. 73
+3. 83
+4. 93
+
+Q.89 In a certain code language, ‘HYPOCRISY’ is written as ‘YPHOCIRYS’, and ‘IMPORTANT’ is written as ‘MPIORATTN’. How will ‘INTEGRITY’ be written in that language?
+1. NTIEGIRYT
+2. NTIEGRIYT
+3. NTIGEIRYT
+4. NITEGIRYT
+
+Q.90 Select the figure that will come in place of the question mark (?) in the following figure series.
+1. [FIGURE OPTION — see source PDF, page 26]
+2. [FIGURE OPTION — see source PDF, page 26]
+3. [FIGURE OPTION — see source PDF, page 26]
+4. [FIGURE OPTION — see source PDF, page 26]
+
+Q.91 Study the different positions of a dice given below. Which numbers will occur on the face opposite to 4?
+1. 3
+2. 5
+3. 1
+4. 6
+
+Q.92 Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+16   14   18
+58   44   ?
+13    8    4
+
+1. 44
+2. 24
+3. 36
+4. 40
+
+Q.93 Simplify:
+[EXACT FRACTION/BRACKET LAYOUT IS PRESENTED AS A FORMATTED EXPRESSION IN THE SOURCE PDF; see page 27 for the original layout.]
+1. 102/15
+2. 132/15
+3. 122/15
+4. 112/15
+
+Q.94 A seller sells 2 articles, one of them for Rs 1200 at 20% profit and another one for Rs 1350 at 10% loss. Find the overall gain percent.
+1. 2 percent
+2. 1 percent
+3. 4 percent
+4. 3 percent
+
+Q.95 The average of 45 numbers is 150. Later it is found that a number 46 is wrongly written as 91, then find the correct average.
+1. 151
+2. 147
+3. 149
+4. 153
+
+Q.96 30% of a number is 21 more than 15% of 120. What is the number?
+1. 95
+2. 110
+3. 125
+4. 130
+
+Q.97 In what time at 10% per annum simple interest a sum becomes 3 times of itself?
+1. 10 years
+2. 15 years
+3. 20 years
+4. 25 years
+
+Q.98 Two trains are running on opposite tracks between stations A and B. After crossing each other they take 4 hr and 9 hr respectively to reach their destination. If speed of first train is 54 kmph, find the speed of second train.
+1. 18 kmph
+2. 36 kmph
+3. 44 kmph
+4. 28 kmph
+
+Q.99 The sum of two numbers is 64 and their ratio is 7 : 9. The sum of digits of these numbers is:
+1. 12
+2. 13
+3. 19
+4. 16
+
+Q.100 Length of a rectangle is twice its breadth. If the perimeter of the rectangle is 78 m, then what will be the area of the rectangle?
+1. 300 m²
+2. 338 m²
+3. 169 m²
+4. 507 m²
+
+============================================================
+END
+============================================================

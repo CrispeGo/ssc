@@ -1,0 +1,6509 @@
+==============================================================================
+AGNIVEER VAYU (AIR FORCE) — MASTER PHYSICS QUESTION BANK
+All Physics questions from ALL available papers (Group X + Group XY + Model)
+Compiled: 12 September 2026
+==============================================================================
+
+NOTE: Questions are transcribed as printed in the source. Where a source
+carries an answer key, the answer is shown; user-uploaded TXTs contain no
+answer key (as provided). Memory-based papers may have minor wording
+variations and their answer keys may occasionally contain errors — they
+are reproduced as printed. Some shifts appear from more than one source,
+and both copies are kept. Hindi paper (07 Nov 2020) is kept in Hindi.
+
+------------------------------------------------------------------------------
+INVENTORY (papers included in this file)
+------------------------------------------------------------------------------
+  2020-11-04   | X   | 04 Nov 2020            | Prepp        | Physics Qs: 25
+  2020-11-04   | X   | 04 Nov 2020            | SelfStudys   | Physics Qs: 25
+  2020-11-05   | X   | 05 Nov 2020            | Prepp        | Physics Qs: 25
+  2020-11-06   | X   | 06 Nov 2020            | Prepp        | Physics Qs: 25
+  2020-11-07   | X   | 07 Nov 2020            | Prepp        | Physics Qs: 25
+  2021-07-12   | X   | 12 Jul 2021 Shift-2    | Prepp        | Physics Qs: 25
+  2021-07-13   | X   | 13 Jul 2021 Shift-1    | Prepp        | Physics Qs: 25
+  2021-07-13   | X   | 13 Jul 2021 Shift-2    | Prepp        | Physics Qs: 25
+  2021-07-14   | X   | 14 Jul 2021 Shift-1    | Prepp        | Physics Qs: 25
+  2021-07-14   | X   | 14 Jul 2021 Shift-3    | Prepp        | Physics Qs: 25
+  2021-07-15   | X   | 15 Jul 2021 Shift-1    | Prepp        | Physics Qs: 25
+  2021-07-15   | X   | 15 Jul 2021 Shift-3    | Prepp        | Physics Qs: 25
+  2021-07-18   | X   | 18 Jul 2021 Shift-1    | Prepp        | Physics Qs: 25
+  2021-07-18   | X   | 18 Jul 2021 Shift-3    | Prepp        | Physics Qs: 25
+  2021-07-18   | X   | 18 Jul 2021            | SelfStudys   | Physics Qs: 25
+  2022-07-25   | X   | 25 Jul 2022            | SelfStudys   | Physics Qs: 25
+  2023-01-18   | X   | 18 Jan 2023            | SelfStudys   | Physics Qs: 25
+  2023-01-19   | X   | 19 Jan 2023            | SelfStudys   | Physics Qs: 25
+  2023-10-13   | X   | 13 Oct 2023 Shift-1    | SelfStudys   | Physics Qs: 12
+  2023-10-14   | X   | 14 Oct 2023 Shift-1    | SelfStudys   | Physics Qs: 12
+  2024-03-17   | X   | 17 Mar 2024 Shift-1    | Utkarsh      | Physics Qs: 25
+  2024-11-16   | X   | 16 Nov 2024            | SelfStudys   | Physics Qs: 25
+  2024-11-16   | XY  | 16 Nov 2024            | User TXT     | Physics Qs: 25
+  2025-03-22   | X   | 22 Mar 2025            | SelfStudys   | Physics Qs: 25
+  2025-03-22   | XY  | 22 Mar 2025            | User TXT     | Physics Qs: 25
+  2025-09-25   | X   | 25 Sep 2025            | Utkarsh      | Physics Qs: 25
+  2025-09-25   | XY  | 25 Sep 2025            | User TXT     | Physics Qs: 25
+  2025-09-26   | XY  | 26 Sep 2025            | User TXT     | Physics Qs: 25
+  2025-09-27   | X   | 27 Sep 2025            | Utkarsh      | Physics Qs: 25
+  2025-09-27   | XY  | 27 Sep 2025            | User TXT     | Physics Qs: 25
+  2025-09-28   | XY  | 28 Sep 2025            | User TXT     | Physics Qs: 25
+  2026-03-30   | XY  | 30 Mar 2026            | Utkarsh      | Physics Qs: 25
+  MODEL        | X   | Sample Physics Paper   | Prepp Sample | Physics Qs: 25
+  MODEL        | XY  | Official XY Model Paper 2 | PW Model     | Physics Qs: 25
+               |     |                        |              | TOTAL Physics Qs: 824
+
+MISSING PAPER (Physics section not obtainable anywhere free):
+  - Group X, 18 Mar 2024 (Shift 1) — available only on Testbook (login/paid,
+    link expired). No free site carries its Physics questions, so nothing
+    could be harvested. (Group Y 17/18-Mar-2024 and 16-Nov-2024 are also
+    Testbook-only but Group Y has no Physics section.)
+
+
+==============================================================================
+PAPER 1  |  GROUP X  |  04 Nov 2020  |  Source: Prepp
+==============================================================================
+Q1. The electrostatic force between two charges of 6 C and 2 C separated by some distance is 12 N. If -4 C charge is added to each of them then find the new magnitude of force between them (distance between the charges remains same).
+   (A) 12 N
+   (B) 6 N
+   (C) 4 N
+   (D) 2 N
+   Answer: C
+
+Q2. The relation between frequency ‘f’ wavelength ‘λ’ and velocity of propagation ‘v’ of the wave is
+   (A) λ = f × ν
+   (B) f = λ ÷ v
+   (C) v = f × λ
+   (D) λ = f ÷ ν
+   Answer: C
+
+Q3. Which logic gate will produce the following output? Input Output A B Y 0 0 0 0 1 0 1 0 0 1 1 1
+   (A) OR
+   (B) AND
+   (C) NAND
+   (D) NOR
+   Answer: B
+
+Q4. Which of the following is not a force?
+   (A) Thrust
+   (B) Impulse
+   (C) Weight
+   (D) Tension
+   Answer: B
+
+Q5. If v = at + bt2 v is velocity and t in seconds, then the dimension of b is:
+   (A) LT0
+   (B) LT-1
+   (C) LT-2
+   (D) LT-3
+   Answer: D
+
+Q6. The total number of images formed by two mirrors inclined at 72° to each other is ______.
+   (A) 2
+   (B) 3
+   (C) 4
+   (D) 5
+   Answer: D
+
+Q7. The mathematical form of the resonant frequency of a LCR circuit is equal to
+   (A) 1 / 2π(LC)
+   (B) 1 / 2π(LC)2
+   (C) 2π(LC)
+   (D) 1 / 2π√LC
+   Answer: D
+
+Q8. The propagation constant or the angular wave number is equal to ________.
+   (A) 2πλ
+   (B) λ / 2π
+   (C) 2π / λ
+   (D) 1 / (2πλ)
+   Answer: C
+
+Q9. The rms speed of gas at 27°C is V. If the temperature of the gas is raised to 327°C, then the rms speed of a gas is
+   (A) V
+   (B) V/√2
+   (C) V√2
+   (D) 3V
+   Answer: C
+
+Q10. Which law of thermodynamics defines the concept temperature?
+   (A) First Law of Thermodynamics
+   (B) Second Law of Thermodynamics
+   (C) Zeroth Law of Thermodynamics
+   (D) Third Law of Thermodynamics
+   Answer: C
+
+Q11. The ratio of length of two simple pendulums is 2 : 3. Find the ratio of their frequency. −−
+   (A) √(2/3)
+   (B) √(3/4)
+   (C) √(3/2)
+   (D) √(2/9)
+   Answer: C
+
+Q12. The electric field strength and electrostatic potential due to a dipole depends upon distance r as
+   (A) 1/r and 1/r2
+   (B) 1/r2 and 1/r3
+   (C) 1/r3 and 1/r2
+   (D) 1/r2 and 1/r
+   Answer: C
+
+Q13. Which of the following satisfies the condition of partial equilibrium?
+   (A) Rotational equilibrium
+   (B) Translation equilibrium
+   (C) Both 1 and 2
+   (D) Neither 1 nor 2
+   Answer: C
+
+Q14. Which of the following expressions represents the energy stored in a stretched wire? (Y = Young's modulus, S = strain)
+   (A) 1YS2 / 2
+   (B) Y S2
+   (C) 3YS2 / 2
+   (D) 1YS2 / 4
+   Answer: A
+
+Q15. An electron is moving with a velocity v in a magnetic field B. The magnetic field is perpendicular to the velocity of the electron and the electron is moving on a circular path of radius r. Which of the following represent the charge per unit mass (e/m) of the electron?
+   (A) rB/v
+   (B) B/rv
+   (C) v/rB
+   (D) v/2rB
+   Answer: C
+
+Q16. The Einstein’s photoelectric equation is speed of light, λ is wavelength, and ϕ is work function)
+   (A) Minimum kinetic energy of electrons
+   (B) Maximum kinetic energy of electrons
+   (C) Mean kinetic energy of electrons
+   (D) None of the above
+   Answer: B
+
+Q17. A ball is dropped from a height h and rebounds to a height which is 80 % of the initial height. Find the ratio of final potential energy to the initial potential energy of the ball.
+   (A) 5/4
+   (B) 4/5
+   (C) 25/4
+   (D) 4/25
+   Answer: B
+
+Q18. The velocity of a particle varies with displacement as v2 = a + bx, where a and b are constants. The acceleration of the particle is-
+   (A) Non-uniform
+   (B) Uniform
+   (C) 1
+   (D) 0
+   Answer: B
+
+Q19. Two electrical resistances R and 2R are connected in parallel combination. This combination is connected in series with a battery of potential difference V. Find the ratio of heat dissipated in two resistances.
+   (A) 2 : 1
+   (B) 4 : 1
+   (C) 1 : 4
+   (D) 8 : 1
+   Answer: A
+
+Q20. The dispersion is-
+   (A) bending of light ray at a corner
+   (B) reflection of light rays from a surface
+   (C) bending of light ray towards normal when it travels from one medium to another
+   (D) splitting of white light into its constituent colours
+   Answer: D
+
+Q21. The number of turns in secondary coil and primary coil of a transformer are 200 and 500 respectively. If the electric current in the primary coil is 48 A then find the current in secondary coil.
+   (A) 148 A
+   (B) 130 A
+   (C) 120 A
+   (D) 100 A
+   Answer: C
+
+Q22. The efficiency of a Carnot heat engine is 75 %. If the temperature of sink is 300 K then find the temperature of heat source.
+   (A) 75 K
+   (B) 150 K
+   (C) 300 K
+   (D) 1200 K
+   Answer: D
+
+Q23. The acceleration due to gravity reduces by 75% at a height h above the surface of the earth. Find h in terms of radius of earth (R).
+   (A) R/2
+   (B) 2 R
+   (C) 3 R
+   (D) R
+   Answer: D
+
+Q24. A wire of length 2 m is bend to form a circular coil of single turn. Find the magnetic moment of the circular coil if the current in the coil is 1 A.
+   (A) 2 / π
+   (B) 3 / π
+   (C) 1 / π
+   (D) 1 / 2π
+   Answer: C
+
+Q25. The drift velocity of electrons in a current-carrying wire of cross-sectional area A and current I is v. If the electric current and the cross-sectional area is doubled then-new drift velocity will-
+   (A) become 2 times
+   (B) become 4 times
+   (C) become half
+   (D) remain same
+   Answer: D
+
+
+==============================================================================
+PAPER 2  |  GROUP X  |  04 Nov 2020  |  Source: SelfStudys
+==============================================================================
+Q1. The electrostatic force between two charges of 6 C and 2 C separated by some distance is 12 N. If -4 C charge is added to each of them then find the new magnitude of force between them (distance between the charges remains same).
+   (A) 12 N
+   (B) 6 N
+   (C) 4 N
+   (D) 2 N
+   Answer: C
+
+Q2. The relation between frequency ‘f’ wavelength ‘λ’ and velocity of propagation ‘v’ of the wave is
+   (A) λ = f × ν
+   (B) f = λ ÷ v
+   (C) v = f × λ
+   (D) λ = f ÷ ν
+   Answer: C
+
+Q3. Which logic gate will produce the following output? Input Output A B Y 0 0 0 0 1 0 1 0 0 1 1 1
+   (A) OR
+   (B) AND
+   (C) NAND
+   (D) NOR
+   Answer: B
+
+Q4. Which of the following is not a force?
+   (A) Thrust
+   (B) Impulse
+   (C) Weight
+   (D) Tension
+   Answer: B
+
+Q5. If v = at + bt2 v is velocity and t in seconds, then the dimension of b is:
+   (A) LT0
+   (B) LT-1
+   (C) LT-2
+   (D) LT-3
+   Answer: D
+
+Q6. The total number of images formed by two mirrors inclined at 72° to each other when the object is placed unsymmetrically will be ___?
+   (A) 2
+   (B) 3
+   (C) 4
+   (D) 5
+   Answer: D
+
+Q7. The mathematical form of the resonant frequency of a LCR circuit is equal to
+   (A) 1 / 2π(LC)
+   (B) 1 / 2π(LC)2
+   (C) 2π(LC)
+   (D) 1 / 2π√LC
+   Answer: D
+
+Q8. The propagation constant or the angular wave number is equal to ________.
+   (A) 2πλ
+   (B) λ / 2π
+   (C) 2π / λ
+   (D) 1 / (2πλ)
+   Answer: C
+
+Q9. The rms speed of gas at 27°C is V. If the temperature of the gas is raised to 327°C, then therms speed of a gas is
+   (A) V
+   (B) V/√2
+   (C) V√2
+   (D) 3V
+   Answer: C
+
+Q10. Which law of thermodynamics defines the concept temperature?
+   (A) First Law of Thermodynamics
+   (B) Second Law of Thermodynamics
+   (C) Zeroth Law of Thermodynamics
+   (D) Third Law of Thermodynamics
+   Answer: C
+
+Q11. The ratio of length of two simple pendulums is 2 : 3. Find the ratio of their frequency.
+   (A) √(2/3)
+   (B) √(3/4)
+   (C) √(3/2)
+   (D) √(2/9)
+   Answer: C
+
+Q12. The electric field strength and electrostatic potential due to a dipole depends upon distance r as
+   (A) 1/r and 1/r2
+   (B) 1/r2 and 1/r3
+   (C) 1/r3 and 1/r2
+   (D) 1/r2 and 1/r
+   Answer: C
+
+Q13. Which of the following satisfies the condition of partial equilibrium?
+   (A) Rotational equilibrium
+   (B) Translation equilibrium
+   (C) Both 1 and 2
+   (D) Neither 1 nor 2
+   Answer: C
+
+Q14. Which of the following expressions represents the energy stored in a stretched wire? (Y = Young's modulus, S = strain)
+   (A) 1/2 Y S²
+   (B) Y S²
+   (C) 3/2 Y S²
+   (D) 1/4 Y S²
+   Answer: A
+
+Q15. An electron is moving with a velocity v in a magnetic field B. The magnetic field is perpendicular to the velocity of the electron and the electron is moving on a circular path of radius r. Which of the following represent the charge per unit mass (e/m) of the electron?
+   (A) rB/v
+   (B) B/rv
+   (C) v/rB
+   (D) v/2rB
+   Answer: C
+
+Q16. TheEinstein’s photoelectric equation is . Here k represents- hν = ϕ + k (h is planck's constant, c is speed of light,λ is wavelength, andϕ is work function)
+   (A) Minimum kinetic energy of electrons
+   (B) Maximum kinetic energy of electrons
+   (C) Meankinetic energy of electrons
+   (D) None of the above
+   Answer: B
+
+Q17. A ball is dropped from a height h and rebounds to a height which is 80 % of the initial height. Find the ratio of final potential energy to the initial potential energy of the ball.
+   (A) 5/4
+   (B) 4/5
+   (C) 25/4
+   (D) 4/25
+   Answer: B
+
+Q18. The velocity of a particle varies with displacement as v2= a + bx, where a and b are constants. The acceleration of the particle is-
+   (A) Non-uniform
+   (B) Uniform
+   (C) 1
+   (D) 0
+   Answer: B
+
+Q19. Two electrical resistances R and 2R are connected in parallel combination. This combination is connected in series with a battery of potential difference V. Find the ratio of heat dissipated in two resistances.
+   (A) 2 : 1
+   (B) 4 : 1
+   (C) 1 : 4
+   (D) 8 : 1
+   Answer: A
+
+Q20. The dispersion is-
+   (A) bending of light ray at a corner
+   (B) reflection of light rays from a surface
+   (C) bending of light ray towards normal when it travels from one medium to another
+   (D) splitting of white light into its constituent colours
+   Answer: D
+
+Q21. The number of turns in secondary coil and primary coil of a transformer are 200 and 500 respectively. If the electric current in the primary coil is 48 A then find the current in secondary coil.
+   (A) 148 A
+   (B) 130 A
+   (C) 120 A
+   (D) 100 A
+   Answer: C
+
+Q22. The efficiency of a Carnot heat engine is 75 %. If the temperature of sink is 300 K then find the temperature of heat source.
+   (A) 75 K
+   (B) 150 K
+   (C) 300 K
+   (D) 1200 K
+   Answer: D
+
+Q23. The acceleration due to gravity reduces by 75% at a height h above the surface of the earth. Find h in terms of radius of earth (R).
+   (A) R/2
+   (B) 2 R
+   (C) 3 R
+   (D) R
+   Answer: D
+
+Q24. A wire of length 2 m is bend to form a circular coil of single turn. Find the magnetic moment of the circular coil if the current in the coil is 1 A.
+   (A) 2 / π
+   (B) 3 / π
+   (C) 1 / π
+   (D) 1 / 2π
+   Answer: C
+
+Q25. The drift velocity of electrons in a current-carrying wire of cross- sectional area A and current I is v. If the electric current and the cross- sectional area is doubled then-new drift velocity will-
+   (A) become 2 times
+   (B) become 4 times
+   (C) become half
+   (D) remain same
+   Answer: D
+
+
+==============================================================================
+PAPER 3  |  GROUP X  |  05 Nov 2020  |  Source: Prepp
+==============================================================================
+Q1. The work done on moving a charge particle of - 5 C in an electric field is 100 J. Find the potential difference.
+   (A) 20 volt
+   (B) - 20 volt
+   (C) 10 volt
+   (D) - 10 volt
+   Answer: B
+
+Q2. On which of the following, no magnetic force will act in a magnetic field region?
+   (A) Beam of electrons
+   (B) Beam of protons
+   (C) Piece of a magnet
+   (D) charge particle at rest
+   Answer: D
+
+Q3. The length of a simple pendulum is increased then the time period will-
+   (A) Decrease
+   (B) increase
+   (C) remain same
+   (D) Can't predict
+   Answer: B
+
+Q4. The centre of mass of a uniform cube will be at-
+   (A) One corner of the cube
+   (B) Geographical centre of the cube
+   (C) Below geographical centre of the cube
+   (D) Above geographical centre of the cube
+   Answer: B
+
+Q5. The linear momentum of a particle is increased by 25% then find the increment in the kinetic energy if the mass of the particle is constant.
+   (A) 50%
+   (B) 60%
+   (C) 56.25%
+   (D) 25%
+   Answer: C
+
+Q6. The slope of a velocity - time graph (v-t) gives-
+   (A) Average velocity
+   (B) Displacement
+   (C) Force
+   (D) Acceleration
+   Answer: D
+
+Q7. A wire is pulled away from both the sides. The stress generated in the wire will be-
+   (A) Tensile
+   (B) Compressive
+   (C) Shear
+   (D) Compressive in one half and tensile in other half
+   Answer: A
+
+Q8. Which type of behaviour is shown by a pure Germanium at absolute zero temperature?
+   (A) Conductor
+   (B) Semiconductor
+   (C) Insulator
+   (D) Can't predict
+   Answer: C
+
+Q9. The escape velocity on earth is 11.2 km/s. Find the escape velocity on a planet having mass twice that of earth and radius half that of the earth.
+   (A) 11.2 km/s
+   (B) 22.4 km/s
+   (C) 5.6 km/s
+   (D) 0
+   Answer: B
+
+Q10. Which physical quanity has the same dimension as that of
+   (A) Length
+   (B) Mass
+   (C) Resistance
+   (D) Time period
+   Answer: D
+
+Q11. A charged particle of charge q and mass m is moving in a magnetic field B with a velocity v. The velocity is perpendicular to the magnetic field. Find the radius of the path followed by the charged particle.
+   (A) mv / Bq2
+   (B) mv / qB
+   (C) mv / 2qB
+   (D) 2mv / qB
+   Answer: B
+
+Q12. 1 kWh = _____ J
+   (A) 3.6 × 104 J
+   (B) 3.6 × 105 J
+   (C) 3.6 × 106 J
+   (D) 3.6 × 103 J
+   Answer: C
+
+Q13. Which of the following phenomenon differentiate the electromagnetic waves and sound waves?
+   (A) Diffraction
+   (B) reflection
+   (C) Refraction
+   (D) Polarization
+   Answer: D
+
+Q14. Which of the physics quanity has the same unit in both C.G.S and M.K.S system?
+   (A) Velocity
+   (B) Distance
+   (C) Time
+   (D) Mass
+   Answer: C
+
+Q15. Human hair cling together when it is removed from water due to
+   (A) Force of attraction between hairs
+   (B) Surface tension
+   (C) Viscosity of water
+   (D) Characteristic property of hairs
+   Answer: B
+
+Q16. The equations of two waves are given as Y1 = 20 sin (4πt + π /4) and y2 = 20 sin (4πt +π /3). Find the phase difference between two waves.
+   (A) 0
+   (B) π/6
+   (C) π/12
+   (D) π/4
+   Answer: C
+
+Q17. Which law of of thermodynamics is used for understanding the concept of energy conservation?
+   (A) Zeroth law
+   (B) First law
+   (C) Second law
+   (D) None of the above
+   Answer: B
+
+Q18. What is the force between two spheres of charges 12 × 10-8 C and 18 × 10-8 C which are separated by a distance of 25 cm?
+   (A) 3.11 × 10−3N
+   (B) 3.11 × 10−4N
+   (C) 6.2 × 10−3N
+   (D) 12 × 10−3N
+   Answer: A
+
+Q19. What is the value of unknown resistance when connected with 8 Ω in parallel combination to give the equivalent resistance 3 Ω?
+   (A) 5Ω / 24
+   (B) 24Ω / 5
+   (C) 10 Ω
+   (D) 5 Ω
+   Answer: B
+
+Q20. Which of the following laws can be explained by Huygens’s principle?
+   (A) Diffraction
+   (B) Reflection
+   (C) Refraction
+   (D) All of the above
+   Answer: D
+
+Q21. When a red colour paper is seen in the yellow light, it will appear as
+   (A) red
+   (B) yellow
+   (C) White
+   (D) black
+   Answer: D
+
+Q22. If the threshold frequency for photoelectric effect on sodium metal is 1.6 × 104 Hz, then find its work function (h = 6.6 × 10
+   (A) 10.56 × 10-34 J
+   (B) 15.56 × 10-30 J
+   (C) 15.6 × 10-30 J
+   (D) 10.56 × 10-30 J
+   Answer: D
+
+Q23. Property of converging lens is:
+   (A) converges light rays on a point
+   (B) diverges light rays
+   (C) no lens is converging
+   (D) none of these
+   Answer: A
+
+Q24. In which process, the change in internal energy of the system is equal to work done on the system or by the system
+   (A) Isochoric
+   (B) Isobaric
+   (C) Isothermal
+   (D) Adiabatic
+   Answer: D
+
+Q25. The root-mean-square speed of the molecules of an enclosed gas is v. What will be the root mean square speed if the pressure is doubled, the temperature remaining the same?
+   (A) v/2
+   (B) v
+   (C) 2v
+   (D) 4v
+   Answer: B
+
+
+==============================================================================
+PAPER 4  |  GROUP X  |  06 Nov 2020  |  Source: Prepp
+==============================================================================
+Q1. When the temperature of a ferromagnetic material is increased above curie temperature then
+   (A) The ferromagnetic material changes into paramagnetic material.
+   (B) The ferromagnetic material changes into diamagnetic material.
+   (C) The ferromagnetic material changes into state from solid to liquid.
+   (D) The ferromagnetic material changes into superconducting material.
+   Answer: A
+
+Q2. The area under force-displacement graph gives-
+   (A) Velocity
+   (B) Acceleration
+   (C) Work done
+   (D) Power
+   Answer: C
+
+Q3. Which of the following is not a physical quantity?
+   (A) Length
+   (B) Time
+   (C) Electric current
+   (D) Kilogram (kg)
+   Answer: D
+
+Q4. The electrostatic force between two equal charges placed at a separation of 4 m is 40 N. Find the magnitude of two charge particles.
+   (A) 800 μC
+   (B) 800/3 μC
+   (C) 400 μC
+   (D) 400/3 μC
+   Answer: B
+
+Q5. Surface tension is due to :
+   (A) cohesive molecular forces
+   (B) gravitational forces
+   (C) nuclear forces
+   (D) electrical forces
+   Answer: A
+
+Q6. A liquid drop tends to assume a spherical shape because of
+   (A) Centrifugal force
+   (B) Surface tension
+   (C) Gravitational force
+   (D) Viscous force
+   Answer: B
+
+Q7. The force of attraction between two objects of masses m1 and m2 that lie at a distance 'd' from each other is directly proportional to the-
+   (A) d2
+   (B) d3
+   (C) 1 / d2
+   (D) 1 / d
+   Answer: C
+
+Q8. What happens to the drift velocity of electrons if the cross-sectional area of a current-carrying wire is increased? (keep all other parameters constant)
+   (A) Decreases
+   (B) Remain same
+   (C) Increases
+   (D) Can't predict
+   Answer: A
+
+Q9. What should be the angle between magnetic moment and magnetic field for maximum work done in a magnetic field?
+   (A) 90°
+   (B) 180°
+   (C) 270°
+   (D) 45°
+   Answer: B
+
+Q10. Which of the following is a vector quantity?
+   (A) Mass
+   (B) Speed
+   (C) Length
+   (D) Impulse
+   Answer: D
+
+Q11. The linear momentum of a particle is p = at + bt2. Find the force on the particle at t = 0 sec. (Here a and b are constants)
+   (A) b
+   (B) 2b
+   (C) a
+   (D) 2a
+   Answer: C
+
+Q12. The wire used in an electric heater has-
+   (A) Low melting point
+   (B) High melting point
+   (C) Very low resistance
+   (D) Can't say
+   Answer: B
+
+Q13. Which of the following electromagnetic wave has maximum frequency?
+   (A) Radio waves
+   (B) X-rays
+   (C) Gamma rays
+   (D) Visible rays
+   Answer: C
+
+Q14. The escape speed from the surface of the Earth is equal to?
+   (A) √(2GME/RE)
+   (B) √(GME/RE)
+   (C) √(2GRE/ME)
+   (D) √(GRE/ME)
+   Answer: A
+
+Q15. A p-n junction behaves as an insulator when it is-
+   (A) Forward biased
+   (B) Reversed biased
+   (C) In both forward bias and reverse bias
+   (D) Never
+   Answer: B
+
+Q16. The heat taken from a sink is based on-
+   (A) First law of thermodynamics
+   (B) Second law of thermodynamics
+   (C) Third law of thermodynamics
+   (D) Zeroth law of thermodynamics
+   Answer: B
+
+Q17. Choose the equation representing simple harmonic motion.
+   (A) y = A e2ωt
+   (B) y = A cos2(ωt) + 4t
+   (C) y = A Sin2(ωt) - 2ωt
+   (D) y = A sin(ωt)
+   Answer: D
+
+Q18. Which one of the following statements is correct regarding the magnetic field inside a current carrying solenoid?
+   (A) The magnetic field inside the solenoid is zero
+   (B) The magnetic field inside the solenoid is uniform at all the points
+   (C) The magnetic field inside the solenoid increases as we move towards the ends
+   (D) The magnetic field inside the solenoid decreases as we move towards the ends
+   Answer: B
+
+Q19. A ball is thrown with a velocity of 10 m/s in vertically upward direction. Find the time after which it comes back to the ground. (g = 10m/s2)
+   (A) 0.5 sec
+   (B) 1 sec
+   (C) 2 sec
+   (D) 2.5 sec
+   Answer: C
+
+Q20. The distance between the plates of a parallel plate capacitor is increased then the capacitance will-
+   (A) remain same
+   (B) Increase
+   (C) Decrease
+   (D) Can't predict
+   Answer: C
+
+Q21. The angle between two vectors A⃗ and B⃗ is given by-
+   (A) cos θ = (A⃗·B⃗) / (2|A⃗||B⃗|)
+   (B) tan θ = (A⃗·B⃗) / (|A⃗||B⃗|)
+   (C) sin θ = (A⃗·B⃗) / (|A⃗||B⃗|)
+   (D) cos θ = (A⃗·B⃗) / (|A⃗||B⃗|)
+   Answer: D
+
+Q22. Find the centre of mass of three masses 2 kg, 1 kg and 2 kg which are placed at (2, 1), (-1, 2) and (0, 4) respectively.
+   (A) (1, 2)
+   (B) (0.2, 1.2)
+   (C) (0.6, 2.4)
+   (D) (1.2, 2.4)
+   Answer: C
+
+Q23. The magnetic field and number of turns of the coil of an electric generator is doubled then the magnetic flux of the coil will-
+   (A) become half
+   (B) become two times
+   (C) become three times
+   (D) become four times
+   Answer: D
+
+Q24. A glass is heated first and then it is cooled down suddenly. It breaks due to-
+   (A) Thermal conductivity
+   (B) Electrical conductivity
+   (C) Density difference
+   (D) None of the above
+   Answer: C
+
+Q25. How the temperature of a thermodynamic system can be increased without giving heat energy to the system?
+   (A) By isothermal compression
+   (B) By isochoric expansion
+   (C) By adiabatic expansion
+   (D) By adiabatic compression
+   Answer: D
+
+
+==============================================================================
+PAPER 5  |  GROUP X  |  07 Nov 2020  |  Source: Prepp
+==============================================================================
+Q1. इकाई रहित मात्राा चुनें।
+   (A) वेग
+   (B) विकृति
+   (C) त्वरण
+   (D) प्रतिबल
+   Answer: B
+
+Q2. निम्नलिखित में से कौन सी एक सदिश राशि है?
+   (A) कार्य
+   (B) आंतरिक ऊर्जा
+   (C) कोणीय संवेग
+   (D) शक्ति
+   Answer: C
+
+Q3. 10 N का एक बाहरी बल एक रुक्ष सतह पर रखे गए निकाय पर कार्य करता है और बल के समान दिशा में 10 m/s के स्थिर वेग के साथ निकाय घूमना शुरू होता है। निकाय पर कार्य करने वाले घर्षण बल का पता लगाएं।
+   (A) बाहरी बल की दिशा में 10 N
+   (B) बाहरी बल के विपरित दिशा में 10 N
+   (C) बाहरी बल की दिशा में 20 N
+   (D) बाहरी बल के विपरित दिशा में 20 N
+   Answer: B
+
+Q4. एक निकाय के बल F, वेग V, और शक्ति
+   (A) P = F/V
+   (B) F = P.V
+   (C) V = P.F
+   (D) P = F.V
+   Answer: D
+
+Q5. निम्नलिखित में से क्याा पृथ्वीी के द्रव्यमान पर निर्भर करता है?
+   (A) पृथ्वीी पर पलायन वेग
+   (B) पृथ्वीी के कारण गुरुत्वााकर्षण बल
+   (C) पृथ्वीी पर गुरुत्वााकर्षण की स्थितिज ऊर्जा
+   (D) उपरोक्त सभी पृथ्वीी के द्रव्यमान पर निर्भर करते हैं
+   Answer: D
+
+Q6. पृथ्वीी की सतह से पलायन वेग_________ के बराबर है।
+   (A) √(2GME/RE)
+   (B) √(GME/RE)
+   (C) √(2GRE/ME)
+   (D) √(GRE/ME)
+   Answer: A
+
+Q7. यदि इनपुट A और B हैं तो AND गेट और NOT गेट के संयोजन का आउटपुट क्याा होगा?
+   (A) A + B
+   (B) A.B
+   (C) ¯A.B¯¯¯¯¯¯¯¯¯
+   (D) ¯A + B¯¯¯¯¯¯¯¯¯¯¯¯
+   Answer: C
+
+Q8. निम्नलिखित में से क्याा समतल दर्पण में अपनी छवि में समान ही होगा?
+   (A) PQR
+   (B) PQO
+   (C) OXT
+   (D) BFC
+   Answer: C
+
+Q9. प्रकाश तरंग और ध्वनि तरंग के बीच अंतर निम्नलिखित में से किस घटना पर आधारित है?
+   (A) व्यतिकरण
+   (B) ध्रुुवीकरण
+   (C) अपवर्तन
+   (D) परावर्तन
+   Answer: B
+
+Q10. एक चुंबकीय क्षेेत्र H में 360° के माध्यम से चुंबकीय आघूर्ण M के चुंबक को घुमाने में किए गए कार्य का पता लगाएं।
+   (A) M H
+   (B) 2M H
+   (C) -MH
+   (D) Zero
+   Answer: D
+
+Q11. समान प्रतिरोध 4 Ω के तीन तारों से एक समबाहु त्रिभुज बना है। किसी एक पक्ष के पार समान प्रतिरोध ज्ञाात कीजिए।
+   (A) 4 Ω
+   (B) 8 Ω
+   (C) 4/3 Ω
+   (D) 8/3 Ω
+   Answer: D
+
+Q12. एक समानांतर प्लेेट संधारित्र में 10 μF की धारिता होती है। यदि दो प्लेेटों के बीच की दूरी दोगुनी होती है, फिर नई धारिता क्याा होगी?
+   (A) 20 μF
+   (B) 15 μF
+   (C) 10 μF
+   (D) 5 μF
+   Answer: D
+
+Q13. एक गेंद को 10 m/s के प्राारंभिक वेग के साथ ऊर्ध्वाधर रूप से ऊपर की दिशा में फेंक दिया जाता है। गेंद की उड़ाान के समय का पता लगाएं (g = 10 m/s लीजिए)।
+   (A) 1 सेकेंड
+   (B) 2 सेकेंड
+   (C) तीन सेकंड
+   (D) 4 सेकंड
+   Answer: B
+
+Q14. प्रत्येेकी 1.5 Ω के आंतरिक प्रतिरोधों के 5 समान सेल समानांतर संयोजन में जुड़ेे हुए हैं। सेल के समकक्ष आंतरिक प्रतिरोध का पता लगाएं।
+   (A) 7.5 Ω
+   (B) 5 Ω
+   (C) 1.5 Ω
+   (D) 0.3 Ω
+   Answer: D
+
+Q15. किसी निकाय के द्रव्यमान का केंद्र किस पर निर्भर करता है?
+   (A) वेग
+   (B) बल
+   (C) त्रिज्याा
+   (D) तापमान
+   Answer: C
+
+Q16. एक कार्नोट ऊष्माा इंजन का सिंंक तापमान 50°C है और दक्षता 50% है। इंजन के ऊष्माा स्रोोत का तापमान ज्ञाात कीजिए।
+   (A) 100 °C
+   (B) 673 °C
+   (C) 373 °C
+   (D) 0 °C
+   Answer: C
+
+Q17. गैस के 2 मोल की आंतरिक ऊर्जा में परिवर्तन -10 J है। यदि प्रक्रि लगाएं।
+   (A) 20 J
+   (B) 15 J
+   (C) 10 J
+   (D) 5 J
+   Answer: C
+
+Q18. यदि किसी धातु की सतह की थ्रेेशोल्ड आवृत्ति दोगुनी हो जाती है तो धातु का कार्य फलन ___________।
+   (A) वही रहेगा
+   (B) बढेगा
+   (C) कम होगा
+   (D) पूर्वानुमान नहीं कर सकते
+   Answer: B
+
+Q19. विद्युत चुम्बकीय तरंग गति (c), मुक्त स्थान का परावैद्युतांक (ϵ0) और मुक्त स्थान की पारगम्यता (μ0) के बीच सही संबंध चुनिये-
+   (A) c = √(μ0/ϵ0)
+   (B) c = 1/(ϵ0 μ0)
+   (C) c = √(ϵ0/μ0)
+   (D) c = 1/√(ϵ0 μ0)
+   Answer: D
+
+Q20. निम्नलिखित में से किसकी इकाई है लेकिन कोई आयाम नहीं है?
+   (A) द्रव्यमान
+   (B) समय
+   (C) कोण
+   (D) वेग
+   Answer: C
+
+Q21. एक समतापी प्रक्रि या में गैस की आंतरिक ऊर्जा ...................।
+   (A) कम हो जाती है
+   (B) बढ़ती है
+   (C) स्थिर रहती है
+   (D) इनमें से कोई भी नहीं
+   Answer: C
+
+Q22. बाल्टीी में रखे तरल को कुछ सेकंड के लिए हिलाया जाता है और फिर विरामावस्था पर रखा जाता है। कुछ समय के बाद किसके कारण तरल विरामावस्था पर आता है?
+   (A) पृष्ठीीय तनाव
+   (B) श्याानता
+   (C) घनत्व
+   (D) आयतन में परिवर्तन
+   Answer: B
+
+Q23. विशुद्ध रूप से प्रेेरणिक A.C. परिपथ में V और I के बीच फेज अंतर क्याा है?
+   (A) 0°
+   (B) 180°
+   (C) 90°
+   (D) 360°
+   Answer: C
+
+Q24. जब एक इलेक्ट्रॉॉन एक लंबवत चुंबकीय क्षेेत्र में प्रवेश करता है, तो इलेक्ट्रॉॉन की गतिज ऊर्जा होगी ______।
+   (A) बढ़ेगी
+   (B) घटेगी
+   (C) स्थिर रहेगी
+   (D) कहने के लिए अधिक जानकारी की आवश्यकता है
+   Answer: C
+
+Q25. भँवर धारा के उत्पाादन के पीछे सही कारण क्याा है?
+   (A) विद्युत क्षेेत्र में परिवर्तन
+   (B) चुंबकीय अभिवाह में परिवर्तन
+   (C) बलाघूर्ण में परिवर्तन
+   (D) विद्युत आवेश में परिवर्तन
+   Answer: B
+
+
+==============================================================================
+PAPER 6  |  GROUP X  |  12 Jul 2021 Shift-2  |  Source: Prepp
+==============================================================================
+Q1. Which electromagnetic wave has maximum wavelength?
+   (A) X-rays
+   (B) Gamma rays
+   (C) Radio wave
+   (D) Infrared wave
+   Answer: C
+
+Q2. Which of the following shows the CORRECT relationship between half time and decay constant?
+   (A) T1/2 = λ / 0.693
+   (B) T1/2 = 0.693 / λ
+   (C) T1/2 = λ × 0.693
+   (D) T1/2 = λ² / 0.693
+   Answer: B
+
+Q3. Which of the following is not a unit of magnetic field?
+   (A) Tesla
+   (B) Gauss
+   (C) N/kg-m
+   (D) Weber
+   Answer: C
+
+Q4. Excess pressure in a soap bubble of radius r is proportional to
+   (A) 1/r
+   (B) 1/r²
+   (C) r
+   (D) r²
+   Answer: A
+
+Q5. When an electromagnetic wave moves from one medium to another medium, then which quantity will not change:
+   (A) Wavelength
+   (B) Speed
+   (C) Frequency
+   (D) None of these
+   Answer: C
+
+Q6. If a wire of uniform area of cross-section is cut into two equal parts, the resistivity of each part will be?
+   (A) four times
+   (B) double
+   (C) halve
+   (D) same
+   Answer: D
+
+Q7. Find the equivalent resistance of the given circuit:
+   (A) 20 Ω
+   (B) 30 Ω
+   (C) 40 Ω
+   (D) 50 Ω
+   Answer: A
+
+Q8. What is the dimension of mutual induction?
+   (A) [M L² T⁻³ A⁻¹]
+   (B) [M L² T⁻² A⁻²]
+   (C) [M L³ T⁻⁴ A⁻¹]
+   (D) [M L³ T⁻⁴ A⁻²]
+   Answer: B
+
+Q9. For which of the following materials, the temperature coefficient will be negative?
+   (A) Copper
+   (B) Tungsten
+   (C) Germanium
+   (D) Aluminium
+   Answer: C
+
+Q10. A solid spherical conductor is placed in an external electric field. It is given a charge q. The charge q
+   (A) is distributed uniformly throughout the sphere
+   (B) is distributed non-uniformly, but throughout the sphere
+   (C) is distributed uniformly on the surface of the sphere
+   (D) is distributed non-uniformly on the surface of the sphere
+   Answer: D
+
+Q11. Consider a car moving with constant acceleration along a straight road and the distance covered by the car is given by equation s = 5t² + 3t + 9 metres. Then find the ratio of acceleration and initial velocity of the car at the start.
+   (A) 10 : 3
+   (B) 1 : 2
+   (C) 3 : 10
+   (D) 2 : 1
+   Answer: C
+
+Q12. Which one of the following statements is correct
+   (A) Rolling friction is greater than sliding friction
+   (B) Rolling friction is less than sliding friction
+   (C) Rolling friction is equal to sliding friction
+   (D) Rolling friction and sliding friction are same
+   Answer: B
+
+Q13. The ratio of the radii of two planets are respectively as 1 : 4 and the ratio of their densities are respectively 1 : 2. The ratio of the accelerations due to gravity at their surfaces is:
+   (A) 1 : 8
+   (B) 1 : 4
+   (C) 4 : 1
+   (D) 8 : 1
+   Answer: A
+
+Q14. In which type of wave energy is not transferred?
+   (A) Heat waves
+   (B) Target waves
+   (C) Stationary waves
+   (D) Unstationary waves
+   Answer: C
+
+Q15. The ratio of SI unit and CGS unit of force is
+   (A) 10⁹
+   (B) 10⁷
+   (C) 10⁵
+   (D) 10¹¹
+   Answer: C
+
+Q16. For projectile motion, the correct relation between maximum height H and the range R is (θ is angle of projection):
+   (A) H = 4 R cot θ
+   (B) R = 4 H cot θ
+   (C) R = H/4 cot θ
+   (D) R = 2 H cot θ
+   Answer: B
+
+Q17. If the elastic potential energy density stored in a material is 3 × 10⁴ J/m³ due to the application of longitudinal stress of 1 × 10¹¹ N/m², then the strain developed in it would be
+   (A) 6 × 10⁻⁷
+   (B) 3 × 10⁻⁷
+   (C) 4 × 10⁻⁷
+   (D) None
+   Answer: A
+
+Q18. A Carnot engine is working between the temperature range of 327°C and 127°C. If the heat absorbed by the engine is 9 × 10⁴ J, the work done by the engine is:
+   (A) 3 × 10⁴ J
+   (B) 6 × 10⁴ J
+   (C) 4 × 10⁴ J
+   (D) 5 × 10⁴ J
+   Answer: A
+
+Q19. Which of the following phenomenon is/are responsible for formation of a rainbow in the sky?
+   (A) Reflection
+   (B) Refraction
+   (C) Dispersion
+   (D) All three
+   Answer: D
+
+Q20. The magnetic flux linked with a coil in weber is given by the equation ϕ = 6t² + 3t + 2. Then the magnitude of induced emf in the coil at t = 3 sec will be:
+   (A) 39 V
+   (B) 44 V
+   (C) 36 V
+   (D) 50 V
+   Answer: A
+
+Q21. A body of mass M moving with a velocity V explodes into two equal parts. If one comes to rest and the other body moves with velocity v, what would be the value of v?
+   (A) V
+   (B) V/√2
+   (C) 4V
+   (D) 2V
+   Answer: D
+
+Q22. Same gas is filled in two containers of same volume, same temperature and with pressure of ratio 1 : 2. The ratio of their rms speeds is:
+   (A) 1 : 2
+   (B) 2 : 1
+   (C) 1 : 4
+   (D) 1 : 1
+   Answer: D
+
+Q23. Two conducting wires A and B are made of same material. If the length of B is twice that of A and radius of circular cross section of A is twice that of B, then their resistances RA and RB are in the ratio
+   (A) 2 : 1
+   (B) 1 : 2
+   (C) 1 : 8
+   (D) 1 : 4
+   Answer: C
+
+Q24. Average power in LCR circuit depends upon
+   (A) current
+   (B) current, emf, and phase difference
+   (C) emf
+   (D) phase difference
+   Answer: B
+
+Q25. Which of the following statement is incorrect regarding centre of mass?
+   (A) The centre of gravity is the point through which the force of gravity acts on an object or system.
+   (B) Centre of Mass of a body is a point at which the whole of the mass of the body can be assumed as a point mass.
+   (C) The Center of Mass of a body will always be inside the body.
+   (D) All of the above statements are correct regarding centre of mass.
+   Answer: C
+
+
+==============================================================================
+PAPER 7  |  GROUP X  |  13 Jul 2021 Shift-1  |  Source: Prepp
+==============================================================================
+Q1. The electromagnetic waves don't transport-
+   (A) Energy
+   (B) Electric charge
+   (C) Momentum
+   (D) All of the above
+   Answer: B
+
+Q2. Newton's first Law of motion gives the concept of
+   (A) Inertia
+   (B) Momentum
+   (C) displacement
+   (D) Work
+   Answer: A
+
+Q3. If dQ is the heat given to thermodynamic system and dU is its change in internal energy and dW is the work done by the system, then the first law of thermodynamics concludes that:
+   (A) dQ = dW
+   (B) dQ = dU - dW
+   (C) dQ = dW + dU
+   (D) dQ = dU
+   Answer: C
+
+Q4. Find the dimension of 'η' in the Stoke's Law formula ?
+   (A) [M0LT-2]
+   (B) [ML-1T-2]
+   (C) [ML-1T-1]
+   (D) [M1LT-2]
+   Answer: C
+
+Q5. What is the value of the Stefan-Boltzman constant?
+   (A) 5.67×10-10 W/m2 K4
+   (B) 5.67×10-6 W/m2 K4
+   (C) 5.67×108 W/m2 K4
+   (D) 5.67×10-8 W/m2 K4
+   Answer: D
+
+Q6. Find the value of the current across both resistors?
+   (A) 0.5 A
+   (B) 1 A
+   (C) 1.5 A
+   (D) 3 A
+   Answer: A
+
+Q7. If the de Broglie wavelength of the particle is 0.2 Å. Then find the momentum of the particle
+   (A) 3 × 10-34 kg m/s
+   (B) 6.3 × 10-10 kg m/s
+   (C) 6.3 × 10-13 kg m/s
+   (D) 3.3 × 10-23 kg m/s
+   Answer: D
+
+Q8. A Carnot heat engine takes heat from a reservoir at 127° C and rejects heat to a sink at 27°C. Its efficiency will be
+   (A) 20 %
+   (B) 25 %
+   (C) 30 %
+   (D) 50 %
+   Answer: B
+
+Q9. The reciprocal of resistance is
+   (A) Conductance
+   (B) Resistivity
+   (C) Conductivity
+   (D) Drift velocity
+   Answer: A
+
+Q10. If the absolute refractive indices of glass and water are 3 / 2 and 4 / 3 respectively, what will be the ratio of velocity of light in glass and water?
+   (A) 3 : 4
+   (B) 4 : 3
+   (C) 8 : 7
+   (D) 8 : 9
+   Answer: D
+
+Q11. Magnification produced by a rear view mirror fitted in vechicles
+   (A) is less than one
+   (B) is more than one
+   (C) is equal to one
+   (D) can be more than or less than one depending upon the position of the object in front of it
+   Answer: A
+
+Q12. If 1 kg of wood absorbs 200 KJ of heat energy, and its temperature changes from 25°C to 150°C. In this case, what will be the specific heat of wood?
+   (A) 2000 Jkg-1 °C-1
+   (B) 1600 Jkg-1 °C-1
+   (C) 1000 Jkg-1 °C-1
+   (D) 4000 Jkg-1 °C-1
+   Answer: B
+
+Q13. A charge particle of mass 'm' and charge 'q' is moving with a speed 'v' in a magnetic field B. If the radius of the circular path traced by a charge particle is 'r'. Then find the ratio of q/m.
+   (A) q=v / mBr
+   (B) q=vB / mB
+   (C) q=vr / mB
+   (D) q=B / mvr
+   Answer: A
+
+Q14. A transverse wave passing through a string with equation y = 3 sin (4t - π/6) . Here ‘y’ is in meter and ‘t’ is in seconds. Calculate the maximum velocity of the particle in a wave motion.
+   (A) 4 m/s
+   (B) 8 m/s
+   (C) 12 m/s
+   (D) 16 m/s
+   Answer: C
+
+Q15. With the rise of temperature, the conductivity of a semi-conductor:
+   (A) remains unchanged
+   (B) decreases
+   (C) increases
+   (D) nothing is certain
+   Answer: C
+
+Q16. If G is the gravitational constant, g is the acceleration due to gravity, and R is the radius of the earth, then the expression for the mass of the earth will be
+   (A) gR2G
+   (B) GR2 / g
+   (C) gR2 / G
+   (D) gG / R2
+   Answer: C
+
+Q17. What is electrostatic field at a distance r from a point charge q proportional to?
+   (A) 1/r
+   (B) r
+   (C) r2
+   (D) 1/r2
+   Answer: D
+
+Q18. The basic principle on which the AC generator works is-
+   (A) Electromagnetic induction
+   (B) Energy conservation
+   (C) Lenz law
+   (D) Momentum conservation
+   Answer: A
+
+Q19. A car travels one-third of the distance at a speed of 60 km/hr and remaining distance of 30 km/hr. Then the average speed of the car for the whole journey is:
+   (A) 30 km/hr
+   (B) 36 km/hr
+   (C) 40 km/hr
+   (D) 45 km/hr
+   Answer: B
+
+Q20. If a man of 80 kg weight takes an object to a certain height in time 12 sec and another man of 60 kg weight takes an object to the same height in 11 sec, then find the ratio of the power
+   (A) 11 : 9
+   (B) 9 : 11
+   (C) 12 : 11
+   (D) 11 : 12
+   Answer: A
+
+Q21. The moment of inertia of a rigid body depends on-
+   (A) mass of the body
+   (B) position of the rotational axis
+   (C) shape and size of the body
+   (D) All of the above
+   Answer: D
+
+Q22. The electrical resistivity of the material of a conductor is ρ. If the resistance and volume of the conductor is 3 Ω and 3 m³, then find the length of the conductor.
+   (A) l = 1/√(3ρ)
+   (B) l = √ρ/3
+   (C) l = 3/√ρ
+   (D) l = 3√ρ
+   Answer: C
+
+Q23. Which of the following material is not a ferromagnetic material?
+   (A) Iron
+   (B) Silver
+   (C) Nickel
+   (D) Cobalt
+   Answer: B
+
+Q24. Intensity of light depends upon:
+   (A) amplitude
+   (B) frequency
+   (C) wavelength
+   (D) none of these
+   Answer: A
+
+Q25. Fill in the blank 32 °F = ____ °C
+   (A) 273.15 °C
+   (B) 0 °C
+   (C) -273.15 °C
+   (D) None of the above
+   Answer: B
+
+
+==============================================================================
+PAPER 8  |  GROUP X  |  13 Jul 2021 Shift-2  |  Source: Prepp
+==============================================================================
+Q1. When temperature of metal is increased, its V ______?
+   (A) decrease
+   (B) increase
+   (C) either increase or decrease
+   (D) have no change
+   Answer: B
+
+Q2. The force between the two charges is F. If the magnitude of the two charges is halved and the distance between them is also halved, then the force between the charges will be:
+   (A) 2F
+   (B) F/2
+   (C) F
+   (D) 4F
+   Answer: C
+
+Q3. If G is the gravitational constant, g is the acceleration due to gravity, and R is the radius of the earth, then the ratio of G/g will be
+   (A) R2 / M
+   (B) R / M 2
+   (C) R2M
+   (D) M 2 / R
+   Answer: A
+
+Q4. Which of the following pairs of physical quantities does have same dimensional formula?
+   (A) Tension and acceleration due to gravity
+   (B) Torque and momentum
+   (C) Torque and potential energy
+   (D) Torque and surface tension
+   Answer: C
+
+Q5. If the distance between the two long straight wires is 5 cm, with each carrying a current of 15 A in the same direction, then find a magnetic field at P
+   (A) 3 × 10-7 T
+   (B) 5 × 10-7 T
+   (C) 7 × 10-7 T
+   (D) 12 × 10-7 T
+   Answer: A
+
+Q6. F⃗ A force = 2î + 5ĵ - 3k̂̂ is applied on an object. This force vector is applied at a point located at = 2î + ĵ + 2k̂̂. What is the torque applied on the object with respect to origin?
+   (A) 13î -10ĵ + 8k̂̂
+   (B) 8î + 2ĵ - 12k̂̂
+   (C) 8î - 2ĵ + 12k̂̂
+   (D) -13î -10ĵ + 8k̂̂
+   Answer: D
+
+Q7. Necessary condition to observe diffraction is that
+   (A) The size of obstacle should be of the same order as wavelength
+   (B) The size of obstacle should be much smaller than the wavelength
+   (C) no restriction
+   (D) The size of obstacle should be exactly λ / 2
+   Answer: A
+
+Q8. Which logic gate will produce the following output A A = Y 0 1 1 0
+   (A) OR
+   (B) AND
+   (C) NOT
+   (D) NAND
+   Answer: C
+
+Q9. For an object to be in equilibrium what should be the condition
+   (A) Acceleration = 0
+   (B) Velocity = 0
+   (C) both = 0
+   (D) None of these
+   Answer: A
+
+Q10. On increasing temperature, the resistance of semiconductors:
+   (A) increases
+   (B) decreases
+   (C) remains same
+   (D) first rises then falls
+   Answer: B
+
+Q11. A man uses a concave mirror for shaving. He keeps his face at a distance of 25 cm from the mirror and gets an image which is 1.4 times enlarged. Find the focal length of the mirror.
+   (A) 87.5 cm
+   (B) 68.5 cm
+   (C) 24.5 cm
+   (D) 48.5 cm
+   Answer: A
+
+Q12. The ability of a body to resist permanent changes to it under the influence of stress acting on it is termed as-
+   (A) rigidity
+   (B) elasticity
+   (C) plasticity
+   (D) fluidity
+   Answer: B
+
+Q13. Work done by the gas in an isochoric process is _____. (where all the parameters V, T, P are standard)
+   (A) W = 0
+   (B) W = P (V2 – V1).
+   (C) W = nRT ln(Vfinal) / Vinitial
+   (D) W = ∞
+   Answer: A
+
+Q14. When a body moves with simple harmonic motion, then the phase difference between the velocity and the acceleration is
+   (A) 0°
+   (B) 90°
+   (C) 180°
+   (D) 270°
+   Answer: B
+
+Q15. Which of the following is a path function in thermodynamics?
+   (A) Work
+   (B) density
+   (C) internal energy
+   (D) enthalpy
+   Answer: A
+
+Q16. A uniformly charged conducting sphere with radius R and charge Q is placed in vacuum. The potential at a point P at a distance r from the center of the sphere is: (assume electric potential at infinity to be zero)
+   (A) Zero
+   (B) Q / 4πϵ0R
+   (C) Q / 4πϵ0r
+   (D) Q / 4πϵ0r2
+   Answer: C
+
+Q17. Find the equivalent inductance of the given circuit
+   (A) L
+   (B) L/2
+   (C) 2L
+   (D) L/4
+   Answer: B
+
+Q18. The magnetic field at the centre of current carrying coil is B0 If its radius is reduced to half keeping current the "same then magnetic field at its centre become:
+   (A) B0
+   (B) 2B0
+   (C) 4B0
+   (D) B0 / 2
+   Answer: B
+
+Q19. If a Carnot refrigerator operates between 0°C and 100°C, its coefficient of performance will be-
+   (A) 373 / 273
+   (B) 100 / 273
+   (C) 273 / 273
+   (D) 273 / 100
+   Answer: D
+
+Q20. The dimensions of magnetic field are _________.
+   (A) ML3T-2A-1
+   (B) ML0T-2A-1
+   (C) M2L0TA-1
+   (D) MLTA
+   Answer: B
+
+Q21. The half life of a radioactive element is T and λ, is its decay constant, then:
+   (A) λT = 1
+   (B) λT = 1 / 2
+   (C) λT = loge 2
+   (D) λ = - loge 2T
+   Answer: C
+
+Q22. Consider an object moving with constant acceleration along a straight road and the distance covered by the object is given by equation x = αt3 + βt2 + γt + c. Then find the initial velocity of the object.
+   (A) 3αt2
+   (B) βt
+   (C) γ
+   (D) 3αt2 + γ
+   Answer: C
+
+Q23. The resistance of a motor is 90 Ω, resistance of bulb is 60 Ω, and a fan of resistance 30 Ω are connected in parallel to a 240 V source. Find the total value (approx) of current flowing through all appliances?
+   (A) 15 A
+   (B) 10 A
+   (C) 5 A
+   (D) 12 A
+   Answer: A
+
+Q24. Which of the following is true with regard to the force of friction?
+   (A) Static friction > kinetic friction < rolling friction
+   (B) Static friction < kinetic friction < rolling friction
+   (C) Static friction < kinetic friction > rolling friction
+   (D) Static friction > kinetic friction > rolling friction
+   Answer: D
+
+Q25. Choose the correct statement among the following with respect to microscope and telescope.
+   (A) Telescope provides magnification, whereas microscope provides resolution
+   (B) Telescope provides resolution whereas microscope provides magnification
+   (C) Both provide resolution
+   (D) Both provide magnification
+   Answer: B
+
+
+==============================================================================
+PAPER 9  |  GROUP X  |  14 Jul 2021 Shift-1  |  Source: Prepp
+==============================================================================
+Q1. The relation between the electric field and the magnetic field is
+   (A) μoϵo
+   (B) 1 / μoϵo
+   (C) 1 / √(μoϵo)
+   (D) √(μoϵo)
+   Answer: C
+
+Q2. The source temperature of the Carnot engine is 727°C. Find the efficiency of the engine if the sink temperature is 27 °C.
+   (A) 50%
+   (B) 70%
+   (C) 30%
+   (D) 75%
+   Answer: B
+
+Q3. A satellite moving in a circular orbit around earth has a total (kinetic + potential) energy Eo. Its potential energy will be ____
+   (A) 2Eo
+   (B) Eo
+   (C) Eo/4
+   (D) Eo/2
+   Answer: A
+
+Q4. A particle has an initial velocity of 30 m/s due east and a constant acceleration of 10 m/s2 due west. The distance covered by the particle in the one second of its motion is:
+   (A) 10 m
+   (B) 20 m
+   (C) 25 m
+   (D) 35 m
+   Answer: C
+
+Q5. The value of 1 picometer is __________
+   (A) 10-6 micron
+   (B) 106 micton
+   (C) 10-3 micron
+   (D) 103 micron
+   Answer: A
+
+Q6. The energy stored in a 50 mH inductor carrying a current of 4 A will be
+   (A) 0.4 J
+   (B) 4.0 J
+   (C) 0.8 J
+   (D) 0.04 J
+   Answer: A
+
+Q7. The magnitude of the force on a charge Q in the electric field E is:
+   (A) E/Q
+   (B) Q/E
+   (C) EQ
+   (D) E2Q
+   Answer: C
+
+Q8. A liquid drop tends to assume a spherical shape because of
+   (A) Centrifugal force
+   (B) Surface tension
+   (C) Gravitational force
+   (D) Viscous force
+   Answer: B
+
+Q9. Which of the following essential condition is necessary to take place for Isothermal Process?
+   (A) The wall of the container must be perfectly conducting to takes place an Isothermal Process.
+   (B) The process of expansion and compression should be very slow in a conducting container to takes place / in an Isothermal Process.
+   (C) In this thermodynamics process temperature should be remains constant.
+   (D) All of the above
+   Answer: D
+
+Q10. The work done in carrying a charge q once around a circle of radius r with a charge Q placed at the center will be
+   (A) Qq(4πε0r2)
+   (B) Qq/(4πε0r)
+   (C) zero
+   (D) Qq2/(4πε0r)
+   Answer: C
+
+Q11. Zener Diode is mostly used as ___________.
+   (A) Half-wave rectifier
+   (B) Full-wave rectifier
+   (C) Voltage Regulator
+   (D) LED
+   Answer: C
+
+Q12. What is the unit of static friction?
+   (A) MLT-2
+   (B) ML2T-2
+   (C) ML-2T-2
+   (D) Unitless
+   Answer: D
+
+Q13. The force between the two charges is F. If the distance between the two charges is halved keeping the magnitude of the charges same, then the force between the charges will be:
+   (A) F
+   (B) 2F
+   (C) F/2
+   (D) 4F
+   Answer: D
+
+Q14. A wire of resistance 'R' is cut into '10' equal parts. These parts are then connected into parallel. The equivalent resistance value will be ______.
+   (A) 10R
+   (B) 10/R2
+   (C) R/100
+   (D) R/10
+   Answer: C
+
+Q15. Which of the following is not an example of simple harmonic motion?
+   (A) motion of a swing
+   (B) motion when bungee jumping
+   (C) motion of the blades of fan
+   (D) All of the above are example of simple harmonic motion
+   Answer: C
+
+Q16. If a liquid does not wet a solid surface, then its angle of contact is:
+   (A) acute angle
+   (B) obtuse angle
+   (C) right angle
+   (D) none of these
+   Answer: B
+
+Q17. The cross sectional area of an aluminum square rod is 5 × 10-3 m2 and length is 1 m. If the resistivity of the aluminum is 2.8 × 10-8 Ωm, resistance will be :
+   (A) 11.2 × 10-6 Ω
+   (B) 5.6 × 10-6Ω
+   (C) 2.42 × 10-5Ω
+   (D) 11.4 × 10-5Ω
+   Answer: B
+
+Q18. The power of a lens is +2.5 D. What kind of lens is it and what is its focal length?
+   (A) Convex lens, 40 cm
+   (B) Concave lens, 100 cm
+   (C) Convex lens, 50 cm
+   (D) Concave lens, 40 cm
+   Answer: A
+
+Q19. Which radiation has the highest penetrating power?
+   (A) Alpha radiation
+   (B) Beta radiation
+   (C) Gamma radiation
+   (D) All have the same penetrating power
+   Answer: C
+
+Q20. A charge particle is moving with a constant velocity then which of the following is correct statement?
+   (A) It only produced an electric field around it
+   (B) It creates both magnetic field and electric field around it
+   (C) It creates electromagnetic wave
+   (D) All are wrong
+   Answer: B
+
+Q21. In the Young’s double slit experiment, the width ratio of slit is 1 : 4 . Find the ratio of amplitude of light waves coming from them.
+   (A) 1 : 3
+   (B) 1 : 4
+   (C) 1 : 2
+   (D) 1 : 1
+   Answer: C
+
+Q22. A gas of 240 ml is heated from 27°C to 227° C. What will be it's new volume (in ml) if pressure is constant?
+   (A) 300
+   (B) 144
+   (C) 288
+   (D) 400
+   Answer: D
+
+Q23. A monoatomic molecule constrained to move in a plane has ___________ translational degrees of freedom.
+   (A) three
+   (B) zero
+   (C) two
+   (D) one
+   Answer: C
+
+Q24. Two charges are placed in vacuum at a distance 'r' apart. The force between them is 'F'. If a copper is introduced between them, the force will be:
+   (A) F
+   (B) 2F
+   (C) Zero
+   (D) Infinity
+   Answer: C
+
+Q25. When a charged particle moves perpendicular to a magnetic field, then which statement is correct: a) Its momentum remains constant b) Its kinetic energy remains constant c) Its velocity remains constant
+   (A) Only a is correct
+   (B) Only b is correct
+   (C) Only c is correct
+   (D) All a, b and c are correct
+   Answer: B
+
+
+==============================================================================
+PAPER 10  |  GROUP X  |  14 Jul 2021 Shift-3  |  Source: Prepp
+==============================================================================
+Q1. The efficiency of the Carnot engine is
+   (A) 1 −T1 / T2
+   (B) 1 −T2 / T1
+   (C) 1 + T2 / T1
+   (D) 1 + T1 / T2
+   Answer: B
+
+Q2. Consider a long solenoid of 'n' turns per unit length and carrying a current 'I'. The magnetic field in the interior of the solenoid was shown to be given by Bo= ___________.
+   (A) μonI2
+   (B) nI/μo
+   (C) μonI
+   (D) nI2/μo
+   Answer: C
+
+Q3. If we increase the temperature of the liquid, its surface tension will __________.
+   (A) first increase then decrease
+   (B) first decrease then increase
+   (C) increase
+   (D) decrease
+   Answer: D
+
+Q4. Alternating current is converted to direct current by ________.
+   (A) rectifier
+   (B) dynamo
+   (C) ammeter
+   (D) motor
+   Answer: A
+
+Q5. A simple pendulum performs simple harmonic motion about x = 0 with an amplitude a and time period T. The time taken by the pendulum to reach x = a/2 from the mean postion will be:
+   (A) T/6
+   (B) 6/T
+   (C) 12/T
+   (D) T/12
+   Answer: D
+
+Q6. The phase difference in electric and magnetic force fields of an electromagnetic wave is-
+   (A) 0
+   (B) π / 4
+   (C) π / 2
+   (D) π
+   Answer: C
+
+Q7. 238 In the given nuclear reaction 92
+   (A) A = 234 and Z = 90
+   (B) Z = 234 and A = 90
+   (C) A = 238 and Z = 90
+   (D) A = 234 and Z = 92
+   Answer: A
+
+Q8. If the object is placed between the pole and the focus of the concave mirror, then the image formed will be:
+   (A) Real and inverted
+   (B) Virtual and errected
+   (C) Virtual and inverted
+   (D) Real and magnified
+   Answer: B
+
+Q9. What is the Moment of Inertia of a thin circular disc of mass 'M' and radius 'R' about an axis perpendicular to its plane and passing through its centre?
+   (A) MR2/4
+   (B) MR2/3
+   (C) MR2/2
+   (D) MR2/6
+   Answer: C
+
+Q10. When temperature is held constant, the pressure and volume of a quantity of gas are related as PV = constant. This relationship is known as?
+   (A) Charles’ law
+   (B) Boyle’s law
+   (C) Combined G as Law
+   (D) Gay-Lussac's Law
+   Answer: B
+
+Q11. The time period of a simple pendulum becomes half when:
+   (A) Its length becomes four times
+   (B) Its length becomes one-fourth
+   (C) Mass of the bob becomes four times
+   (D) Mass of the bob becomes one-fourth
+   Answer: B
+
+Q12. Which of the following has maximum specific heat?
+   (A) Water
+   (B) Alcohol
+   (C) Glycerene
+   (D) Oil
+   Answer: A
+
+Q13. An object with a force of 20 N on it is accelerating at 100 cm/s2. What is the mass of the object?
+   (A) 10 kg
+   (B) 20 kg
+   (C) 30 kg
+   (D) 40 kg
+   Answer: B
+
+Q14. Time period of a satellite does not depends on?
+   (A) Mass of orbiting body
+   (B) Mass of a central body
+   (C) The radius of the orbit
+   (D) All of these
+   Answer: A
+
+Q15. Which one of the following is not a derived unit
+   (A) Frequency
+   (B) Plank's constant
+   (C) Gravitational constant
+   (D) Electric current
+   Answer: D
+
+Q16. The power of a pump, which can pump 200 kg of water to a height of 80 m in 9.8 sec, will be:
+   (A) 15.6 kW
+   (B) 16 kW
+   (C) 18 kW
+   (D) 20 kW
+   Answer: B
+
+Q17. The speech signal of a man is transmitted after modulation and it sounded like that of a woman to the receiver. This discrepancy is due to
+   (A) wrong bandwidth selection of amplifiers
+   (B) attenuation of sound wave
+   (C) poor selection of carrier frequency
+   (D) varying modulation index
+   Answer: A
+
+Q18. In a magnetic field, a charge does not experience any force, then which of the following is not possible?
+   (A) Charge is at rest
+   (B) Motion of charge is perpendicular to a non-zero magnetic field
+   (C) Motion of charge ls parallel to a non-zero magnetic field
+   (D) Motion of charge is parellel to a zero magnetic field
+   Answer: B
+
+Q19. 1 Tesla equals to
+   (A) 104 Gauss
+   (B) 10-4 Gauss
+   (C) 10-3 Gauss
+   (D) 102 Gauss
+   Answer: A
+
+Q20. Which of the following statement states the first law of thermodynamics? (given: heat provided to the system is ΔQ, work done by the system is ΔW, and change in internal energy of the system is ΔU)
+   (A) ΔQ + ΔU = ΔW
+   (B) ΔQ = ΔU + ΔW
+   (C) ΔQ + ΔU + ΔW = constant
+   (D) All of the above statement can be correct
+   Answer: B
+
+Q21. A convex lens of power 4D is placed at a distance of 40 cm from a wall. At what distance from the lens should a candle be placed so that its image is formed on the wall?
+   (A) 100cm / 3
+   (B) 200cm / 3
+   (C) 400cm / 3
+   (D) 800cm / 3
+   Answer: B
+
+Q22. If the mass of a planet is four times the mass of the earth and the radius is half of the earth, then the gravitational acceleration of the planet is:
+   (A) 16g
+   (B) g/16
+   (C) 4g
+   (D) g
+   Answer: A
+
+Q23. Which of the following electromagnetic waves have the maximum wavelength:
+   (A) Ultraviolet
+   (B) X-Rays
+   (C) Microwaves
+   (D) Gamma Rays
+   Answer: C
+
+Q24. On which of the followings Resistivity does not depend?
+   (A) The dimensions of the conductor
+   (B) The material of the conductor
+   (C) Temperature
+   (D) None of the above
+   Answer: A
+
+Q25. Two objects are dropped from heights h and 2h respectively. Then the ratio of the time taken by them to reach the ground is
+   (A) 1 : 2
+   (B) 2 : 1
+   (C) 1 : √2
+   (D) √2 : 1
+   Answer: C
+
+
+==============================================================================
+PAPER 11  |  GROUP X  |  15 Jul 2021 Shift-1  |  Source: Prepp
+==============================================================================
+Q1. Henry is the unit of ?
+   (A) Capacitance
+   (B) Inductance
+   (C) Magnetic Intensity
+   (D) Frequency
+   Answer: B
+
+Q2. Which of the following is the dimension of electrostatic potential?
+   (A) [ML2T-2 C]
+   (B) [ML2T-3I-1]
+   (C) [ML2T-1]
+   (D) [M2L-2T-3]
+   Answer: B
+
+Q3. Which of the following is a scalar quantity?
+   (A) Electric field
+   (B) Electrostatic potential
+   (C) Electrostatic force
+   (D) Intensity of electric field
+   Answer: B
+
+Q4. The electromagnetic waves travel with a velocity
+   (A) Equal to the velocity of sound
+   (B) Equal to the velocity of light
+   (C) Less than the velocity of light
+   (D) None of these
+   Answer: B
+
+Q5. The weight of an object in the coal mine, sea level and at the top of the mountain, are respectively W1, W2, and W3, then
+   (A) W1 < W2 < W3
+   (B) W1 > W2 > W3
+   (C) W1 = W2 = W3
+   (D) W1 < W2 > W3
+   Answer: D
+
+Q6. Poisson ratio is defined as
+   (A) Lateral strain divided by longitudinal strain
+   (B) Longitudinal strain divided by lateral strain
+   (C) Longitudinal strain divided by shearing strain
+   (D) Lateral strain times longitudinal strain
+   Answer: A
+
+Q7. The breaking stress of a wire depends upon
+   (A) material of wire
+   (B) length of wire
+   (C) radius of wire
+   (D) shape of cross-section
+   Answer: A
+
+Q8. If two bodies of different masses have the same kinetic energy, which body mass will have more momentum?
+   (A) The body with more mass will have more momentum
+   (B) the body with less mass will have more momentum
+   (C) Both the bodies will have the same momentum
+   (D) Nothing can be said about momentum
+   Answer: A
+
+Q9. Which of the following is correct?
+   (A) Modulation is a process of superimposing low frequency base band signal with high frequency carrier.
+   (B) Modulation is not necessary for effective transmission of signal from transmitter to receivers.
+   (C) Demodulation is the same process like modulation.
+   (D) None
+   Answer: A
+
+Q10. A body of mass M hits normally a rigid wall with velocity V and bounces back with the same velocity. The impulse experienced by the body is
+   (A) Zero
+   (B) MV
+   (C) 1.5 MV
+   (D) 2 MV
+   Answer: D
+
+Q11. If dQ is the heat given to thermodynamic system and dU is its change in internal energy and dW is the work done on the system, then the first law of thermodynamics concludes that:
+   (A) dQ = dW
+   (B) dQ = dU - dW
+   (C) dQ = dW + dU
+   (D) dQ = dU
+   Answer: B
+
+Q12. An ideal gas heat engine operates in Carnot's cycle between 227° C and 127° C It absorbs 6 × 104 J at high temperature. The amount of heat converted into work is ____
+   (A) 4.8 × 104 × J
+   (B) 3.5 × 104 × J
+   (C) 1.6 × 104 × J
+   (D) 1.2 × 104 × J
+   Answer: D
+
+Q13. Which of the following represent incorrect statement regarding longitudinal wave?
+   (A) Direction of disturbance and direction of propagation is always perpendicular.
+   (B) Direction of disturbance and direction of propagation is always parallel.
+   (C) Sound waves are longitudinal in nature.
+   (D) Longitudinal waves produces in a medium that can sustain compressive strain.
+   Answer: A
+
+Q14. A ray of light is incident on a plane mirror at an angle of 30°. The angle of deviation produced by the mirror is
+   (A) 30°
+   (B) 60°
+   (C) 90°
+   (D) 120°
+   Answer: D
+
+Q15. Which of the following magnitude of charge cannot be produce on the body:
+   (A) 3.2 × 10-19 C
+   (B) 4.2 × 10-19 C
+   (C) 4.8 × 10-19 C
+   (D) 6.4 × 10-19 C
+   Answer: B
+
+Q16. A battery of EMF 4V and internal resistance of 2 Ω is connected to a resister of resistance 7 Ω. The current flowing through the circuit is
+   (A) 0.33 A
+   (B) 0.66 A
+   (C) 0.55 A
+   (D) 0.44 A
+   Answer: D
+
+Q17. If initial velocity of a projectile motion becomes half and angle of projection remains same, the maximum height of the the projectile motion will become
+   (A) double of initial maximum height
+   (B) half of initial maximum height
+   (C) triple of initial maximum height
+   (D) quarter of initial maximum height
+   Answer: D
+
+Q18. The electric and the magnetic field, associated with an e.m. wave, propagating along the +z-axis, can be represented by
+   (A) [E⃗=E0j^ B⃗,=B0k^]
+   (B) [E⃗=E0i^ B⃗,=B0j^]
+   (C) [E⃗=E0k^ B⃗,=B0i^]
+   (D) [E⃗=E0j^ B⃗,=B0i^]
+   Answer: B
+
+Q19. Maximum elasticity is in
+   (A) Rubber
+   (B) steel
+   (C) Silver
+   (D) Glass
+   Answer: B
+
+Q20. Two charges +8μC and +2μC are placed at 2 cm apart, then the ratio of the force exerted on charge +8μC and +2μC will be:
+   (A) 1 : 1
+   (B) 4 : 1
+   (C) 1 : 4
+   (D) 16 : 1
+   Answer: A
+
+Q21. If the refractive index of the material increase then what will be the impact on the critical angle?
+   (A) It will increase
+   (B) It will decrease
+   (C) No change
+   (D) It will initially increase and then decrease.
+   Answer: B
+
+Q22. The angular acceleration of a particle under uniform circular motion is:
+   (A) zero
+   (B) variable
+   (C) uniform and non-zero
+   (D) none of the above
+   Answer: A
+
+Q23. Dispersion of light takes place because
+   (A) of shape of prism
+   (B) refraction process
+   (C) of difference in refractive index for different wavelengths
+   (D) of prism creating colours
+   Answer: C
+
+Q24. If α, β and γ are the coefficients of linear, area and volume expansion of the solid cube, the relation between α, β and γ are:
+   (A) 6α = 3β = 2γ
+   (B) 3α = 6β = γ
+   (C) 6α = 2β = 3γ
+   (D) 3α = β = 2γ
+   Answer: A
+
+Q25. Which of the following quantity of the charged particle does not change in the cyclotron:
+   (A) Speed
+   (B) Momentum
+   (C) Time-period
+   (D) None of these
+   Answer: C
+
+
+==============================================================================
+PAPER 12  |  GROUP X  |  15 Jul 2021 Shift-3  |  Source: Prepp
+==============================================================================
+Q1. The correct relationship between the angular velocity (ω) and linear velocity (V) of an object is-
+   (A) V = ωr
+   (B) ω = Vr
+   (C) r = ωV
+   (D) V = ω/r
+   Answer: A
+
+Q2. What will be the weight of a given body in the center of the earth?
+   (A) Slightly more outside the equator
+   (B) Slightly less than the weight of the equator
+   (C) zero
+   (D) Infinite
+   Answer: C
+
+Q3. The process in which the low frequency message signal is superimposed on a high frequency wave is called:
+   (A) Amplification
+   (B) Modulation
+   (C) Attenuation
+   (D) None of these
+   Answer: B
+
+Q4. For which colour of light the critical angle is minimum?
+   (A) Red
+   (B) Blue
+   (C) Violet
+   (D) Green
+   Answer: C
+
+Q5. Below figure is a part of an electric circuit. Find the value of electric current and direction in OD part.
+   (A) 7 A and towards D
+   (B) 6 A and towards O
+   (C) 7 A and towards O
+   (D) 6 A and towards D
+   Answer: C
+
+Q6. Two charges +1μC and +5μC are placed at 2 cm apart, then the ratio of the force exerted on charge +1μC and +5μC will be:
+   (A) 1 : 1
+   (B) 4 : 1
+   (C) 1 : 4
+   (D) 16 : 1
+   Answer: A
+
+Q7. A body of mass 1 kg undergoes a change in velocity from 2 m/s to 3 m/s in 2 seconds, when a force is applied to it. The rate of change of linear momentum will be?
+   (A) 0.05 N
+   (B) 0.05 kg/s
+   (C) 0.5 N
+   (D) 5 N
+   Answer: C
+
+Q8. Lenz's law is based on conservation of:
+   (A) mass
+   (B) charge
+   (C) energy
+   (D) momentum
+   Answer: C
+
+Q9. The propagation of electromagnetic waves is along the direction of
+   (A) dot product of electric field and magnetic field
+   (B) axis parallel to electric field
+   (C) cross product of electric field and magnetic field
+   (D) axis parallel to magnetic field
+   Answer: C
+
+Q10. Which of the following is a unit less and dimensionless quantity?
+   (A) Angle
+   (B) Solid angle
+   (C) Refractive index
+   (D) All of the above
+   Answer: C
+
+Q11. Out of solid, liquid and gas which has maximum elasticity ?
+   (A) Solid
+   (B) Gas
+   (C) Liquid
+   (D) Cannot be compared
+   Answer: A
+
+Q12. Refractive index of a material is greatest for-
+   (A) Red light
+   (B) Green light
+   (C) Violet light
+   (D) Same for all colours
+   Answer: C
+
+Q13. The temperature at which any ferromagnetic substance converts into paramagnetic substance
+   (A) Critical temperature
+   (B) Curie temperature
+   (C) Triple point
+   (D) Absolute zero temperature
+   Answer: B
+
+Q14. The angular frequency of the charged particle in a cyclotron is
+   (A) inversely proportional to its mass
+   (B) directly proportional to mass
+   (C) directly propotional to its speed
+   (D) inversely proportional to its speed
+   Answer: A
+
+Q15. A water drop is divided into 27 equal droplets. The pressure difference between the inner and outer side of the big drop will be:
+   (A) Same as that for smaller droplet
+   (B) 1/3 of that for smaller droplet
+   (C) 1/6 of that for smaller droplet
+   (D) Twice of that for smaller droplet
+   Answer: B
+
+Q16. Dispersion produced by a prism depends on
+   (A) Its refracting index
+   (B) Size of the prism
+   (C) Height of the prism
+   (D) One of the angles at the base of the prism
+   Answer: A
+
+Q17. If a liquid wets the glass surface, the free surface of liquid in the glass capillary will be -
+   (A) Plane
+   (B) Convex
+   (C) Concave
+   (D) Any of these
+   Answer: C
+
+Q18. If the radius of a circular current carrying coil is doubled then the magnetic field at the center of the coil becomes- (all other factors remains same)
+   (A) two times
+   (B) half
+   (C) four times
+   (D) remains same
+   Answer: B
+
+Q19. The Young's modulus of a rod of length L and radius R is Y. The rod is cut into two parts of equal length L/2, then Young's modulus of each part will be
+   (A) Y
+   (B) Y/2
+   (C) Y/4
+   (D) 4Y
+   Answer: A
+
+Q20. A wire of resistance 'R' is cut into 'n' equal parts. These parts are then connected into parallel. The equivalent resistance value will be ______.
+   (A) nR
+   (B) n/R2
+   (C) R/n
+   (D) R/n2
+   Answer: D
+
+Q21. The difference between the source and the sink temperature for the Carnot engine is 200°K. If the efficiency of that engine is 50% then the source temperature is:
+   (A) 300 K
+   (B) 400 K
+   (C) 200 K
+   (D) 500 K
+   Answer: B
+
+Q22. A heat engine takes in 750J of heat from a hot reservoir and produces 450J of work in each cycle. What is its efficiency?
+   (A) 0.75
+   (B) 0.3
+   (C) 0.5
+   (D) 0.6
+   Answer: D
+
+Q23. The work done in a thermodynamic process is 40 J and the 50 J of heat is given to the system. Find the internal energy change of the system.
+   (A) 90 J
+   (B) -10 J
+   (C) 10 J
+   (D) -90 J
+   Answer: C
+
+Q24. First law of thermodynamics applied to an Isothermal Process is given by- (ΔQ is heat exchanged, ΔU is Internal energy change, P is pressure and ΔV is volume )
+   (A) ΔQ = PΔV
+   (B) ΔQ = ΔU + PΔV
+   (C) ΔQ = ΔU - PΔV
+   (D) None of the above
+   Answer: A
+
+Q25. What is the height at which acceleration due to gravity becomes 1/4th the acceleration due to gravity on the surface of the earth in terms of 'R,' radius of the earth?
+   (A) 3R
+   (B) R / 3
+   (C) 2R
+   (D) R
+   Answer: D
+
+
+==============================================================================
+PAPER 13  |  GROUP X  |  18 Jul 2021 Shift-1  |  Source: Prepp
+==============================================================================
+Q1. A carnot engine is working between the temperature range of 227°C and 127°C. If the heat absorbed by the engine is 104 J, the the work done by the engine is:
+   (A) 2 × 104 J
+   (B) 6 × 104 J
+   (C) 2 × 103 J
+   (D) 5 × 103 J
+   Answer: C
+
+Q2. Pressure of an ideal gas is increased by keeping temperature constant. The kinetic energy of molecules
+   (A) Decreases
+   (B) Increases
+   (C) Remains same
+   (D) Increases or decreases depending on the nature of gas
+   Answer: C
+
+Q3. The resistivity of the material depends on:
+   (A) Length of the wire
+   (B) Diameter of the wire
+   (C) Density of the wire
+   (D) Material of the wire
+   Answer: D
+
+Q4. Which one of the following is the dimensional formula resistivity?
+   (A) ML3T-3A-2
+   (B) ML3T3A2
+   (C) ML3T3A-2
+   (D) ML-3T-3A-2
+   Answer: A
+
+Q5. Kepler's third law of motion states that the time period T, of the planet around the sun is directly proportional to
+   (A) a2 / 3
+   (B) a
+   (C) a3 / 2
+   (D) a3
+   Answer: C
+
+Q6. The direction of centripetal acceleration with respect to the velocity in a uniform circular motion is
+   (A) 0°
+   (B) 45°
+   (C) 90°
+   (D) 180°
+   Answer: C
+
+Q7. Modulus of rigidity of ideal liquids is
+   (A) some finite small non - zero value
+   (B) zero
+   (C) unity
+   (D) infinity
+   Answer: B
+
+Q8. What is the minimum number of forces acting on an object in a plane that can produce a zero resultant force?
+   (A) 2
+   (B) 3
+   (C) 4
+   (D) 5
+   Answer: A
+
+Q9. An electron and a proton have the same kinetic energy. Then, the ratio of de Broglie wavelengths of proton and electron will be nearly:
+   (A) 1 : 43
+   (B) 1 : 1838
+   (C) 1838 : 1
+   (D) 43 : 1
+   Answer: A
+
+Q10. Potential at any point inside a charged hollow sphere
+   (A) Increases with distance
+   (B) Is a constant
+   (C) Decreases with distance from centre
+   (D) Is zero
+   Answer: B
+
+Q11. Which of the following is not correct about the Biot-Savart’s law?
+   (A) The magnitude of the magnetic field is directly proportional to the current through the conductor.
+   (B) The magnitude of the magnetic field is directly proportional to the length of the current element.
+   (C) The magnitude of the magnetic field is directly proportional to the square of the distance from the current / element.
+   (D) The magnitude of the magnetic field is inversely proportional to the square of the distance from the / current element
+   Answer: C
+
+Q12. An object stands straight in front of a mirror at a distance of 30 cm from it. He sees his erect image whose height is 1/5 of his real height. The mirror he is using is
+   (A) plane mirror
+   (B) concave mirror
+   (C) convex mirror
+   (D) None of the above
+   Answer: C
+
+Q13. The magnetic force, experienced by a moving charged particle in the magnetic field, depends on ____________.
+   (A) velocity of charge particle
+   (B) charge of charge particle
+   (C) magnetic field
+   (D) All of the above
+   Answer: D
+
+Q14. Find the equivalent capacitance of all the capacitors.
+   (A) C(1 + n)
+   (B) C/(1 + n)
+   (C) (1 + n)/C​
+   (D) C2(1 + n)​
+   Answer: A
+
+Q15. Choose the CORRECT SI unit of coefficient of viscosity.
+   (A) J/s
+   (B) N/s
+   (C) N.s/m2
+   (D) All are wrong
+   Answer: C
+
+Q16. A swinging pendulum has its maximum acceleration at
+   (A) The bottom of the swing
+   (B) The two extremities of the swing
+   (C) Every point of the swing
+   (D) No particular position of the pendulum
+   Answer: B
+
+Q17. The wavelength range of microwave is-
+   (A) 1 mm to 0.1 m
+   (B) 1 mm to 100 km
+   (C) 390 nm to 750 nm
+   (D) 10-8 m to 400 nm
+   Answer: A
+
+Q18. When a body is taken from the equator to the poles, its weight
+   (A) Remains constant
+   (B) Increases
+   (C) Decreases
+   (D) Increases at N pole and decreases at S–pole
+   Answer: B
+
+Q19. The energy of a particle executing S.H.M. depends on
+   (A) initial stage
+   (B) amplitude
+   (C) frequency
+   (D) amplitude and frequency
+   Answer: D
+
+Q20. EMF of a cell depends upon
+   (A) distance between plates
+   (B) area of plates immersed in electrolyte
+   (C) temperature of electrolyte used in cells
+   (D) all of the above
+   Answer: C
+
+Q21. The fraction of a ball floating inside the liquid depends upon
+   (A) Density of the ball
+   (B) Density of the liquid
+   (C) Mass of the ball
+   (D) Both 1 and 2
+   Answer: D
+
+Q22. Which of the following is not a part of Ideal gas law equation?
+   (A) Avogadro’s law
+   (B) Boyle’s law
+   (C) Charles’ law
+   (D) None. They are all a part of it
+   Answer: D
+
+Q23. A motorcycle starts from rest and accelerates uniformly to a speed of 54 kmph over a distance of 450 m. Then the acceleration of the motorcycle is
+   (A) 1.33 m/s2
+   (B) 0.40 m/s2
+   (C) 0.25 m/s2
+   (D) 2 m/s2
+   Answer: C
+
+Q24. The phenomenon of rainbow is due to the combined effect of all of the following properties of light except ____________.
+   (A) dispersion
+   (B) refraction
+   (C) reflection
+   (D) polarization
+   Answer: D
+
+Q25. For L-C-R series A.C. circuit, in resonating conditions which is true?
+   (A) Minimum current
+   (B) Minimum impendance
+   (C) Power loss minimum
+   (D) Minimum power factor
+   Answer: B
+
+
+==============================================================================
+PAPER 14  |  GROUP X  |  18 Jul 2021 Shift-3  |  Source: Prepp
+==============================================================================
+Q1. The dimensional formula for angular momentum is
+   (A) [M1L2T-2]
+   (B) [M1L2T-1]
+   (C) [M0L2T-2]
+   (D) [M1L1T-1]
+   Answer: B
+
+Q2. n-type semiconductor is:
+   (A) positively charged
+   (B) neutral
+   (C) negatively charged
+   (D) none of these
+   Answer: B
+
+Q3. Which among the following statements is true about Huygen's principle
+   (A) Each point on a wavefront is a source of secondary waves
+   (B) Each point on a wavefront is a sink of secondary waves
+   (C) No point on a wavefront is a source of secondary waves
+   (D) None of the above
+   Answer: A
+
+Q4. In a series RLC circuit, the values of R, L, and C are 1000 Ω, 4 H, and 10-6 F respectively. What will happen to the resonant frequency of the circuit if the value of R is decreased by 20 Ω ?
+   (A) It will decrease
+   (B) It will increase
+   (C) Initially it will increase and then decrease
+   (D) No change
+   Answer: D
+
+Q5. The heat given to a thermodynamic system is 1 kCal and work done by the system is 200 J. Find the change in internal energy of the system.
+   (A) 1000 J
+   (B) 2000 J
+   (C) 4000 J
+   (D) 3000 J
+   Answer: C
+
+Q6. refer to following diagram to calculate how far (in cm) will the image be formed from the mirror. AB is the object.
+   (A) 40
+   (B) 25
+   (C) 50
+   (D) 30
+   Answer: C
+
+Q7. F⃗ i^ j^ A force newton displaces a body by = (5 + 3 )
+   (A) Zero
+   (B) 12 Joules
+   (C) 7 Joules
+   (D) 13 Joules
+   Answer: C
+
+Q8. If temperature of the source is increased, the efficiency of Carnot engine
+   (A) Increases
+   (B) Degreases
+   (C) Remains Constant
+   (D) First increases and then becomes constant
+   Answer: A
+
+Q9. If the radius of earth is reduced by 2/3rd of its initial value keeping its mass constant, then acceleration due to gravity becomes-
+   (A) 4/9
+   (B) 9/4
+   (C) 2/3
+   (D) 3/2
+   Answer: B
+
+Q10. A body executing simple harmonic motion has an amplitude of 0.01 m and a frequency of 50 Hertz. The ratio of the magnitude of maximum acceleration and maximum velocity of the body is
+   (A) 25 π
+   (B) 50 π
+   (C) 100 π
+   (D) 200 π
+   Answer: C
+
+Q11. If ΔU is the increase in internal energy and W is the work done by a system, then which of the following statements is true?
+   (A) ΔU = W in an adiabatic process
+   (B) ΔU = -W in an isothermal process
+   (C) ΔU = -W in an adiabatic process
+   (D) ΔU = W in an isothermal process
+   Answer: C
+
+Q12. The viscous force between the layers of a liquid does NOT depend on which of the following?
+   (A) Contact area of the layers
+   (B) Nature of the liquid
+   (C) Velocity gradient
+   (D) Density of the liquid
+   Answer: D
+
+Q13. What is the SI unit of resistivity?
+   (A) Ohm-meter
+   (B) Ohm-meter2
+   (C) Ohm
+   (D) mho/m
+   Answer: A
+
+Q14. Three capacitances of 4μF, 6μF and 12μF are connected (I) in series and then (II) in parallel. The ratio of equivalent capacitance in case (I) to that in case (II) is:
+   (A) 1 : 11
+   (B) 11 : 1
+   (C) 1 : 1
+   (D) 1 : 3
+   Answer: A
+
+Q15. An object is moving in a circle with uniform angular speed. If the radius of the circle is doubled, then its centripetal acceleration will
+   (A) be tripled
+   (B) be quadrupled
+   (C) be doubled
+   (D) remain the same
+   Answer: C
+
+Q16. The dimensional formula of constant a in van der Waals gas equation
+   (A) [ML3T−2]
+   (B) [ML5T−2]
+   (C) [ML2T−1]
+   (D) [ML2T−5]
+   Answer: B
+
+Q17. The angle of incidence for a light ray falling on a plane mirror is 30°. Find the angle of deviation of this light ray.
+   (A) 30°
+   (B) 60°
+   (C) 120°
+   (D) 180°
+   Answer: C
+
+Q18. The displacement of a particle is given by x = 2 + 5t + 3t2 What will be the magnitude and its initial velocity?
+   (A) 6 m/s
+   (B) 2 m/s
+   (C) 5 m/s
+   (D) None of the above
+   Answer: C
+
+Q19. The magnetic field intensity at the center of the circular coil depends on the:
+   (A) Current in the coil
+   (B) Number of turns
+   (C) Radius of the coil
+   (D) All of these
+   Answer: D
+
+Q20. Identify the logic gate?
+   (A) OR gate
+   (B) AND gate
+   (C) NOT gate
+   (D) NAND gate
+   Answer: D
+
+Q21. Choose the correct statement from the following.
+   (A) Electromagnetic waves can travel in a vacuum
+   (B) The electric and magnetic field of an electromagnetic wave are always in phase
+   (C) Accelerated charges produce electromagnetic waves
+   (D) All of the above
+   Answer: D
+
+Q22. Two charges q1 and q2 are placed as shown in the figure.The force exerted by q1 on q2 is F12. When a new charge q3 is brought nearby, the magnitude of F12 will be
+   (A) 3 times greater
+   (B) reduces to half
+   (C) same
+   (D) increases
+   Answer: C
+
+Q23. When light passes through a glass slab, the property of light that changes is/are
+   (A) Frequency
+   (B) Wavelength
+   (C) Both frequency and wavelength
+   (D) There is no change in the property of the lightwave
+   Answer: B
+
+Q24. A cup of water is filled to the brim, with an ice cube in it. The top of the ice cube sticks out of the surface. What happens when the ice melts?
+   (A) the cup overflows
+   (B) the water level remains the same
+   (C) the water level decreases
+   (D) none of the above
+   Answer: B
+
+Q25. The statement "The loss of weight of a body submerged (partially or fully) in a fluid is equal to the weight of the fluid displaced" represents which of the following?
+   (A) Archimedes' principle
+   (B) Boyle's law
+   (C) Pascal's Law
+   (D) Bernoulli's principle
+   Answer: A
+
+
+==============================================================================
+PAPER 15  |  GROUP X  |  18 Jul 2021  |  Source: SelfStudys
+==============================================================================
+Q1. The dimensional formula for angular momentum is
+   (A) [M1L2T-2]
+   (B) [M1L2T-1]
+   (C) [M0L2T-2]
+   (D) [M1L1T-1]
+   Answer: B
+
+Q2. n-type semiconductor is:
+   (A) positively charged
+   (B) neutral
+   (C) negatively charged
+   (D) none of these
+   Answer: B
+
+Q3. Which among the following statements is true about Huygen's principle
+   (A) Each point on a wavefront is a source of secondary waves
+   (B) Each point on a wavefront is a sink of secondary waves
+   (C) No point on a wavefront is a source of secondary waves
+   (D) None of the above
+   Answer: A
+
+Q4. In a series RLC circuit, the values of R, L, and C are 1000 Ω, 4 H, and 10-6 F respectively. What will happen to the resonant frequency of the circuit if the value of R is decreased by 20 Ω ?
+   (A) It will decrease
+   (B) It will increase
+   (C) Initially it will increase and thendecrease
+   (D) No change
+   Answer: D
+
+Q5. The heat given to a thermodynamic system is 1 kCal and work done by the system is 200 J. Find the change in internal energy of the system.
+   (A) 1000 J
+   (B) 2000 J
+   (C) 4000 J
+   (D) 3000 J
+   Answer: C
+
+Q6. refer to following diagram to calculate how far (in cm) will the image be formed from the mirror. AB is the object.
+   (A) 40
+   (B) 25
+   (C) 50
+   (D) 30
+   Answer: C
+
+Q7. (2^i −^j) A force newton displaces a body by metre. The work done by the force is:
+   (A) Zero
+   (B) 12 Joules
+   (C) 7 Joules
+   (D) 13 Joules
+   Answer: C
+
+Q8. If the temperature of the source is increased, the efficiency of the Carnot engine
+   (A) Increases
+   (B) Decreases
+   (C) Remains Constant
+   (D) First increases and then becomes constant
+   Answer: A
+
+Q9. If the radius of the earth is reduced to 2/3rd of its initial value keeping its mass constant, then acceleration due to gravity becomes-
+   (A) 4/9
+   (B) 9/4
+   (C) 2/3
+   (D) 3/2
+   Answer: B
+
+Q10. A body executing simple harmonic motion has an amplitude of 0.01 m and a frequency of 50 Hertz. The ratio of the magnitude of maximum acceleration and maximum velocity of the body is
+   (A) 25π
+   (B) 50π
+   (C) 100π
+   (D) 200π
+   Answer: C
+
+Q11. If ΔU is the increase in internal energy and W is the work done by a system, then which of the following statements is true?
+   (A) ΔU= W in an adiabatic process
+   (B) ΔU = -W in an isothermal process
+   (C) ΔU= -W in an adiabatic process
+   (D) ΔU= W in an isothermal process
+   Answer: C
+
+Q12. The viscous force between the layers of a liquid does NOT depend on which of the following?
+   (A) Contact area of the layers
+   (B) Nature of the liquid
+   (C) Velocity gradient
+   (D) Density of the liquid
+   Answer: D
+
+Q13. What is the SI unit of resistivity?
+   (A) Ohm-meter
+   (B) Ohm-meter2
+   (C) Ohm
+   (D) Ohm/m
+   Answer: A
+
+Q14. Three capacitances of 4μF, 6μF and 12μF are connected (I) in series and then (II) in parallel. The ratio of equivalent capacitance in case (I) to that in case (II) is:
+   (A) 1 : 11
+   (B) 11 : 1
+   (C) 1 : 1
+   (D) 1 : 3
+   Answer: A
+
+Q15. An object is moving in a circle with uniform angular speed. If the radius of the circle is doubled, then its centripetal acceleration will
+   (A) be tripled
+   (B) be quadrupled
+   (C) be doubled
+   (D) remain the same
+   Answer: C
+
+Q16. The dimensional formula of constant a in van der Waals gas equation a : (p + V 2 )(V −b) = RT
+   (A) [ML3T−2]
+   (B) [ML5T−2]
+   (C) [ML2T−1]
+   (D) [ML2T−5]
+   Answer: B
+
+Q17. The angle of incidence for a light ray falling on a plane mirror is 30°. Find the angle of deviation of this light ray.
+   (A) 30°
+   (B) 60°
+   (C) 120°
+   (D) 180°
+   Answer: C
+
+Q18. The displacement of a particle is given by x = 2 + 5t + 3t2 What will be the magnitude and its initial velocity?
+   (A) 6 m/s
+   (B) 2 m/s
+   (C) 5 m/s
+   (D) None of the above
+   Answer: C
+
+Q19. The magnetic field intensity at the center of the circular coil depends on the:
+   (A) Current in the coil
+   (B) Number of turns
+   (C) Radius of the coil
+   (D) All of these
+   Answer: D
+
+Q20. Identify the logic gate?
+   (A) OR gate
+   (B) AND gate
+   (C) NOT gate
+   (D) NAND gate
+   Answer: D
+
+Q21. Choose the correct statement from the following.
+   (A) Electromagnetic waves can travel in a vacuum
+   (B) The electric and magnetic field of an electromagnetic wave are always in phase
+   (C) Accelerated charges produce electromagnetic waves
+   (D) All of the above
+   Answer: D
+
+Q22. Two charges q1and q2are placed as shown in the figure.The force exerted by q1on q2is F12.When a new charge q3is brought nearby, the magnitude of F12will be
+   (A) 3 times greater
+   (B) reduces to half
+   (C) same
+   (D) increases
+   Answer: C
+
+Q23. When light passes through a glass slab, the property of light that changes is/are
+   (A) Frequency
+   (B) Wavelength
+   (C) Both frequency and wavelength
+   (D) There is no change in the property of the lightwave
+   Answer: B
+
+Q24. A cup of water is filled to the brim, with an ice cube in it. The top of the ice cube sticks out of the surface. What happens when the ice melts?
+   (A) the cup overflows
+   (B) the water level remains the same
+   (C) the water level decreases
+   (D) none of the above
+   Answer: B
+
+Q25. The statement "The loss of weight of a body submerged (partially or fully) in a fluid is equal to the weight of the fluid displaced" represents which of thefollowing?
+   (A) Archimedes' principle
+   (B) Boyle's law
+   (C) Pascal's Law
+   (D) Bernoulli's principle
+   Answer: A
+
+
+==============================================================================
+PAPER 16  |  GROUP X  |  25 Jul 2022  |  Source: SelfStudys
+==============================================================================
+Q1. A thermometer works on the principle of
+   (A) Law of stable equilibrium
+   (B) Zeroth law of thermodynamics
+   (C) First law of thermodynamics
+   (D) Second law of thermodynamics
+   Answer: B
+
+Q2. What are the dimensions of angular momentum?
+   (A) [M L2 T-2]
+   (B) [M L2 T-3]
+   (C) [M L2 T-1]
+   (D) [M L T-1]
+   Answer: C
+
+Q3. Which of the colour of light is maximum deviated when passed through a prism?
+   (A) Red
+   (B) Voilet
+   (C) Blue
+   (D) Green
+   Answer: B
+
+Q4. A boy runs from one end to other end of a semicircular track with radius 140 m. His displacement is:
+   (A) 280 m
+   (B) 180 m
+   (C) 140 m
+   (D) 493.6 m
+   Answer: A
+
+Q5. Which of the following is correct about the property of equipotential surface?
+   (A) The electric field is always parallel to the potential surface.
+   (B) Anequipotential surface having variable voltage
+   (C) The electric field is always perpendicular to the potential surface.
+   (D) None of the above
+   Answer: C
+
+Q6. The average radius of a soap bubble is 0.004 m. Find the excess pressure inside the soap bubble if the surface tension of soap bubble is 12 N/m.
+   (A) 0.048 Pa
+   (B) 0.050 Pa
+   (C) 12 KPa
+   (D) 5 KPa
+   Answer: C
+
+Q7. Angle between the electric component and magnetic component of an electromagnetic wave is ____.
+   (A) 0
+   (B) π
+   (C) π/2
+   (D) π/4
+   Answer: C
+
+Q8. What is the current of an element in Ampere which produces 1200 Joules of heat in 6 seconds when the resistance of 12.5 ohmsis applied to it?
+   (A) 8
+   (B) 4
+   (C) 2
+   (D) 1
+   Answer: B
+
+Q9. With the rise of temperature, the conductivity of a metals:
+   (A) decreases
+   (B) increases
+   (C) remains unchanged
+   (D) first decreases then increases
+   Answer: A
+
+Q10. Kepler’s second law regarding the areal velocity of a planet is an application of the law of conservation of
+   (A) Angular momentum
+   (B) Energy
+   (C) Linear momentum
+   (D) None of these
+   Answer: A
+
+Q11. A bar magnet of magnetic moment M is placed in a magnetic field (B) at an angle ofθ with the field. Find the work done in rotating the bar magnet by 180°.
+   (A) MB
+   (B) 0.5 MB
+   (C) 2 MB
+   (D) 4 MB
+   Answer: C
+
+Q12. If the cross-sectional area of a piece of metal is double, what will be its effect on its resistance (Keeping the length unchanged)?
+   (A) It will be doubled
+   (B) It will be halved
+   (C) It will quadruple
+   (D) It will not change
+   Answer: B
+
+Q13. Which of the following statement is true regarding body is in equilibrium?
+   (A) Body must be in translational equilibrium
+   (B) Body must be in rotational equilibrium
+   (C) Either 1 or 2
+   (D) Both 1 and 2
+   Answer: D
+
+Q14. For two parallel wires, separation d carrying current Ia and Ib in the same direction will have the force on a length of L of either wire is
+   (A) μ0 L Ia Ib / 2πd — Repulsion
+   (B) μ0 L Ia Ib / 2πd — Attraction
+   (C) μ0 L Ia Ib / πd — Repulsion
+   (D) μ0 L Ia Ib / πd — Attraction
+   Answer: D
+
+Q15. A child is running towards a plane mirror with a velocity 5 m/s, then his image appears coming towards him with velocity:
+   (A) 10 m/s
+   (B) 2.5 m/s
+   (C) 5m/s
+   (D) 4m/s
+   Answer: A
+
+Q16. Choose the CORRECT statement regarding the time period of a simple pendulum.
+   (A) The time period of pendulum at pole of the earth is more than at equator.
+   (B) The time period of pendulum at pole of the earth is less than at equator.
+   (C) Time period is independent of acceleration due to gravity.
+   (D) All are correct.
+   Answer: B
+
+Q17. Which of the following equation shows the relationship between current (i) and drift velocity (Vd). (n is number of free electrons/m3, A is the cross-sectional area, e is change on an electron, R is resistance)
+   (A) Vd = I R2
+   (B) I = neAVd
+   (C) Vd = IR
+   (D) Vd = I2Rt
+   Answer: B
+
+Q18. What is the dimension of mutual Induction ?
+   (A) [ML T A ]2-3-1
+   (B) [ML T A ]2-2-2
+   (C) [ML T A ]3-4-1
+   (D) [ML T A ]3-4-2
+   Answer: B
+
+Q19. What is the net increase or decrease in internal energy of the system, when 25J is transferred by heat into the system and 45J work is done by the system?
+   (A) -70 J
+   (B) 70 J
+   (C) -20 J
+   (D) 20 J
+   Answer: C
+
+Q20. The efficiency of a Carnot engine operating with reservoir temperatures of 100°C and -23°C will be
+   (A) 33
+   (B) 67
+   (C) 40
+   (D) 80
+   Answer: A
+
+Q21. The work done to move a charge of 10 C. Between two point in equipotential surface of 5 Volt is
+   (A) 50 J
+   (B) 5J
+   (C) Zero
+   (D) None of these
+   Answer: C
+
+Q22. The unit of energy in MKS system is
+   (A) Volt
+   (B) Erg
+   (C) Ohm
+   (D) Joule
+   Answer: D
+
+Q23. A spring of spring constant 5× 103 N/m is stretched initially by 2 cm from the unstretched position. Then, the work required to stretch it further by another 8 cm.
+   (A) 1 J
+   (B) 25 J
+   (C) 24 J
+   (D) 30 J
+   Answer: C
+
+Q24. If the distance between the plates of a parallel plate capacitor is halved keeping other parameters unchanged. The the new capacitance will become-
+   (A) Two times of the initial capacitance
+   (B) One third of the initial capacitance
+   (C) Nine times of the initial capacitance
+   (D) Remains unchanged
+   Answer: A
+
+Q25. Above curie temperaturea ferromagneticsubstance
+   (A) becomes paramagnetic
+   (B) becomes diamagnetic
+   (C) becomes ferromagnetic
+   (D) Ali of the above
+   Answer: A
+
+
+==============================================================================
+PAPER 17  |  GROUP X  |  18 Jan 2023  |  Source: SelfStudys
+==============================================================================
+Q1. Which of the following has dimension equal to pressure:
+   (A) Energy/Area
+   (B) Energy/Volume
+   (C) Energy × Area
+   (D) Energy × Volume
+   Answer: B
+
+Q2. The heat supplied and the work done of a Carnot engine are 4 kJ and 2 kJ respectively. If the minimum temperature is 127°C, then find the maximum temperature.
+   (A) 527°C
+   (B) 627°C
+   (C) 227°C
+   (D) 300°C
+   Answer: A
+
+Q3. A capillary tube of diameter 2 mm is dipped in a liquid of specific gravity 0.8. The liquid rises in tube by 15 mm making an angle of contact of zero with the tube. Determine the surface tension of the liquid in contact with air and glass tube.
+   (A) 1 kN/m
+   (B) 0.05 kN/m
+   (C) 0.06 N/m
+   (D) 1 N/m
+   Answer: C
+
+Q4. What happens to the potential difference between the capacitors parallel plates as the distance between parallel plates halved?
+   (A) Decreased
+   (B) Increased
+   (C) Remains constant
+   (D) None of the above
+   Answer: A
+
+Q5. The ratio between the electric field and the magnetic field is
+   (A) μoϵo
+   (B) 1 / μoϵo
+   (C) 1 / √μoϵo
+   (D) √μoϵo
+   Answer: C
+
+Q6. Variation of acceleration due to gravity (g) with distance x from the centre of the earth is best represented by (R → Radius of the earth)
+   (A) [Diagram A]
+   (B) [Diagram B]
+   (C) [Diagram C]
+   (D) [Diagram D]
+   Answer: D
+
+Q7. In the Stoke's Law formula (F = – 6πηav), 'η' represents _______________.
+   (A) Reynold's number
+   (B) pressure
+   (C) viscosity
+   (D) relative density
+   Answer: C
+
+Q8. Mutual inductance of a coil is 5H, if current changes from 0 amp to 5 amp. in10-3 sec. then the emf induced in secondary coil-
+   (A) 10 kV
+   (B) 20 kV
+   (C) 25 kV
+   (D) 40 kV
+   Answer: C
+
+Q9. If the mean life of the radioactive element is 50 days then the half-life of the element will be:
+   (A) 72 days
+   (B) 25 days
+   (C) 50 days
+   (D) 34.65 days
+   Answer: D
+
+Q10. The SI unit of current is:
+   (A) Ohm (Ω)
+   (B) Volt (V)
+   (C) Ampere (A)
+   (D) Joule (J)
+   Answer: C
+
+Q11. Which of the following electromagnetic waves have the maximum wavelength:
+   (A) Ultraviolet
+   (B) X-Rays
+   (C) Microwaves
+   (D) Gamma Rays
+   Answer: C
+
+Q12. The escape velocity on earth is 11.2 km/s. Find the escape velocity on a planet having mass twice that of earth and radius half that of the earth.
+   (A) 11.2 km/s
+   (B) 22.4 km/s
+   (C) 5.6 km/s
+   (D) 0
+   Answer: B
+
+Q13. What is the CGS unit of electric dipole moment?
+   (A) Coulomb meter
+   (B) statcoulomb-centimetre
+   (C) Joule-centimeter
+   (D) Newton
+   Answer: B
+
+Q14. Which phenomena show the particle nature of light?
+   (A) Diffraction
+   (B) Interference
+   (C) Photoelectric effect
+   (D) Polarization
+   Answer: C
+
+Q15. The velocity of a particle, executing S.H.M, is ________at its mean position.
+   (A) maximum
+   (B) minimum
+   (C) infinity
+   (D) zero
+   Answer: A
+
+Q16. Which of the following relationship is incorrect? (k is wave number,λ is wavelength, T is time period,ω is angular frequency, and v is wave speed)
+   (A) k = 2π/λ
+   (B) ω = 2π/T
+   (C) ω = vk
+   (D) ω = 2πλ
+   Answer: D
+
+Q17. The physical quantities not having same dimensions, are:
+   (A) Stress and Young's Modulus
+   (B) Speed and (μ0ε0)-1/2
+   (C) Torque and work
+   (D) Momentum and Plank's constant
+   Answer: D
+
+Q18. Excess pressure in a soap bubble of radius r is proportional to
+   (A) 1/r
+   (B) 1 / r2
+   (C) r
+   (D) r2
+   Answer: A
+
+Q19. Entropy change depends on ________.
+   (A) Heat transfer
+   (B) Mass transfer
+   (C) Change of temperature
+   (D) Thermodynamic state
+   Answer: A
+
+Q20. What is the statement for the second law of thermodynamics?
+   (A) Energy of a system is conserved.
+   (B) All the spontaneous processes result in decreased total entropy of a system.
+   (C) All the spontaneous processes result in increased total entropy of a system.
+   (D) There is no second law of thermodynamics.
+   Answer: C
+
+Q21. A stone is tied at the end of a string of 2m length and then rotated with a constant angular velocity of 10 rad/sec. The centripetal acceleration of the stone will be:
+   (A) 200 m/s2
+   (B) 20 m/s2
+   (C) 2000 m/s2
+   (D) 2m/s2
+   Answer: A
+
+Q22. Poisson ratio is defined as
+   (A) Lateral strain divided by longitudinal strain
+   (B) Longitudinal strain divided by lateral strain
+   (C) Longitudinal strain divided by shearing strain
+   (D) Lateral strain times longitudinal strain
+   Answer: A
+
+Q23. Spherical mirror formula relating an object distance ‘u’, image distance ‘v’ and focal length of mirror ‘f’ may be applied to a plane mirror when
+   (A) focal length goes to infinity.
+   (B) focal length goes to zero.
+   (C) image distance goes to zero.
+   (D) image distance goes to infinity.
+   Answer: A
+
+Q24. A constant force acting on a moving particle does not work on it. It can be necessary inferred that
+   (A) the change in its velocity is zero
+   (B) the change in its acceleration is zero
+   (C) the change in its linear momentum is zero
+   (D) None of these
+   Answer: A
+
+Q25. The volume occupied by a given mass of a gas at 298 K is 25 mL at 1 atmospheric pressure. Calculate the volume of the gas if the pressure is increased to 1.25 atmosphere keeping temperature constant.
+   (A) 30 ml
+   (B) 20 ml
+   (C) 15 ml
+   (D) 40 ml
+   Answer: B
+
+
+==============================================================================
+PAPER 18  |  GROUP X  |  19 Jan 2023  |  Source: SelfStudys
+==============================================================================
+Q1. If 'F' is the force acting on a particle of mass 'm' performing simple harmonic motion, then the time period of the simple harmonic motion is equal to___________.
+   (A) 2π √(k /m)
+   (B) 2π √(m/k)
+   (C) 1/(2π) x √( m/k)
+   (D) 1/(2π) x √(k/m)
+   Answer: B
+
+Q2. Velocity of sound is maximum in:
+   (A) hydrogen
+   (B) vacuum
+   (C) steel
+   (D) water
+   Answer: C
+
+Q3. The dimension ofPlank’s constant is _____.
+   (A) [MLT]
+   (B) [ML1T-1]
+   (C) [ML2T-1]
+   (D) [ML2T-2]
+   Answer: C
+
+Q4. A magnet of magnetic moment M is situated with its axis along the direction of a magnetic field of strength B. The work done in rotating it by an angle of 180° will be:
+   (A) -MB
+   (B) +MB
+   (C) +2MB
+   (D) Zero
+   Answer: C
+
+Q5. Two coplanar concurrent forces of magnitude 3 kN and 4 kN makes an angle 60° with each other, then the magnitude of resultant is:
+   (A) 4.03 kN
+   (B) 3.25 kN
+   (C) 6.08 kN
+   (D) 7 kN
+   Answer: C
+
+Q6. When a beam of white light incident on a prism undergoes dispersion then the _________ of the constituent colors of white light.
+   (A) red colour bends the most as it has the lowest wavelength
+   (B) violet colour bends the most as it has the lowest wavelength
+   (C) violet colour bends the most as it has the highest wavelength
+   (D) violet colour bends the most as it has the lowest frequency
+   Answer: B
+
+Q7. Which of the following is correct regarding Faraday's Law?
+   (A) Change in magnetic flux can cause a voltage to be induced.
+   (B) The induced emf can not generate the current.
+   (C) Increase in number of turns in a coil will decrease induced emf
+   (D) All of the above statements are correct.
+   Answer: A
+
+Q8. The Carnot's engine working between 400 K and 800 K has a work output of 1200 J per cycle. The amount of heat energy supplied to the engine from the source in each cycle is:
+   (A) 2400 J
+   (B) 1600 J
+   (C) 3200 J
+   (D) 1800 J
+   Answer: A
+
+Q9. if kinetic energy of a 2 kg mass object has been changed by 3 kJ by a 1000 N force acting along the line of motion on a smooth surface, then displacement made by the object is _________
+   (A) 2 m
+   (B) 3 m
+   (C) 1 m
+   (D) 4 m
+   Answer: B
+
+Q10. One feels heavier in a lift when the lift
+   (A) is going down steadily
+   (B) just begin to go up
+   (C) is moving up steadily
+   (D) decends freely
+   Answer: B
+
+Q11. The correct order of electromagnetic spectrum with decreasing frequency is:
+   (A) Microwaves, Radiowaves, Infrared rays, Ultraviolet rays, X–rays
+   (B) Radiowaves, Infrared rays, Ultraviolet rays, Microwaves, X–rays
+   (C) X–rays, Infrared rays, Microwaves, Radiowaves, Ultraviolet rays
+   (D) X–rays, Ultraviolet rays, Infrared rays, Microwaves, Radiowaves
+   Answer: D
+
+Q12. What is the unit of the pole strength of a magnet?
+   (A) A-m
+   (B) A-m2
+   (C) A/m2
+   (D) A/m
+   Answer: A
+
+Q13. The wavelength of a light in a medium is 400 nm and the frequency of the light is 3 x 1014 Hz. Find the refractive index of light in that medium.
+   (A) 1.5
+   (B) 2.5
+   (C) 1.33
+   (D) 2
+   Answer: B
+
+Q14. Till what temperature (in °C) should a gas at 27°C be heated so as to increase its volume by 40% keeping pressure constant?
+   (A) 400°C
+   (B) 147°C
+   (C) 200°C
+   (D) 247°C
+   Answer: B
+
+Q15. Consider a circular ring of mass 1 kg and diameter 0.2 m. It is making 10 rotations per second about an axis passing through its centre and normal to the surface. The value of angular momentum is:-
+   (A) 0.628kg m2/sec
+   (B) 0.4 kg m2/sec
+   (C) 1.256 kg m2/sec
+   (D) 0.2 kg m2/sec
+   Answer: A
+
+Q16. In an isothermal expansion of the gas the final volume becomes double of the initial volume, then which of the following statement is correct:
+   (A) The final pressure will be double of the initial pressure
+   (B) The final pressure will be half of the initial pressure
+   (C) The final pressure will be equal to the initial pressure
+   (D) None of these
+   Answer: B
+
+Q17. The magnetic flux through a 50-turn coil increases at the rate of 0.05 Wb/s. What is the induced emf between the ends of the coil?
+   (A) 2.5 V
+   (B) 5 V
+   (C) 10 V
+   (D) 25 V
+   Answer: A
+
+Q18. The condition for a thermodynamic process to be adiabatic:
+   (A) ΔQ = 0
+   (B) ΔT = 0
+   (C) ΔV = 0
+   (D) ΔW = 0
+   Answer: A
+
+Q19. A 700 gm solid cube having an edge of length 10 cm floats in water. How much volume of the cube is outside the water? The density of the water 1000 kgm-3
+   (A) 300 cm3
+   (B) 100 cm3
+   (C) 400 cm3
+   (D) 200 cm3
+   Answer: A
+
+Q20. An electric bulb rated 200 V and 100 W is connected to a 160 V power supply. What power will be consumed by the bulb?
+   (A) 64 W
+   (B) 80 W
+   (C) 100 W
+   (D) 160 W
+   Answer: A
+
+Q21. 110 joule of heat is added to a gaseous system,whose internal energy is 40 J. Then the amountof external work done is
+   (A) 150 J
+   (B) 70 J
+   (C) 110 J
+   (D) 40 J
+   Answer: B
+
+Q22. The temperature of a gas is increased by 27∘C.Then what is the equivalent increase on Kelvin scale is
+   (A) 27 K
+   (B) 273.9 K
+   (C) 102 K
+   (D) 30 K
+   Answer: A
+
+Q23. If the refractive index of water is 4/3 and that of glass is 5/3, then the critical angle of incidence for light tending to go from glass to water is:
+   (A) sin⁻¹(3/4)
+   (B) sin⁻¹(3/5)
+   (C) sin⁻¹(4/5)
+   (D) sin⁻¹(2/3)
+   Answer: C
+
+Q24. A graph of pressure versus volume for an ideal gas for different processes is as shown. In the graph curve OC represents
+   (A) isothermal process
+   (B) isobaric process
+   (C) adiabatic process
+   (D) isochoric process
+   Answer: C
+
+Q25. The magnitude of the magnetic field at a far distance along the axis of the solenoid is B. If the current in the solenoid is doubled then the magnetic field at that point will become:
+   (A) B
+   (B) 2B
+   (C) 4B
+   (D) None of these
+   Answer: B
+
+
+==============================================================================
+PAPER 19  |  GROUP X  |  13 Oct 2023 Shift-1  |  Source: SelfStudys
+==============================================================================
+Q1. Kepler’s second law regarding the areal velocity of a planet is an application of the law of conservation of
+   (A) Angular momentum
+   (B) Energy
+   (C) Linear momentum
+   (D) None of these
+   Answer: A
+
+Q2. The ratio of the dimension of Planck's constantand that of the moment of inertia is thedimension of
+   (A) Frequency
+   (B) Velocity
+   (C) Acceleration
+   (D) Time
+   Answer: A
+
+Q3. A body executing simple harmonic motion has an amplitude of 0.01 m and a frequency of 50 Hertz. The ratio of the magnitude of maximum acceleration and maximum velocity of the body is
+   (A) 25π
+   (B) 50π
+   (C) 100π
+   (D) 200π
+   Answer: C
+
+Q4. A conductor carries a current of 20A and is at right-angles to a magnetic field having a flux density of 0.9T. If the length of the conductor in the field is 30 cm, calculate the force acting on the conductor.
+   (A) 2.6 N
+   (B) 5.4 N
+   (C) 54 N
+   (D) 27 N
+   Answer: B
+
+Q5. The induced emf in a coil is given as:
+   (A) e = L dφ / dt
+   (B) e = L di / dt
+   (C) e = −L di / dt
+   (D) e = L d2i / dt2
+   Answer: C
+
+Q6. The efficiency of Carnot heat engine is 75% and the amount of heat absorbed is 300 Joule, then the work done is?
+   (A) 225 J
+   (B) 300 J
+   (C) 220 J
+   (D) None of these
+   Answer: A
+
+Q7. A ball, initially at rest, is dropped from a height h above the floor bounces again and again vertically. If the coefficient of restitution between the ball and the floor is 0.5, the total distance travelled by the ball before it comes to rest is
+   (A) 8h/3
+   (B) 5h/3
+   (C) 3h
+   (D) 2h
+   Answer: B
+
+Q8. The ratio of the amplitude of the magnetic field to the amplitude of the electric field for electromagnetic wave propagation in a vacuum is equal to
+   (A) Unity
+   (B) Speed of light in vacuum
+   (C) Reciprocal of the speed of light in vacuum
+   (D) The ratio of magnetic permeability to electrical susceptibility in a vacuum.
+   Answer: C
+
+Q9. The magnitude of electric flux through the given square surface is:
+   (A) 20 N m2C-1
+   (B) 200N m2C-1
+   (C) 0.1N m2C-1
+   (D) 1N m2C-1
+   Answer: D
+
+Q10. For the destructive interference of the two similar waves, the phase difference between the waves must be:
+   (A) 0
+   (B) π / 2
+   (C) π
+   (D) None of these
+   Answer: C
+
+Q11. The torque experienced by a magnetic dipole, having dipole moment M, when placed in a uniform magnetic field of intensity B is:
+   (A) MB
+   (B) M.B
+   (C) |M| / |B|
+   (D) M× B
+   Answer: D
+
+Q12. Consider a force acts on a 1 kg block so that its position is given as a function of time as x = 3t2+ 5. What will be the work done by this force in first 5 seconds?
+   (A) 900 J
+   (B) 500 J
+   (C) 800 J
+   (D) 450 J
+   Answer: D
+
+
+==============================================================================
+PAPER 20  |  GROUP X  |  14 Oct 2023 Shift-1  |  Source: SelfStudys
+==============================================================================
+Q1. The angle of incidence at which reflected light is polarized for reflection from air to glass (refraction index μ) is
+   (A) sin-1(μ)
+   (B) sin-1(1/μ)
+   (C) tan-1(μ)
+   (D) tan-1(1/μ)
+   Answer: C
+
+Q2. Potential inside a hollow sphere is:
+   (A) constant
+   (B) proportional to distance from centre
+   (C) inversely proportional to the distance
+   (D) inversely proportional to square of distance
+   Answer: A
+
+Q3. Moment of inertia depends on:
+   (A) Mass
+   (B) Distribution of mass
+   (C) Angular velocity
+   (D) Position of rotational axis and mass distribution
+   Answer: D
+
+Q4. In a common emitter transistor the current gainβ equals to _______, where have their usual meanings. Ib, Ic, Ie
+   (A) Ib/Ic
+   (B) Ie/Ic
+   (C) Ic/Ib
+   (D) Ic/Ie
+   Answer: C
+
+Q5. SI unit of permittivity is _____
+   (A) C2m2N-1
+   (B) C-1m2N-2
+   (C) C2m2N2
+   (D) C2m-2N-1
+   Answer: D
+
+Q6. The potential difference across the 4.5μF capacitor in the given circuit is
+   (A) 10 V
+   (B) 8 V
+   (C) 15 V
+   (D) 7 V
+   Answer: A
+
+Q7. Consider an infinitely long straight conductor carryingcurrent I. The magnetic field B due to this current-carrying conductor at a distance d from it is
+   (A) μ0I / πd
+   (B) μ0I / d
+   (C) μ0I / 2πd
+   (D) 2πμ0I / d
+   Answer: C
+
+Q8. The mechanical equivalent of heat
+   (A) has same dimension as work
+   (B) has same dimension as heat
+   (C) has same dimension as rate of doing work
+   (D) dimensionless
+   Answer: D
+
+Q9. A parallel plate capacitor has a capacitance of 10μF. If the distance between two plates is doubled then the new capacitance will be-
+   (A) 20μF
+   (B) 15μF
+   (C) 10μF
+   (D) 5μF
+   Answer: D
+
+Q10. If the length of the semi-major axis of the elliptical orbit of a planet is doubled, the relation between the new time period of revolution of the planet around the Sun with the original time period will be-
+   (A) T22= T12
+   (B) T 2= 2× T12 / 2
+   (C) T22= 4 × T12
+   (D) T22= 8 × T12
+   Answer: D
+
+Q11. The velocity of a wave is 700 m/s and the frequency is 28Hz. Find the wavelength of the wave.
+   (A) 25 cm
+   (B) 25 m
+   (C) 50 cm
+   (D) 50 m
+   Answer: B
+
+Q12. The efficiency of the Carnot engine is
+   (A) 1 −T1 / T2
+   (B) 1 −T2 / T1
+   (C) 1 + T2 / T1
+   (D) 1 + T1 / T2
+   Answer: B
+
+
+==============================================================================
+PAPER 21  |  GROUP X  |  17 Mar 2024 Shift-1  |  Source: Utkarsh
+==============================================================================
+Q1. Which of the following forces is NOT electromagnetic in nature?
+   (A) Force of friction
+   (B) Tension in a string
+   (C) Electrical force in spring
+   (D) Weight of body
+   Answer: D
+
+Q2. A bomb explodes on the moon. You will hear its sound on earth after ________
+   (A) 20 minutes
+   (B) 2 hrs 20 minutes
+   (C) 3.7 hours
+   (D) You cannot hear the sound of explosion
+   Answer: D
+
+Q3. A body weighs 700gm weight on the surface of the earth. How much will it weigh on the surface of a planet whose mass is 1/7 and radius half of the earth
+   (A) 500 gm
+   (B) 600 gm
+   (C) 400 gm
+   (D) 300 gm
+   Answer: C
+
+Q4. If the dimensions of a physical quantity are given by MaLbTc, then the physical quantity wil be
+   (A) Force if a = 0, b = -1, c = -2
+   (B) Pressure if a = 1, b = -1, c = -2
+   (C) Velocity if a = 1, b = 0, c = -1
+   (D) Acceleration if a = 1, b = 1, c = -2
+   Answer: B
+
+Q5. An ideal Carnot's engine whose efficiency is 40% receives heat at 500 K. If the efficiency is to be 50% then the temperature of the source for the same temperature of the sink will be:
+   (A) 600 K
+   (B) 800 K
+   (C) 1000 K
+   (D) 1500 K
+   Answer: A
+
+Q6. When two small droplets merge together to form a large droplet, then in this process:
+   (A) Energy absorbed
+   (B) Energy liberated
+   (C) Neither liberated nor absorbed
+   (D) Can't say
+   Answer: B
+
+Q7. Consider the effect of temperature on two materials 'P' and 'Q' as, with the rise in temperature, materials 'P' becomes diamagnetic, where 'Q' has no effect of temperature at all, then:
+   (A) 'P' is paramagnetic and 'Q' is diamagnetic
+   (B) 'P' is ferromagnetic and 'Q' is paramagnetic
+   (C) 'P' is paramagnetic and 'Q' is ferromagnetic
+   (D) 'P' is ferromagnetic and 'Q' is diamagnetic
+   Answer: A
+
+Q8. If the potential difference and current through a circuit are doubled, then the resistance of the circuit:
+   (A) Increases
+   (B) Goes to zero
+   (C) Remains the same
+   (D) Decreases
+   Answer: C
+
+Q9. A boy is standing on a rotating table with dumbbells in his hands. He suddenly withdraws his hands to his chest. The angular velocity of the table will
+   (A) Decrease
+   (B) Increase
+   (C) Remain same
+   (D) Become zero
+   Answer: B
+
+Q10. What is the order of wavelength of X-rays, radio waves, micro wave and visible light?
+   (A) Radio waves < Microwaves > Visible light > X- rays
+   (B) Radio waves < Microwaves < Visible light < X- rays
+   (C) Radio waves < Microwaves < Visible light > X- rays
+   (D) Radio waves > Microwaves > Visible light > X- rays
+   Answer: D
+
+Q11. Eight equal drops of water are falling through air with a steady velocity of 10 cm s-1. If the drops combine to form a single drop big in size, then the terminal velocity of this big drop is ______
+   (A) 40 cm s-1
+   (B) 10 cm s-1
+   (C) 30 cm s-1
+   (D) 80 cm s-1
+   Answer: A
+
+Q12. If the three similar charges of magnitude +Q are placed on the vertices of an equilateral triangle of side x, then the total work done required to arrange the system will be:
+   (A) Q² / 4πε₀x
+   (B) 3Q² / 4πε₀x
+   (C) 2Q² / 4πε₀x
+   (D) Q² / πε₀x
+   Answer: B
+
+Q13. Which among the following region of a transistor is heavily doped?
+   (A) Junction
+   (B) Emitter
+   (C) Collector
+   (D) Base
+   Answer: B
+
+Q14. When a moving bus stops suddenly, the passengers are pushed forward because of the
+   (A) Friction between the ground and the bus
+   (B) Friction between the passengers and the ground
+   (C) Inertia of the passengers
+   (D) Inertia of the bus
+   Answer: C
+
+Q15. The relationship between kinetic energy and linear momentum of an object is
+   (A) kinetic energy ∝ (linear momentum)-1
+   (B) kinetic energy ∝ (linear momentum)2
+   (C) kinetic energy ∝ √linear momentum
+   (D) none of the above
+   Answer: B
+
+Q16. If the angle of incidence in the first medium is equal to the angle of refraction in the second medium, then the absolute refractive index of the medium is:
+   (A) 1.33
+   (B) 1.1
+   (C) 1.0
+   (D) 1.5
+   Answer: C
+
+Q17. A double convex lens has focal length 25 cm. The radius of curvature of one of the surfaces is double of the other. Find the radii if the refractive index of the material of the lens is 1.5.
+   (A) 18.75 cm, 37.5 cm
+   (B) 50 cm, 100 cm
+   (C) 100 cm, 50 cm
+   (D) 25 cm, 50 cm
+   Answer: A
+
+Q18. Magnetic field due to the current carrying wire as shown in the figure at point "O" will be:
+   (A) μ₀I/2R
+   (B) μ₀I/4R
+   (C) μ₀I/2πR
+   (D) μ₀I/4πR
+   Answer: A
+
+Q19. The concentric circular coils of 20 turns each are situated in the same plane. Their radii are 25 cm and 45 cm respectively and they carry 0.5 A and 0.9 A current in opposite direction. The magnetic field at the center is:
+   (A) Zero
+   (B) μ0/20
+   (C) μ0/4
+   (D) μ0/50
+   Answer: A
+
+Q20. A 100 W light bulb is able to convert 10% of its power to visible radiation. The average intensity of the visible radiation at a distance of 1 m from the bulb is:
+   (A) 0.08 W/m2
+   (B) 0.8 W/m2
+   (C) 10 W
+   (D) 8 W/m2
+   Answer: B
+
+Q21. Kirchhoff's laws for analysing electrical circuits are based on the conservation of:
+   (A) mass and charge
+   (B) momentum and energy
+   (C) charge and energy
+   (D) all of these
+   Answer: C
+
+Q22. Which of the following remains constant in an ideal step down transformer?
+   (A) Current
+   (B) Voltage
+   (C) Power
+   (D) All of the above
+   Answer: C
+
+Q23. The coefficient viscosity of a liquid depends upon :
+   (A) both velocity gradient and area of contact
+   (B) area of contact
+   (C) velocity gradient
+   (D) nature of liquid and temperature
+   Answer: D
+
+Q24. A gas expands from initial state with P1 = 320 kPa, V1 = 0.04 m3 to a final pressure of 80 kPa. If the reversible pressure - volume relation is given by PV2 = Constant, then what will be the work done for the process?
+   (A) 6.4 kJ
+   (B) 64 kJ
+   (C) 6.4 MJ
+   (D) 0.64 KJ
+   Answer: A
+
+Q25. A man standing on a cliff hears the echo of his shout after 1 s. If the velocity of sound in air is 340 m/s, what is the distance between the man and the mountain from which his voice is reflected?
+   (A) 340 m
+   (B) 170 m
+   (C) 680 m
+   (D) 85 m
+   Answer: B
+
+
+==============================================================================
+PAPER 22  |  GROUP X  |  16 Nov 2024  |  Source: SelfStudys
+==============================================================================
+Q1. Kirchoff's current law is based on conservation of ______ while Kirchoff's voltage law is based on conservation of _________
+   (A) Mass, Charge
+   (B) Energy, Charge
+   (C) Charge, Energy
+   (D) Charge, Mass
+   Answer: C
+
+Q2. The ratio of the radius of the Earth to that of the Moon is 10. The ratio of acceleration due to gravity on the Earth and on the Moon is 6. The ratio of the escape velocity from the Earth’s surface to that from the Moon is
+   (A) 7
+   (B) 1.66
+   (C) 8
+   (D) 10
+   Answer: C
+
+Q3. The displacement of a car during its journey is given by s = xt2- yt + z where x, y and z are constants and t is the time. The acceleration of the car at t = 4 s is
+   (A) 4 m/s2
+   (B) 2x
+   (C) √2 kmph
+   (D) None of the above
+   Answer: B
+
+Q4. In a cyclic process, the change in internal energy of the system is
+   (A) Positive
+   (B) Negative
+   (C) Zero
+   (D) Cannot be determined
+   Answer: C
+
+Q5. A Carnot heat engine takes heat from a reservoir at 127° C and rejects heat to a sink at 27°C. Its efficiency will be
+   (A) 20%
+   (B) 25%
+   (C) 30%
+   (D) 50%
+   Answer: B
+
+Q6. Dimensional formula of ω in equation y = a sin (ωt + kx) is
+   (A) M0 L0 T-1
+   (B) M0 L-1 T0
+   (C) M L0 T0
+   (D) M0 L T-1
+   Answer: A
+
+Q7. Magnetic field at the centre of a circular coil of radius R due to current I flowing through it is B. The magnetic field at a point along the axis at distance R from the centre is _____
+   (A) B
+   (B) B/√2
+   (C) B/√4
+   (D) B/√8
+   Answer: D
+
+Q8. Determine the magnitude of induced EMF (in V) in a coil, it the current changes from +2 to -2A in 0.5 second and the coefficient of mutual induction is 0.5
+   (A) 2
+   (B) 4
+   (C) 3
+   (D) 6
+   Answer: B
+
+Q9. An AC current is expressed as i = 50 sin 100 t A. What is the half-cycle average value of that current?
+   (A) 50/π A
+   (B) 50 A
+   (C) 100 A
+   (D) 100/π A
+   Answer: D
+
+Q10. The turns ratio of a transformer used in half-wave rectifier is n1∶ n2 = 12∶ 1. The primary is connected to the power mains of 220 V, 50 Hz. Assuming the diode resistance in forward bias to be zero, calculate the dc voltage across the load
+   (A) 8.24 V
+   (B) 4.12 V
+   (C) 2.8 V
+   (D) 16.48 V
+   Answer: A
+
+Q11. The excess pressure inside a soap bubble is thrice the excess pressure inside a second soap bubble. The ratio between the volume of the first and the second bubble is :
+   (A) 1 : 9
+   (B) 1 : 3
+   (C) 1 : 81
+   (D) 1 : 27
+   Answer: D
+
+Q12. A current-carrying straight conductor is placed in a magnetic field. The conductor experiences the maximum force when the angle between the direction of the current in it and the direction of the magnetic field is:
+   (A) 45°
+   (B) 30°
+   (C) 90°
+   (D) 60°
+   Answer: C
+
+Q13. The given graph shows variation (with distance r from centre) of
+   (A) Electric field of a uniformly charged spherical shell
+   (B) Potential of a uniformly charged spherical shell
+   (C) Electric field of a uniformly charged sphere
+   (D) Potential of a uniformly charged sphere
+   Answer: B
+
+Q14. A concave lens with unequal radii of curvature made of glass (μg = 1.5) has a focal length of 40 cm. If it is immersed in a liquid of refractive index μl = 2, then
+   (A) it behaves like convex lens of 80 cm focal length
+   (B) it behave like a convex lens of 20 cm focal length
+   (C) its focal length becomes 60 cm
+   (D) nothing can be said
+   Answer: A
+
+Q15. If the empirical formula for the observed wavelengths (λ)for hydrogen is 1/λ = R(1/42 - 1/n2), where 'n' is integral values higher than 4, then it representsthe _____________ series.
+   (A) Balmer
+   (B) Brackett
+   (C) Paschen
+   (D) Lyman
+   Answer: B
+
+Q16. Zener diode is a _______ doped PN junction diode and connected in _________ bias in the circuit.
+   (A) lightly, forward
+   (B) heavily, forward
+   (C) lightly, reversed
+   (D) heavily, reversed
+   Answer: D
+
+Q17. The refractive index of glass is 1.5 for light whose wavelength in a vacuum is 6000 Å. The wavelength of this light when it passes through glass is
+   (A) 4000 Å
+   (B) 6000 Å
+   (C) 9000 Å
+   (D) 15000 Å
+   Answer: A
+
+Q18. A source of sound of frequency 600 Hz is placed inside water. The speed of sound in water is 1500 m/s and in air it is 300 m/s. The frequency of sound recorded by an observer in air is:
+   (A) 3000 Hz
+   (B) 1500 Hz
+   (C) 600 Hz
+   (D) 120 Hz
+   Answer: C
+
+Q19. The density of a material in SI units is 128 kg m-3. In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is
+   (A) 40
+   (B) 16
+   (C) 640
+   (D) 410
+   Answer: A
+
+Q20. Two masses m1 and m2 are attached to a string which Passes over a frictionless fixed pulley as is shown in the figure, If m1 = 7Kg, m2 = 3kg, and g = 10 ms−2, the acceleration of the masses is:
+   (A) 2.1 ms-2
+   (B) 4ms-2
+   (C) 42ms-2
+   (D) 10ms-2
+   Answer: B
+
+Q21. A uniform chain of length L and mass m is lying on a smooth table and one-third of its length is hanging vertically down over the edge of the table. If g is the acceleration due to gravity, then work required to pull the hanging part on the table will be:
+   (A) MgL / 6
+   (B) MgL / 9
+   (C) MgL / 12
+   (D) MgL / 18
+   Answer: D
+
+Q22. A ball of mass M moving with a speed of 2 m/s hits another ball of mass 1 kg moving in the same direction with a speed of 1 m/s. If the 4 kinetic energy of center of mass is Joule, then the magnitude of M is 3
+   (A) 1 kg
+   (B) 0.25 kg
+   (C) 0.50 kg
+   (D) 2 kg
+   Answer: C
+
+Q23. Consider a circular ring of mass 1 kg and diameter 0.2 m. It is making 10 rotations per second about an axis passing through its centre and normal to the surface. The value of angular momentum is:-
+   (A) 0.628kg m2/sec
+   (B) 0.4 kg m2/sec
+   (C) 1.256 kg m2/sec
+   (D) 0.2 kg m2/sec
+   Answer: A
+
+Q24. Two plane mirrors are placed making angle of 30° with each other. Find the number of images formed if we place an object between the mirrors asymmetrically.
+   (A) 15
+   (B) 12
+   (C) 10
+   (D) 11
+   Answer: D
+
+Q25. The coefficient of areal expansion of a material is 1.6 × 10-5 K-1. Which one of the following gives the value of coefficient of volume expansion of this material?
+   (A) 0.8 × 10-5 K-1
+   (B) 2.4 × 10-5 K-1
+   (C) 3.2 × 10-5 K-1
+   (D) 4.8 × 10-5 K-1
+   Answer: B
+
+
+==============================================================================
+PAPER 23  |  GROUP XY  |  16 Nov 2024  |  Source: User TXT
+==============================================================================
+Q1. A Carnot heat engine takes heat from a reservoir at 127° C and rejects heat to a sink at 27°C. Its
+efficiency will be
+20%
+1.
+25%
+2.
+30%
+3.
+50%
+4.
+
+Q2. Kirchoff's current law is based on conservation of ______ while Kirchoff's voltage law is based on
+conservation of _________
+Mass, Charge
+1.
+Energy, Charge
+2.
+Charge, Energy
+3.
+Charge, Mass
+4.
+
+Q3. The ratio of the radius of the Earth to that of the Moon is 10. The ratio of acceleration due to gravity on
+the Earth and on the Moon is 6. The ratio of the escape velocity from the Earth’s surface to that from the
+Moon is
+7
+1.
+1.66
+2.
+8
+3.
+10
+4.
+
+Q4. The displacement of a car during its journey is given by s = xt2 - yt + z where x, y and z are constants
+and t is the time. The acceleration of the car at t = 4 s is
+4 m/s2
+1.
+2x
+2.
+√2 kmph
+3.
+None of the above
+4.
+
+Q5. In a cyclic process, the change in internal energy of the system is
+Positive
+1.
+Negative
+2.
+Zero
+3.
+Cannot be determined
+4.
+
+Q6. Dimensional formula of ω in equation y = a sin (ωt + kx) is
+M0 L0 T-1
+1.
+M0 L-1 T0
+2.
+M L0 T0
+3.
+M0 L T-1
+4.
+
+Q7. Magnetic field at the centre of a circular coil of radius R due to current I flowing through it is B. The
+magnetic field at a point along the axis at distance R from the centre is _____
+B
+1.
+B/√2
+2.
+B/√4
+3.
+B/√8
+4.
+
+Q8. Determine the magnitude of induced EMF (in V) in a coil, it the current changes from +2 to -2A in 0.5
+second and the coefficient of mutual induction is 0.5
+2
+1.
+4
+2.
+3
+3.
+6
+4.
+
+Q9. An AC current is expressed as i = 50 sin 100 t A. What is the half-cycle average value of that current?
+1.
+ A
+50
+π
+50 A
+2.
+100 A
+3.
+4.
+ A
+100
+π
+
+Q10. The turns ratio of a transformer used in half-wave rectifier is n1 ∶ n2 = 12 ∶ 1. The primary is connected
+to the power mains of 220 V, 50 Hz. Assuming the diode resistance in forward bias to be zero, calculate
+the dc voltage across the load
+8.24 V
+1.
+4.12 V
+2.
+2.8 V
+3.
+16.48 V
+4.
+
+Q11. The excess pressure inside a soap bubble is thrice the excess pressure inside a second soap bubble. The
+ratio between the volume of the first and the second bubble is :
+1 : 9
+1.
+1 : 3
+2.
+1 : 81
+3.
+1 : 27
+4.
+
+Q12. A current-carrying straight conductor is placed in a magnetic field. The conductor experiences the
+maximum force when the angle between the direction of the current in it and the direction of the
+magnetic field is:
+45°
+1.
+30°
+2.
+90°
+3.
+60°
+4.
+
+Q13. The given graph shows variation (with distance r from centre) of
+Electric field of a uniformly charged spherical shell
+1.
+Potential of a uniformly charged spherical shell
+2.
+Electric field of a uniformly charged sphere
+3.
+Potential of a uniformly charged sphere
+4.
+
+Q14. A concave lens with unequal radii of curvature made of glass (μg = 1.5) has a focal length of 40 cm. If
+it is immersed in a liquid of refractive index μl = 2, then
+it behaves like convex lens of 80 cm focal length
+1.
+it behave like a convex lens of 20 cm focal length
+2.
+its focal length becomes 60 cm
+3.
+nothing can be said
+4.
+
+Q15. If the empirical formula for the observed wavelengths (λ)for hydrogen is 1/λ = R(1/42 - 1/n2), where 'n'
+is integral values higher than 4, then it represents the _____________ series.
+Balmer
+1.
+Brackett
+2.
+Paschen
+3.
+Lyman
+4.
+
+Q16. Zener diode is a _______ doped PN junction diode and connected in _________ bias in the circuit.
+lightly, forward
+1.
+heavily, forward
+2.
+lightly, reversed
+3.
+heavily, reversed
+4.
+
+Q17. The refractive index of glass is 1.5 for light whose wavelength in a vacuum is 6000 Å. The wavelength
+of this light when it passes through glass is
+4000 Å
+1.
+6000 Å
+2.
+9000 Å
+3.
+15000 Å
+4.
+
+Q18. A source of sound of frequency 600 Hz is placed inside water. The speed of sound in water is 1500 m/s
+and in air it is 300 m/s. The frequency of sound recorded by an observer in air is:
+3000 Hz
+1.
+1500 Hz
+2.
+600 Hz
+3.
+120 Hz
+4.
+
+Q19. The density of a material in SI units is 128 kg m-3. In certain units in which the unit of length is 25 cm
+and the unit of mass is 50 g, the numerical value of density of the material is
+40
+1.
+16
+2.
+640
+3.
+410
+4.
+
+Q20. Two masses m1 and m2 are attached to a string  which Passes over a frictionless fixed pulley as  is
+shown in the figure, If m1 = 7Kg, m2 = 3kg, and  g = 10 ms−2, the acceleration of the masses is:
+2.1 ms-2
+1.
+4 ms
+2.
+-2
+42 ms
+3.
+-2
+10 ms
+4.
+-2
+
+Q21. A uniform chain of length L and mass m is lying on a smooth table and one-third of its length is
+hanging vertically down over the edge of the table. If g is the acceleration due to gravity, then work
+required to pull the hanging part on the table will be:
+1.
+MgL
+6
+2.
+MgL
+9
+3.
+MgL
+12
+4.
+MgL
+18
+
+Q22. A ball of mass M moving with a speed of 2 m/s hits another ball of mass 1 kg moving in the same
+direction with a speed of 1 m/s. If the kinetic energy of center of mass is
+ Joule, then the magnitude
+of M is
+4
+3
+1 kg
+1.
+0.25 kg
+2.
+0.50 kg
+3.
+2 kg
+4.
+
+Q23. Consider a circular ring of mass 1 kg and diameter 0.2 m. It is making 10 rotations per second about an
+axis passing through its centre and normal to the surface. The value of angular momentum is:-
+0.628 kg m2/sec
+1.
+0.4 kg m2/sec
+2.
+1.256 kg m2/sec
+3.
+0.2 kg m2/sec
+4.
+
+Q24. Two plane mirrors are placed making angle of 30° with each other. Find the number of images formed
+if we place an object between the mirrors asymmetrically.
+15
+1.
+12
+2.
+10
+3.
+11
+4.
+
+Q25. The coefficient of areal expansion of a material is 1.6 × 10-5 K-1. Which one of the following gives the
+value of coefficient of volume expansion of this material?
+0.8 × 10-5 K-1
+1.
+2.4 × 10-5 K-1
+2.
+3.2 × 10-5 K-1
+3.
+4.8 × 10-5 K-1
+4.
+
+
+==============================================================================
+PAPER 24  |  GROUP X  |  22 Mar 2025  |  Source: SelfStudys
+==============================================================================
+Q1. When the length and area of cross-section both are doubled, then its resistance
+   (A) Will become half
+   (B) Will be doubled
+   (C) Will remain the same
+   (D) Will become four times
+   Answer: C
+
+Q2. The surface charge density of a thin spherical shell placed in an air medium is 88.54 c/m2 The intensity of the electric field measured 12 mm outside the shell from the centre of theshell is 5.625× 1012 N/C. The thin spherical shell has a radius of:
+   (A) 10.5 mm
+   (B) 6.0 mm
+   (C) 0.35 mm
+   (D) 9.0 mm
+   Answer: D
+
+Q3. An electric dipole is formed by two equal and opposite charges q with separation d. The charges have same mass m. It is kept in a uniform electric field E. If it is slightly rotated from its equilibrium orientation, then its angular frequency ω is:
+   (A) √(qE/md)
+   (B) √(2qE/md)
+   (C) 2√qE / md
+   (D) √(qE/2md)
+   Answer: B
+
+Q4. A long solenoid of 50 cm length having 100 turns carries a current of 2.5 A. The magnetic field at the centre of the solenoid is : (μ0 = 4π × 10−7 TmA−1)
+   (A) 6.28 × 10 T−5
+   (B) 3.14 × 10 T−5
+   (C) 6.28 × 10 T−4
+   (D) 3.14 × 10 T−4
+   Answer: C
+
+Q5. Which is not an electromagnetic wave?
+   (A) Radio
+   (B) Infrared
+   (C) Sound
+   (D) Ultraviolet
+   Answer: C
+
+Q6. The dimensions of energy are:
+   (A) [M L T ]1-1-1
+   (B) [M L T ]222
+   (C) [M L T ]1-2-1
+   (D) [M L T ]12-2
+   Answer: D
+
+Q7. The dimensional formula for specific gravity is given by:
+   (A) M1L0T1
+   (B) M1L1T0
+   (C) M0L0T0
+   (D) M0L1T1
+   Answer: C
+
+Q8. An object is placed 30 cm before a concave mirror of focal length of 20 cm to get a real image. What will be the distance of the image from the mirror?
+   (A) 60 cm
+   (B) 30 cm
+   (C) 20 cm
+   (D) 40 cm
+   Answer: A
+
+Q9. The magnetic moment of a circular coil carrying current is
+   (A) Inversely proportional to the length of the square of the wire in the coil
+   (B) Directly proportional to length of wire
+   (C) inversely proportional to length of the wire
+   (D) Directly proportional to the length of the square of the wire in the coil
+   Answer: D
+
+Q10. The cyclic integral of (δQ - δW) for a process is
+   (A) Positive
+   (B) Negative
+   (C) Zero
+   (D) Unpredictable
+   Answer: C
+
+Q11. If the pressure at point A is P and the atmospheric pressure is Pa, then the gauge pressure is equal to:
+   (A) P
+   (B) P + Pa
+   (C) P - Pa
+   (D) None of these
+   Answer: C
+
+Q12. With two slits spaced 0.2 mm apart, a screen at a distance of 1m, the third bright fringe is found to be displaced 7.5 mm from the central fringe. Find the wavelength of the light used?
+   (A) 500 mm
+   (B) 500 nm
+   (C) 250 nm
+   (D) 250 mm
+   Answer: B
+
+Q13. Kirchoff's current law is based on conservation of ______ while Kirchoff's voltage law is based on conservation of _________
+   (A) Mass, Charge
+   (B) Energy, Charge
+   (C) Charge, Energy
+   (D) Charge, Mass
+   Answer: C
+
+Q14. n-p-n transistors are preferred over p-n-p transistors because they have
+   (A) high mobility of holes
+   (B) equal to mobility of holes
+   (C) low mobility of holes
+   (D) higher mobility of electrons than the mobility of holes in p-n-p transistors
+   Answer: D
+
+Q15. A spring has a spring constant of 1000 N/m and its initial expansion is 10 cm. Calculate the work done in extending the spring from 10 cm to 20 cm.
+   (A) 15 J
+   (B) 20 J
+   (C) 30 J
+   (D) 40 J
+   Answer: A
+
+Q16. The velocity of sound in air is taken as 332 m/s. If the pressure of a gas is taken double, then what will be the velocity of sound in air?
+   (A) 996 m/s
+   (B) 664 m/s
+   (C) 166 m/s
+   (D) 332 m/s
+   Answer: D
+
+Q17. If the mass of a planet is four times the mass of the earth and the radius is half of the earth, then the gravitational acceleration of the planet is:
+   (A) 16g
+   (B) g/16
+   (C) 4g
+   (D) g
+   Answer: A
+
+Q18. Velocity at mean position of a particle executing S.H.M. is v, then velocity of the particle at a distance equal to half of the amplitude;
+   (A) 4v
+   (B) 2v
+   (C) (√3/2) v
+   (D) (√3/4) v
+   Answer: C
+
+Q19. Second law of thermodynamics defines:
+   (A) Internal Energy
+   (B) Entropy
+   (C) Heat
+   (D) Work
+   Answer: B
+
+Q20. If wavelength of photon is6000 Å, then its energy will be:
+   (A) 0.66 eV
+   (B) 1.66 eV
+   (C) 2.06 eV
+   (D) 3.5 eV
+   Answer: C
+
+Q21. What is the moment of inertia of a ring of mass 'M' and radius 'R' about a tangent to the circle of the ring?
+   (A) 5MR2/2
+   (B) MR2/2
+   (C) 3MR2/2
+   (D) 7MR2/2
+   Answer: C
+
+Q22. A Carnot engine has an efficiency of 1/6. When the temperature of the sink is reduced by 62°C, its efficiency is doubled. The temperatures of the source and the sink are, respectively,
+   (A) 62°C, 124°C
+   (B) 99°C, 37°C
+   (C) 124°C, 62°C
+   (D) 37°C, 99°C
+   Answer: B
+
+Q23. →S = ^i + 2^j −4^k F = 2^i + 3^j + ^k Calculate the work done by a force on a particle when the particle is displaced by ?
+   (A) 4
+   (B) 6
+   (C) 8
+   (D) 7
+   Answer: A
+
+Q24. Which of the following statement is/are correct for an adiabatic process?
+   (A) In an adiabatic process the pressure, volume and temperature of the system may / change with time.
+   (B) In an adiabatic process, there is no exchange of heat between the system and / surrounding.
+   (C) An adiabatic process is the part of thermodynamics process.
+   (D) All of the above
+   Answer: D
+
+Q25. The displacement of a car during its journey is given by s = xt2- yt + z where x, y and z are constants and t is the time. The acceleration of the car at t = 4 s is
+   (A) 4 m/s2
+   (B) 2x
+   (C) √(2 kmph/⎢⎥)
+   (D) None of the above
+   Answer: B
+
+
+==============================================================================
+PAPER 25  |  GROUP XY  |  22 Mar 2025  |  Source: User TXT
+==============================================================================
+Q1. When the length and area of cross-section both are doubled, then its resistance:
+1. Will become half
+2. Will be doubled
+3. Will remain the same
+4. Will become four times
+
+Q2. The surface charge density of a thin spherical shell placed in an air medium is 88.54 C/m². The intensity of the electric field measured 12 mm outside the shell from the centre of the shell is 5.625 × 10¹² N/C. The thin spherical shell has a radius of:
+1. 10.5 mm
+2. 6.0 mm
+3. 0.35 mm
+4. 9.0 mm
+
+Q3. An electric dipole is formed by two equal and opposite charges q with separation d. The charges have same mass m. It is kept in a uniform electric field E. If it is slightly rotated from its equilibrium orientation, then its angular frequency ω is:
+1. √(qE/md)
+2. √(2qE/md)
+3. √(2qE/md)
+4. √(qE/2md)
+
+Q4. A long solenoid of 50 cm length having 100 turns carries a current of 2.5 A. The magnetic field at the centre of the solenoid is:
+(μ₀ = 4π × 10⁻⁷ T m A⁻¹)
+1. 6.28 × 10⁻⁵ T
+2. 3.14 × 10⁻⁵ T
+3. 6.28 × 10⁻⁴ T
+4. 3.14 × 10⁻⁴ T
+
+Q5. Which is not an electromagnetic wave?
+1. Radio
+2. Infrared
+3. Sound
+4. Ultraviolet
+
+Q6. The dimensions of energy are:
+1. [M¹L⁻¹T⁻¹]
+2. [M²L²T²]
+3. [M¹L⁻²T⁻¹]
+4. [M¹L²T⁻²]
+
+Q7. The dimensional formula for specific gravity is given by:
+1. [M¹L⁰T¹]
+2. [M¹L¹T⁰]
+3. [M⁰L⁰T⁰]
+4. [M⁰L¹T¹]
+
+Q8. An object is placed 30 cm before a concave mirror of focal length of 20 cm to get a real image. What will be the distance of the image from the mirror?
+1. 60 cm
+2. 30 cm
+3. 20 cm
+4. 40 cm
+
+Q9. The magnetic moment of a circular coil carrying current is:
+1. Inversely proportional to the length of the square of the wire in the coil
+2. Directly proportional to length of wire
+3. Inversely proportional to length of the wire
+4. Directly proportional to the length of the square of the wire in the coil
+
+Q10. The cyclic integral of (δQ − δW) for a process is:
+1. Positive
+2. Negative
+3. Zero
+4. Unpredictable
+
+Q11. If the pressure at point A is P and the atmospheric pressure is Pₐ, then the gauge pressure is equal to:
+1. P
+2. P + Pₐ
+3. P − Pₐ
+4. None of these
+
+Q12. With two slits spaced 0.2 mm apart, a screen at a distance of 1 m, the third bright fringe is found to be displaced 7.5 mm from the central fringe. Find the wavelength of the light used?
+1. 500 mm
+2. 500 nm
+3. 250 nm
+4. 250 mm
+
+Q13. Kirchoff's current law is based on conservation of ______ while Kirchoff's voltage law is based on conservation of _________.
+1. Mass, Charge
+2. Energy, Charge
+3. Charge, Energy
+4. Charge, Mass
+
+Q14. n-p-n transistors are preferred over p-n-p transistors because they have:
+1. high mobility of holes
+2. equal to mobility of holes
+3. low mobility of holes
+4. higher mobility of electrons than the mobility of holes in p-n-p transistors
+
+Q15. A spring has a spring constant of 1000 N/m and its initial expansion is 10 cm. Calculate the work done in extending the spring from 10 cm to 20 cm.
+1. 15 J
+2. 20 J
+3. 30 J
+4. 40 J
+
+Q16. The velocity of sound in air is taken as 332 m/s. If the pressure of a gas is taken double, then what will be the velocity of sound in air?
+1. 996 m/s
+2. 664 m/s
+3. 166 m/s
+4. 332 m/s
+
+Q17. If the mass of a planet is four times the mass of the earth and the radius is half of the earth, then the gravitational acceleration of the planet is:
+1. 16g
+2. g/16
+3. 4g
+4. g
+
+Q18. Velocity at mean position of a particle executing S.H.M. is v, then velocity of the particle at a distance equal to half of the amplitude:
+1. 4v
+2. 2v
+3. v√3/2
+4. v√3/4
+
+Q19. Second law of thermodynamics defines:
+1. Internal Energy
+2. Entropy
+3. Heat
+4. Work
+
+Q20. If wavelength of photon is 6000 Å, then its energy will be:
+1. 0.66 eV
+2. 1.66 eV
+3. 2.06 eV
+4. 3.5 eV
+
+Q21. What is the moment of inertia of a ring of mass 'M' and radius 'R' about a tangent to the circle of the ring?
+1. 5MR²/2
+2. MR²/2
+3. 3MR²/2
+4. 7MR²/2
+
+Q22. A Carnot engine has an efficiency of 1/6. When the temperature of the sink is reduced by 62°C, its efficiency is doubled. The temperatures of the source and the sink are, respectively:
+1. 62°C, 124°C
+2. 99°C, 37°C
+3. 124°C, 62°C
+4. 37°C, 99°C
+
+Q23. Calculate the work done by a force F⃗ = 2î + 3ĵ + k̂ on a particle when the particle is displaced by S⃗ = î + 2ĵ − 4k̂.
+1. 4
+2. 6
+3. 8
+4. 7
+
+Q24. Which of the following statement is/are correct for an adiabatic process?
+1. In an adiabatic process the pressure, volume and temperature of the system may change with time.
+2. In an adiabatic process, there is no exchange of heat between the system and surrounding.
+3. An adiabatic process is the part of thermodynamics process.
+4. All of the above
+
+Q25. The displacement of a car during its journey is given by s = xt² − yt + z where x, y and z are constants and t is the time. The acceleration of the car at t = 4 s is:
+1. 4 m/s²
+2. 2x
+3. √2 kmph
+4. None of the above
+
+
+==============================================================================
+PAPER 26  |  GROUP X  |  25 Sep 2025  |  Source: Utkarsh
+==============================================================================
+Q1. Which of the following components is used to create an N-type semiconductor? a. Trivalent impurity b. Pentavalent impurity c. Intrinsic semiconductor d. Extrinsic semiconductor
+   (A) a and c
+   (B) b and d
+   (C) b and c
+   (D) a and d
+   Answer: C
+
+Q2. The relationship between the magnetic susceptibility (χ) and the magnetic permeability (μ) is given by: (μ₀ is the permeability of free space and μᵣ is relative permeability)
+   (A) χ = μ/μ₀ − 1
+   (B) χ = μᵣ/μ₀ + 1
+   (C) χ = (−b ± √(b² − 4ac)) / 2a
+   (D) χ = 1 − μ/μ₀
+   Answer: A
+
+Q3. The first law of thermodynamics is based on the law of conservation of
+   (A) energy
+   (B) mass
+   (C) momentum
+   (D) None of these.
+   Answer: A
+
+Q4. Three capacitors each of capacity 4 µF are to be connected in such a way that the effective capacitance is 6 µF. This can be done by
+   (A) connecting all of them in series
+   (B) connecting them in parallel
+   (C) connecting two in series and one in parallel
+   (D) connecting two in parallel and one in series.
+   Answer: C
+
+Q5. When a charged particle enters into a magnetic field with velocity perpendicular to the direction of the magnetic field. The particle follows a curved path. What will happen to the radius of this curved path if the magnetic field is increased?
+   (A) particle goes in straight line.
+   (B) radius will remain same
+   (C) radius will increase
+   (D) radius will decrease
+   Answer: D
+
+Q6. If a velocity has both perpendicular and parallel components while moving through a magnetic field, what is the path followed by a charged particle?
+   (A) Circular
+   (B) elliptical
+   (C) Linear
+   (D) Helical
+   Answer: D
+
+Q7. The dimensional formula of constant a in van der Waals gas equation (𝒑+ 𝒂 𝒗𝟐) (𝒗−𝒃) = 𝑹𝑻:
+   (A) [ML³T-2]
+   (B) [ML5ST-2]
+   (C) [ML2T-¹]
+   (D) [ML2T-5]
+   Answer: B
+
+Q8. The disintegration constant λ of a radioactive element is 0.00231 per day. Its half life is
+   (A) 500 days
+   (B) 400 days
+   (C) 200 days
+   (D) 300 days
+   Answer: D
+
+Q9. E⃗ and k⃗ represent electric field and propagation vectors of the EM waves in vacuum, then magnetic field vector is given by: (ω - angular frequency):
+   (A) ω (E⃗ × K⃗)
+   (B) ω (K⃗ × E⃗)
+   (C) E⃗ × K⃗
+   (D) (1/ω) (K⃗ × E⃗)
+   Answer: D
+
+Q10. Moment of inertia of a uniform circular disc about a diameter is I. Its moment of inertia about an axis perpendicular to its plane and passing through a point on its rim will be
+   (A) 41
+   (B) 61
+   (C) 31
+   (D) 51
+   Answer: B
+
+Q11. The ratio of the distances travelled by a freely falling body in the1st, 2nd, 3rd, and 4th, second:
+   (A) 1:1:1:1
+   (B) 1:2:3:4
+   (C) 1:49:16
+   (D) 1:3:5:7
+   Answer: D
+
+Q12. Given the current i(t) and voltage v(t) of a circuit element, the power p(t) and energy w(t)are given by:
+   (A) 𝑝(𝑡) = 𝑣(𝑡) 𝑖(𝑡)and 𝑤(𝑡) = ∫𝑖(𝜏) 𝑑𝜏 𝑡 0
+   (B) 𝑝(𝑡) = 𝑣(𝑡) 𝑖(𝑡)and 𝑤(𝑡) = ∫𝑝(𝜏) 𝑑𝜏 𝑡 0
+   (C) 𝑝(𝑡) = 𝑣(𝑡) 𝑖(𝑡)and 𝑤(𝑡) = ∫𝑣(𝜏) 𝑑𝜏 𝑡 0
+   (D) 𝑝(𝑡) = 𝑣(𝑡) + 𝑖(𝑡)and 𝑤(𝑡) = ∫𝑝(𝜏) 𝑑𝜏 𝑡 0
+   Answer: B
+
+Q13. If the magnification produced by a lens is negative, then the image is:
+   (A) Virtual and erect
+   (B) Real and inverted
+   (C) Virtual and inverted
+   (D) Real and erect
+   Answer: B
+
+Q14. A measured temperature in Fahrenheit scale is 200° F. What will be its value in Celsius scale?
+   (A) 93.3°C
+   (B) 40°C
+   (C) 99°C
+   (D) 30°C
+   Answer: A
+
+Q15. An athlete with a mass 60 kg in the Olympic Games covers a distance of 100 m in 10s. His kinetic energy can be estimated to be in the range of:
+   (A) 200 J-500 J
+   (B) 200000 J-500000 J
+   (C) 20000 J-50000 J
+   (D) 2000 J-5000 J
+   Answer: D
+
+Q16. If two resistors of 10 ΚΩ and 30 kΩ are connected in parallel what will be the value of the effective resistance (in kΩ)?
+   (A) 10
+   (B) 12.5
+   (C) 7.5
+   (D) 5
+   Answer: C
+
+Q17. The radius of curvature of a spherical mirror is 15. Find its focal length.
+   (A) 9 cm
+   (B) 8.5 cm
+   (C) 7.5 cm
+   (D) 2.7 cm
+   Answer: C
+
+Q18. A bus starts from rest and rolls down a hill with a constant acceleration of 0.5 m/s2.what is the force acting on it if its mass is 8 tonnes?
+   (A) 40N
+   (B) 400 N
+   (C) 4000 N
+   (D) 40000 N
+   Answer: C
+
+Q19. An object is placed at 10 cm in front of a concave mirror of radius of curvature 25 cm. Find the position of the image (in cm)?
+   (A) -50
+   (B) 40
+   (C) 50
+   (D) -40
+   Answer: C
+
+Q20. An unbalanced force of 90 N acts on an object and produces an acceleration of 15 m/s² in it. Then,the mass of the object is
+   (A) 15 kg
+   (B) 90 kg
+   (C) 1350 kg
+   (D) 6 kg
+   Answer: D
+
+Q21. A non-SI unit called 'nit' is the unit of which of the following photometric quantities used to measure a multitude of light intensity?
+   (A) Luminous exposure
+   (B) Luminance
+   (C) Luminosity
+   (D) Luminous emittance
+   Answer: B
+
+Q22. Dimensional formula of Pressure?
+   (A) ML0T2
+   (B) ML-1T-2
+   (C) MLT2
+   (D) ML2T-1
+   Answer: B
+
+Q23. The following is the relation between the object distance and the image distance in a plane mirror image :
+   (A) object distance > image distance
+   (B) object distance = image distance
+   (C) object distance < image distance
+   (D) not related
+   Answer: B
+
+Q24. Which trend is found about the distance between the galaxies?
+   (A) Constant
+   (B) Increasing
+   (C) Unpredictable
+   (D) Decreasing
+   Answer: B
+
+Q25. A ball possesses 3000 units of momentum. What would be the ball's new momentum if its velocity was doubled?
+   (A) 3000 units
+   (B) 6000 units
+   (C) 20000 units
+   (D) 9000 units
+   Answer: B
+
+
+==============================================================================
+PAPER 27  |  GROUP XY  |  25 Sep 2025  |  Source: User TXT
+==============================================================================
+Q1. Which of the following components is used to create an N-type semiconductor?
+a. Trivalent impurity
+b. Pentavalent impurity
+c. Intrinsic semiconductor
+d. Extrinsic semiconductor
+a and c
+1.
+b and d
+2.
+b and c
+3.
+a and d
+4.
+
+Q2. The relationship between the magnetic (χ) susceptibility and the magnetic permeability (μ) is given
+by :
+((μ)0 is the permeability of free space and (μ)r is relative permeability)
+μ
+μ0 −1
+1.
+χ =
+μr
+μ0 + 1
+2.
+χ =
+−b ±√b2 −4ac
+2a
+χ = μr + 1
+3.
+x =
+μ
+μ0
+4.
+χ = 1 −
+
+Q3. The first law of thermodynamics is based on the law of conservation of
+energy
+1.
+mass
+2.
+momentum
+3.
+None of these
+4.
+
+Q4. Three capacitors each of capacity 4 μF are to be connected in such a way that the effective
+capacitance is 6 μF. This can be done by
+connecting all of them in series
+1.
+connecting them in parallel
+2.
+connecting two in series and one in parallel
+3.
+connecting two in parallel and one in series.
+4.
+
+Q5. When a charged particle enters into a magnetic field with velocity perpendicular to the direction of
+the magnetic field. The particle follows a curved path. What will happen to the radius of this curved
+path if the magnetic field is increased?
+particle goes in straight line.
+1.
+​radius will remain same
+2.
+radius will increase
+3.
+radius will decrease
+4.
+
+Q6. Circular
+1.
+elliptical
+2.
+Linear
+3.
+Helical
+4.
+
+Q7. The dimensional formula of constant a in van der Waals gas equation (p +
+V2)(V −b) = RT :
+[ML3T−2]
+1.
+[ML5T−2]
+2.
+[ML2T−1]
+3.
+[ML2T−5]
+4.
+
+Q8. The disintegration constant λ of a radioactive element is 0.00231 per day. Its half life is
+500 days
+1.
+400 days
+2.
+200 days
+3.
+300 days
+4.
+
+Q9. In
+¯
+K)
+1.
+¯
+E ×
+ω(
+→E)
+2.
+→K ×
+ω(
+¯
+E
+3.
+¯
+K ×
+¯
+E)
+4.
+¯
+K ×
+1
+ω(
+
+Q10. Moment of inertia of a uniform circular disc about a diameter is I. Its moment of inertia about an
+axis perpendicular to its plane and passing through a point on its rim will be
+4I
+1.
+6I
+2.
+3I
+3.
+5I
+4.
+
+Q11. The ratio of the distances travelled by a freely falling body in the1st, 2nd, 3rd and 4th second:
+1 ∶ 1 ∶ 1 ∶ 1
+1.
+1 ∶ 2 ∶ 3 ∶ 4
+2.
+1 ∶ 4 ∶ 9 ∶ 16
+3.
+1 ∶ 3 ∶ 5 ∶ 7
+4.
+
+Q12. Given the current i(t) and voltage v(t) of a circuit element, the power p(t) and energy w(t) are given
+by:
+p(t) = v(t).i(t) and w(t) = ∫t
+0i(τ)dτ
+1.
+p(t) = v(t).i(t) and w(t) = ∫t
+0p(τ)dτ
+2.
+p(t) = v(t).i(t) and w(t) = ∫t
+0v(τ)dτ
+3.
+p(t) = v(t) + i(t) and w(t) = ∫t
+0p(τ)dτ
+4.
+
+Q13. If the magnification produced by a lens is negative, then the image is:
+Virtual and erect
+1.
+Real and inverted
+2.
+Virtual and inverted
+3.
+Real and erect
+4.
+
+Q14. A measured temperature in Fahrenheit scale is 200° F. What will be its value in Celsius scale?
+93.3°C
+1.
+40°C
+2.
+99°C
+3.
+30°C
+4.
+
+Q15. An athlete with a mass 60 kg in the Olympic Games covers a distance of 100 m in 10s. His kinetic
+energy can be estimated to be in the range of:
+200 J – 500 J
+1.
+200000 J – 500000 J
+2.
+20000 J – 50000 J
+3.
+2000 J – 5000 J
+4.
+
+Q16. 10
+1.
+12.5
+2.
+7.5
+3.
+5
+4.
+
+Q17. The radius of curvature of a spherical mirror is 15. Find its focal length.
+9 cm
+1.
+8.5 cm
+2.
+7.5 cm
+3.
+2.7 cm
+4.
+
+Q18. A bus starts from rest and rolls down a hill with a constant acceleration of 0.5 m/s2. what is the
+force acting on it if its mass is 8 tonnes?
+40 N
+1.
+400 N
+2.
+4000 N
+3.
+40000 N
+4.
+
+Q19. -50
+1.
+40
+2.
+50
+3.
+-40
+4.
+
+Q20. An unbalanced force of 90 N acts on an object and produces an acceleration of 15 m/s2 in it. Then,
+the mass of the object is
+15 kg
+1.
+90 kg
+2.
+1350 kg
+3.
+6 kg
+4.
+
+Q21. A non-SI unit called 'nit' is the unit of which of the following photometric quantities used to
+measure a multitude of light intensity?
+Luminous exposure
+1.
+Luminance
+2.
+Luminosity
+3.
+Luminous emittance
+4.
+
+Q22. Dimensional formula of Pressure?
+ML0T2
+1.
+ML-1T-2
+2.
+MLT2
+3.
+ML2T-1
+4.
+
+Q23. The following is the relation between the object distance and the image distance in a plane mirror
+image :
+object distance > image distance
+1.
+object distance = image distance
+2.
+object distance < image distance
+3.
+not related
+4.
+
+Q24. Which trend is found about the distance between the galaxies?
+Constant
+1.
+Increasing
+2.
+Unpredictable
+3.
+Decreasing
+4.
+
+Q25. A ball possesses 3000 units of momentum. What would be the ball's new momentum if its velocity
+was doubled?
+3000 units
+1.
+6000 units
+2.
+20000 units
+3.
+9000 units
+4.
+
+
+==============================================================================
+PAPER 28  |  GROUP XY  |  26 Sep 2025  |  Source: User TXT
+==============================================================================
+Q1. The dimensional formula [ML-1T-2] does not represent:
+Pressure
+1.
+Stress
+2.
+Young’s modulus
+3.
+Power
+4.
+
+Q2. Which of the following statements is NOT true?
+The mass of an object is a measure of its inertia
+1.
+A force produces change of momentum
+2.
+In a high jump an athlete is made to fall on a cushioned bed to decrease his time of fall, and hence the
+impact
+3.
+In an isolated system (where there is no external force), the total momentum remains constant
+4.
+
+Q3. Newton's third law of motion applies to which of the following situations?
+When a person jumps from the boat to the bank of the river, the boat goes backwards
+1.
+Passengers standing in a bus fall in the rear direction when the stationary bus suddenly starts moving
+2.
+When a person falls on a cement floor, he gets hurt
+3.
+While catching a fast moving cricket ball, a fielder moves his hands backwards.
+4.
+
+Q4. A thin spherical conducting shell has charge Q on it. The potential inside the conductor has a
+constant value throughout. The electric field inside the conductor is?
+Radially outward
+1.
+Radially inward
+2.
+Zero
+3.
+Insufficient information
+4.
+
+Q5. If the kinetic energy of a body becomes four times of its initial value, then the new momentum
+will be three times of the initial value
+1.
+will be four times of the initial value
+2.
+will be two times of the initial value
+3.
+will remain unchanged
+4.
+
+Q6. If the radius of the earth is reduced by 1%, what will be the effect on g?
+will decrease
+1.
+will increase
+2.
+will remain unchanged
+3.
+decrease first, increases later
+4.
+
+Q7. Sound waves are not affected by the medium through which it travels
+1.
+Sound waves travel faster in air than in liquid
+2.
+Sound waves travel faster in solids than in air
+3.
+Sound waves cannot travel through a solid
+4.
+
+Q8. A corona around the moon is seen when we view it on a fogy or misty night. This is due to:
+Diffraction patterns of air born water droplets
+1.
+Dispersion of light by air born water droplets
+2.
+Scattering of light by air born water droplets
+3.
+Formation of diffused image of moon
+4.
+
+Q9. Human eye has a near point i.e. distance of distinct vision at approximately 25cm. For a normal eye,
+which of the following statements is true?
+The image formed on the retina is virtual, erect and diminished.
+1.
+The image formed on the retina is real, inverted and diminished.
+2.
+The image formed on the retina is real, inverted and magnified.
+3.
+The image formed on the retina is virtual, erect and magnified.
+4.
+
+Q10. 131 °F
+1.
+67 °F
+2.
+107 °F
+3.
+97 °F
+4.
+
+Q11. The given logic symbol represents
+AND gate
+1.
+OR gate
+2.
+NOT gate
+3.
+NAND gate
+4.
+
+Q12. Joule’ s Law
+1.
+Faraday's second law of electromagnetic Induction
+2.
+Faraday’s first law of electromagnetic Induction
+3.
+Coulomb's Law
+4.
+
+Q13. The increase in the width of the depletion region in a p-n junction diode is due to :
+both forward bias and reverse bias
+1.
+increase in forward current
+2.
+forward bias only
+3.
+reverse bias only
+4.
+
+Q14. The nuclear fusion cannot occur in  earth beacuse of ________
+less mass of nuclides
+1.
+the temperature is not high enough to overcome coulombic repulsion
+2.
+the gravitational attractive force of earth
+3.
+due to the repulsive force between the neutrons  in nuclei
+4.
+
+Q15. 3U
+1.
+4U
+2.
+2U
+3.
+None of these
+4.
+
+Q16. Which of the given statements is correct for a conservative force field
+(p) The total mechanical energy is conserved.
+(q) The work done around a closed path is zero.
+(r) Gain in kinetic energy = Loss in potential energy.
+(p) & (q)
+1.
+Only (p)
+2.
+(p), (q) & (r)
+3.
+(q) & (r)
+4.
+
+Q17. Time (T), velocity (C) and angular momentum (h) are chosen as fundamental quantities instead of
+mass, length and time. In terms of these, the dimensions of mass would be :
+[M] = [T −1C −2h −1]
+1.
+[M] = [T −1C2h]
+2.
+[M] = [T −1C −2h]
+3.
+[M] = [TC −2h]
+4.
+
+Q18. During the flow of electric current through a metallic wire with the help of a battery, the metallic
+wire remains:
+Positively charged
+1.
+Negatively charged
+2.
+Neutral
+3.
+Can't say
+4.
+
+Q19. The angle of contact at the interface of water-glass is 0°, Ethylalcohol-glass is 0°, Mercury-glass is
+140° and Methyliodideglass is 30°. A glass capillary is put in a trough containing one of these four
+liquids. It is observed that the meniscus is convex. The liquid in the trough is
+water
+1.
+ethylalcohol
+2.
+mercury
+3.
+methyliodide
+4.
+
+Q20. At a metro station, a girl walks up a stationary escalator in time t1 . If she remains stationary on the
+escalator, then the escalator take her up in time t2. The time taken by her to walk up on the moving
+escalator will be
+(t1 + t 2)/2
+1.
+t1t2/(t2 – t1)
+2.
+t1t2/(t2 + t1)
+3.
+t1 – t2
+4.
+
+Q21. Which one of the following statements for an object falling freely under the influence of gravity is
+correct?
+Zero acceleration always implies zero velocity
+1.
+Zero acceleration has no relation with the velocity of the object
+2.
+Zero velocity at any instant necessarily means zero acceleration at that instant
+3.
+Acceleration is constant all throughout the free fall
+4.
+
+Q22. Both 1 and 2
+1.
+only 1
+2.
+Only 2
+3.
+Neither 1 nor 2
+4.
+
+Q23. Bats can ascertain distances, directions, nature, and the size of the obstacles at night. This is
+possible by the reflection of the:
+Ultrasonic waves from the bat.
+1.
+Ultrasonic waves from the distant objects.
+2.
+Supersonic waves from the bat
+3.
+Supersonic waves from the distant objects.
+4.
+
+Q24. A light ray falls on a glass surface of refractive index √3, at an angle 60°. The angle between the
+refracted and reflected rays would be:
+120°
+1.
+30°
+2.
+60°
+3.
+90°
+4.
+
+Q25. A bullet of mass 100g is fired from a gun of mass 20 kg with a velocity of 100 m/s. The recoil
+velocity of the gun is:
+0.5 ms-1
+1.
+0.1 ms
+2.
+-1
+0.4 ms
+3.
+-1
+0.2 ms
+4.
+-1
+
+
+==============================================================================
+PAPER 29  |  GROUP X  |  27 Sep 2025  |  Source: Utkarsh
+==============================================================================
+Q1. The dimensions of energy are:
+   (A) [M1L-1T-1]
+   (B) [M2L2T2]
+   (C) [M1L-2T-1]
+   (D) [M1L2T-2]
+   Answer: D
+
+Q2. Which one of the following statements is incorrect about electromagnetic waves?
+   (A) Electromagnetic waves are deflected by an electric field and magnetic field
+   (B) They can also move in vacuum
+   (C) They have electric and magnetic components that are mutually perpendicular
+   (D) They move with a speed of 3 × 108 m/s
+   Answer: A
+
+Q3. If three resistors of equal resistance R is in parallel and this combination is in series with another resistance R, then the equivalent resistance across the circuit will be____________
+   (A) 4R / 3
+   (B) 3 R / 4
+   (C) R / 3
+   (D) 2 R / 3
+   Answer: A
+
+Q4. In an AC circuit V = 100 sin (100t) volts and/ = 100sin (𝟏𝟎𝟎𝒕+ 𝝅 𝟑)mA. The power dissipated in the circuit is
+   (A) 104 W
+   (B) 2.5 W
+   (C) 10 W
+   (D) 5.0 W
+   Answer: B
+
+Q5. Torque depends on
+   (A) Mass of the object
+   (B) Radius of the object's path and force
+   (C) Force and moment arm
+   (D) Mass and moment arm
+   Answer: C
+
+Q6. A light ray is passing through a thin prism of prism angle 8°. Find the refractive index of the prism if the angle of deviation is 2º.
+   (A) 5
+   (B) 2
+   (C) 1.25
+   (D) 2.25
+   Answer: C
+
+Q7. When the amount of work done is 333 cal and change in internal energy is 167 cal, then the heat supplied is
+   (A) 166 cal
+   (B) 333 cal
+   (C) 500 cal
+   (D) 400 cal
+   Answer: C
+
+Q8. Kepler's law of "Areal Velocity is constant" is equivalent to law of conservation of
+   (A) Mass
+   (B) Energy
+   (C) Linear Momentum
+   (D) Angular Momentum
+   Answer: D
+
+Q9. The efficiency of Carnot heat engine is 75% and the amount of heat absorbed is 300 Joule, then the work done is?
+   (A) 225 J
+   (B) 300 J
+   (C) 220 J
+   (D) None of these
+   Answer: A
+
+Q10. In the isothermal process if the heat given to the system is 100J, the change in internal energy and the work done of the system will be
+   (A) W = 100J and ΔU = 0J
+   (B) W = 0J and ΔU = 100J
+   (C) W = 50J and ΔU = 50J
+   (D) None of these
+   Answer: A
+
+Q11. A body is falling freely in a viscous liquid. If the radius of the body is doubled, its terminal velocity will become:
+   (A) Doubled
+   (B) Four times
+   (C) One fourth
+   (D) Half
+   Answer: B
+
+Q12. The soap bubble has radii in the ratio 5 : 3. What is the ratio of excess pressure inside them?
+   (A) 3 : 5
+   (B) 5 : 3
+   (C) 5 : 2
+   (D) 2 : 5
+   Answer: A
+
+Q13. A charge at rest produces:
+   (A) Magnetic field only
+   (B) Electric field only
+   (C) Both electric field and magnetic field
+   (D) Neither electric field nor magnetic field
+   Answer: B
+
+Q14. When a light ray travels from one medium to another then which of the following property remains same?
+   (A) Velocity of light
+   (B) Wavelength of light
+   (C) Frequency of light
+   (D) All of the above
+   Answer: C
+
+Q15. In which of the following statements, the obtained impure semiconductor is of p-type?
+   (A) Germanium is doped with bismuth
+   (B) Silicon is doped with antimony
+   (C) Germanium is doped with gallium
+   (D) Silicon is doped with phosphorus
+   Answer: C
+
+Q16. The condition for total internal refection
+   (A) light must travel from denser to rarer medium
+   (B) light must travel from rarer to denser medium
+   (C) angle of incidence is lesser than critical angle
+   (D) angle of incidence is equal to the critical angle
+   Answer: A
+
+Q17. The efficiency of carnot engine operating between 127°C and 327°C is
+   (A) 25%
+   (B) 30%
+   (C) 33.3%
+   (D) 75%
+   Answer: C
+
+Q18. As we go from poles to equator the value of g___________.
+   (A) Increases
+   (B) Decreases
+   (C) Remains same
+   (D) Doubled
+   Answer: B
+
+Q19. A Force F = 3 ax2 - 3 is acting on a body in the direction of force moving along X axis. Find the work done while the body displaces from x = 0 to x = 2.
+   (A) 3a-3
+   (B) 8a
+   (C) 8a-6
+   (D) 3a-8
+   Answer: C
+
+Q20. Consider the following statements about the light year:
+   (A) It is a unit to measure astronomical time.
+   (B) Light year is a unit of distance.
+   (C) A light-year is a distance that light travels in a vacuum in one Julian year. Which of the statements given above is/are correct? (a) 1, 2 and 3 (b) 1 and 2 only (c) 2 and 3 only
+   (D) 1 only
+   Answer: C
+
+Q21. The power in AC circuit is given by: P=Erms Irms cosφ The value of power factor cosφ in series LCR circuit at resonance is -
+   (A) 0
+   (B) 1
+   (C) Erms Irms
+   (D) 𝐸𝑟𝑚𝑠𝐼𝑟𝑚𝑠 √2
+   Answer: B
+
+Q22. A transformer is employed to reduce 220 V to 11 V. The primary draws a current of 5 A and the secondary 90 A. The efficiency of the transformer is
+   (A) 20%
+   (B) 40%
+   (C) 70%
+   (D) 90%
+   Answer: D
+
+Q23. According to photoelectric effect a photoelectron is emitted when the incident light is more than a certain minimum___________.
+   (A) Frequency
+   (B) Power
+   (C) Wavelength
+   (D) Intensity
+   Answer: A
+
+Q24. When the force retards the motion of a body, the work done by the force during retardation is:
+   (A) zero
+   (B) negative
+   (C) positive
+   (D) positive or negative depending upon the magnitude of force and displacement
+   Answer: B
+
+Q25. For which of the following temperatures of source and sink, the efficiency of a Carnot engine will be maximum?
+   (A) 40 K, 20 Κ
+   (B) 60 Κ, 40 K
+   (C) 80 Κ, 60 K
+   (D) 100 K, 80 Κ
+   Answer: A
+
+
+==============================================================================
+PAPER 30  |  GROUP XY  |  27 Sep 2025  |  Source: User TXT
+==============================================================================
+Q1. The dimensions of energy are:
+[M L T ]
+1.
+1
+-1
+-1
+[M L T ]
+2.
+2
+2
+2
+[M L T ]
+3.
+1
+-2
+-1
+[M L T ]
+4.
+1
+2
+-2
+
+Q2. Which one of the following statements is incorrect about electromagnetic waves?
+Electromagnetic waves are deflected by an electric field and magnetic field
+1.
+They can also move in vacuum
+2.
+They have electric and magnetic components that are mutually perpendicular
+3.
+They move with a speed of 3 × 108 m/s
+4.
+
+Q3. If three resistors of equal resistance R is in parallel and this combination is in series with another
+resistance R, then the equivalent resistance across the circuit will be ________
+4 R / 3
+1.
+3 R / 4
+2.
+R / 3
+3.
+2 R  / 3
+4.
+
+Q4. (
+)
+π
+In an AC circuit V = 100 sin (100t) volts andI = 100sin 100t +
+3 mA. The power dissipated in the
+circuit is
+104 W
+1.
+2.5 W
+2.
+10 W
+3.
+5.0 W
+4.
+
+Q5. Torque depends on
+Mass of the object
+1.
+Radius of the object's path and force
+2.
+Force and moment arm
+3.
+Mass and moment arm
+4.
+
+Q6. A light ray is passing through a thin prism of prism angle 8°. Find the refractive index of the prism if
+the angle of deviation is 2°.
+1.5
+1.
+2
+2.
+1.25
+3.
+2.25
+4.
+
+Q7. 166 cal
+1.
+333 cal
+2.
+500 cal
+3.
+400 cal
+4.
+
+Q8. Kepler’s law of “Areal Velocity is constant” is equivalent to law of conservation of
+Mass
+1.
+Energy
+2.
+Linear Momentum
+3.
+Angular Momentum
+4.
+
+Q9. The efficiency of Carnot heat engine is 75% and the amount of heat absorbed is 300 Joule, then the
+work done is?
+225 J
+1.
+300 J
+2.
+220 J
+3.
+None of these
+4.
+
+Q10. In the isothermal process if the heat given to the system is 100 J, the change in internal energy and
+the work done of the system will be
+W = 100J and ΔU = 0J
+1.
+W = 0J and ΔU = 100J
+2.
+W = 50J and ΔU = 50J
+3.
+None of these
+4.
+
+Q11. A body is falling freely in a viscous liquid. If the radius of the body is doubled, its terminal velocity
+will become:
+Doubled
+1.
+Four times
+2.
+One fourth
+3.
+Half
+4.
+
+Q12. The soap bubble has radii in the ratio 5 : 3. What is the ratio of excess pressure inside them?
+3 : 5
+1.
+5 : 3
+2.
+5 : 2
+3.
+2 : 5
+4.
+
+Q13. A charge at rest produces:
+Magnetic field only
+1.
+Electric field only
+2.
+Both electric field and magnetic field
+3.
+Neither electric field nor magnetic field
+4.
+
+Q14. When a light ray travels from one medium to another then which of the following property remains
+same?
+Velocity of light
+1.
+Wavelength of light
+2.
+Frequency of light
+3.
+All of the above
+4.
+
+Q15. In which of the following statements, the obtained impure semiconductor is of p-type?
+Germanium is doped with bismuth
+1.
+Silicon is doped with antimony
+2.
+Germanium is doped with gallium
+3.
+Silicon is doped with phosphorus
+4.
+
+Q16. The condition for total internal refection
+light must travel from denser to rarer medium
+1.
+light must travel from rarer to denser medium
+2.
+angle of incidence is lesser than critical angle
+3.
+angle of incidence is equal to the critical angle
+4.
+
+Q17. The efficiency of carnot engine operating between 127°C and 327°C is
+25%
+1.
+30%
+2.
+33.3%
+3.
+75%
+4.
+
+Q18. Increases
+1.
+Decreases
+2.
+Remains same
+3.
+Doubled
+4.
+
+Q19. A Force F = 3 a x2 - 3 is acting on a body in the direction of force moving along X axis. Find the
+work done while the body displaces from x = 0 to x = 2.
+3a - 3
+1.
+8a
+2.
+8a - 6
+3.
+3a - 8
+4.
+
+Q20. Consider the following statements about the light year:
+1. It is a unit to measure astronomical time.
+2. Light year is a unit of distance.
+3. A light-year is a distance that light travels in a vacuum in one Julian year.
+Which of the statements given above is/are correct?
+1, 2 and 3
+1.
+1 and 2 only
+2.
+2 and 3 only
+3.
+1 only
+4.
+
+Q21. The power in AC circuit is given by:
+P = E
+I
+ cosφ
+The value of power factor cosφ in series LCR circuit at resonance is-
+rms  rms
+0
+1.
+1
+2.
+E
+I
+3.
+rms  rms
+ErmsIrms
+√2
+4.
+
+Q22. A transformer is employed to reduce 220 V to 11 V. The primary draws a current of 5 A and the
+secondary 90 A. The efficiency of the transformer is
+20%
+1.
+40%
+2.
+70%
+3.
+90%
+4.
+
+Q23. Frequency
+1.
+Power
+2.
+Wavelength
+3.
+Intensity
+4.
+
+Q24. When the force retards the motion of a body, the work done by the force during retardation is:
+zero
+1.
+negative
+2.
+positive
+3.
+positive or negative depending upon the magnitude of force and displacement
+4.
+
+Q25. For which of the following temperatures of source and sink, the efficiency of a Carnot engine will
+be maximum?
+40 K, 20 K
+1.
+60 K, 40 K
+2.
+80 K, 60 K
+3.
+100 K, 80 K
+4.
+
+
+==============================================================================
+PAPER 31  |  GROUP XY  |  28 Sep 2025  |  Source: User TXT
+==============================================================================
+Q1. The slope of velocity-time graph gives
+velocity
+1.
+momentum
+2.
+force
+3.
+acceleration
+4.
+
+Q2. The motion of a particle along a straight line is described by equation: x = 8 + 12t - t3 where x is in
+metre and t in second. The retardation of the particle when its velocity becomes zero is
+12 ms-2
+1.
+24 ms-2
+2.
+zero
+3.
+6 ms-2
+4.
+12 ms-2
+
+Q3. A freely suspended magnet always aligns in the ________direction.
+North South
+1.
+North East
+2.
+East West
+3.
+South West
+4.
+
+Q4. Amplitude in a Simple Harmonic Motion is 'a' and its timeperiod is 'T'. The maximum instantaneous
+velocity will be:
+1.
+2π a
+T
+2.
+2a
+T
+3.
+4a
+T
+4.
+2π
+a
+T
+−−
+√
+
+Q5. Which of the following principle is based on the conservation of energy?
+Principle of continuity
+1.
+Bernoulli's Principle
+2.
+Both 1 and 2
+3.
+Neither 1 nor 2
+4.
+
+Q6. If the temperature of the source is increased, the efficiency of the Carnot engine
+Increases
+1.
+Decreases
+2.
+Remains Constant
+3.
+First increases and then becomes constant
+4.
+
+Q7. In an isothermal process, the amount of heat given to a system is equal to
+net increase in internal energy
+1.
+net work done by the system
+2.
+net decrease in internal energy
+3.
+net change in volume
+4.
+
+Q8. Maximum acceleration of the train in which a 50 kg box lying on its floor will remain stationary
+(Given: Co-efficient of static friction between the box and the train’s floor is 0.3 and g = 10 ms-2)
+5.0 ms-2
+1.
+3.0 ms-2
+2.
+1.5 ms-2
+3.
+15 ms-2
+4.
+5.0 ms-2
+
+Q9. The formula of angular momentum is l = mvr, where l is angular momentum, m is mass,v is velocity
+and r is radius. Hence, the dimensional formula of angular momentum is ______.
+ML2T-1
+1.
+M2L2T-1
+2.
+ML-2T-1
+3.
+ML2T-2
+4.
+ML2T-1
+
+Q10. Maxwell’s equations that the magnitude of the electric and the magnetic fields in an
+electromagnetic wave is
+1.
+=
+B0
+E0
+c
+2.
+=
+B0
+E0
+c2
+3.
+=
+E0
+B0
+c
+4.
+=
+E0
+B0
+c2
+
+Q11. Analyse the given statements and choose the correct option.
+Statement 1: The escape velocities of planet A and B are same. But A and B are of unequal mass.
+Statement 2: The product of their mass and radius must be same. M1R1 = M2R2
+In the light of the above statements, choose the most appropriate answer from the options given below :
+Both statement 1 and statement 2 are CORRECT and statement 2 is the CORRECT explanation of
+the statement 1.
+1.
+Both statement 1 and statement 2 are CORRECT, but statement 2 is NOT THE CORRECT
+explanation of the statement 1.
+2.
+Statement 1 is CORRECT, but statement 2 is INCORRECT.
+3.
+Statement 1 is INCORRECT, but statement 2 is CORRECT.
+4.
+
+Q12. Which of the following best represents the relationship between velocity v and mass m for a system
+of bodies whose momentum is conserved? (mass of the system can be changed).
+1.
+2.
+3.
+4.
+
+Q13. The number of spectral lines that are possible when electrons in 8th shell in different hydrogen
+atoms return to the 2nd shell is
+28
+1.
+21
+2.
+14
+3.
+6
+4.
+28
+
+Q14. If the distance between the plates of a parallel plate capacitor is increased by maintaining the
+constant charge on the capacitor, then the energy stored in the capacitor will:
+Increase
+1.
+Decrease
+2.
+Remain unaffected
+3.
+Can't say
+4.
+
+Q15. At certain instances the displacement and acceleration of a harmonic oscillator are respectively
+0.02 m and 2m/s2,  its angular speed at this instant is (in rad /s):
+100
+1.
+10
+2.
+1
+3.
+0.1
+4.
+100
+
+Q16. A magnet is freely suspended in a constant magnetic field. Calculate the work done if the magnet is
+deflected by an angle α from the initial direction. M = magnetic moment, H = Magnetic Field
+MH (1 - sinα)
+1.
+MH (cosα - 1)
+2.
+​MH cosα
+3.
+MH (1 - cosα)
+4.
+MH (1 - sinα)
+
+Q17. The current in a simple series circuit is 5.0 amp. When an additional resistance of 2.0 ohms is
+inserted, the current drops to 4.0 amp. The original resistance of the circuit in ohms was _______
+1.25
+1.
+8
+2.
+10
+3.
+20
+4.
+1.25
+
+Q18. A charge moves in a circle perpendicular to a magnetic field. Upon which of the following, the time
+period of revolution, does not depend ?
+Magnetic field
+1.
+Charge
+2.
+Mass of the particle
+3.
+Velocity of the particle
+4.
+
+Q19. The device used to measure the flow speed of the incompressible fluid is called
+Venturi-meter
+1.
+Thermometer
+2.
+Open tube manometer
+3.
+none of the above
+4.
+
+Q20. Which of the following option gives correct equation for Gauss' Law of magnetism?
+1.
+∮
+.
+=
+E
+→
+dA
+−→
+q
+ϵ0
+2.
+∮
+.
+= 0
+E
+→
+dA
+−→
+3.
+∮
+.
+= 0
+B
+→
+dA
+−→
+None of the above
+4.
+
+Q21. The area enclosed by a complete hysteresis loop on B-H curve of a ferromagnetic material denotes
+____________.
+the energy dissipated in taking the specimen material during each complete cycle of magnetisation
+1.
+the coercivity of the specimen
+2.
+the retentivity of the specimen
+3.
+the residual magnetism
+4.
+
+Q22. On which of the following principle an electric generator works?
+Force on current carrying conductor due to magnetic field
+1.
+Magnetic field due to current carrying conductor
+2.
+Electromagnetic Induction
+3.
+None
+4.
+
+Q23. The relationship between translational kinetic energy of the molecules in a gas 'E' and its
+temperature 'T' is ________.
+3E = 2 kBNT
+1.
+2E = 3 kBNT
+2.
+2EN = 3 kBT
+3.
+3EN = 2 kBT
+4.
+3E = 2 kBNT
+
+Q24. A man running in a circular track of radius 10 m as shown below
+From the given figure the angular displacement at point  B and C respectively are ____& ___ if a man starts
+running clockwise from A
+π/2, π/4
+1.
+π, π/4
+2.
+π/2, π
+3.
+π, π/2
+4.
+π/2, π/4
+
+Q25. Constant DC voltage is required from a variable AC voltage. Which of the following is correct
+order of operation?
+Regulator, filter, rectifier
+1.
+Rectifier, regulator, filter
+2.
+Rectifier, filter, regulator
+3.
+Filter, regulator, rectifier
+4.
+
+
+==============================================================================
+PAPER 32  |  GROUP XY  |  30 Mar 2026  |  Source: Utkarsh
+==============================================================================
+Q1. An adiabatic process occurs in a system where 200 J of work is done on the gas. What is the change in internal energy?
+   (A) -200 J
+   (B) 2.0 J
+   (C) 200 J
+   (D) 400 J
+   Answer: C
+
+Q2. A point charge 2 μC produces an electric field E₁ at a distance r. Another point charge 8 μC produces an electric field E₂ at a distance 2r. What is the ratio E₂ : E₁?
+   (A) 1 : 4
+   (B) 1 : 2
+   (C) 2 : 1
+   (D) 1 : 1
+   Answer: D
+
+Q3. Which material property is obtained from the slope of the linear portion of the stress-strain curve?
+   (A) Ultimate tensile strength
+   (B) Ductility
+   (C) Yield strength
+   (D) Young's modulus
+   Answer: D
+
+Q4. A scientist observes that when a light ray travels from medium A to medium B, the angle of refraction is larger than the angle of incidence. What can be concluded?
+   (A) Medium B is optically rarer
+   (B) Both media A and B have equal refractive indices
+   (C) No refraction occurred
+   (D) Medium B is optically denser
+   Answer: A
+
+Q5. If the acceleration due to gravity on the Earth's surface is 9.8 m/s², which statement is true for a 10 kg object on the Moon and the Earth?
+   (A) Its weight on the Moon is 81.7 N higher than its weight on the Earth
+   (B) Its weight on the Earth is 16.3 N higher than its weight on the Moon
+   (C) Its weight on the Earth is 81.7 N higher than its weight on the Moon
+   (D) Its weight on the Moon is 16.3 N higher than its weight on the Earth
+   Answer: C
+
+Q6. A car accelerates uniformly from rest to 20 m/s in 10 seconds. How far does it travel during this time?
+   (A) 50 m
+   (B) 150 m
+   (C) 100 m
+   (D) 200 m
+   Answer: C
+
+Q7. Let F be the force between two point charges, +3 μC and -3 μC placed 10 cm apart in vacuum. What will be the force if vacuum is replaced by dielectric medium of relative permittivity 2?
+   (A) F/4
+   (B) 2F
+   (C) F/2
+   (D) 4F
+   Answer: C
+
+Q8. A physical constant has dimensions [ M L T⁻³ ]. Which of the following physical quantities could represent this constant?
+   (A) Force per unit area
+   (B) Momentum per unit time
+   (C) Energy per unit volume
+   (D) Power per unit length
+   Answer: D
+
+Q9. When viewed from above, if the current in a circular loop flows clockwise, where does the magnetic dipole moment point?
+   (A) Outward radially from the center
+   (B) Downward from the plane
+   (C) Tangent to the loop
+   (D) Upward from the plane
+   Answer: B
+
+Q10. A planet rotates with an angular momentum of 9 x 10³³ kg m²/s. If the moment of inertia doubles but angular momentum is conserved, what happens to its angular speed?
+   (A) It remains unchanged
+   (B) It doubles
+   (C) It becomes half
+   (D) It becomes one-fourth
+   Answer: C
+
+Q11. Two wires of equal length and different materials have resistivities ρ₁ = 2 x 10⁻⁸ Ωm and ρ₂ = 6 x 10⁻⁸ Ωm. If both have the same area, what is the ratio of their resistances R₁/R₂?
+   (A) 1 : 3
+   (B) 1 : 2
+   (C) 3 : 1
+   (D) 2 : 1
+   Answer: A
+
+Q12. If the amplitude of a simple harmonic motion (SHM) is doubled, by what factor does the maximum kinetic energy increase?
+   (A) 4
+   (B) 8
+   (C) 1
+   (D) 2
+   Answer: A
+
+Q13. Two AC circuits are connected to the same alternating voltage source. If the impedance of Circuit A is greater than that of Circuit B, how will the currents flowing through the two circuits compare?
+   (A) The current in Circuit B is greater than in Circuit A
+   (B) The current in Circuit A is greater than in Circuit B
+   (C) The currents in both circuits are equal
+   (D) The current depends only on the frequency of the source and not on impedance
+   Answer: A
+
+Q14. A metal ball just passes through a ring when both are at the same temperature. If only the ball is heated while the ring remains at the same temperature, what will happen when the ball is tried again?
+   (A) The ball passes more easily
+   (B) The ball will shrink and fit
+   (C) The ball will not pass through the ring
+   (D) The ring will expand to fit the ball
+   Answer: C
+
+Q15. A car crashes into a wall and comes to rest in 0.2 seconds. Which action would reduce the force experienced by the passengers?
+   (A) Increasing the mass of the passengers
+   (B) Increasing the car's speed before collision
+   (C) Increasing the time taken to stop by using airbags
+   (D) Reducing the time to stop by using airbags
+   Answer: C
+
+Q16. If entropy decreases in one part of a closed system, what must happen elsewhere according to the Second Law of Thermodynamics?
+   (A) Entropy increases in every part
+   (B) Entropy must increase elsewhere by at least as much
+   (C) Entropy stays constant everywhere
+   (D) Total entropy must decrease
+   Answer: B
+
+Q17. How does the magnetic field at a distance r from an infinitely long wire change if the current is doubled?
+   (A) The field at distance r quadruples
+   (B) The field at distance r remains unchanged
+   (C) The field at distance r is halved
+   (D) The field at distance r doubles
+   Answer: D
+
+Q18. If the root mean square speed of oxygen molecules at 300 K is approximately 483 m/s, what is the rms speed at 1200 K?
+   (A) 332 m/s
+   (B) 241.5 m/s
+   (C) 966 m/s
+   (D) 1932 m/s
+   Answer: C
+
+Q19. A device requires a current of 0.25 A to operate and has a parallel combination of two resistors of resistance 80 Ω each. According to Ohm's law, what is the minimum voltage needed to run the device?
+   (A) 0.625 V
+   (B) 0.0625 V
+   (C) 10 V
+   (D) 160 V
+   Answer: C
+
+Q20. A metal has a work function of 2 eV. What is the minimum energy required (in joules) to emit an electron from its surface?
+   (A) 1.602 × 10⁻¹⁹ J
+   (B) 3.204 × 10⁻¹⁹ J
+   (C) 4.806 × 10⁻¹⁹ J
+   (D) 6.408 × 10⁻¹⁹ J
+   Answer: B
+
+Q21. A person lifts a box vertically upward at constant speed through a height h. What is the work done by the gravitational force during this process?
+   (A) Cannot be determined without mass
+   (B) Zero
+   (C) Positive and equal to mgh
+   (D) Negative and equal to -mgh
+   Answer: D
+
+Q22. Which band in a solid contains electrons that are most likely to participate in electrical conduction?
+   (A) Conduction band
+   (B) Depletion region
+   (C) Valence band
+   (D) Forbidden gap
+   Answer: A
+
+Q23. Two identical coils are each connected to separate galvanometers. A magnet is moved rapidly toward the first coil and slowly toward the second coil. Based on Faraday's law of electromagnetic induction, how will the induced emf in the two coils compare?
+   (A) The second coil produces greater emf
+   (B) No emf is produced in either coil
+   (C) Both coils produce equal emf
+   (D) The first coil produces greater emf
+   Answer: D
+
+Q24. A simple microscope has a focal length of 4 cm. What is its magnifying power when the final image is formed at the least distance of distinct vision (25 cm)?
+   (A) 5
+   (B) 5.25
+   (C) 7.25
+   (D) 6.25
+   Answer: C
+
+Q25. What do electromagnetic waves carry from one place to another?
+   (A) Only frequency
+   (B) Charge
+   (C) Mass
+   (D) Energy
+   Answer: D
+
+
+==============================================================================
+PAPER 33  |  GROUP X  |  Sample Physics Paper  |  Source: Prepp Sample
+==============================================================================
+Q1. ek ipND %varNa a sao ek vaR<aIya pqa maoM gait kr rha hO. yaid ]saka vaoga daogaunaa kr idyaa jaae tao vaoga badlanao ko baad tqaa vaoga badlanao sao phlao, ipND ko %varNaaoM ka Anaupat &at krao . A body is moving in a circular path with acceleration a. If its velocity gets doubled then find the ratio of acceleration after and before the change of velocity ?
+   (A) 1:4
+   (B) 1:2
+   (C) 2:1
+   (D) 4:1
+   Answer: D
+
+Q2. ek ]pga`h maoM GaUmanao vaalao AMtirxa yaa~I kI BaarhInata kI isqait hO - Weightlessness of an astronaut moving in a satellite is a situation of -
+   (A) SaUnya vaoga / Zero velocity
+   (B) kao[- gau$%va nahIM / No gravity
+   (C) SaUnya saMhit / Zero mass
+   (D) mau@t $p sao igarnaa / Free fall
+   Answer: D
+
+Q3. tap baZ,anao pr, inamnailaiKt maoM sao iksa Qaatu ka p`itraoQa GaTta hO ? For which of the following metals, the resistance decreases on increasing the temperature ?
+   (A) ta^Mbaa / Copper
+   (B) TMgasTna / Tungsten
+   (C) jamao-inayama / Germanium
+   (D) elyaumaIinayama / Aluminium
+   Answer: C
+
+Q4. What is the angle of dip at magnetic poles of earth?
+   (A) Zero
+   (B) 45°
+   (C) 90°
+   (D) 180°
+   Answer: C
+
+Q5. ek AavaoSa caumbakIya xao~ ko lambavat\ vaR<aIya pqa maoM gait krta hO . [sako pirkmaNa ka Aavat-kala inamna maoM sao iksa pr inaBa-r nahIM krta hO ? A charge moves in a circle perpendicular to a magnetic field. Upon which of the following, the time period of revolution, does not depend ?
+   (A) caumbakIya xao~ / Magnetic field
+   (B) AavaoSa / Charge
+   (C) kNa ka d`vyamaana / Mass of the particle
+   (D) kNa ka vaoga / Velocity of the particle
+   Answer: D
+
+Q6. ek naaiBak kI prmaaNau saM#yaa Z tqaa prmaaNau d`vyamaana M hO . nyaUT/a^naaoM kI saM#yaa &at krao . Atomic number of a nucleus is Z and atomic mass is M. Find the number of neutrons.
+   (A) M-Z
+   (B) M
+   (C) Z
+   (D) M+Z
+   Answer: A
+
+Q7. idYTkarI pirpqa maoM ek samaana idYT Qaara p`aPt krnao hotu ]pyaaoga ikyao gayao ivaVut pirpqa kao____ khto hOM . The electrical circuit, used to get smooth dc output from a rectifier circuit is called _____.
+   (A) daoila~ / Oscillator
+   (B) iflTr / Filter
+   (C) p`vaQa-k / Amplifier
+   (D) laa^ijak gaoT / Logic gate
+   Answer: B
+
+Q8. 2 ikga`a va 4 ikga`a d`vyamaana ko dao ipND kmaSa: 20 maI/sao AaOr 10 maI/sao ko vaoga sao prspr gau$%vaakYa-Na ko p`Baava maoM ek dUsaro kI Aaor gaitSaIla hOM . [sa inakaya ko kond`k d`vyamaana ka vaoga, maI/sao maoM &at krao . Two bodies of 2 Kg & 4 Kg are moving with velocities 20 m/s and 10 m/s respectively towards each other under mutual gravitational attraction. Find the velocity of their centre of mass in m/s.
+   (A) 5
+   (B) 6
+   (C) 8
+   (D) SaUnya / Zero
+   Answer: D
+
+Q9. The radius of gyration of a solid sphere of radius r about a certain axis is r. Find the distance of this axis from the centre of the sphere.
+   (A) r
+   (B) 0.5 r
+   (C) √0.4 r
+   (D) √0.2 r
+   Answer: C
+
+Q10. Which of the following statements is correct, in case of adiabatic expansion?
+   (A) ΔU = 0
+   (B) ΔU = negative
+   (C) ΔU = positive
+   (D) ΔU = ΔW
+   Answer: B
+
+Q11. sarla Aavat- gait kr rho iksaI kNa ka vaoga maaQya isqait pr _________ haota hO. The velocity of a particle, executing S.H.M, is at its mean position.
+   (A) AiQaktma / maximum
+   (B) nyaUnatma / minimum
+   (C) Anant / infinity
+   (D) SaUnya / zero
+   Answer: A
+
+Q12. 2 maI 2 xao~fla kI ek kuNDlaI ek eosao caumbakIya xao~ maoM rKI jaatI hO jaao 2 saokND maoM 4 vaobar/maI2 sao pirvait-t haokr 8 vaobar/maI2 hao jaata hO . kuNDlaI maoM p`oirt ivaVut vaahk bala &at krao . A coil of an area 2 m2 is placed in a magnetic field which changes from 4 Wb/m2 to 8 Wb/m2 in 2 seconds. Find the induced e.m.f. in the coil.
+   (A) 4 V
+   (B) 5 V
+   (C) 6 V
+   (D) 7 V
+   Answer: A
+
+Q13. vah p`ikyaa ijasako Wara p`%yaavatI- Qaara kao idYT Qaara maoM pirvait-t ikyaa jaata hO, _______ khlaatI hO. The process by which an alternating current is converted into direct current is called ___.
+   (A) SauiwkrNa / Purification
+   (B) AavaQa-na / Amplification
+   (C) idYTkrNa / Rectification
+   (D) Qaara AavaQa-na / Current amplification
+   Answer: C
+
+Q14. If the threshold wavelength for photoelectric effect on sodium metal is 5000 Å, then find its work function.
+   (A) 15 J
+   (B) 4 × 10⁻¹⁹ J
+   (C) 4 × 10⁻¹⁴ J
+   (D) 4 × 10⁻²² J
+   Answer: B
+
+Q15. roiDyaao trMgaaoM kao iksa trMga saMcarNa Wara ek sqaana sao dUsaro sqaana tk Baojaa jaata hO ? Through which mode of wave propagation, are the radio waves sent from one place to another ?
+   (A) BaU trMga saMcarNa / ground wave propagation
+   (B) vyaaoma trMga saMcarNa / sky wave propagation
+   (C) AMtirxa trMga saMcarNa / space wave propagation
+   (D) ]prao@t saBaI / all of the above
+   Answer: D
+
+Q16. What is the wavelength range of visible light?
+   (A) 4×10⁻⁷ m − 8×10⁻⁷ m
+   (B) 4×10⁻⁶ m − 8×10⁻⁸ m
+   (C) 4×10⁻⁵ m − 8×10⁻⁹ m
+   (D) 4×10¹⁰ m − 8×10¹⁰ m
+   Answer: A
+
+Q17. What is the dimensional formula for the universal gravitational constant?
+   (A) M⁻¹L³T⁻²
+   (B) M⁻¹L³T⁻¹
+   (C) M⁻¹L²T⁻²
+   (D) M⁰L⁰T⁰
+   Answer: A
+
+Q18. Two balls are dropped from heights h and 2h respectively. What would be the ratio of times taken by the balls to reach the earth?
+   (A) √2 : 1
+   (B) 1 : √2
+   (C) 2 : 1
+   (D) 4 : 119
+   Answer: B
+
+Q19. jaba ek isp`Mga kao 2 saomaI KIMcaa jaata hO tao saMicat }jaa- 100 jaUla hO . yaid ]sao AaOr 2 saomaI KIMcaa jaae tao }jaa- maoM iktnao jaUla kI baZ,ao<arI haogaI ? When a spring is stretched by 2 cm, the energy stored is 100 J. If it is stretched further by 2 cm, its energy increases by ______ .
+   (A) 300
+   (B) 400
+   (C) 200
+   (D) 100
+   Answer: A
+
+Q20. At what temperature, will the surface tension of water, be minimum?
+   (A) 0°C
+   (B) 25°C
+   (C) 60°C
+   (D) 75°C
+   Answer: D
+
+Q21. jala kI 2 baUdaoM ka vyaasa kmaSa: 1 saomaI va 1.5 saomaI hO . daonaaoM ko Andr daba AaiQa@ya ka Anaupat &at krao . Diameters of 2 water drops are 1cm and 1.5 cm respectively. Find the ratio of excess pressures inside them.
+   (A) 1:1
+   (B) 5:3
+   (C) 3:2
+   (D) 2:3
+   Answer: C
+
+Q22. yaMga ko iWislaT p`yaaoga maoM saaoiDyama p`kaSa ( 5898 = λ Å) ka p`yaaoga krto hue 92 ifjaoM p`aPt haotI hOM . yaid iksaI Anya p`kaSa ( 5461 = λ Å) ka p`yaaoga kroM tao p`aPt ifjaaoM kI saM#yaa &at krao . In Young’s double slit experiment, using sodium light ( 5898 = λ Å), 92 fringes are seen. If another colour ( 5461 = λ Å) is used then find the number of fringes.
+   (A) 62
+   (B) 99
+   (C) 67
+   (D) 85
+   Answer: B
+
+Q23. dao samaantr PlaoTaoM ko ivaBava kmaSa: -10V evaM +30V hMO . yaid PlaoTaoM ko baIca kI dUrI 2 saomaI hao tao PlaoTaoM ko maQya ivaVut xao~ &at krao . Two plates are at potentials -10V and +30V. If the separation between the plates is 2 cm then find the electric field between them.
+   (A) 2000 V/m
+   (B) 1000 V/m
+   (C) 500 V/m
+   (D) 3000 V/m
+   Answer: A
+
+Q24. iksaI saUxmadSaI- maoM vastu kao p`dIPt krnao ko ilae yaid laala p`kaSa ko sqaana pr naIlao p`kaSa kao p`yau@t ikyaa jaae tao saUxmadSaI- kI ivaBaodna xamata ________ . If red light is replaced by blue light illuminating the object in a microscope, the resolving power of the microscope _____.
+   (A) GaT jaaegaI / will decrease
+   (B) baZ, jaaegaI / will increases
+   (C) AaQaI hao jaaegaI / will get halved
+   (D) Apvait-t rhogaI /will remain unchanged
+   Answer: B
+
+Q25. iWprmaaiNvak gaOsa hotu gaOsa ko dao ivaiSaYT }YmaaAaoM ka Anaupat V P C C ka maana @yaa haogaa ? In gases of diatomic molecules, Find the ratio of the two specific heat of gases V P C C .
+   (A) 1.66
+   (B) 1.33
+   (C) 1.4
+   (D) 1.00
+   Answer: C
+
+
+==============================================================================
+PAPER 34  |  GROUP XY  |  Official XY Model Paper 2  |  Source: PW Model
+==============================================================================
+Q1. A body is moving in a circular path with acceleration a. If its velocity gets doubled then find the ratio of acceleration after and before the change of velocity?
+   (A) 1 : 4
+   (B) 1 : 2
+   (C) 2 : 1
+   (D) 4 : 1
+   Answer: D
+
+Q2. Weightlessness of an astronaut moving in a satellite is a situation of -
+   (A) Zero velocity
+   (B) No gravity
+   (C) Zero mass
+   (D) Free fall
+   Answer: D
+
+Q3. For which of the following metals, the resistance decreases on increasing the temperature?
+   (A) Copper
+   (B) Tungsten
+   (C) Germanium
+   (D) Aluminium
+   Answer: C
+
+Q4. What is the angle of dip at magnetic poles of earth ?
+   (A) Zero
+   (B) 45°
+   (C) 90°
+   (D) 180°
+   Answer: C
+
+Q5. A charge moves in a circle perpendicular to a magnetic field. Upon which of the following, the time period of revolution, does not depend?
+   (A) Magnetic field
+   (B) Charge
+   (C) Mass of the particle
+   (D) Velocity of the particle
+   Answer: D
+
+Q6. Atomic number of a nucleus is Z and atomic mass is M . Find the number of neutrons.
+   (A) M-Z
+   (B) M
+   (C) Z
+   (D) M+Z
+   Answer: A
+
+Q7. The electrical circuit, used to get smooth dc output from a rectifier circuit is called _______ .
+   (A) Oscillator
+   (B) Filter
+   (C) Amplifier
+   (D) Logic gate
+   Answer: B
+
+Q8. Two bodies of 2 kg & 4 Kg are moving with velocities 20 m/ s and 10m/s respectively towards each other under mutual gravitational attraction. Find the velocity of their centre of mass in m/s.
+   (A) 5
+   (B) 6
+   (C) 8
+   (D) Zero
+   Answer: D
+
+Q9. The radius of gyration of a solid sphere of radius r about a certain axis is r. Find the distance of this axis from the centre of the sphere.
+   (A) r
+   (B) 0.5 r
+   (C) √0.4 r
+   (D) √0.2 r
+   Answer: C
+
+Q10. Which of the following statements is correct, in case of adiabatic expansion?
+   (A) ΔU = 0
+   (B) ΔU = negative
+   (C) ΔU = positive
+   (D) ΔU = ΔW
+   Answer: B
+
+Q11. The velocity of a particle, executing S.H.M, is ______ at its mean position.
+   (A) maximum
+   (B) minimum
+   (C) infinity
+   (D) zero
+   Answer: A
+
+Q12. A coil of an area 2m is placed in a magnetic field which changes from 4Wb/m to 8 Wb/m in 2 seconds. Find the induced e.m.f. in the coil.
+   (A) 4V
+   (B) 5V
+   (C) 6V
+   (D) 7V
+   Answer: A
+
+Q13. The process by which an alternating current is converted into direct current is called _______ .
+   (A) Purification
+   (B) Amplification
+   (C) Rectification
+   (D) Current amplification
+   Answer: C
+
+Q14. If the threshold wavelength for photoelectric effect on sodium metal is 5000 Å, then find its work function.
+   (A) 15 J
+   (B) 4 × 10⁻¹⁹ J
+   (C) 4 × 10⁻¹⁴ J
+   (D) 4 × 10⁻²² J
+   Answer: B
+
+Q15. Through which mode of wave propagation, are the radio waves sent from one place to another?
+   (A) ground wave propagation
+   (B) sky wave propagation
+   (C) space wave propagation
+   (D) all of the above
+   Answer: D
+
+Q16. What is the wavelength range of visible light?
+   (A) 4×10⁻⁷ m − 8×10⁻⁷ m
+   (B) 4×10⁻⁶ m − 8×10⁻⁸ m
+   (C) 4×10⁻⁵ m − 8×10⁻⁹ m
+   (D) 4×10¹⁰ m − 8×10¹⁰ m
+   Answer: A
+
+Q17. What is the dimensional formula for the universal gravitational constant?
+   (A) M⁻¹L³T⁻²
+   (B) M⁻¹L³T⁻¹
+   (C) M⁻¹L²T⁻²
+   (D) M⁰L⁰T⁰
+   Answer: A
+
+Q18. Two balls are dropped from heights h and 2h respectively. What would be the ratio of times taken by the balls to reach the earth?
+   (A) √2 : 1
+   (B) 1 : √2
+   (C) 2 : 1
+   (D) 4 : 119
+   Answer: B
+
+Q19. When a spring is stretched by 2 cm , the energy stored is 100 J . If it is stretched further by 2 cm , its energy increases by _______ .
+   (A) 300
+   (B) 400
+   (C) 200
+   (D) 100
+   Answer: A
+
+Q20. At what temperature, will the surface tension of water, be minimum?
+   (A) 0°C
+   (B) 25°C
+   (C) 60°C
+   (D) 75°C
+   Answer: D
+
+Q21. Diameters of 2 water drops are 1 cm and 1.5 cm respectively. Find the ratio of excess pressures inside them.
+   (A) 1 : 1
+   (B) 5 : 3
+   (C) 3 : 2
+   (D) 2 : 3
+   Answer: C
+
+Q22. In Young's double slit experiment, using sodium light ( ), 92 fringes are seen. If another colour ( )is used then find the number of fringes.
+   (A) 62
+   (B) 99
+   (C) 67
+   (D) 85
+   Answer: B
+
+Q23. Two plates are at potentials -10 V and +30 V . If the separation between the plates is 2 cm then find the electric field between them.
+   (A) 2000 V/m
+   (B) 1000 V/m
+   (C) 500 V/m
+   (D) 3000 V/m
+   Answer: A
+
+Q24. If red light is replaced by blue light illuminating the object in a microscope, the resolving power of the microscope _______ .
+   (A) will decrease
+   (B) will increases
+   (C) will get halved
+   (D) will remain unchanged
+   Answer: B
+
+Q25. In gases of diatomic molecules, Find the ratio of the two specific heat of gases.
+   (A) 1.66
+   (B) 1.33
+   (C) 1.4
+   (D) 1.00
+   Answer: C
+

@@ -1,0 +1,3017 @@
+================================================================================
+PHYSICS MASTER NOTES
+IAF AGNIVEERVAYU (SCIENCE GROUP)
+ENGLISH MASTER VERSION
+================================================================================
+
+HOW THIS BOOK WORKS
+
+Every chapter teaches one topic concept-first, in a fixed 13-section flow:
+INTRODUCTION -> CORE CONCEPTS -> KEY RELATIONS -> FORMULAS -> CONDITIONS /
+SPECIAL CASES -> HOW TO RECOGNIZE THE QUESTION -> SOLVING METHODS ->
+REAL PYQ EXAMPLES -> 10-SECOND TRICKS -> IMPORTANT FACTS -> COMMON TRAPS ->
+GRAPHS / DIAGRAMS -> LAST-MINUTE REVISION.
+Real exam questions appear only as worked examples inside this flow,
+never as a question dump: learn the concept, then solve any variation.
+
+WHAT IS COVERED
+
+All 20 official Agniveervayu Physics topics, built strictly from the real
+papers. Every formula, condition, trap and example is something the exam
+actually demands - or is directly needed to solve what it demands. Nothing
+else has been added.
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+  1. Physical World, Units and Measurement
+  2. Kinematics
+  3. Laws of Motion
+  4. Work, Energy and Power
+  5. Rotational Motion (System of Particles and Rigid Body)
+  6. Gravitation
+  7. Properties of Bulk Matter (Solids and Fluids)
+  8. Thermodynamics
+  9. Kinetic Theory of Gases
+ 10. Oscillations and Waves
+ 11. Electrostatics
+ 12. Current Electricity
+ 13. Magnetic Effects of Current and Magnetism
+ 14. Electromagnetic Induction and Alternating Current
+ 15. Electromagnetic Waves
+ 16. Optics
+ 17. Dual Nature of Matter and Radiation
+ 18. Atoms and Nuclei
+ 19. Electronic Devices
+ 20. Communication Systems
+
+ FINAL FORMULA REVISION
+ FINAL RELATIONS REVISION
+ FINAL TRICKS REVISION
+ FINAL TRAPS REVISION
+ FINAL FACTS REVISION
+================================================================================
+
+================================================================================
+CHAPTER 1 - PHYSICAL WORLD, UNITS AND MEASUREMENT
+================================================================================
+
+1. INTRODUCTION
+
+Physics starts with MEASUREMENT. Jab bhi koi quantity likhte hain — jaise "speed 20 m/s"
+— usme do cheezein hoti hain: ek NUMBER aur ek UNIT. Is chapter mein hum seekhte hain ki
+units kya hain, dimensions kya hain, aur dono ka use karke exam questions kaise turant
+solve hote hain. Ye chapter sabse zyada direct-scoring hai: dimensions aur unit
+conversion ke questions har paper mein aate hain.
+2. CORE CONCEPTS
+
+- What is a physical quantity? Koi bhi cheez jo measure ki ja sake (length, mass, time,
+  temperature, current) physical quantity hai. Ek UNIT (kg, metre, second) khud
+  quantity NAHI hoti — kg mass ka unit hai, mass quantity hai. Yehi ek classic trap
+  hai.
+- Fundamental vs derived. SI system mein 7 BASE units hain: length (m), mass (kg), time
+  (s), electric current (A), temperature (K), amount of substance (mol), luminous
+  intensity (cd). Baaki sab quantities DERIVED hain — force, work, power sab inhi 7 se
+  banti hain.
+- What is a dimensional formula? Har quantity ko base dimensions [M^a L^b T^c A^d] mein
+  express karna. Mass (M), Length (L), Time (T), Current (A). Example: velocity =
+  displacement/time, isliye [velocity] = [L]/[T] = [M⁰L¹T⁻¹].
+- Homogeneity principle. Kisi bhi physical equation mein HAR term ka dimension same hona
+  chahiye. Isi se hum unknown constant ka dimension nikalte hain — bas equation ke
+  kisi bhi do same-dimension terms ko equate kar do.
+3. KEY RELATIONS
+
+- Dimension of a constant: us constant ko equation se alag karo, phir dimensions
+  substitute karo. Example: v = at + bt² mein har term ka dimension velocity ka hai,
+  isliye [a] = [v/t] = LT⁻² aur [b] = [v/t²] = LT⁻³.
+- Same-dimension pairs (yaad rakhne wale twins): torque = work = energy; stress =
+  pressure = Young's modulus; momentum = impulse; angular momentum = Planck's
+  constant.
+- Dimensionless BUT with units: angle (radian), solid angle (steradian). Ye number hote
+  hain phir bhi unit rakhte hain.
+- Unitless AND dimensionless: strain, refractive index, specific gravity, relative
+  permittivity, Poisson ratio, magnification, power factor — sab pure ratios hain.
+4. FORMULAS
+
+- [velocity] = [M⁰L¹T⁻¹]   [acceleration] = [M⁰L¹T⁻²]
+- [force] = [M¹L¹T⁻²]   [pressure] = [stress] = [M¹L⁻¹T⁻²]
+- [energy] = [work] = [torque] = [M¹L²T⁻²]   [power] = [M¹L²T⁻³]
+- [momentum] = [impulse] = [M¹L¹T⁻¹]   [angular momentum] = [Planck's h] = [M¹L²T⁻¹]
+- [viscosity] = [M¹L⁻¹T⁻¹]   [resistivity] = [M¹L³T⁻³A⁻²]   [G] = [M⁻¹L³T⁻²]
+- 1 kWh = 3.6×10⁶ J ; 1 N = 10⁵ dyne ; 1 T = 10⁴ gauss ; 1 pm = 10⁻¹² m = 10⁻⁶ micron
+- °C = (°F − 32) × 5/9 ; °F = (9/5)°C + 32 ; 1 cal = 4.18 J
+- σ (Stefan) = 5.67 × 10⁻⁸ W m⁻² K⁻⁴ ; pole strength unit = A·m
+5. CONDITIONS / SPECIAL CASES
+
+- 1 kWh = 3.6 × 10⁶ J (kilo-watt-hour → joules).
+- [potential] = [M¹L²T⁻³A⁻¹] ; [magnetic field B] = [M¹T⁻²A⁻¹] (F = qvB se).
+- Coefficient of viscosity η ka SI unit Pa·s (poiseuille), CGS unit poise.
+- Time (second) hi ek aisi quantity hai jiska unit CGS aur SI dono mein SAME hai.
+- km/h → m/s: ×5/18 (54 km/h = 15 m/s).
+- Light-year = light dwara vacuum mein 1 saal mein tay ki gayi doori = unit of DISTANCE
+  (time nahi!). 1 ly ≈ 9.46 × 10¹⁵ m.
+- 'nit' = unit of luminance (photometric quantity).
+- Density unit-conversion: 128 kg/m³ ko aise system mein badlo jahan mass unit 50 g aur
+  length unit 25 cm ho → 128 × (1000/50) × (0.25/1)³ = 40.
+- °F ↔ °C: °C = (°F − 32) × 5/9 ; °F = (9/5)°C + 32. 200 °F → (200−32) × 5/9 = 93.3 °C.
+- Stefan–Boltzmann constant σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴ (radiated energy ∝ T⁴).
+- Pole strength ka unit A·m (magnetic dipole moment ka unit A·m²).
+- Mechanical equivalent of heat: 1 cal = 4.18 J.
+- CGS unit of electric dipole moment = statC·cm.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Dimension of X find karo" → defining formula lo, dimensions substitute karo.
+- "Kaunsa pair same dimension rakhta hai?" → dono ko formula se likho, compare karo.
+- "Kaun dimensionless/unitless hai?" → strain, refractive index, specific gravity,
+angle.
+- "Unit conversion" (kWh→J, N→dyne, T→gauss, pm→micron) → conversion ladder yaad rakho.
+- "Fundamental vs derived?" → 7 base SI units se match karo.
+7. SOLVING METHODS
+
+- Dimension of constant: equation se constant ko symbolically alag karo, phir substitute
+  karo.
+- Energy/Volume ka dimension PRESSURE ke barabar hota hai — ye equivalence exam mein
+  directly aata hai.
+- Density/unit conversions ke liye ratio formula: new value = old × (old mass unit/new
+  mass unit) × (new length unit/old length unit)³.
+8. REAL PYQ EXAMPLES
+
+Q. If v = at + bt², v is velocity and t is in seconds, then the dimension of b is:
+   Method: Homogeneity principle — har term ka dimension velocity (LT⁻¹) ke barabar hota hai.
+   Solve: [b] × [t²] = [v] → [b] = [v]/[t²] = LT⁻¹ / T² = LT⁻³.
+   Takeaway: Kaunse power mein time aata hai, usi se exponent decide hota hai. b ka dimension LT⁻³.
+
+Q. The dimensional formula for specific gravity is:
+   Method: Specific gravity = density/density — ek pure ratio.
+   Solve: Ratio mein sab kuch cancel ho jaata hai → [M⁰L⁰T⁰].
+   Takeaway: Koi bhi pure ratio (strain, refractive index, specific gravity) dimensionless hota hai.
+
+Q. A non-SI unit called 'nit' is the unit of which photometric quantity?
+   Method: Units ke facts — 'nit' luminance ka unit hai.
+   Solve: Luminance = light intensity per area; iska unit nit hai.
+   Takeaway: Direct fact. Nit = luminance. Lumen = luminous flux (don't mix).
+
+Q. A measured temperature is 200 °F. Its value in Celsius is:
+   Method: °C = (°F − 32) × 5/9.
+   Solve: °C = (200 − 32) × 5/9 = 168 × 5/9 = 93.3 °C.
+   Takeaway: Pehle 32 ghato, phir 5/9 se multiply. °C → °F iska ulta (×9/5 + 32).
+
+9. 10-SECOND TRICKS
+
+- Jo cheez sirf number hai (strain, refractive index, specific gravity, angle) →
+  dimensionless. MCQ mein turant eliminate karo.
+- Planck's constant aur angular momentum hamesha twins hain.
+- °F → °C: (F − 32) × 5/9 ; 200 °F = 93.3 °C.
+- 1 cal = 4.18 J (heat ↔ mechanical work ka bridge).
+- "kg" ek unit hai (quantity nahi); "current (A)" base quantity hai; "frequency (Hz)"
+  derived hai — classic elimination points.
+10. IMPORTANT FACTS
+
+- 7 base SI units: metre, kilogram, second, ampere, kelvin, mole, candela.
+- Frequency ka unit Hz = s⁻¹ (derived).
+- Permittivity ka unit: C²N⁻¹m⁻². Permeability μ₀ = 4π × 10⁻⁷ T m/A.
+11. COMMON TRAPS
+
+TRAP: "kg" ek physical quantity hai.
+FIX:  kg ek UNIT hai; mass quantity hai. Ye trap bar-bar aata hai.
+TRAP: Specific gravity/strain ka "koi unit nahi hai to koi dimension nahi" — galat way mein.
+FIX:  Ye dimensionless hain: dimension [M⁰L⁰T⁰] hota hai (zero nahi hota, zero-POWER hota hai).
+TRAP: Angle ka koi unit nahi hota.
+FIX:  Angle ka unit RADIAN hota hai, lekin dimension nahi hota.
+12. GRAPHS / DIAGRAMS
+
+- Dimensions ka table hi is chapter ka "diagram" hai — FORMULAS section ki table yaad
+  karo.
+- Conversion ladder: 1 kWh = 3.6×10⁶ J ; 1 N = 10⁵ dyne ; 1 T = 10⁴ gauss ; 1 pm = 10⁻⁶
+  micron.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -[Energy] = [Work] = [Torque] = [ML²T⁻²] ; [Power] = [ML²T⁻³]
+- -[Pressure] = [Stress] = [Young's modulus] = [ML⁻¹T⁻²] = [Energy/Volume]
+- -[Momentum] = [Impulse] = [MLT⁻¹] ; [Angular momentum] = [h] = [ML²T⁻¹]
+- -[Viscosity] = [ML⁻¹T⁻¹] ; [Resistivity] = [ML³T⁻³A⁻²]
+- -1 kWh = 3.6×10⁶ J ; 1 N = 10⁵ dyne ; 1 T = 10⁴ gauss ; 1 pm = 10⁻⁶ micron
+
+================================================================================
+CHAPTER 2 - KINEMATICS
+================================================================================
+
+1. INTRODUCTION
+
+Kinematics = motion ki study bina ye pooche ki motion kisne kiya. Yahan sirf position,
+velocity, acceleration aur time ka relation padhte hain. Ye chapter har exam ka backbone
+hai kyunki yahi se equations of motion, graphs aur projectile ke questions aate hain.
+2. CORE CONCEPTS
+
+- What is displacement vs distance? Displacement ek VECTOR hai (direction ke saath),
+  distance ek SCALAR hai. Closed loop mein ghoom kar wapas aane par displacement = 0,
+  lekin distance > 0. Isliye average velocity = NET displacement/time (closed path
+  mein zero), jabki average speed = total distance/time.
+- What is acceleration? Acceleration batata hai ki velocity kitni jaldi badal rahi hai.
+  Agar har second velocity same amount se badle, acceleration constant hota hai, aur
+  tab hum uniform-acceleration equations use kar sakte hain. a = dv/dt.
+- What is a projectile? Ek body jise kisi angle par upar phenka gaya ho. Uski horizontal
+  velocity constant rehti hai (koi horizontal force nahi), vertical motion free fall
+  hai (g neeche). In dono ko alag-alag treat karo.
+- Motion graphs. x-t graph ka SLOPE = velocity; v-t graph ka SLOPE = acceleration; v-t
+  graph ka AREA = displacement; a-t graph ka AREA = velocity change; F-t graph ka AREA
+  = impulse.
+3. KEY RELATIONS
+
+- Three equations (constant acceleration): v = u + at ; s = ut + (1/2)at² ; v² = u² +
+  2as.
+- Distance in nth second: Sₙ = u + (a/2)(2n − 1).
+- Free fall (u = 0, a = g): h = (1/2)gt² ; v = √(2gh) ; t = √(2h/g).
+- Per-second distance ratio in free fall = 1 : 3 : 5 : 7 (odd numbers).
+- Total distance ratio in 1,2,3,4 seconds = 1 : 4 : 9 : 16 (squares).
+- Projectile: H = u²sin²θ/2g ; R = u²sin²θ/g ; T = 2u sinθ/g ; max range at θ = 45°.
+- Circular motion: a = v²/r = ω²r ; v = ωr ; ω = 2π/T.
+4. FORMULAS
+
+- v = u + at ; s = ut + (1/2)at² ; v² = u² + 2as ; s = ((u+v)/2)t
+- Sₙ = u + (a/2)(2n − 1)
+- a = dv/dt = v(dv/dx) ; a(centripetal) = v²/r = ω²r
+- H = u²sin²θ/2g ; R = u²sin²θ/g ; T = 2u sinθ/g
+Symbol meanings: u = initial velocity, v = final velocity, a = acceleration, s =
+displacement, t = time, θ = projection angle, g = 9.8 m/s², r = radius, ω = angular
+speed.
+5. CONDITIONS / SPECIAL CASES
+
+- Body starts from rest → u = 0, to s = (1/2)at². "Car from rest to 20 m/s in 10 s": a =
+  2 m/s², s = (1/2)(2)(100) = 100 m.
+- Projectile: max range 45° par; complementary angles (30°+60°, 20°+70°) par equal
+  range.
+- Highest point par projectile ki velocity sirf horizontal (u cosθ) hoti hai;
+  acceleration g hi rehti hai (kabhi zero nahi).
+- s = xt² − yt + z (polynomial in t): a = d²s/dt² = 2x — CONSTANT, isliye t = 4 s par
+  bhi 2x hi hoga.
+- Average speed (distance segments): v_avg = total distance / total time. 1/3 distance
+  at 60 km/h, 2/3 at 30 km/h → v_avg = 36 km/h.
+- Escalator/moving walkway: combined time t = t₁t₂/(t₁+t₂) (walk speed + walkway speed).
+- Coefficient of restitution e = separation speed / approach speed; bounce ke baad
+  height = e²h (perfectly elastic e = 1).
+- Circular motion mein velocity double → acceleration 4× (a ∝ v²). Ratio after:before =
+  4:1.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "nth second / per-second ratio" → Sₙ = u + (a/2)(2n−1); odd ratio 1:3:5:7.
+- "Slope/area of a graph" → slope x-t = v, slope v-t = a, area v-t = s.
+- "Projectile range/height/time" → H, R, T formulas.
+- "Uniform circular motion" → a = v²/r = ω²r.
+- "s as polynomial in t" → differentiate TWICE for acceleration.
+7. SOLVING METHODS
+
+- Constant-acceleration question: list karo u, v, a, s, t; wahi equation lo jisme knowns
+  + unknown hon.
+- Ratio problems (heights h, 2h): time ∝ √h → ratio √1 : √2.
+- Graph questions: slope ya area se quantity identify karo (curve ki shape se nahi).
+8. REAL PYQ EXAMPLES
+
+Q. The ratio of the distances travelled by a freely falling body in the 1st, 2nd, 3rd and 4th second:
+   Method: Distance in nth second, u = 0 (free fall).
+   Solve: Sₙ = u + (a/2)(2n−1) = 0 + (g/2)(2n−1) → Sₙ ∝ (2n−1).
+       n = 1,2,3,4 → 2n−1 = 1, 3, 5, 7.
+   Takeaway: Free-fall per-second distances hamesha odd numbers 1:3:5:7.
+
+Q. A car accelerates uniformly from rest to 20 m/s in 10 seconds. How far does it travel?
+   Method: Uniform acceleration, u = 0, v = 20, t = 10.
+   Solve: s = ((u+v)/2) × t = (0+20)/2 × 10 = 100 m.
+   Faster: Average-velocity method: v_avg = (u+v)/2 = 10 m/s → s = 10 × 10 = 100 m.
+   Takeaway: Average velocity × time is the fastest route for uniform acceleration.
+
+Q. Two objects are dropped from heights h and 2h. Ratio of times to reach the ground:
+   Method: Free fall: t = √(2h/g), so t ∝ √h.
+   Solve: t₁:t₂ = √h : √(2h) = 1 : √2.
+   Takeaway: Time ∝ √height. Double height → time ×√2 (not double).
+
+9. 10-SECOND TRICKS
+
+- Odd-number trick: 1:3:5:7 ALWAYS free-fall per-second ratio.
+- Double velocity in circular motion → acceleration ×4.
+- Ball up then caught → total time = 2u/g.
+- Slope = derivative, area = integral — har motion graph par apply karo.
+10. IMPORTANT FACTS
+
+- Retardation = negative acceleration (deceleration).
+11. COMMON TRAPS
+
+TRAP: Average speed aur average velocity same hoti hai.
+FIX:  Average velocity = NET displacement/time (closed loop → zero); average speed = total distance/time.
+TRAP: s = xt² − yt + z mein t = 4 s par alag acceleration hota hai.
+FIX:  a = 2x (constant) — t par depend nahi karta. Ye trap baar-baar aata hai.
+TRAP: Retardation nikalne ke liye direct a = dv/dt lagao bina v = 0 wala time nikale.
+FIX:  Pehle v = 0 se time nikalo, phir a = dv/dt. (x = 8 + 12t − t³: v = 12 − 3t² = 0 → t = 2 s → a = −6t = −12 → retardation 12 m/s².)
+12. GRAPHS / DIAGRAMS
+
+- x-t graph: slope = velocity; straight line = uniform velocity.
+- v-t graph: slope = acceleration; AREA = displacement.
+- a-t graph: area = change in velocity.
+- Projectile path ek PARABOLA hai; range 45° par maximum.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -v = u + at ; s = ut + (1/2)at² ; v² = u² + 2as ; Sₙ = u + (a/2)(2n−1)
+- -Free fall: per-second 1:3:5:7 ; total 1:4:9:16 ; t ∝ √h
+- -Circular: a = v²/r = ω²r ; double v → 4× a
+- -Projectile: H = u²sin²θ/2g ; R = u²sin²θ/g ; T = 2u sinθ/g
+
+================================================================================
+CHAPTER 3 - LAWS OF MOTION
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter force aur motion ke beech ka connection samjhata hai. Newton ke teen laws,
+momentum, impulse aur friction — sab yahin aate hain. Inka use hi baad mein work-energy
+aur rotational motion ka base banta hai.
+2. CORE CONCEPTS
+
+- Newton's 1st law (inertia). Body apni state (rest ya uniform motion) tab tak nahi
+  badalti jab tak net external force na lage. Mass hi inertia ka measure hai. Bus
+  suddenly start ho to passenger peeche girta hai — ye INERTIA hai (1st law), action-
+  reaction nahi.
+- Newton's 2nd law. F = ma = dp/dt. Force = momentum ke change ki rate. Yahi
+  quantitative law hai: force se acceleration, ya mass, ya momentum change sab nikalte
+  hain.
+- Newton's 3rd law. Har action ka equal aur opposite reaction. Boat se jump karo to boat
+  peeche jaati hai — ye action-reaction hai. Ye law SAB interacting bodies par lagta
+  hai.
+- What is momentum? p = mv (vector). Isolated system (no external force) mein total
+  momentum conserved rehta hai — isi se recoil problems solve hoti hain.
+- What is impulse? J = F × Δt = change in momentum (Δp). Same momentum change ke liye:
+  jitna LAMBA time, utna CHOTA force. Isi liye airbag, cushioned bed — stopping time
+  badha kar force kam karte hain.
+- What is equilibrium? Body par net force ZERO (translational) aur net torque ZERO
+  (rotational) ho to body equilibrium mein hai. Zero resultant banane ke liye MINIMUM
+  2 forces chahiye — equal aur opposite (1 force kabhi zero nahi de sakta, 3-4 zaroori
+  nahi).
+- What is a resultant? Do vectors A aur B ka resultant R = √(A² + B² + 2AB cosθ).
+  Perpendicular (θ = 90°) → R = √(A²+B²); same direction → A+B; opposite → |A−B|.
+- What is an Atwood machine? Pulley par do masses m₁, m₂ (m₂ > m₁) hang ho →
+  acceleration a = (m₂−m₁)g/(m₁+m₂). Massless string hai to tension dono sides par
+  SAME.
+- What is apparent weight in a lift? Lift upar accelerate → R = m(g+a) (feel heavy).
+  Neeche accelerate → R = m(g−a). Free fall (a = g) → R = 0 (weightless).
+- Which forces are NOT electromagnetic? Tension, friction, normal, spring — sab
+  electromagnetic hain (atom-atom charge forces). GRAVITY aur NUCLEAR force
+  electromagnetic NAHI hain.
+3. KEY RELATIONS
+
+- F = ma ; p = mv ; J = FΔt = Δp.
+- Kinetic energy vs momentum: K = p²/2m. K 4× ho jaye → p 2× (√4), NOT 4×.
+- Momentum conserve: m₁v₁ = m₂v₂ → recoil v = (m × v)/M.
+- Static friction max: f_max = μₛN ; bina slip ke max acceleration a = μₛg.
+- Resultant: R = √(A² + B² + 2AB cosθ) ; ⊥ → √(A²+B²) → 3 kN & 4 kN → 5 kN.
+- Atwood: a = (m₂−m₁)g/(m₁+m₂) ; lift: R = m(g ± a).
+- Angle between vectors: cosθ = (A·B)/(|A||B|).
+- Minimum forces for zero resultant = 2 (equal, opposite).
+- Force from a, mass: F = ma (bus 8 tonnes, a = 0.5 → F = 4000 N).
+4. FORMULAS
+
+- F = ma = dp/dt ; p = mv ; J = FΔt = Δp
+- f_max = μₛN ; a = μₛg
+- K = p²/2m → p = √(2mK)
+- R = √(A² + B² + 2AB cosθ) ; cosθ = (A·B)/(|A||B|)
+- a_atwood = (m₂−m₁)g/(m₁+m₂) ; R_lift = m(g ± a)
+Symbol meanings: F = force (N), m = mass (kg), a = acceleration, p = momentum, μₛ =
+coefficient of static friction, N = normal force, J = impulse.
+5. CONDITIONS / SPECIAL CASES
+
+- Momentum double (mass fixed) → velocity double. 3000 units → 6000 units.
+- 4× KE → 2× momentum. (K = p²/2m ka √ lete hain.)
+- Airbag/cushion → time badhao → force kam. Hamesha "increase time" wala option.
+- Recoil speed = (chhota mass × uski velocity)/bada mass. Bullet 100 g at 100 m/s, gun
+  20 kg → v = (0.1×100)/20 = 0.5 m/s.
+- 3 kN aur 4 kN ⊥ → resultant 5 kN (3-4-5 triangle).
+- Momentum 25% badhao (p → 1.25p) → K = p²/2m → K ×(1.25)² = 1.5625 → 56.25% increment.
+- Atwood: heavier side neeche, a = (m₂−m₁)g/(m₁+m₂).
+- Lift upar → R = m(g+a); neeche → R = m(g−a).
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Force / mass / acceleration" → F = ma.
+- "Momentum double / velocity double" → p = mv.
+- "Recoil of a gun" → momentum before = after = 0.
+- "Impulse / impact force" → J = FΔt = Δp (longer time → smaller force).
+- "Max acceleration without slipping" → a = μₛg.
+- "Resultant of two forces" → R = √(A²+B²+2AB cosθ).
+- "Zero resultant minimum forces" → 2.
+- "Pulley / two masses" → Atwood a = (m₂−m₁)g/(m₁+m₂).
+- "Weight in a lift" → m(g ± a).
+7. SOLVING METHODS
+
+- Recoil: total momentum before = after (usually 0).
+- F = ma directly for force/mass.
+- Impulse: J = Ft = Δp.
+- Friction threshold: F ≤ μₛN for rest; slipping starts at a = μₛg.
+8. REAL PYQ EXAMPLES
+
+Q. A bullet of mass 100 g is fired from a gun of mass 20 kg with a velocity of 100 m/s. The recoil velocity of the gun is:
+   Method: Conservation of linear momentum (initially at rest).
+   Solve: 0 = (0.1)(100) + (20)(v) → v = −10/20 = −0.5 m/s (minus = opposite direction).
+   Takeaway: Recoil = (m × v)/M — chhota mass × velocity, bade mass se divide.
+
+Q. An unbalanced force of 90 N produces an acceleration of 15 m/s². The mass is:
+   Method: Newton's 2nd law directly.
+   Solve: m = F/a = 90/15 = 6 kg.
+   Takeaway: m = F/a — force aur acceleration se mass ek step mein.
+
+Q. A bus of mass 8 tonnes rolls down a hill with acceleration 0.5 m/s². The force is:
+   Method: F = ma with unit conversion (8 tonnes = 8000 kg).
+   Solve: F = 8000 × 0.5 = 4000 N.
+   Takeaway: Tonnes → kg pehle convert karo (×1000).
+
+Q. A ball has 3000 units of momentum. If velocity is doubled, new momentum is:
+   Method: p ∝ v (mass fixed).
+   Solve: Double v → double p → 6000 units.
+   Takeaway: Momentum ∝ velocity (mass constant). KE ∝ v² — dono confuse mat karo.
+
+Q. A particle's linear momentum is increased by 25%. The percentage increase in kinetic energy is:
+   Method: K = p²/2m — momentum ka factor square hota hai.
+   Solve: p → 1.25p → K ∝ (1.25)² = 1.5625 → 56.25% increase.
+   Takeaway: p ×n → K ×n². 1.25² = 1.5625 (56.25% up).
+
+Q. Two forces of 3 kN and 4 kN act perpendicular to each other. Their resultant is:
+   Method: Perpendicular vectors → Pythagoras.
+   Solve: R = √(3² + 4²) = 5 kN.
+   Takeaway: 3-4-5 right triangle → resultant 5 kN.
+
+Q. Two masses m₁ and m₂ (m₂ > m₁) hang from a frictionless pulley. The acceleration is:
+   Method: Atwood machine formula.
+   Solve: a = (m₂ − m₁)g/(m₁ + m₂).
+   Takeaway: Net force (m₂−m₁)g ko total mass (m₁+m₂) se divide karo.
+
+9. 10-SECOND TRICKS
+
+- Momentum double → velocity double.
+- K n-times → p √n-times.
+- Longer stopping time = smaller force (airbag). Always pick "increase time".
+- Recoil speed = (small mass × velocity)/big mass.
+- 3 kN ⊥ 4 kN → 5 kN ; p ×1.25 → K ×1.5625.
+- Zero resultant ke liye minimum 2 forces (equal-opposite).
+10. IMPORTANT FACTS
+
+- Force ek vector hai; friction hamesha relative motion oppose karti hai.
+- Newton's 3rd law SAB interacting bodies par lagta hai (boat-jump, recoil, rocket).
+11. COMMON TRAPS
+
+TRAP: Bus suddenly start → passenger peeche girta hai = Newton's 3rd law.
+FIX:  Ye INERTIA hai (1st law). Boat se jump → boat peeche = 3rd law (action-reaction).
+TRAP: 4× KE → 4× momentum.
+FIX:  K = p²/2m se p = √(2mK) → 4× KE = 2× momentum.
+TRAP: Airbag force badhata hai.
+FIX:  Airbag stopping TIME badhata hai → force GHATTI hai (J = FΔt).
+TRAP: Zero resultant ke liye 1 ya 3 forces kaafi hain.
+FIX:  Minimum 2 forces (equal aur opposite). 1 force kabhi zero resultant nahi deta.
+TRAP: Momentum 25% badhao to KE bhi 25% badhti hai.
+FIX:  K ∝ p² → (1.25)² = 1.5625 → 56.25% increase.
+12. GRAPHS / DIAGRAMS
+
+- Free-body diagram: pehle weight, normal, friction, applied force draw karo.
+- Force-time graph: area = impulse = momentum change.
+- Momentum conserved with changing mass → v ∝ 1/m (hyperbola).
+- Friction vs applied force: static friction μₛN tak badhta hai, phir kinetic μₖN par
+  gir jaata hai.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -F = ma = dp/dt ; p = mv ; J = FΔt = Δp
+- -f_max = μₛN ; slipping threshold a = μₛg
+- -Recoil: v = (m × v)/M ; K = p²/2m → K×4 ⇒ p×2
+
+================================================================================
+CHAPTER 4 - WORK, ENERGY AND POWER
+================================================================================
+
+1. INTRODUCTION
+
+Force ka motion par effect "work" ke through measure hota hai. Work-energy theorem hi
+aage ke saare chapters (potential, kinetic, springs, power) ki neev hai. Ye chapter
+short hai lekin highly scoring — dot product, spring energy aur power ke fixed question
+types hain.
+2. CORE CONCEPTS
+
+- What is work? W = F·s = F s cosθ. Force ka displacement ki direction mein component hi
+  kaam karta hai. Work ek SCALAR hai aur NEGATIVE bhi ho sakta hai — jab force motion
+  oppose kare (retarding force → negative work).
+- What is energy? Kaam karne ki capacity. Kinetic energy K = (1/2)mv² (motion ki
+  energy), potential energy U = mgh (height ki) ya (1/2)kx² (spring ki).
+- What is power? Kaam karne ki RATE. P = W/t = Fv. Jitna jaldi kaam, utni zyada power.
+- What is a conservative force? Jis force ke liye closed path par work = 0 (gravity,
+  spring). Tab total mechanical energy conserve hoti hai: gain in KE = loss in PE.
+- Work-energy theorem. W_total = ΔK — net work = kinetic energy ka change. Ye theorem hi
+  har "force → speed" problem ka shortcut hai.
+- What is elastic energy in a wire? Wire ko stretch karne par stored energy U = (1/2)F ×
+  ΔL. Energy density (per volume) = (1/2) × stress × strain = (1/2)Y(strain)² — bilkul
+  spring ke (1/2)kx² jaisa, bas wire ke terms mein.
+- Work done pulling a hanging chain. Uniform chain ka kuch hissa table se latka ho to
+  use upar kheenchne ka work = (hanging mass) × g × (uske centre of mass ki raise).
+  Ek-third length latki ho to W = (m/3) × g × (L/6) = mgL/18.
+3. KEY RELATIONS
+
+- W = F·s = Fₓsₓ + Fᵧsᵧ + F₂s₂ (dot product). F = 2i+3j+k, s = i+2j−4k → W = 2+6−4 = 4
+  J.
+- Spring: U = (1/2)kx²; work from x₁ to x₂ = (1/2)k(x₂² − x₁²).
+- Spring 2 cm → 100 J; further 2 cm (total 4 cm) → energy 4× = 400 J → increase 300 J.
+  (U ∝ x².)
+- Power: P = W/t = Fv.
+- Variable force: W = ∫F dx. F = 3ax² − 3 from 0 to 2 → 8a − 6.
+- Wire energy: U = (1/2)FΔL = (1/2)Y × (ΔL/L)² × volume. Energy density = (1/2) × stress
+  × strain.
+- Chain (1/3 length L hanging): W = (m/3) × g × (L/6) = mgL/18.
+4. FORMULAS
+
+- W = F s cosθ = F·s ; ΔK = W
+- K = (1/2)mv² = p²/2m ; U = mgh ; U_spring = (1/2)kx²
+- P = W/t = F v cosθ
+- W_spring(x₁→x₂) = (1/2)k(x₂² − x₁²)
+- U_wire = (1/2)FΔL ; energy density = (1/2) × stress × strain = (1/2)Y(strain)²
+- W_chain = (hanging mass) × g × (height of its centre of mass)
+Symbol meanings: F = force, s = displacement, θ = angle between them, k = spring
+constant, v = velocity, m = mass, g = 9.8 m/s².
+5. CONDITIONS / SPECIAL CASES
+
+- θ = 0 → W = Fs (max). θ = 90° → W = 0 (pushing wall, bag horizontal le jaana). θ =
+  180° → W = −Fs (retarding force).
+- Conservative field: (p) ME conserved, (q) closed-path work = 0, (r) gain KE = loss PE
+  — TEENO correct.
+- Spring 1000 N/m, 10 cm → 20 cm: W = 0.5 × 1000 × (0.04 − 0.01) = 15 J.
+- Athlete 60 kg, 100 m in 10 s → v ≈ 10 m/s → K = 0.5×60×100 = 3000 J (range 2000–5000
+  J).
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Work by force over displacement (vectors)" → dot product W = F·s.
+- "Retarding force ka work" → negative.
+- "Spring energy / work between two stretches" → W = (1/2)k(x₂² − x₁²).
+- "Variable force F(x)" → integrate F dx.
+- "Power / kinetic-energy estimate" → P = W/t, K = (1/2)mv².
+7. SOLVING METHODS
+
+- Dot-product work: matching components multiply karke add karo (signs dhyan se).
+- F(x) force: ∫F dx from x₁ to x₂.
+- Estimate problems: rough speed le kar K = (1/2)mv².
+8. REAL PYQ EXAMPLES
+
+Q. Calculate the work done by F = 2i + 3j + k on a particle displaced by s = i + 2j − 4k.
+   Method: Work = dot product of force and displacement.
+   Solve: W = (2)(1) + (3)(2) + (1)(−4) = 2 + 6 − 4 = 4 J.
+   Takeaway: Matching components multiply karo; −4k wale sign ka dhyan rakho.
+
+Q. A spring (k = 1000 N/m) is stretched from 10 cm to 20 cm. Work done:
+   Method: Spring work between two positions — difference of squares.
+   Solve: W = (1/2)k(x₂² − x₁²) = 0.5 × 1000 × (0.04 − 0.01) = 15 J.
+   Takeaway: W = (1/2)k(x₂² − x₁²), NOT (1/2)k(x₂ − x₁)².
+
+Q. When a spring is stretched by 2 cm, stored energy is 100 J. Stretched further by 2 cm, energy increases by:
+   Method: U ∝ x² — doubling stretch quadruples energy.
+   Solve: Total 4 cm → U = 4 × 100 = 400 J. Increase = 400 − 100 = 300 J.
+   Takeaway: U ∝ x²: stretch 2× → energy 4×. "Further" → naya minus purana.
+
+Q. When a force retards the motion of a body, the work done is:
+   Method: Sign of work — force opposes displacement.
+   Solve: θ = 180° → W = Fs cos180° = −Fs → negative.
+   Takeaway: Motion oppose karne wala force hamesha negative work karta hai.
+
+Q. Energy stored in a stretched wire is (Y = Young's modulus, S = strain):
+   Method: Elastic energy density in a wire.
+   Solve: Energy density = (1/2) × stress × strain = (1/2)Y S².
+   Takeaway: Wire energy density = (1/2)Y(strain)² — spring ke (1/2)kx² ka wire version.
+
+Q. A uniform chain of length L and mass m lies on a table with one-third of its length hanging. Work to pull it up:
+   Method: Work = mgh for the hanging part's centre of mass.
+   Solve: W = (m/3) × g × (L/6) = mgL/18.
+   Takeaway: Hanging part ka CM L/6 neeche hai — sirf hanging mass par mgh lagao.
+
+9. 10-SECOND TRICKS
+
+- Force opposing motion → work negative (instant).
+- Spring stretch 2× → energy 4×.
+- Dot product: (2)(1)+(3)(2)+(1)(−4) = 4 — one line.
+- Wire energy density = (1/2) × stress × strain.
+- Chain pull-up: W = (hanging mass) × g × (CM height).
+10. IMPORTANT FACTS
+
+- Work aur energy scalars hain, same dimension [ML²T⁻²].
+- Friction hamesha negative work karti hai.
+11. COMMON TRAPS
+
+TRAP: Spring work = (1/2)k(x₂ − x₁)².
+FIX:  W = (1/2)k(x₂² − x₁²) — difference of squares.
+TRAP: Dot product mein −4k component ka sign chhodna.
+FIX:  Saare components ke signs rakho: 2+6−4 = 4.
+TRAP: Retarding force positive work karti hai.
+FIX:  Retarding force ka work NEGATIVE hota hai.
+12. GRAPHS / DIAGRAMS
+
+- Force-displacement graph: AREA = work done.
+- Spring F vs x: origin se straight line; area = (1/2)kx².
+- Power-time graph: area = energy.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -W = F s cosθ ; K = (1/2)mv² ; U = (1/2)kx² ; P = W/t = Fv
+- -Retarding force → negative work ; θ = 90° → zero work
+- -Spring: W = (1/2)k(x₂² − x₁²) ; U ∝ x²
+
+================================================================================
+CHAPTER 5 - ROTATIONAL MOTION (SYSTEM OF PARTICLES AND RIGID BODY)
+================================================================================
+
+1. INTRODUCTION
+
+Jab body ghoomti hai (rotation), tab linear quantities ki jagah angular quantities aati
+hain: ω (angular velocity), α (angular acceleration), I (moment of inertia), τ (torque),
+L (angular momentum). Exam mein sabse zyada marks moment-of-inertia table aur
+parallel/perpendicular axis theorem se aate hain.
+2. CORE CONCEPTS
+
+- What is moment of inertia? I = rotational inertia = Σmr². Jaise mass linear motion ka
+  "resistance" hai, waise I rotation ka resistance hai. Ye body ke mass aur axis se
+  mass ki doori (distribution) par depend karta hai — shape aur axis badle to I
+  badalta hai.
+- What is torque? τ = r × F = rF sinθ = Iα. Torque force aur MOMENT ARM (perpendicular
+  distance) par depend karta hai — mass par nahi. Yahi exam ka favourite trap hai.
+- What is angular momentum? L = Iω = mvr (particle ke liye). Jab tak external torque na
+  ho, L conserved rehta hai. Isi se Kepler ka 2nd law (equal areas) aata hai.
+- What is centre of mass? System ka wo point jahan poora mass concentrated maan sakte
+  hain. External force na ho to CM ka velocity constant rehta hai.
+- Radius of gyration. k = wo distance jahan saara mass rakhne par same I mile: I = Mk².
+- CM of uniform bodies. Uniform cube/sphere/rod ka CM GEOMETRIC CENTRE par hota hai —
+  cube ka CM body ke centre par (face ya edge par nahi).
+- CM formula. x_cm = Σ(mx)/Σm ; V_cm = Σ(mv)/Σm. Do bodies ka system: V_cm = (m₁v₁ +
+  m₂v₂)/(m₁+m₂).
+- KE of centre of mass. System ki CM motion ki KE = (1/2)(m₁+m₂)V_cm². (Total KE = CM ki
+  KE + relative motion ki KE.)
+- Angular acceleration in UCM. Uniform circular motion mein ω CONSTANT → angular
+  acceleration α = 0.
+3. KEY RELATIONS
+
+- L = Iω ; τ = Iα = rF sinθ ; KE_rot = (1/2)Iω².
+- Parallel axis: I = I_cm + Md². Perpendicular axis (lamina): I_z = I_x + I_y.
+- Ring: MR² (⊥ centre), MR²/2 (diameter), 3MR²/2 (tangent).
+- Disc: MR²/2 (⊥ centre), MR²/4 (diameter), 5MR²/4 (tangent in plane).
+- Sphere: 2MR²/5 (diameter). Rod: ML²/12 (centre ⊥), ML²/3 (end ⊥).
+- Disc diameter = I → ⊥ axis through rim = 6I (I = MR²/4 ⇒ MR² = 4I; rim = 2I + 4I).
+- CM: x_cm = Σ(mx)/Σm ; V_cm = Σ(mv)/Σm ; KE_cm = (1/2)(Σm)V_cm².
+- τ = r × F (cross product); magnitude rF sinθ; direction right-hand rule se.
+- UCM: ω constant → α = 0.
+4. FORMULAS
+
+    | Body / Axis | Moment of inertia |
+    | Ring, axis ⊥ plane through centre | MR² |
+    | Ring, about a diameter | MR²/2 |
+    | Ring, about a tangent (in plane) | 3MR²/2 |
+    | Disc, axis ⊥ plane through centre | MR²/2 |
+    | Disc, about a diameter | MR²/4 |
+    | Solid sphere, about diameter | 2MR²/5 |
+    | Solid cylinder, about its own axis | MR²/2 |
+    | Rod, about centre (⊥) | ML²/12 |
+    | Rod, about end (⊥) | ML²/3 |
+
+5. CONDITIONS / SPECIAL CASES
+
+- Torque ∝ force × moment arm (NOT mass, NOT radius alone).
+- L conserved → I double ho to ω half (L = Iω). Rotating boy hands chest mein kheenche →
+  I ghatta → ω badhta.
+- Do bodies mutual gravity se ek dusre ki taraf → V_cm = 0 (no external force). 2 kg at
+  20 m/s aur 4 kg at 10 m/s opposite → V_cm = 0.
+- Ring tangent = 3MR²/2 (parallel axis se: MR² + MR²/2). 5MR²/2 galat hai.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "MI about a given axis" → table + parallel/perpendicular theorem.
+- "Torque kis par depend" → force × moment arm.
+- "L conserved (I badla)" → L = Iω.
+- "CM velocity of two bodies" → external force zero → V_cm constant.
+7. SOLVING METHODS
+
+- MI axis ke hisaab se: parallel/perpendicular theorem lagao.
+- Radius of gyration: I = Mk² se k nikalo.
+- Angular displacement track par: sweep hua angle padho.
+8. REAL PYQ EXAMPLES
+
+Q. What is the moment of inertia of a ring of mass M and radius R about a tangent to the circle?
+   Method: Parallel-axis theorem from a diameter.
+   Solve: I_tangent = I_diameter + MR² = MR²/2 + MR² = 3MR²/2.
+   Takeaway: Ring tangent = 3MR²/2 (5MR²/2 galat hai).
+
+Q. Moment of inertia of a disc about a diameter is I. Its MI about an axis ⊥ to its plane through a point on the rim is:
+   Method: Perpendicular-axis + parallel-axis theorem.
+   Solve: I⊥centre = I_diameter + I_diameter = 2I. Rim: I = 2I + MR². Disc ke liye MR² = 4I → 2I + 4I = 6I.
+   Takeaway: Disc: I_diameter = I → ⊥ axis through centre = 2I, rim = 6I.
+
+Q. Torque depends on:
+   Method: Definition of torque.
+   Solve: τ = force × moment arm (perpendicular distance).
+   Takeaway: Torque = force × moment arm — "mass" wala option galat.
+
+Q. Two bodies of 2 kg (20 m/s) and 4 kg (10 m/s) move toward each other under mutual gravity. Velocity of centre of mass:
+   Method: No external force → V_cm constant (initially zero).
+   Solve: V_cm = (2×20 + 4×(−10))/6 = 0.
+   Takeaway: Mutual attraction = internal force → V_cm nahi badalta.
+
+Q. The centre of mass of a uniform cube is at:
+   Method: Uniform body → geometric centre.
+   Solve: Cube ka CM uske geometrical centre par hota hai (face/edge/diagonal par nahi).
+   Takeaway: Uniform (symmetric) body ka CM = geometric centre.
+
+Q. A ball of mass M (2 m/s) hits a 1 kg ball (1 m/s). KE of centre of mass is 4/3 J. Find M:
+   Method: KE_cm = (1/2)(M+1)V_cm² ; V_cm = (2M + 1×1)/(M+1).
+   Solve: (1/2)(M+1)[(2M+1)/(M+1)]² = 4/3 → (2M+1)² = (8/3)(M+1).
+       3(4M²+4M+1) = 8M+8 → 12M²+4M−5 = 0 → M = 0.5 kg.
+   Takeaway: KE_cm = (1/2)(Σm)V_cm² — pehle V_cm nikalo, phir KE.
+
+9. 10-SECOND TRICKS
+
+- Ring tangent = 3MR²/2 ; disc tangent = 5MR²/4 ; sphere = 2MR²/5.
+- I double → ω half (L constant).
+- Kepler equal areas = angular momentum conservation.
+- Uniform body → CM at geometric centre.
+- UCM mein α = 0 (ω constant).
+10. IMPORTANT FACTS
+
+- Rigid body = fixed shape (particles ke beech distance constant).
+- Angular momentum ka dimension = Planck's constant ka dimension = [ML²T⁻¹].
+11. COMMON TRAPS
+
+TRAP: Torque "mass" ya "radius" par depend karta hai.
+FIX:  Torque = force × moment arm.
+TRAP: Ring tangent = 5MR²/2.
+FIX:  Ring tangent = 3MR²/2 (parallel axis se: MR²/2 + MR²).
+TRAP: Solid sphere ka k = r wale axis ka distance √0.4r hota hai (printed answer).
+FIX:  METHOD yaad karo: I = Mk² = Mr² = (2/5)Mr² + Md² → d = r√(3/5). Numbers ki rat mat maro.
+12. GRAPHS / DIAGRAMS
+
+- MI axes diagram: ring, disc, sphere, rod — centre/diameter/tangent/end sab draw karke
+  yaad karo.
+- ω-t graph (constant α): straight line, slope = α.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -τ = Iα = rF sinθ ; L = Iω ; KE = (1/2)Iω² ; I = Mk²
+- -Ring: MR², MR²/2 (diam), 3MR²/2 (tangent)
+- -Disc: MR²/2, MR²/4 (diam), rim-⊥-axis 6I ; Sphere: 2MR²/5 ; Rod: ML²/12, ML²/3
+- -Parallel axis: I = I_cm + Md²
+
+================================================================================
+CHAPTER 6 - GRAVITATION
+================================================================================
+
+1. INTRODUCTION
+
+Gravitation batata hai ki masses ek dusre ko kyun kheenchti hain. Is chapter ke teen
+pillar: Newton's law, acceleration due to gravity (g), aur escape velocity. Satellite
+energy aur Kepler's laws bhi isi se judi hain.
+2. CORE CONCEPTS
+
+- What is Newton's law of gravitation? F = GMm/r² — attractive, dono bodies ko jodne
+  wali line ke along. G = 6.67 × 10⁻¹¹ (universal constant).
+- What is g? Planet ki surface par gravity ka acceleration: g = GM/R². Ye planet ke mass
+  aur radius par depend karta hai — aapke mass par nahi.
+- What is escape velocity? Wo minimum speed jisse body planet ka gravity chhod kar
+  hamesha ke liye nikal jaye: vₑ = √(2GM/R) = √(2gR). Earth ke liye 11.2 km/s.
+- What is weightlessness in a satellite? Astronaut aur satellite dono SATH mein free
+  fall kar rahe hote hain → relative weight zero. Ye FREE FALL hai, "gravity zero"
+  nahi — gravity wahi lagi rehti hai.
+- Kepler's laws. (1) elliptical orbit, Sun at focus; (2) equal areas in equal time =
+  angular momentum conservation; (3) T² ∝ r³.
+3. KEY RELATIONS
+
+- g = GM/R² ; g' at height h (h << R): g' = g(1 − 2h/R).
+- g at depth d: g' = g(1 − d/R) — Earth ke centre par zero.
+- g = (4/3)πGρR (density form): same radius → g ∝ ρ; same density → g ∝ R.
+- vₑ = √(2gR) = √(2GM/R) = 11.2 km/s.
+- Planet 4M aur R/2 → g = G(4M)/(R/2)² = 16g.
+- Satellite: v = √(GM/r) ; T = 2π√(r³/GM) ; E = −GMm/2r ; PE = 2E ; KE = −E.
+- Equal escape velocity → M/R equal (NOT M×R).
+4. FORMULAS
+
+- F = GMm/r² ; g = GM/R² ; vₑ = √(2GM/R) = √(2gR)
+- Satellite: PE = 2 × E_total ; KE = −E_total ; T = 2π√(r³/GM)
+- Kepler: T² ∝ r³ ; areal velocity constant
+Symbol meanings: G = universal gravitational constant, M = planet mass, R = planet
+radius, r = orbit radius, m = body mass.
+5. CONDITIONS / SPECIAL CASES
+
+- g pole se equator tak DECREASE hota hai (rotation + bulge).
+- Earth ka radius 1% kam (mass fixed) → g ~2% badhta hai (g = GM/R²).
+- 2M aur R/2 wale planet par vₑ double (11.2 → 22.4 km/s).
+- Satellite ka time period central mass M aur radius r par depend karta hai, satellite
+  ke mass par NAHI.
+- Satellite: PE = 2 × total energy. Total energy E₀ → PE = 2E₀, KE = −E₀.
+- Radii 1:4, densities 1:2 → g ratio = (ρ₁R₁)/(ρ₂R₂) = (1×1)/(2×4) = 1:8.
+- Height par g 1/4 rah jaye → (1−2h/R) = 1/4 → h = 3R/8.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Planet ka g (M, R diye)" → g ∝ M/R².
+- "Escape velocity" → √(2GM/R).
+- "Satellite energy / time period" → PE = 2E_total ; T formula.
+- "Kepler" → equal areas = angular momentum.
+7. SOLVING METHODS
+
+- "Mass k×, radius 1/m×" → g' = k m² × g. Radius factor ko SQUARE karo.
+- Equal escape velocity → M/R equal (M×R nahi).
+8. REAL PYQ EXAMPLES
+
+Q. If the mass of a planet is four times that of earth and radius is half, gravitational acceleration is:
+   Method: g ∝ M/R².
+   Solve: g' = 4/(1/2)² = 4 × 4 = 16g.
+   Takeaway: Radius factor square karo: (1/2)² = 1/4, to 4/(1/4) = 16.
+
+Q. The escape velocity on earth is 11.2 km/s. On a planet with twice the mass and half the radius, it is:
+   Method: vₑ ∝ √(M/R).
+   Solve: vₑ' = √(2/(1/2)) = √4 = 2 → 2 × 11.2 = 22.4 km/s.
+   Takeaway: vₑ ∝ √(M/R): mass ratio direct, radius ratio ulta, dono ka square root.
+
+Q. A satellite in a circular orbit has total energy E₀. Its potential energy is:
+   Method: Satellite energy relation.
+   Solve: PE = 2 × E_total = 2E₀ (KE = −E₀).
+   Takeaway: Satellite: PE = 2E_total, KE = −E_total — fixed relation.
+
+Q. The escape velocities of planets A and B are equal. Which statement is correct?
+   Method: Equal vₑ condition.
+   Solve: vₑ = √(2GM/R) equal → M/R equal (M ∝ R), NOT M×R equal.
+   Takeaway: Equal escape velocity → M₁/R₁ = M₂/R₂ (product nahi).
+
+9. 10-SECOND TRICKS
+
+- 4M + R/2 → 16g ; 2M + R/2 → vₑ ×2.
+- Weightless astronaut = free fall.
+- Equal escape velocity → equal M/R.
+10. IMPORTANT FACTS
+
+- g ≈ 9.8 m/s²; Moon ≈ 1.63 m/s² (≈ g/6). 10 kg: Earth 98 N, Moon 16.3 N.
+- Kepler 2nd law = angular momentum conservation.
+11. COMMON TRAPS
+
+TRAP: Equal escape velocity → M₁R₁ = M₂R₂.
+FIX:  M₁/R₁ = M₂/R₂ hota hai (M×R galat).
+TRAP: Weightless = gravity nahi hai.
+FIX:  Weightless = free fall; gravity maujood hai.
+TRAP: Pole → equator g badhta hai.
+FIX:  g DECREASE hota hai.
+12. GRAPHS / DIAGRAMS
+
+- g vs r: Earth ke andar g ∝ r (linear rise); bahar g ∝ 1/r² (fall).
+- g vs depth: centre par zero tak linear decrease.
+- Orbit: orbital velocity chakkar mein rakhti hai; escape velocity hamesha ke liye chhod
+  deti hai.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -F = GMm/r² ; g = GM/R² ; vₑ = √(2gR) ; T² ∝ r³
+- -4M & R/2 → 16g ; 1% smaller R → g up ~2% ; 2M & R/2 → vₑ ×2
+- -Satellite: PE = 2E_total ; T = 2π√(r³/GM) (satellite mass se independent)
+
+================================================================================
+CHAPTER 7 - PROPERTIES OF BULK MATTER (SOLIDS AND FLUIDS)
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter solids (elasticity) aur fluids (liquids/gases: pressure, surface tension,
+viscosity) dono cover karta hai. Har sub-topic se 1-2 fixed questions aate hain: Young's
+modulus, excess pressure, terminal velocity, gauge pressure — sab short aur formula-
+based hain.
+2. CORE CONCEPTS
+
+- What is elasticity? Body par force lagao to wo deform hoti hai. Stress = F/A (force
+  per area), strain = ΔL/L (change per original). Young's modulus Y = stress/strain =
+  stress-strain curve ke LINEAR part ka slope.
+- What is pressure? Force per area. Gauge pressure = absolute − atmospheric = P − Pₐ.
+  (Jo gauge padhta hai wo atmospheric ke upar ka extra pressure hai.)
+- What is surface tension? Liquid surface ka wo tendency jisse wo apna area minimum
+  karti hai — isliye drop spherical hota hai. Ye force/length hai aur temperature
+  badhne par DECREASE hoti hai. Soap bubble ki 2 surfaces hoti hain (ΔP = 4T/r), drop
+  ki 1 (ΔP = 2T/r).
+- What is viscosity? Liquid ki internal friction — layers ke beech ka drag. Terminal
+  velocity vt ∝ r² (radius square).
+- Pascal vs Archimedes vs Bernoulli. Pascal: enclosed fluid ka pressure sab taraf
+  equally transmit hota hai (hydraulic lift). Archimedes: buoyant force = displaced
+  fluid ka weight. Bernoulli = energy conservation; continuity = mass conservation.
+- What is calorimetry? Heat transfer Q = mcΔT. m = mass, c = specific heat, ΔT =
+  temperature change. Mixture: heat gained = heat lost. Water ki specific heat sabse
+  zyada: 1 cal/g°C = 4186 J/kg°C.
+- What is thermal expansion? Garam karne par solid expand hota hai. Linear ΔL = αLΔT ;
+  area ΔA = βAΔT (β = 2α) ; volume ΔV = γVΔT (γ = 3α). Isliye α : β : γ = 1 : 2 : 3.
+  Thermometer isi expansion par chalta hai.
+- Why does hot glass crack on sudden cooling? Bahar ki layer pehle sikud jaati hai,
+  andar nahi → thermal STRESS → crack (glass heat ka poor conductor hai).
+- What is capillary rise? Patli tube mein liquid upar chadhta hai: h = 2T cosθ/(rρg).
+  Tube patli (r chhota) → rise zyada. Water-glass θ = 0° → h = 2T/(rρg).
+- Float fraction. Floating body ka submerged fraction = ρ_body/ρ_liquid. Cube density
+  800 kg/m³, water 1000 → 80% andar, 20% bahar.
+- Breaking stress. Wo maximum stress jis par material toot jaata hai (strength). Steel
+  ki elasticity sabse zyada (steel > copper > rubber).
+- Moduli. Bulk modulus K = −ΔP/(ΔV/V) (compress karne ka resistance); modulus of
+  rigidity G = shear stress/shear strain.
+3. KEY RELATIONS
+
+- Y = (F/A)/(ΔL/L) = FL/(AΔL) = stress-strain curve ka linear slope.
+- Excess pressure: drop 2T/r ; bubble 4T/r ; ratio ∝ 1/r (radii 5:3 → pressure 3:5).
+- vt ∝ r² → radius double → vt 4×.
+- P = ρgh ; gauge = P − Pₐ.
+- Poisson ratio σ = lateral strain/longitudinal strain (unitless).
+- Work to stretch wire = (1/2)F × ΔL (elastic PE).
+- Q = mcΔT ; heat lost = heat gained.
+- α : β : γ = 1 : 2 : 3 ; ΔL = αLΔT ; ΔV = γVΔT.
+- Capillary: h = 2T cosθ/(rρg).
+- Float: submerged fraction = ρ_body/ρ_liq ; n drops combine → radius ×n^(1/3).
+- K = −ΔP/(ΔV/V) ; G = shear stress/shear strain.
+4. FORMULAS
+
+- Stress = F/A ; Strain = ΔL/L ; Y = FL/(AΔL)
+- ΔP(drop) = 2T/r ; ΔP(bubble) = 4T/r ; Surface energy = T × ΔA
+- vₜ = 2r²(ρ − σ)g / 9η
+- Gauge pressure = P − Pₐ ; P = ρgh
+- Q = mcΔT ; ΔL = αLΔT ; ΔA = 2αAΔT ; ΔV = 3αVΔT
+- h = 2T cosθ/(rρg) ; submerged fraction = ρ_body/ρ_liq
+- Bulk modulus K = −ΔP/(ΔV/V) ; rigidity G = shear stress/shear strain
+Symbol meanings: Y = Young's modulus, F = force, A = area, L = original length, ΔL =
+elongation, T = surface tension, r = radius, ρ = density, η = viscosity coefficient.
+5. CONDITIONS / SPECIAL CASES
+
+- Young's modulus = stress-strain curve ke LINEAR part ka SLOPE.
+- Convex meniscus → contact angle obtuse → mercury (140°). Water/alcohol glass par 0°
+  (concave).
+- Temperature badhao → surface tension ghatta hai.
+- Elasticity = wo ability jisse body permanent change ko RESIST karti hai (stress hatane
+  par original shape wapas aa jaati hai).
+- Brim-full cup mein floating ice pighle → water level SAME (displaced water = ice ka
+  weight).
+- Water drops diameter 1 cm & 1.5 cm → radii 1:1.5 → ΔP ratio = 1.5:1 = 3:2.
+- 8 equal drops combine → R = n^(1/3) r = 2r → ΔP becomes 1/2 (ΔP ∝ 1/r).
+- Water drop 27 droplets mein toota → r' = r/3 → ΔP' = 3ΔP.
+- Capillary d = 2 mm, rise 15 mm, θ = 0°, SG 0.8 → T = rρgh/2 =
+  (1×10⁻³)(800)(9.8)(0.015)/2 = 0.0588 N/m.
+- Gas at constant T: PV = constant (Boyle's law).
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Young's modulus / stress-strain slope" → Y = stress/strain.
+- "Excess pressure drop/bubble" → 2T/r ya 4T/r; ratio = radii ka inverse.
+- "Terminal velocity vs radius" → ∝ r².
+- "Gauge pressure" → P − Pₐ. "Poisson ratio" → lateral/longitudinal.
+- "Meniscus/contact angle" → convex = mercury (140°).
+- "Heat / temperature change / specific heat" → Q = mcΔT.
+- "Length/volume on heating" → αLΔT / γVΔT.
+- "Capillary rise" → h = 2T cosθ/(rρg).
+- "Fraction floating" → ρ_body/ρ_liq.
+7. SOLVING METHODS
+
+- Excess pressure ratio → radius ratio invert karo.
+- Terminal velocity: factor ko square karo (2r → 4×).
+8. REAL PYQ EXAMPLES
+
+Q. The soap bubble has radii in the ratio 5 : 3. The ratio of excess pressure inside them is:
+   Method: ΔP ∝ 1/r.
+   Solve: ΔP₁/ΔP₂ = r₂/r₁ = 3/5.
+   Takeaway: Excess pressure ratio = radius ratio ka ULTA (3:5).
+
+Q. A body is falling freely in a viscous liquid. If its radius is doubled, its terminal velocity becomes:
+   Method: vₜ ∝ r².
+   Solve: 2² = 4 → 4 times.
+   Takeaway: Radius square karo: 2× radius → 4× terminal velocity.
+
+Q. If the pressure at a point is P and atmospheric pressure is Pₐ, the gauge pressure is:
+   Method: Definition of gauge pressure.
+   Solve: Gauge = absolute − atmospheric = P − Pₐ.
+   Takeaway: Gauge = P − Pₐ (na P, na P+Pₐ).
+
+Q. A glass capillary shows a convex meniscus. The liquid is:
+   Method: Convex meniscus → contact angle > 90°.
+   Solve: Mercury-glass = 140° (obtuse) → mercury.
+   Takeaway: Convex = mercury (140°); water/alcohol = 0° (concave).
+
+Q. Which material property is obtained from the slope of the linear portion of the stress-strain curve?
+   Method: Stress-strain slope.
+   Solve: Slope = stress/strain = Young's modulus.
+   Takeaway: Linear region ka slope hi Y hai.
+
+Q. A gas of 240 ml is heated from 27 °C to 227 °C at constant pressure. New volume:
+   Method: Charles' law — V ∝ T (kelvin mein).
+   Solve: V₂ = V₁ × T₂/T₁ = 240 × 500/300 = 400 ml.
+   Takeaway: V ∝ T (kelvin): 300 → 500 K, to 240 → 400 ml.
+
+Q. A capillary of diameter 2 mm is dipped in liquid (specific gravity 0.8). Rise 15 mm, contact angle 0°. Surface tension:
+   Method: h = 2T cosθ/(rρg) → T = rρgh/2.
+   Solve: T = (1×10⁻³)(800)(9.8)(15×10⁻³)/2 = 0.0588 N/m.
+   Takeaway: T = rρgh/2 — r metre mein, ρ = 800 kg/m³, h metre mein.
+
+Q. A metal ball just passes through a ring. Only the ball is heated. It will:
+   Method: Thermal expansion of the ball.
+   Solve: Ball expand hota hai → ab ring mein pass nahi karega.
+   Takeaway: Heat ball → expand → won't pass through the ring.
+
+Q. A water drop is divided into 27 equal droplets. Pressure difference inside each droplet becomes:
+   Method: r' = r/3 → ΔP ∝ 1/r.
+   Solve: ΔP' = 3ΔP (radius ek-third → pressure 3×).
+   Takeaway: 27 = 3³ → radius ÷3 → ΔP ×3.
+
+Q. A cube floats in water with some part outside. The fraction submerged depends on:
+   Method: Float condition: submerged fraction = ρ_body/ρ_liq.
+   Solve: Density ratio decide karta hai kitna hissa andar hai.
+   Takeaway: Submerged fraction = ρ_body/ρ_water.
+
+9. 10-SECOND TRICKS
+
+- Bubble 4T/r, drop 2T/r (bubble ki 2 surfaces).
+- Radius double → vₜ ×4.
+- Stress-strain slope = Young's modulus.
+- Q = mcΔT (heat = mass × c × ΔT).
+- α:β:γ = 1:2:3 ; radius ÷n → ΔP ×n (drops).
+- Capillary: h = 2T cosθ/(rρg).
+10. IMPORTANT FACTS
+
+- Water ki surface tension temperature ke saath ghatti hai.
+- Venturi-meter flow speed; manometer pressure difference; Pascal = pressure; Archimedes
+  = buoyancy.
+- Water: c = 1 cal/g°C = 4186 J/kg°C (highest); 1 cal = 4.18 J.
+- Steel sabse elastic; thermometer thermal expansion par chalta hai.
+- Liquid ka η temperature ke saath GHATTA hai; gas ka η BADHTA hai.
+11. COMMON TRAPS
+
+TRAP: Gauge pressure = P ya P + Pₐ.
+FIX:  Gauge = P − Pₐ (absolute minus atmospheric).
+TRAP: Convex meniscus water ka hota hai.
+FIX:  Convex = mercury (contact angle 140° > 90°).
+TRAP: Stress-strain slope = ultimate strength.
+FIX:  Slope = Young's modulus.
+TRAP: Heat dene par body ka temperature hamesha badhta hai.
+FIX:  Phase change (ice → water) mein temperature CONSTANT rehta hai (latent heat).
+TRAP: Area expansion coefficient = 3α.
+FIX:  β = 2α (area), γ = 3α (volume) — 1:2:3 ka order.
+TRAP: Ice melts in brim-full cup → water overflows.
+FIX:  Level SAME rehta hai (displaced water = ice ka weight).
+12. GRAPHS / DIAGRAMS
+
+- Stress-strain curve: linear slope = Y, phir yield point, phir fracture.
+- Meniscus: <90° concave (water), >90° convex (mercury).
+- Soap bubble 2 surfaces, drop 1 surface → 4T/r vs 2T/r.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -Y = FL/(AΔL) = stress-strain ka linear slope
+- -ΔP(drop) = 2T/r ; ΔP(bubble) = 4T/r ; vₜ ∝ r²
+- -Gauge = P − Pₐ ; Bernoulli = energy ; Continuity = mass
+
+================================================================================
+CHAPTER 8 - THERMODYNAMICS
+================================================================================
+
+1. INTRODUCTION
+
+Thermodynamics = heat, work aur internal energy ka relation. Sirf teen cheezein solidly
+yaad karo: first law (ΔQ = ΔU + ΔW), isothermal/adiabatic processes, aur Carnot
+efficiency. Ye teeno hi har paper mein aate hain.
+2. CORE CONCEPTS
+
+- What is the first law? Energy conservation: ΔQ = ΔU + ΔW. Heat ka kuch hissa internal
+  energy badhata hai (ΔU), kuch hissa kaam karta hai (ΔW). Work "on" gas ho to ΔU
+  badhta hai, "by" gas ho to ΔU ghat-ta hai.
+- What is internal energy? Ideal gas ki U sirf TEMPERATURE par depend karti hai. Isi
+  liye isothermal (T constant) mein ΔU = 0.
+- Isothermal process. T constant → ΔU = 0 → saari heat work ban jaati hai: Q = W.
+- Adiabatic process. Heat exchange nahi (Q = 0) → ΔU = −W. Expansion mein gas kaam karti
+  hai → ΔU negative (temperature girta hai). Compression mein ulta.
+- What is the second law + entropy? Second law ENTROPY define karta hai (natural
+  processes ki direction). Full cycle par ∮(δQ − δW) = 0.
+- Carnot engine. Do temperatures ke beech maximum efficiency wala ideal engine: η = 1 −
+  T₂/T₁ (temperatures KELVIN mein!).
+- Isochoric (constant volume). V constant → koi expansion nahi → work W = 0. Tab ΔQ = ΔU
+  (saari heat internal energy ban jaati hai).
+- Isobaric (constant pressure). W = PΔV (pressure × volume change).
+- Refrigerator. Heat engine ka ULTA — sink se heat nikal kar source ko deta hai.
+  Coefficient of performance COP = Q₂/W = T₂/(T₁−T₂) (kelvin mein). Ye engine ki
+  efficiency ka reciprocal NAHI hai.
+- Polytropic process PVⁿ = constant. n = 1 → isothermal, n = γ → adiabatic. Work done W
+  = (P₁V₁ − P₂V₂)/(n − 1).
+3. KEY RELATIONS
+
+- ΔQ = ΔU + ΔW ; isothermal: Q = W, ΔU = 0 ; adiabatic: Q = 0, ΔU = −W.
+- η = 1 − T₂/T₁ ; η = W/Q₁ (W = ηQ₁). 75% of 300 J → 225 J.
+- 127 °C–327 °C → 400 K–600 K → η = 1 − 400/600 = 33.3%.
+- 200 J work ON gas (adiabatic) → ΔU = +200 J.
+- Isochoric: W = 0, ΔQ = ΔU ; Isobaric: W = PΔV.
+- Refrigerator COP = T₂/(T₁ − T₂). 0 °C–100 °C → 273/100 = 2.73.
+- PV² = constant → W = (P₁V₁ − P₂V₂)/(2 − 1).
+4. FORMULAS
+
+- ΔQ = ΔU + ΔW ; η_carnot = 1 − T₂/T₁ ; η = W/Q₁
+- T(K) = t(°C) + 273
+- Isochoric: W = 0 ; Isobaric: W = PΔV ; COP_ref = T₂/(T₁−T₂)
+- PVⁿ = const → W = (P₁V₁ − P₂V₂)/(n−1)
+Symbol meanings: ΔQ = heat supplied, ΔU = internal energy change, ΔW = work by system,
+T₁ = source temp, T₂ = sink temp (both kelvin), Q₁ = heat absorbed.
+5. CONDITIONS / SPECIAL CASES
+
+- Carnot η = 1/6, sink 62 °C kam → η double: T₁ = 372 K (99 °C), T₂ = 310 K (37 °C).
+- Isothermal Q = 100 J → W = 100 J, ΔU = 0.
+- Work 333 cal, ΔU 167 cal → Q = 333 + 167 = 500 cal.
+- Same 20 K gap: sabse LOW cold/hot ratio jita: 40 K/20 K → η = 50%.
+- Source temperature badhao → Carnot efficiency badhti hai.
+- Heat aur work PATH functions hain (process par depend karte hain); internal energy
+  STATE function hai (process par nahi).
+- P-V diagram: area under curve = work; adiabat isotherm se STEEPER (PV^γ).
+- Isochoric (V constant) → W = 0 → ΔQ = ΔU.
+- Refrigerator 0 °C & 100 °C → COP = 273/(373−273) = 2.73.
+- Gas law names: PV = constant (Boyle, T const); V ∝ T (Charles, P const); P ∝ T (Gay-
+  Lussac, V const).
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "ΔQ, ΔU, W" → first law.
+- "Isothermal / adiabatic" → ΔU = 0 / Q = 0.
+- "Carnot efficiency" → η = 1 − T₂/T₁ (kelvin!).
+- "∮(δQ−δW)" → 0.
+7. SOLVING METHODS
+
+- Carnot ke liye hamesha °C → K (add 273).
+- "Work ON gas" → ΔU up; "BY gas" → ΔU down.
+- η double wale tricks: do equations bana ke solve karo.
+8. REAL PYQ EXAMPLES
+
+Q. The efficiency of a Carnot engine operating between 127 °C and 327 °C is:
+   Method: Carnot formula — pehle kelvin mein convert karo.
+   Solve: 400 K aur 600 K → η = 1 − 400/600 = 1/3 = 33.3%.
+   Takeaway: Carnot hamesha kelvin mein: °C + 273 pehle.
+
+Q. An adiabatic process occurs where 200 J of work is done on the gas. Change in internal energy:
+   Method: Adiabatic: Q = 0.
+   Solve: ΔU = −W = −(−200) = +200 J (work ON gas → ΔU badhta hai).
+   Takeaway: Work ON gas → ΔU +ve; work BY gas → ΔU −ve.
+
+Q. In an isothermal process, if heat given is 100 J, change in internal energy and work done are:
+   Method: Isothermal: T constant → ΔU = 0.
+   Solve: ΔQ = ΔU + W → 100 = 0 + W → W = 100 J.
+   Takeaway: Isothermal: ΔU = 0, Q = W.
+
+Q. Second law of thermodynamics defines:
+   Method: What the second law introduces.
+   Solve: Entropy (internal energy nahi, heat nahi).
+   Takeaway: Second law = entropy; zeroth law = temperature.
+
+Q. A Carnot engine has 75% efficiency and absorbs 300 J. Work done:
+   Method: η = W/Q₁.
+   Solve: W = 0.75 × 300 = 225 J.
+   Takeaway: W = η × Q₁ — efficiency ko heat se multiply karo.
+
+Q. Work done by a gas in an isochoric process is:
+   Method: Isochoric = constant volume.
+   Solve: ΔV = 0 → W = PΔV = 0.
+   Takeaway: Volume constant → koi work nahi (W = 0).
+
+Q. A Carnot refrigerator operates between 0 °C and 100 °C. Its coefficient of performance is:
+   Method: COP = T₂/(T₁−T₂).
+   Solve: COP = 273/(373−273) = 273/100 = 2.73.
+   Takeaway: COP = T_cold/(T_hot − T_cold) — kelvin mein.
+
+Q. A gas expands with PV² = constant from P₁ = 320 kPa, V₁ = 0.04 m³ to P₂ = 80 kPa. Work done:
+   Method: Polytropic work formula (n = 2).
+   Solve: V₂ = V₁√(P₁/P₂) = 0.04 × 2 = 0.08 m³.
+       W = (P₁V₁ − P₂V₂)/(n−1) = (12800 − 6400)/1 = 6400 J = 6.4 kJ.
+   Takeaway: W = (P₁V₁ − P₂V₂)/(n−1); pehle V₂ nikalo (PVⁿ = const se).
+
+9. 10-SECOND TRICKS
+
+- Isothermal → ΔU = 0, Q = W (instant).
+- Adiabatic → Q = 0, ΔU = −W.
+- η = 1 − T_cold/T_hot (hamesha kelvin).
+- Isochoric → W = 0 (instant).
+- Refrigerator COP = T_cold/(T_hot − T_cold).
+10. IMPORTANT FACTS
+
+- Second law entropy define karta hai; zeroth law temperature.
+- Full cycle pe ∮(δQ − δW) = 0.
+11. COMMON TRAPS
+
+TRAP: Carnot mein °C direct use karna.
+FIX:  Pehle 273 add karo (127 °C = 400 K).
+TRAP: Adiabatic expansion mein ΔU zero.
+FIX:  Expansion mein gas kaam karti hai → ΔU NEGATIVE.
+TRAP: Second law internal energy define karta hai.
+FIX:  Second law ENTROPY define karta hai.
+TRAP: Refrigerator ka COP = engine ki efficiency.
+FIX:  COP = T₂/(T₁−T₂) — engine η = 1 − T₂/T₁ se bilkul alag.
+TRAP: Isochoric mein gas kaam karti hai.
+FIX:  V constant → W = PΔV = 0.
+12. GRAPHS / DIAGRAMS
+
+- P-V: isotherm = hyperbola (PV = const); adiabat STEEPER (PV^γ = const).
+- Carnot cycle: 2 isotherms + 2 adiabats; enclosed area = net work per cycle.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -ΔQ = ΔU + ΔW ; isothermal ΔU = 0 ; adiabatic Q = 0
+- -η_carnot = 1 − T₂/T₁ (kelvin) ; η = W/Q₁
+- -127–327 °C → 33.3% ; work ON gas → ΔU up
+
+================================================================================
+CHAPTER 9 - KINETIC THEORY OF GASES
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter gas ko molecules ke level par samajhta hai. Idhar 4-5 fixed facts hain: ideal
+gas assumptions, KE-temperature relation, γ = Cp/Cv, sound speed in gas, aur van der
+Waals constant. Sab compact aur direct hain.
+2. CORE CONCEPTS
+
+- What is an ideal gas? Bahut saare molecules, negligible volume, elastic collisions,
+  koi intermolecular force nahi (sirf collision ke waqt). Real gas mein ye assumptions
+  toot-ti hain, isliye van der Waals correction aata hai.
+- Pressure kahan se aata hai? Gas ke molecules walls se takra kar pressure banate hain.
+- What is KE-temperature relation? Average translational KE per molecule = (3/2)k_BT.
+  Poore gas ki E = (3/2)Nk_BT → yaad rakho 2E = 3k_BNT (N factor kB ke saath hai).
+- What are Cp and Cv? Cp = constant pressure par specific heat, Cv = constant volume
+  par. Inka ratio γ = Cp/Cv = 1 + 2/f, jahan f = degrees of freedom. Diatomic (f=5) →
+  γ = 1.4; monatomic (f=3) → γ = 1.66.
+- What is sound speed in a gas? v = √(γP/ρ). Constant temperature par pressure double
+  karo to density bhi double → v UNCHANGED.
+- What is rms speed? Molecules ki speeds ka root-mean-square: v_rms = √(3RT/M) = √(3P/ρ)
+  = √(3k_BT/m). Matlab: v_rms ∝ √T (temperature ka square root) aur v_rms ∝ 1/√M
+  (molar mass ka ulta square root). Constant temperature par pressure se INDEPENDENT
+  hai.
+- Gas law names. Boyle: PV = constant (T const). Charles: V ∝ T (P const). Gay-Lussac: P
+  ∝ T (V const). Teeno milkar ideal gas law PV = nRT banate hain.
+3. KEY RELATIONS
+
+- PV = nRT = Nk_BT ; KE/molecule = (3/2)k_BT.
+- γ = Cp/Cv = 1 + 2/f ; diatomic 1.4 ; monatomic 1.66.
+- v = √(γP/ρ) — constant T par pressure se independent.
+- van der Waals: (P + a/V²)(V − b) = RT ; a ka dimension [ML⁵T⁻²].
+- v_rms = √(3RT/M) = √(3P/ρ). O₂ (M = 32) at 300 K → 483 m/s; at 1200 K → 483 × 2 = 966
+  m/s.
+- Pressure double + T half → v_rms ×(1/√2) (P se independent, sirf √T se).
+- Boyle: PV const; Charles: V ∝ T; Gay-Lussac: P ∝ T.
+4. FORMULAS
+
+- PV = nRT ; E = (3/2)Nk_BT ; γ = Cp/Cv = 1 + 2/f
+- v = √(γP/ρ) ; van der Waals 'a' : [ML⁵T⁻²]
+- v_rms = √(3RT/M) = √(3P/ρ) ; v_rms ∝ √T, ∝ 1/√M
+- Boyle: PV = const ; Charles: V ∝ T ; Gay-Lussac: P ∝ T
+Symbol meanings: P = pressure, V = volume, T = temperature (K), n = moles, N = number of
+molecules, k_B = Boltzmann constant, f = degrees of freedom.
+5. CONDITIONS / SPECIAL CASES
+
+- Diatomic γ = 1.4 ; monatomic γ = 1.66.
+- Pressure double (constant T) → sound speed SAME (ρ bhi double).
+- 27 °C ka rise = 27 K ka rise (1 °C interval = 1 K).
+- van der Waals 'a' = attraction correction, 'b' = molecular volume.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "KE vs temperature" → E = (3/2)Nk_BT.
+- "γ of a gas" → diatomic 1.4, monatomic 1.66.
+- "Sound speed vs pressure" → unchanged.
+- "van der Waals a" → [ML⁵T⁻²].
+7. SOLVING METHODS
+
+- KE-T relation: N factor sahi jagah — 2E = 3k_BNT.
+- γ = 1 + 2/f (f = degrees of freedom).
+8. REAL PYQ EXAMPLES
+
+Q. In gases of diatomic molecules, the ratio of the two specific heats Cp/Cv is:
+   Method: γ = 1 + 2/f with f = 5 (diatomic).
+   Solve: γ = 1 + 2/5 = 7/5 = 1.4.
+   Takeaway: Diatomic = 1.4 ; monatomic = 1.66.
+
+Q. The velocity of sound in air is 332 m/s. If the pressure is doubled, the velocity becomes:
+   Method: v = √(γP/ρ); constant T par ρ bhi double.
+   Solve: P/ρ ratio same → v unchanged = 332 m/s.
+   Takeaway: Constant T par sound speed pressure se independent.
+
+Q. The relationship between translational KE (E) of gas molecules and temperature (T) is:
+   Method: KE-temperature relation with N molecules.
+   Solve: E = (3/2)Nk_BT → 2E = 3k_BNT.
+   Takeaway: 2E = 3k_BNT — N factor kB ke saath.
+
+Q. The dimensional formula of constant 'a' in van der Waals equation (P + a/V²)(V − b) = RT:
+   Method: a/V² ka dimension pressure ke barabar.
+   Solve: [a] = [P][V²] = ML⁻¹T⁻² × L⁶ = ML⁵T⁻².
+   Takeaway: a/V² pressure jaisa → a ka dimension [ML⁵T⁻²].
+
+Q. The rms speed of oxygen molecules at 300 K is about 483 m/s. The rms speed at 1200 K is:
+   Method: v_rms ∝ √T.
+   Solve: v₂ = v₁ × √(1200/300) = 483 × 2 = 966 m/s.
+   Takeaway: Temperature 4× → rms speed 2× (√4).
+
+Q. The rms speed of a gas is v. If pressure is doubled and temperature is halved, the new rms speed is:
+   Method: v_rms ∝ √T (constant T par pressure se independent).
+   Solve: v' = v × √(1/2) = v/√2.
+   Takeaway: rms speed sirf √T aur 1/√M par depend — pressure nahi.
+
+Q. PV = constant at constant temperature is which law?
+   Method: Gas law names.
+   Solve: Boyle's law (T constant → PV constant).
+   Takeaway: Boyle = PV; Charles = V/T; Gay-Lussac = P/T.
+
+9. 10-SECOND TRICKS
+
+- Diatomic → 1.4 ; monatomic → 1.66 (one-word answers).
+- Sound speed pressure se independent (constant T).
+- van der Waals 'a' → [ML⁵T⁻²].
+- rms speed: T 4× → v 2× ; M 4× → v half.
+- Boyle PV, Charles V/T, Gay-Lussac P/T.
+10. IMPORTANT FACTS
+
+- Kinetic theory gas ko point-like, random motion wale particles maanti hai.
+- Temperature 27 °C badhana = 27 K badhana.
+11. COMMON TRAPS
+
+TRAP: Diatomic γ = 1.66.
+FIX:  1.66 monatomic hai; diatomic = 1.4.
+TRAP: Pressure double → sound speed double.
+FIX:  Constant T par ρ bhi double → v unchanged.
+TRAP: E = (3/2)Nk_BT mein N bahar hota hai.
+FIX:  2E = 3k_BNT — N, kB ke saath hi hota hai.
+12. GRAPHS / DIAGRAMS
+
+- KE vs T: origin se straight line (E ∝ T).
+- Sound speed vs pressure (constant T): flat line.
+- P-V: isotherm hyperbola vs steeper adiabat.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -PV = nRT ; 2E = 3k_BNT
+- -γ = 1 + 2/f ; diatomic 1.4 ; monatomic 1.66
+- -v = √(γP/ρ) ; van der Waals a: [ML⁵T⁻²]
+
+================================================================================
+CHAPTER 10 - OSCILLATIONS AND WAVES
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter do cheezein cover karta hai: SHM (simple harmonic motion) aur waves
+(sound/mechanical vs EM). SHM ke questions fixed pattern ke hain — velocity at x = A/2,
+amax/vmax ratio, energy ∝ A².
+2. CORE CONCEPTS
+
+- What is SHM? Wo motion jisme restoring force displacement ke ∝ aur opposite hota hai:
+  F = −kx. Mean position ke around back-and-forth oscillation.
+- Mean vs extreme. Mean position par velocity MAXIMUM aur acceleration ZERO. Extreme par
+  velocity zero aur acceleration MAXIMUM. Ye hi sabse common question hai.
+- SHM velocity. v = ω√(A² − x²). Mean (x=0) par v = vmax = ωA; extreme (x=A) par v = 0.
+- What is a wave? Energy ka ek jagah se dusri jagah transfer, bina matter transfer ke.
+  Mechanical waves (sound) ko medium chahiye; EM waves ko nahi.
+- Sound. Mechanical wave; speed solids > liquids > gases. Bats ultrasonic waves
+  (reflection) se obstacles detect karte hain.
+- What is a wave number? k = 2π/λ — 2π length mein kitni waves (propagation constant bhi
+  kehte hain). y = A sin(ωt − kx) mein x ka coefficient hi k hai.
+- What is a stationary wave? Do SAME waves opposite directions mein milti hain to
+  stationary wave banti hai. Isme ENERGY TRANSFER NAHI hota (energy nodes ke beech
+  trapped). Nodes = zero displacement, antinodes = maximum.
+- What is intensity of a wave? Intensity ∝ (amplitude)² — amplitude double → intensity
+  4×.
+- SHM phase relations. x = A sin ωt. Velocity v = dx/dt leads x by 90°; acceleration a =
+  −ω²x is 180° out of phase with x (a leads v by 90°). Mean par v max; extreme par a
+  max.
+- Phase difference of two waves. y = A sin(ωt + φ₁) aur y = A sin(ωt + φ₂) → phase
+  difference = |φ₁ − φ₂|.
+3. KEY RELATIONS
+
+- v = ω√(A² − x²) ; vmax = ωA = 2πA/T.
+- x = A/2 par: v = vmax√(3/4) = (√3/2)vmax.
+- Ratio amax/vmax = ω = 2πf.
+- a = ω²x → ω = √(a/x) = √(2/0.02) = 10 rad/s.
+- SHM energy E ∝ A² (A double → KE ×4).
+- k = 2π/λ ; v = ω/k ; particle velocity in wave: v_max = Aω.
+- I ∝ A² ; stationary wave → energy transfer ZERO.
+- SHM: v leads x by 90°; a leads v by 90° (a = −ω²x).
+- Time to reach x from mean: t = (T/2π) × sin⁻¹(x/A). Mean → A/2: t = T/12 (fixed
+  value).
+- Two waves: Δφ = |φ₁ − φ₂| (π/3 − π/4 = π/12).
+4. FORMULAS
+
+- T = 2π√(m/k) (spring) ; T = 2π√(L/g) (pendulum)
+- vmax = ωA ; amax = ω²A ; v = ω√(A²−x²) ; E = (1/2)mω²A²
+- k = 2π/λ ; v = ω/k ; I ∝ A²
+- Particle velocity in wave: v_max = Aω
+Symbol meanings: A = amplitude, ω = angular frequency, x = displacement from mean, T =
+time period, f = frequency, m = mass, k = spring constant, L = pendulum length.
+5. CONDITIONS / SPECIAL CASES
+
+- Mean: v max, a = 0. Extreme: v = 0, a max.
+- A double → max KE ×4 (KE ∝ A²).
+- Sound: solids > liquids > gases speed.
+- Pendulum length badhao → T badhta hai (T ∝ √L).
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Velocity at x = A/2" → (√3/2)vmax.
+- "amax/vmax ratio" → ω = 2πf.
+- "ω from a and x" → √(a/x).
+- "Sound vs EM / medium" → sound mechanical.
+7. SOLVING METHODS
+
+- x = A/2 → vmax ko √3/2 se multiply.
+- Angular speed: ω = √(a/x).
+- Energy: E ∝ A².
+8. REAL PYQ EXAMPLES
+
+Q. Velocity at mean position of a particle executing SHM is v. Velocity at a distance equal to half the amplitude is:
+   Method: v = ω√(A² − x²) at x = A/2.
+   Solve: v = vmax√(1 − 1/4) = vmax × √3/2 = (√3/2)v.
+   Takeaway: x = A/2 → v = (√3/2)vmax — standard value yaad rakho.
+
+Q. A body executing SHM has amplitude 0.01 m and frequency 50 Hz. The ratio of max acceleration to max velocity is:
+   Method: amax/vmax = ω = 2πf.
+   Solve: amax/vmax = 2π × 50 = 100π.
+   Takeaway: Ye ratio hamesha ω = 2πf hota hai.
+
+Q. The displacement and acceleration of a harmonic oscillator are 0.02 m and 2 m/s². Its angular speed is:
+   Method: a = ω²x.
+   Solve: ω = √(a/x) = √(2/0.02) = √100 = 10 rad/s.
+   Takeaway: ω = √(a/x) — instantaneous a aur x se direct.
+
+Q. Which of the following is NOT an electromagnetic wave?
+   Method: EM vs mechanical distinction.
+   Solve: Radio, IR, UV EM hain; SOUND mechanical hai.
+   Takeaway: Sound = mechanical (medium chahiye); EM ko nahi.
+
+Q. If the amplitude of SHM is doubled, maximum kinetic energy increases by:
+   Method: KE ∝ A².
+   Solve: 2² = 4 → 4 times.
+   Takeaway: Energy ∝ A² — amplitude double → energy ×4.
+
+Q. In y = a sin(ωt + kx), the quantity k is called:
+   Method: Wave parameters.
+   Solve: k = wave number / propagation constant = 2π/λ.
+   Takeaway: k = 2π/λ — x ka coefficient.
+
+Q. In which type of wave is energy not transferred?
+   Method: Stationary wave property.
+   Solve: Stationary wave (standing wave) — energy nodes ke beech trapped.
+   Takeaway: Stationary = no energy transfer; progressive = energy travels.
+
+Q. The phase difference between velocity and acceleration in SHM is:
+   Method: SHM phase relations.
+   Solve: v leads x by 90°; a = −ω²x (180° from x) → v aur a mein 90°.
+   Takeaway: SHM: v leads x by 90°; a leads v by 90°.
+
+Q. Two waves y₁ = 20 sin(4πt + π/4) and y₂ = 20 sin(4πt + π/3). Phase difference:
+   Method: Δφ = |φ₁ − φ₂|.
+   Solve: Δφ = π/3 − π/4 = π/12.
+   Takeaway: Same ω → phase difference = phases ka antar.
+
+Q. Intensity of light depends on:
+   Method: I ∝ A².
+   Solve: Intensity ∝ (amplitude)² — frequency/wavelength se nahi.
+   Takeaway: Amplitude double → intensity 4×.
+
+9. 10-SECOND TRICKS
+
+- Mean → v max ; extreme → a max.
+- x = A/2 → (√3/2)vmax ; A double → energy ×4.
+- k = 2π/λ ; stationary → no energy transfer.
+- Intensity ∝ A² ; v leads x by 90°, a leads v by 90°.
+10. IMPORTANT FACTS
+
+- Ultrasonic > 20 kHz; sound speed in air ≈ 332 m/s.
+- Echo sunne ke liye minimum distance ≈ 17 m (sound 340 m/s, 0.1 s ka gap).
+- SHM examples: pendulum (chhota angle), spring-block. NOT SHM: uniform circular motion,
+  earth ka rotation.
+11. COMMON TRAPS
+
+TRAP: Sound ek EM wave hai.
+FIX:  Sound mechanical wave hai; radio/IR/UV EM hain.
+TRAP: Mean position par velocity zero.
+FIX:  Mean par velocity MAXIMUM hoti hai.
+TRAP: Solids mein sound sabse dheemi hoti hai.
+FIX:  Solids > liquids > gases (solids mein sabse tez).
+12. GRAPHS / DIAGRAMS
+
+- SHM x-t sinusoidal; v x se 90° aage, a x se 180° aage.
+- Energy vs position: PE parabola (∝ x²), total energy horizontal line.
+- Transverse (crest-trough) vs longitudinal (compression-rarefaction).
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -v = ω√(A²−x²) ; vmax = ωA ; amax = ω²A ; amax/vmax = 2πf
+- -x = A/2 → (√3/2)vmax ; A doubled → KE ×4
+- -Sound: mechanical; solids > liquids > gases ; bats = ultrasonic
+
+================================================================================
+CHAPTER 11 - ELECTROSTATICS
+================================================================================
+
+1. INTRODUCTION
+
+Electrostatics = rest par charges ka study. Idhar chaar fixed areas hain: Coulomb's
+force, electric field/potential, dipole, aur capacitors. Sab formula-based hain aur
+ratios se turant solve hote hain.
+2. CORE CONCEPTS
+
+- What does a charge at rest produce? Sirf ELECTRIC field (magnetic field nahi).
+  Magnetic field sirf MOVING charge banata hai. Ye direct fact-question hai.
+- What is Coulomb's law? F = k q₁q₂/r² (k = 9×10⁹). Medium (dielectric) mein force ghat
+  jaati hai: F' = F/K = F/εᵣ.
+- What is electric field? E = F/q = kq/r² (point charge). Parallel plates ke beech
+  uniform field E = V/d.
+- What is potential? V = kq/r. Conductors ke ANDAR field zero aur potential constant
+  hota hai.
+- What is a dipole? +q aur −q ka pair, separation d. Dipole moment p = qd. Field mein
+  dipole par torque τ = pE sinθ.
+- What is a capacitor? Charge store karne wala device. C = Q/V = ε₀A/d. Energy U =
+  (1/2)CV² = Q²/2C.
+- What is potential difference from work? V = W/q — charge q ko move karne mein jo work
+  W karna pade, wo potential difference se aata hai. Equipotential surface (same V)
+  par move karne mein work = 0.
+- What is surface charge density? σ = Q/A — charge per area. Spherical shell: σ =
+  Q/(4πR²). Thin shell ke just bahar E = σ/ε₀.
+- What is charge quantisation? Charge discrete hota hai: q = ne (n = integer, e =
+  1.6×10⁻¹⁹ C). e ka koi fraction possible nahi.
+- How does a dipole's field vary with r? Axial aur equatorial dono par E ∝ 1/r³;
+  potential V ∝ 1/r². (Point charge ke E ∝ 1/r² se zyada jaldi girta hai.)
+- PE of a charge system. Do charges ki PE = kq₁q₂/r. Teen charges equilateral triangle
+  (side x) par system ki U = 3kQ²/x — aur yehi work hai system arrange karne mein.
+3. KEY RELATIONS
+
+- F = kq₁q₂/r² ; E = F/q = kq/r² ; E(plates) = V/d.
+- Field ratio: E₂/E₁ = (q₂/q₁)(r₁/r₂)². 2 μC at r vs 8 μC at 2r → (8/2)(1/2)² = 1.
+- C = ε₀A/d ; U = (1/2)CV² = Q²/2C.
+- Series: 1/C = 1/C₁ + 1/C₂ ; Parallel: C = C₁ + C₂.
+- Dipole SHM: ω = √(2qE/md).
+- Gauss: ∮E·dA = q/ε₀ (electricity) ; ∮B·dA = 0 (magnetism).
+- V = W/q ; equipotential par W = 0.
+- σ = Q/A = Q/4πR² (shell) ; E(shell outside) = σ/ε₀.
+- q = ne (quantisation); e = 1.6×10⁻¹⁹ C.
+- Conductor ka saara charge OUTER surface par rehta hai (E inside = 0) — external field
+  mein bhi redistribution surface par hi hoti hai.
+- Do charges ke beech CONDUCTOR plate rakho → net force ZERO ho jaata hai (conductor ke
+  andar E = 0).
+- Dipole: E ∝ 1/r³, V ∝ 1/r². System PE: U = kq₁q₂/r.
+4. FORMULAS
+
+- F = (1/4πε₀) q₁q₂/r² ; E = F/q = kq/r² ; E = V/d
+- τ = pE sinθ (p = qd) ; dipole SHM ω = √(2qE/md)
+- C = Q/V = ε₀A/d ; U = (1/2)CV² = Q²/2C
+- V = W/q ; σ = Q/A ; E = σ/ε₀ (just outside conductor)
+- U_system = k q₁q₂/r ; dipole: E ∝ 1/r³, V ∝ 1/r²
+Symbol meanings: q = charge, r = distance, k = 9×10⁹ Nm²/C², E = field, V = potential, p
+= dipole moment, C = capacitance, ε₀ = permittivity, A = plate area, d = separation.
+5. CONDITIONS / SPECIAL CASES
+
+- Dielectric K=2 → force F/2.
+- Charged spherical conductor ke andar: E = 0, V constant.
+- Plates −10 V aur +30 V, 2 cm → E = 40/0.02 = 2000 V/m.
+- 3 × 4 μF → 6 μF: do series (2 μF) + ek parallel.
+- Distance badhao (charge constant) → C ghate, U = Q²/2C badhe. d double → C half (10 μF
+  → 5 μF).
+- −5 C ko 100 J mein move karo → V = W/q = 100/5 = 20 V.
+- Equipotential (5 V) par 10 C move → W = qΔV = 10 × 0 = 0.
+- Shell σ = 88.54 C/m², 12 mm bahar → E = σ/ε₀ = 88.54/8.85×10⁻¹² ≈ 10¹³ N/C.
+- 3 charges +Q triangle side x → U = 3kQ²/x.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "E₂:E₁ (q, r diye)" → (q₂/q₁)(r₁/r₂)².
+- "Force in medium" → F/K.
+- "Capacitor combination / energy" → series/parallel, U = Q²/2C.
+- "Dipole oscillation" → ω = √(2qE/md).
+- "Field inside conductor" → 0.
+- "Work to move charge" → V = W/q.
+- "Surface charge density / shell" → σ = Q/A.
+- "Dipole field vs distance" → ∝ 1/r³.
+7. SOLVING METHODS
+
+- Field ratio: charge aur distance alag-alag scale karo.
+- Capacitor network: step-by-step reduce.
+- Energy vs distance (Q const): U ∝ d.
+8. REAL PYQ EXAMPLES
+
+Q. A point charge 2 μC produces E₁ at distance r; another 8 μC at 2r produces E₂. Ratio E₂ : E₁ is:
+   Method: E ∝ q/r².
+   Solve: E₂/E₁ = (8/2) × (r/2r)² = 4 × 1/4 = 1.
+   Takeaway: Distance ratio ko SQUARE karo: (1/2)² = 1/4.
+
+Q. Two plates are at potentials −10 V and +30 V, separation 2 cm. The electric field is:
+   Method: E = ΔV/d.
+   Solve: E = (30 − (−10))/0.02 = 40/0.02 = 2000 V/m.
+   Takeaway: Total ΔV lo (−10 se +30 = 40 V).
+
+Q. The force between two charges is F. If a medium of relative permittivity 2 is introduced, the force becomes:
+   Method: F' = F/εᵣ.
+   Solve: F' = F/2.
+   Takeaway: Dielectric K → force F/K.
+
+Q. Three capacitors of 4 μF each are connected to give 6 μF. This is done by:
+   Method: Capacitor combination.
+   Solve: Do series (2 μF) + ek parallel (4 μF) → 2 + 4 = 6 μF.
+   Takeaway: 2 series (2 μF) + 1 parallel = 6 μF.
+
+Q. If the distance between capacitor plates is increased keeping charge constant, stored energy:
+   Method: U = Q²/2C, C = ε₀A/d.
+   Solve: C ∝ 1/d → C ghatta → U badhta hai.
+   Takeaway: Charge constant + d↑ → U↑ (Q²/2C).
+
+Q. A charge at rest produces:
+   Method: Field of a static charge.
+   Solve: Electric field only (no magnetic field).
+   Takeaway: Rest charge → E only; moving charge → E + B.
+
+Q. The work done on moving a charge of −5 C in an electric field is 100 J. The potential difference is:
+   Method: V = W/q.
+   Solve: V = 100/5 = 20 V (magnitude — sign sirf direction batata hai).
+   Takeaway: V = W/q — work ko charge se divide.
+
+Q. The work done in moving a charge of 10 C between two points on a 5 V equipotential surface is:
+   Method: Equipotential → same V → ΔV = 0.
+   Solve: W = qΔV = 10 × 0 = 0.
+   Takeaway: Equipotential surface par move → work ZERO.
+
+Q. Three charges +Q are at the vertices of an equilateral triangle of side x. Work to assemble them:
+   Method: System PE = sum of pair energies.
+   Solve: U = 3 × kQ²/x (teen pair, har pair ki energy kQ²/x).
+   Takeaway: Triangle: 3 pair → 3kQ²/x.
+
+Q. The electric field strength and potential due to a dipole vary with distance r as:
+   Method: Dipole distance dependence.
+   Solve: E ∝ 1/r³ ; V ∝ 1/r².
+   Takeaway: Dipole E ∝ r⁻³ (point charge ke r⁻² se tez girta hai).
+
+9. 10-SECOND TRICKS
+
+- Rest charge → electric field only.
+- Dielectric K → force F/K.
+- E inside conductor = 0 (hamesha).
+- Equipotential move → W = 0.
+- Dipole: E ∝ 1/r³, V ∝ 1/r².
+10. IMPORTANT FACTS
+
+- ε₀ unit: C²N⁻¹m⁻².
+- Gauss magnetism: ∮B·dA = 0 (no monopoles).
+11. COMMON TRAPS
+
+TRAP: E₂:E₁ mein distance ratio square karna bhoolna.
+FIX:  (r₁/r₂)² hamesha likho.
+TRAP: Charge constant, distance badhao → U ghate.
+FIX:  C = ε₀A/d ghata hai → U = Q²/2C BADHTA hai.
+TRAP: Rest charge magnetic field bhi banata hai.
+FIX:  Rest charge sirf electric field banata hai.
+12. GRAPHS / DIAGRAMS
+
+- Field lines: + se nikalti, − par khatam; kabhi cross nahi.
+- E vs r (point charge): 1/r² curve.
+- Equipotential surfaces field lines ke ⊥.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -F = kq₁q₂/r² (medium /K) ; E = kq/r² ; E = V/d
+- -τ = pE sinθ ; dipole SHM ω = √(2qE/md)
+- -C = ε₀A/d ; U = (1/2)CV² = Q²/2C
+- -E inside conductor = 0 ; V constant
+
+================================================================================
+CHAPTER 12 - CURRENT ELECTRICITY
+================================================================================
+
+1. INTRODUCTION
+
+Current electricity = moving charges. Ohm's law, resistance, series/parallel,
+Kirchhoff's laws aur power — ye sab hi exam ke core hain. Fixed numericals hain jo ratio
+method se turant solve hote hain.
+2. CORE CONCEPTS
+
+- What is current? I = Q/t — charge ke flow ki rate. Conventional current positive
+  charge ki direction mein maana jaata hai. Wire current flow ke waqt NEUTRAL rehti
+  hai (electrons aate-jaate hain, charge balance rehta hai).
+- What is Ohm's law? V = IR. Resistance R = ρL/A — material (ρ), length aur area par
+  depend karta hai.
+- What are Kirchhoff's laws? KCL (current law) = CHARGE conservation (junction par
+  current in = out). KVL (voltage law) = ENERGY conservation (loop mein voltage sum =
+  0).
+- What is power? P = VI = I²R = V²/R. AC mein Pavg = Vrms Irms cosφ.
+- What is internal resistance? Battery ke andar ki khud ki resistance r. Circuit mein
+  current I = E/(R + r). Terminal voltage V = E − Ir (current draw karne par EMF se
+  kam).
+- What is drift velocity? Electrons ka average slow net motion (electric field ke
+  against): I = neAv_d. n = electrons/m³, e = charge, A = area, v_d = drift velocity.
+  I aur A dono double → v_d SAME (2/2 = 1).
+- What is conductance? Resistance ka reciprocal: G = 1/R, unit siemens (S).
+- What is a temperature coefficient? R = R₀(1 + αΔT). Metals ka α positive (R badhta
+  hai), semiconductors ka α NEGATIVE (R ghatta hai).
+3. KEY RELATIONS
+
+- R = ρL/A : length aur area DONO double → R SAME (2/2 = 1).
+- ρ₁ = 2×10⁻⁸, ρ₂ = 6×10⁻⁸ (same L, A) → R₁/R₂ = 1:3.
+- Parallel (2 resistors): product/sum → 10 kΩ ∥ 30 kΩ = 7.5 kΩ.
+- 3 equal R parallel + R series → 4R/3.
+- Same battery: E = I₁R₁ = I₂R₂.
+- p(t) = v(t)·i(t) ; w(t) = ∫p(t)dt.
+- I = E/(R+r) ; V_terminal = E − Ir. (E = 4 V, r = 2 Ω, R = 7 Ω → I = 4/9 A.)
+- I = neAv_d → v_d ∝ I/A. I aur A dono double → v_d unchanged.
+- EMF cell ke ELECTRODES/electrolyte par depend karta hai — circuit (R, I) par nahi.
+- R aur V se length: R = ρL/A, V = AL → L = √(RV/ρ).
+4. FORMULAS
+
+- V = IR ; R = ρL/A ; Rs = R₁ + R₂ ; 1/Rp = 1/R₁ + 1/R₂
+- P = VI = I²R = V²/R ; Pavg = Vrms Irms cosφ
+- I = E/(R+r) ; V = E − Ir ; G = 1/R
+- I = neAv_d ; R = R₀(1 + αΔT)
+Symbol meanings: I = current, V = voltage, R = resistance, ρ = resistivity, L = length,
+A = cross-sectional area, P = power.
+5. CONDITIONS / SPECIAL CASES
+
+- L double → R double; A double → R half; dono → no change.
+- Semiconductor (germanium) mein temperature badhne par R GHATTA hai.
+- V = 100 sin100t, I = 100 sin(100t+π/3) mA → Pavg = (100/√2)(0.1/√2)cos60° = 2.5 W.
+- Resistivity material property hai; resistance shape par depend karta hai.
+- Battery 4 V, r = 2 Ω, R = 7 Ω → I = 4/(7+2) = 4/9 A.
+- I aur A dono double → v_d SAME (I/A ratio constant).
+- Heater wire: nichrome (high resistivity + high melting point).
+- n cells parallel (har cell r) → total internal resistance r/n.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "R = ρL/A (L, A badle)" → ratio method.
+- "Series/parallel" → product/sum (do resistors).
+- "KCL vs KVL" → charge vs energy.
+- "Same battery, two currents" → E equate karo.
+- "Battery + internal resistance" → I = E/(R+r).
+- "Drift velocity vs I, A" → I = neAv_d.
+7. SOLVING METHODS
+
+- Do resistors parallel: product/sum.
+- Same-battery problems: E = I₁R₁ = I₂R₂.
+- Resonance par cosφ = 1 → P = Erms Irms.
+8. REAL PYQ EXAMPLES
+
+Q. If two resistors of 10 kΩ and 30 kΩ are connected in parallel, the effective resistance is:
+   Method: Two-resistor parallel shortcut.
+   Solve: R = 10×30/(10+30) = 300/40 = 7.5 kΩ.
+   Takeaway: Product/sum — do resistors ke liye fastest.
+
+Q. When the length and area of cross-section both are doubled, the resistance:
+   Method: R = ρL/A.
+   Solve: R' = ρ(2L)/(2A) = ρL/A = R → unchanged.
+   Takeaway: L aur A dono double → R SAME (2/2 = 1).
+
+Q. The current in a circuit is 5 A. When 2 Ω is added, it drops to 4 A. The original resistance is:
+   Method: Same battery → same emf.
+   Solve: 5R = 4(R+2) → 5R = 4R+8 → R = 8 Ω.
+   Takeaway: E = I₁R₁ = I₂R₂ equate karo.
+
+Q. Kirchhoff's current law is based on conservation of ____ while voltage law is based on conservation of ____:
+   Method: KCL vs KVL meaning.
+   Solve: KCL = charge ; KVL = energy.
+   Takeaway: KCL charge, KVL energy — order yaad rakho.
+
+Q. In an AC circuit V = 100 sin(100t) V and I = 100 sin(100t + π/3) mA. Power dissipated:
+   Method: Pavg = Vrms Irms cosφ.
+   Solve: P = (100/√2)(0.1/√2)(cos60°) = 5 × 0.5 = 2.5 W.
+   Takeaway: Peak → rms (/√2), phir cosφ multiply karo.
+
+Q. Two wires have resistivities 2×10⁻⁸ and 6×10⁻⁸ Ωm with same length and area. Ratio R₁/R₂:
+   Method: R ∝ ρ (same L, A).
+   Solve: R₁/R₂ = 2/6 = 1:3.
+   Takeaway: Same shape → R ∝ ρ directly.
+
+Q. A battery of EMF 4 V and internal resistance 2 Ω is connected to a 7 Ω resistor. The current is:
+   Method: I = E/(R+r).
+   Solve: I = 4/(7+2) = 4/9 A.
+   Takeaway: Total resistance = R + r (battery ka r bhi series mein).
+
+Q. The drift velocity of electrons is v for current I and area A. If I and A both double, new drift velocity is:
+   Method: I = neAv_d → v_d = I/(neA).
+   Solve: v_d' = (2I)/(ne·2A) = v_d → same.
+   Takeaway: I aur A dono ×2 → ratio same → v_d unchanged.
+
+Q. Which equation shows the relation between current i and drift velocity v_d?
+   Method: I = neAv_d.
+   Solve: i = neAv_d (n = free electrons/m³, e = charge, A = area).
+   Takeaway: i = neAv_d — drift velocity ka defining relation.
+
+Q. On increasing temperature, the resistance of semiconductors:
+   Method: Semiconductor temperature behaviour.
+   Solve: Semiconductor: R GHATTA hai (negative temperature coefficient).
+   Takeaway: Metals R ↑, semiconductors R ↓ with temperature.
+
+9. 10-SECOND TRICKS
+
+- L aur A dono double → R unchanged.
+- 10 kΩ ∥ 30 kΩ → 7.5 kΩ.
+- KCL = charge, KVL = energy.
+- I = E/(R+r) ; V = E − Ir.
+- I aur A dono double → drift velocity same.
+10. IMPORTANT FACTS
+
+- Conventional current = positive charge ka flow.
+- Conductor: R ↑ with T; semiconductor: R ↓ with T.
+11. COMMON TRAPS
+
+TRAP: KCL energy ka conservation hai.
+FIX:  KCL = charge, KVL = energy (order matter karta hai).
+TRAP: Wire current flow mein charged ho jaati hai.
+FIX:  Wire neutral rehti hai.
+TRAP: L aur A dono double → R double ya half.
+FIX:  2/2 = 1 → R unchanged.
+TRAP: Terminal voltage hamesha EMF ke barabar hoti hai.
+FIX:  V = E − Ir — current draw karne par EMF se kam.
+TRAP: Drift velocity electrons ki itni hi hoti hai jitni current.
+FIX:  Drift velocity bahut slow (~mm/s); electric field tez travel karta hai.
+12. GRAPHS / DIAGRAMS
+
+- Ohm's law: V-I straight line through origin, slope = R.
+- Non-ohmic (diode, filament): curved V-I.
+- Series: ek path, same current; parallel: same voltage, split current.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -R = ρL/A ; series/parallel rules
+- -P = VI = I²R = V²/R ; Pavg = Vrms Irms cosφ
+- -KCL = charge ; KVL = energy ; wire neutral
+
+================================================================================
+CHAPTER 13 - MAGNETIC EFFECTS OF CURRENT AND MAGNETISM
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter current se magnetic field banane aur magnetic field mein charge par force
+padhne dono cover karta hai. Fixed patterns: wire/solenoid ka field, circular motion (r
+= mv/qB), magnetic moment, aur hysteresis.
+2. CORE CONCEPTS
+
+- What creates a magnetic field? Moving charge/current. Long wire ka field B = μ₀I/2πr
+  (∝ I/r). Solenoid ke andar B = μ₀nI (uniform).
+- What is Lorentz force? F = qvB sinθ. v ⊥ B ho to particle CIRCLE mein ghoomta hai: r =
+  mv/qB.
+- What is magnetic dipole moment? Coil ka m = NIA (N turns, area A). Direction right-
+  hand rule se: clockwise current (upar se dekho) → moment DOWNWARD.
+- What is the time period of circular motion? T = 2πm/qB — VELOCITY par depend NAHI
+  karta (sirf m, q, B).
+- What does the hysteresis loop area give? Energy loss per magnetisation cycle.
+- What is the field of a circular coil? Centre par B = μ₀I/2R (N turns → ×N). Axis par
+  distance x par B = μ₀IR²/2(R²+x²)^(3/2). (Solenoid ka B = μ₀nI ALAG hai.)
+- What is Biot–Savart law? Current element Idl ka field dB = (μ₀/4π) Idl sinθ/r². Wire
+  aur coil ke B formulas isi se aate hain.
+- What is a cyclotron? Charged particle ko circular paths mein accelerate karta hai.
+  Frequency f = qB/2πm (velocity se independent — sirf q, B, m).
+- Force between parallel currents. Same direction → ATTRACTION; opposite → repulsion.
+  F/L = μ₀I₁I₂/2πd.
+- Magnetic torque. Field mein magnet/loop par τ = MB sinθ (M = magnetic moment, B =
+  field). Maximum θ = 90° par.
+- What is susceptibility? χ = μᵣ − 1, jahan μᵣ = μ/μ₀ relative permeability. Diamagnetic
+  χ negative (temperature se independent); paramagnetic χ ∝ 1/T.
+- Ferromagnetic examples. Iron, nickel, cobalt (aluminium paramagnetic, copper
+  diamagnetic). Freely suspended magnet N–S align karta hai.
+3. KEY RELATIONS
+
+- B(wire) = μ₀I/2πr ; B(solenoid) = μ₀nI = μ₀(N/L)I.
+- r = mv/qB ; T = 2πm/qB (velocity independent).
+- m = NIA ; χ = μᵣ − 1 ; W = MH(1 − cosα).
+- Solenoid 50 cm, 100 turns, 2.5 A → B = 4π×10⁻⁷ × (100/0.5) × 2.5 = 6.28×10⁻⁴ T.
+- B(coil centre) = μ₀I/2R ; axis (x = R): B/√8.
+- Radius half (current same) → B ×2 (B ∝ 1/R).
+- Cyclotron: f = qB/2πm ; F/L = μ₀I₁I₂/2πd ; τ = MB sinθ.
+- Magnetic force hamesha velocity ke ⊥ hoti hai → koi WORK nahi karti → particle ki KE
+  CONSTANT rehti hai (sirf direction badalti hai).
+- χ = μᵣ − 1 ; μ = μ₀μᵣ.
+4. FORMULAS
+
+- F = qvB sinθ ; F = BIl sinθ ; B(wire) = μ₀I/2πr ; B(sol) = μ₀nI
+- r = mv/qB ; T = 2πm/qB ; m = NIA ; χ = μᵣ − 1
+- B(coil) = μ₀I/2R ; B_axis = μ₀IR²/2(R²+x²)^(3/2)
+- dB = (μ₀/4π) Idl sinθ/r² ; f_cyclotron = qB/2πm
+- F/L = μ₀I₁I₂/2πd ; τ = MB sinθ ; μ = μ₀μᵣ
+Symbol meanings: B = magnetic field (T), I = current, r = distance/radius, n = turns per
+metre, N = turns, A = area, m = dipole moment, q = charge, v = velocity, M = magnetic
+moment, H = field intensity.
+5. CONDITIONS / SPECIAL CASES
+
+- v ke ⊥ aur ∥ dono components → HELICAL path (sirf ⊥ → circle).
+- B badhao → radius ghatta hai (r = mv/qB).
+- T sirf m, q, B par depend; velocity par nahi.
+- Ferromagnetic above Curie temperature → PARAMAGNETIC.
+- 1 T = 10⁴ gauss. Angle of dip: poles 90°, equator 0°.
+- Coil radius half (I same) → centre B ×2.
+- Coil axis x = R → B_axis = B_centre/(2√2) = B/√8.
+- Parallel currents same direction → attract.
+- Diamagnetic: temperature se independent; paramagnetic: χ ∝ 1/T.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Wire/solenoid field" → μ₀I/2πr ; μ₀nI.
+- "Radius vs B" → ∝ 1/B.
+- "T of circular motion" → 2πm/qB (v nahi).
+- "Moment direction" → right-hand rule.
+- "Coil ke centre ka field" → μ₀I/2R (×N turns).
+- "Cyclotron frequency" → qB/2πm.
+- "Parallel wires" → μ₀I₁I₂/2πd (same → attract).
+7. SOLVING METHODS
+
+- Solenoid: n = N/L pehle, phir μ₀nI.
+- Radius vs field: inverse.
+- Magnet rotate: W = MH(1 − cosα).
+8. REAL PYQ EXAMPLES
+
+Q. A long solenoid of 50 cm length having 100 turns carries a current of 2.5 A. The field at the centre is (μ₀ = 4π×10⁻⁷ T m/A):
+   Method: B = μ₀nI with n = N/L.
+   Solve: B = 4π×10⁻⁷ × (100/0.5) × 2.5 = 6.28×10⁻⁴ T.
+   Takeaway: Pehle n = N/L nikalo, phir μ₀nI.
+
+Q. A charged particle moves perpendicular to a magnetic field. If the field is increased, the radius of its path:
+   Method: r = mv/qB → r ∝ 1/B.
+   Solve: B badhao → r ghatta hai.
+   Takeaway: r ∝ 1/B — increasing B shrinks the circle.
+
+Q. A charge moves in a circle perpendicular to a magnetic field. Its time period does NOT depend on:
+   Method: T = 2πm/qB.
+   Solve: T mein velocity nahi hai → velocity par depend nahi.
+   Takeaway: T = 2πm/qB — m, q, B par; v par nahi.
+
+Q. A long solenoid has n turns per metre and current I. The field inside is:
+   Method: Solenoid field formula.
+   Solve: B₀ = μ₀nI.
+   Takeaway: Solenoid B = μ₀nI; wire B = μ₀I/2πr — dono alag.
+
+Q. When viewed from above, current in a loop flows clockwise. The magnetic dipole moment points:
+   Method: Right-hand rule.
+   Solve: Clockwise (from above) → moment DOWNWARD.
+   Takeaway: Clockwise = down; anticlockwise = up.
+
+Q. The area enclosed by a complete hysteresis loop denotes:
+   Method: Meaning of hysteresis area.
+   Solve: Energy dissipated per magnetisation cycle.
+   Takeaway: Hysteresis area = energy loss per cycle.
+
+Q. Magnetic field at the centre of a circular coil of radius R carrying current I is B. The field on the axis at distance R is:
+   Method: B_axis = μ₀IR²/2(R²+x²)^(3/2) at x = R.
+   Solve: B_axis = μ₀IR²/2(2R²)^(3/2) = B/(2√2) = B/√8.
+   Takeaway: Axis x = R → B/√8 (centre ka 1/(2√2)).
+
+Q. If the radius of a current-carrying coil is halved keeping current same, field at centre:
+   Method: B = μ₀I/2R → B ∝ 1/R.
+   Solve: R/2 → B ×2.
+   Takeaway: Coil centre B ∝ 1/R (radius half → field double).
+
+Q. The angular frequency of a charged particle in a cyclotron is:
+   Method: Cyclotron frequency.
+   Solve: ω = qB/m (f = qB/2πm) — velocity se independent.
+   Takeaway: Cyclotron f = qB/2πm (sirf q, B, m).
+
+Q. For two parallel wires carrying currents Iₐ and I_b, force per length is:
+   Method: Force between parallel currents.
+   Solve: F/L = μ₀IₐI_b/2πd (same direction → attract).
+   Takeaway: Parallel wires: μ₀I₁I₂/2πd — attraction for same direction.
+
+Q. The relationship between magnetic susceptibility χ and permeability μ is:
+   Method: χ = μᵣ − 1, μ = μ₀μᵣ.
+   Solve: χ = (μ/μ₀) − 1 → μ = μ₀(1 + χ).
+   Takeaway: μᵣ = 1 + χ ; μ = μ₀μᵣ.
+
+9. 10-SECOND TRICKS
+
+- Clockwise (upar se) → moment down.
+- T = 2πm/qB mein v nahi → "velocity par depend nahi".
+- Hysteresis area = energy loss/cycle.
+- Coil: radius half → B ×2 ; axis x = R → B/√8.
+- Cyclotron f = qB/2πm (no v) ; same-direction wires attract.
+10. IMPORTANT FACTS
+
+- Angle of dip: poles 90°, equator 0°. μ₀ = 4π×10⁻⁷ T m/A.
+- Curie temperature ke upar ferromagnetic → paramagnetic.
+- Ferromagnetic: Fe, Ni, Co. Al paramagnetic, Cu diamagnetic.
+- Freely suspended magnet: N–S align (earth ka field).
+11. COMMON TRAPS
+
+TRAP: B badhao → radius badhe.
+FIX:  r = mv/qB → radius GHATTA hai.
+TRAP: Angle of dip poles par 0°.
+FIX:  Poles par 90°, equator par 0°.
+TRAP: Helical path sirf ⊥ velocity se banta hai.
+FIX:  Helical path tab banta hai jab velocity ka ∥ component bhi ho.
+TRAP: Cyclotron frequency velocity par depend karti hai.
+FIX:  f = qB/2πm — velocity par independent.
+TRAP: Parallel wires same direction mein repel karti hain.
+FIX:  Same direction → ATTRACT; opposite → repel.
+12. GRAPHS / DIAGRAMS
+
+- Hysteresis (B-H) loop: area = energy loss; retentivity & coercivity loop se milte
+  hain.
+- Right-hand rule: wire → concentric circles; solenoid → andar uniform field.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -B(wire) = μ₀I/2πr ; B(solenoid) = μ₀nI
+- -r = mv/qB ; T = 2πm/qB (no v) ; helical if v has ∥ part
+- -m = NIA ; χ = μᵣ − 1 ; W = MH(1 − cosα) ; dip: poles 90°
+
+================================================================================
+CHAPTER 14 - ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter batata hai ki changing magnetic field kaise current (emf) banati hai, aur AC
+circuits kaise kaam karte hain. Fixed patterns: ε = −dΦ/dt, transformer, aur AC power
+(cosφ).
+2. CORE CONCEPTS
+
+- What is Faraday's law? Flux change hone par induced emf: ε = −dΦ/dt. Jitni tez flux
+  badle, utni badi emf.
+- What is Lenz's law? Induced emf ki DIRECTION batata hai — wo change ko OPPOSE karti
+  hai. Ye energy conservation se judi hai.
+- What does a generator work on? ELECTROMAGNETIC INDUCTION (flux change se emf).
+- What is mutual inductance? Ek coil ke current change se dusri coil mein emf. Unit
+  henry (H), dimension [ML²T⁻²A⁻²].
+- What is AC power? Vrms = V₀/√2 ; Pavg = Vrms Irms cosφ ; cosφ = power factor. LCR
+  resonance par cosφ = 1.
+- What is a transformer? Voltage badalne wala device: Vp/Vs = Np/Ns.
+- What is LCR resonance? Series LCR mein jab X_L = X_C hota hai, circuit pure resistive
+  ban jaata hai: Z = R, current MAX, cosφ = 1. Resonant frequency f₀ = 1/(2π√LC) — R
+  par depend NAHI karti (R badle to f₀ same).
+- What is half-cycle average of AC? i = I₀ sin ωt ka half-cycle average Ī = 2I₀/π (full-
+  cycle average = 0).
+- What is mutual inductance emf? ε = −M dI/dt (M = coefficient of mutual induction,
+  henry). Current jitni tez badle, emf utna bada.
+- What are eddy currents? Bulk conductor mein CHANGING magnetic flux se bante hain —
+  circular induced currents (isliye transformer core laminated hota hai).
+- Energy in an inductor. U = (1/2)LI². 50 mH, 4 A → 0.5 × 0.05 × 16 = 0.4 J.
+3. KEY RELATIONS
+
+- ε = −dΦ/dt = −A dB/dt (A fixed): A = 2 m², ΔB = 4 in 2 s → ε = 4 V.
+- Φ(t) diya ho → differentiate: Φ = 6t²+3t+2 → ε = 12t+3 ; t = 3 → 39 V.
+- Transformer: Vp/Vs = Np/Ns ; η = VsIs/(VpIp).
+- 220→11 V, 5 A→90 A → η = (11×90)/(220×5) = 90%.
+- Magnet fast → coil ki taraf → LARGER emf (ε ∝ speed).
+- f₀ = 1/(2π√LC) ; Ī_half = 2I₀/π.
+- ε = M dI/dt : M = 0.5 H, ΔI = 4 A in 0.5 s → ε = 0.5 × 8 = 4 V.
+- N-turn coil: ε = N dΦ/dt. Half-wave rectifier ka DC output = V₀/π (full sine ka half-
+  cycle average 2V₀/π).
+- U_inductor = (1/2)LI² ; eddy currents = changing flux in bulk conductor.
+4. FORMULAS
+
+- ε = −dΦ/dt ; Φ = BA cosθ ; Vrms = V₀/√2
+- Pavg = Vrms Irms cosφ ; η_transformer = VsIs/VpIp
+- f₀ = 1/(2π√LC) ; Ī_half = 2I₀/π ; ε = M dI/dt
+- U = (1/2)LI² ; ideal transformer: P_in = P_out
+Symbol meanings: ε = induced emf, Φ = magnetic flux, B = field, A = area, Vrms = rms
+voltage, φ = phase difference, Vp/Vs = primary/secondary voltage, Np/Ns = turns, Ip/Is =
+currents.
+5. CONDITIONS / SPECIAL CASES
+
+- LCR resonance: cosφ = 1 (power factor 1), current max.
+- High impedance → kam current (same source).
+- Generator = EMI principle (force on conductor nahi).
+- Pure inductive circuit: V aur I mein 90° phase difference.
+- Resonance: X_L = X_C → Z = R → cosφ = 1 (current max).
+- R decrease karo → f₀ SAME (sirf L, C decide karte hain).
+- i = 50 sin100t → Ī_half = 2×50/π = 100/π A.
+- Ideal step-down transformer mein POWER constant rehti hai.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "emf from flux / Φ(t)" → ε = −dΦ/dt.
+- "Transformer" → Vp/Vs = Np/Ns, η = VsIs/VpIp.
+- "AC power / resonance" → cosφ = 1.
+- "Resonant frequency" → f₀ = 1/(2π√LC).
+- "Half-cycle average" → 2I₀/π.
+- "Mutual inductance emf" → ε = M dI/dt.
+7. SOLVING METHODS
+
+- emf = A × (ΔB/Δt).
+- Transformer efficiency: output power/input power.
+- Resonance: cosφ = 1.
+8. REAL PYQ EXAMPLES
+
+Q. The magnetic flux linked with a coil is Φ = 6t² + 3t + 2 (weber). The induced emf at t = 3 s is:
+   Method: ε = dΦ/dt.
+   Solve: ε = 12t + 3 ; at t = 3 → 39 V.
+   Takeaway: Pehle differentiate, phir substitute.
+
+Q. A coil of area 2 m² is placed in a field changing from 4 to 8 Wb/m² in 2 s. Induced emf:
+   Method: ε = A(ΔB/Δt).
+   Solve: ε = 2 × (4/2) = 4 V.
+   Takeaway: ε = A × (ΔB/Δt) — area times rate.
+
+Q. A transformer reduces 220 V to 11 V. Primary draws 5 A, secondary 90 A. Efficiency is:
+   Method: η = output power/input power.
+   Solve: η = (11×90)/(220×5) = 990/1100 = 0.9 = 90%.
+   Takeaway: Transformer η = VsIs/VpIp (power ratio, voltage ratio nahi).
+
+Q. The value of power factor cosφ in a series LCR circuit at resonance is:
+   Method: At resonance XL = XC, circuit pure resistive.
+   Solve: cosφ = 1.
+   Takeaway: Resonance → cosφ = 1 → P = Erms Irms.
+
+Q. A magnet is moved rapidly toward one coil and slowly toward another identical coil. Induced emf:
+   Method: ε ∝ rate of flux change.
+   Solve: Fast magnet → larger emf.
+   Takeaway: ε ∝ speed of flux change — faster = bigger emf.
+
+Q. The basic principle on which the AC generator works is:
+   Method: Generator principle.
+   Solve: Electromagnetic induction.
+   Takeaway: Generator = EMI (flux change → emf).
+
+Q. The mathematical form of the resonant frequency of an LCR circuit is:
+   Method: Resonance condition.
+   Solve: f₀ = 1/(2π√LC).
+   Takeaway: f₀ = 1/(2π√LC) — R ka koi role nahi.
+
+Q. In a series RLC circuit (R = 1000 Ω, L = 4 H, C = 10⁻⁶ F), R is decreased by 20 Ω. Resonant frequency:
+   Method: f₀ sirf L, C par depend.
+   Solve: R badle to f₀ unchanged.
+   Takeaway: Resonant frequency R se independent.
+
+Q. An AC current i = 50 sin 100t A. Its half-cycle average is:
+   Method: Ī = 2I₀/π.
+   Solve: Ī = 2 × 50/π = 100/π A.
+   Takeaway: Half-cycle average = 2I₀/π; full-cycle = 0.
+
+Q. Mutual inductance is 0.5 H. Current changes from +2 A to −2 A in 0.5 s. Induced emf:
+   Method: ε = M dI/dt.
+   Solve: ε = 0.5 × (4/0.5) = 4 V.
+   Takeaway: ΔI = 4 A (sign ka dhyan: +2 → −2).
+
+Q. The energy stored in a 50 mH inductor carrying 4 A is:
+   Method: U = (1/2)LI².
+   Solve: U = 0.5 × 50×10⁻³ × 16 = 0.4 J.
+   Takeaway: Inductor energy = (1/2)LI² — capacitor ke (1/2)CV² jaisa.
+
+9. 10-SECOND TRICKS
+
+- ε = A(ΔB/Δt).
+- Transformer η = (Vs Is)/(Vp Ip).
+- Resonance → cosφ = 1.
+- f₀ = 1/(2π√LC) ; Ī_half = 2I₀/π.
+- ε = M dI/dt ; U = (1/2)LI².
+10. IMPORTANT FACTS
+
+- Rectifier AC→DC; order: Rectifier → Filter → Regulator.
+- Weber = flux ki unit; henry = inductance ki unit.
+11. COMMON TRAPS
+
+TRAP: Rectifier-filter-regulator order galat.
+FIX:  Filter smooth karta hai, regulator stable — yehi order.
+TRAP: Transformer efficiency voltage ratio.
+FIX:  Power ratio VsIs/VpIp hota hai.
+TRAP: Generator force-on-conductor principle par chalta hai.
+FIX:  Generator = electromagnetic induction.
+TRAP: R badhane se resonant frequency badhti hai.
+FIX:  f₀ = 1/(2π√LC) — sirf L aur C; R se independent.
+TRAP: Full-cycle average = 2I₀/π.
+FIX:  Full-cycle average = 0; HALF-cycle = 2I₀/π.
+12. GRAPHS / DIAGRAMS
+
+- AC waveforms: V aur I sine; φ decide karta hai power factor.
+- Phasor: VL aur VC opposite; resonance par cancel (cosφ = 1).
+- Transformer: core par 2 coils; Vp/Vs = Np/Ns.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -ε = −dΦ/dt = −A dB/dt ; Φ = BA cosθ
+- -Pavg = Vrms Irms cosφ ; resonance cosφ = 1
+- -Transformer: Vp/Vs = Np/Ns ; η = VsIs/VpIp
+- -AC→DC: rectifier → filter → regulator
+
+================================================================================
+CHAPTER 15 - ELECTROMAGNETIC WAVES
+================================================================================
+
+1. INTRODUCTION
+
+EM waves = light, radio, X-rays, etc. — oscillating electric aur magnetic fields jo
+vacuum mein bhi chalti hain. Ye chapter chhota hai: spectrum order, E₀/B₀ = c, aur "kaun
+EM wave nahi hai" type facts.
+2. CORE CONCEPTS
+
+- What is an EM wave? Oscillating E aur B fields, mutually PERPENDICULAR aur propagation
+  direction ke bhi ⊥ — isliye TRANSVERSE. Vacuum mein speed c = 3×10⁸ m/s ≈ 1/√(μ₀ε₀).
+- Kya EM waves deflect hoti hain? NAHI. Inka koi charge nahi hota, isliye
+  electric/magnetic field inhe deflect nahi kar sakte.
+- What does an EM wave carry? ENERGY (charge ya mass nahi).
+- What is the spectrum order? Frequency badhne ke order: Radio < Micro < IR < Visible <
+  UV < X < Gamma. (Wavelength iska ulta.)
+3. KEY RELATIONS
+
+- c = 1/√(μ₀ε₀) = νλ ; E₀ = cB₀ (E₀/B₀ = c).
+- B vector: B = (1/ω)(k × E).
+- E = hν (photon energy bridge).
+4. FORMULAS
+
+- c = νλ ; E₀ = cB₀ ; c = 1/√(μ₀ε₀)
+- E = hc/λ
+Symbol meanings: c = speed of light, ν = frequency, λ = wavelength, E₀/B₀ = field
+amplitudes, h = Planck's constant, ω = angular frequency, k = propagation vector.
+5. CONDITIONS / SPECIAL CASES
+
+- Radio, IR, UV EM hain; SOUND nahi.
+- EM waves energy carry karti hain (charge/mass nahi).
+- Max frequency = gamma; max wavelength = radio; UV/X/micro/gamma mein micro ki
+  wavelength sabse badi.
+- Wavelength ranges: microwave ≈ 1 mm–1 m ; visible 400–800 nm ; UV < 400 nm ; IR > 800
+  nm.
+- Point source se distance r par intensity I = P/4πr² (P = power). 100 W, 10% → 10 W; r
+  = 5 m → I = 10/(4π×25) ≈ 0.032 W/m².
+- Galaxies ke beech distance BADHTI ja rahi hai (redshift → expanding universe, Hubble).
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Not an EM wave" → sound.
+- "E₀, B₀ relation" → E₀/B₀ = c.
+- "Spectrum order" → radio se gamma.
+7. SOLVING METHODS
+
+- "Not EM" → sound (odd one out).
+- E₀/B₀ = c (c² nahi).
+8. REAL PYQ EXAMPLES
+
+Q. Which of the following is NOT an electromagnetic wave?
+   Method: EM transverse hoti hai, medium nahi chahiye.
+   Solve: Sound mechanical hai (medium chahiye) — radio/IR/UV EM hain.
+   Takeaway: Sound = list mein odd one out.
+
+Q. In an EM wave, the ratio of electric field amplitude to magnetic field amplitude is:
+   Method: EM wave relation.
+   Solve: E₀/B₀ = c.
+   Takeaway: E₀/B₀ = c (c² nahi).
+
+Q. Which EM wave has the maximum wavelength?
+   Method: Spectrum order.
+   Solve: Radio sabse lambi wavelength (gamma sabse chhoti).
+   Takeaway: Wavelength: radio > micro > IR > visible > UV > X > gamma.
+
+Q. Which statement is INCORRECT about electromagnetic waves?
+   Method: EM wave properties.
+   Solve: "Deflected by electric/magnetic field" galat hai — EM waves neutral hain.
+   Takeaway: EM waves fields se deflect nahi hoti.
+
+Q. The wavelength range of microwaves is:
+   Method: Spectrum ranges.
+   Solve: Microwave ≈ 1 mm to 1 m (radio se chhota, IR se bada).
+   Takeaway: Microwave 1 mm–1 m ; visible 400–800 nm.
+
+Q. A 100 W bulb converts 10% power to visible radiation. Average intensity 5 m away is:
+   Method: I = P/4πr².
+   Solve: I = 10/(4π × 25) ≈ 0.032 W/m².
+   Takeaway: I = P/4πr² — radius ka square neeche.
+
+9. 10-SECOND TRICKS
+
+- E₀/B₀ = c.
+- Sound = list mein odd one out.
+10. IMPORTANT FACTS
+
+- EM waves transverse hain, vacuum mein chalti hain, energy carry karti hain.
+- Phase difference between E and B in EM wave = 0 (same phase).
+11. COMMON TRAPS
+
+TRAP: EM waves E/B field se deflect hoti hain.
+FIX:  Ye neutral hain — deflect nahi hoti.
+TRAP: E₀/B₀ = c².
+FIX:  E₀/B₀ = c.
+12. GRAPHS / DIAGRAMS
+
+- EM spectrum: radio < micro < IR < visible < UV < X < gamma.
+- E aur B perpendicular sinusoids, sath propagation axis par chalte hain.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -c = νλ = 1/√(μ₀ε₀) = 3×10⁸ m/s ; E₀ = cB₀
+- -E ⊥ B ⊥ direction ; transverse ; fields se deflect nahi
+
+================================================================================
+CHAPTER 16 - OPTICS
+================================================================================
+
+1. INTRODUCTION
+
+Optics = light ka reflection, refraction, mirrors, lenses, prisms aur wave optics
+(YDSE). Sabse zyada PYQs wala chapter hai. Formulas fixed hain: mirror/lens formula,
+prism, fringe width, critical angle.
+2. CORE CONCEPTS
+
+- What is reflection? Plane mirror same-size virtual image deta hai; object distance =
+  image distance.
+- What is a spherical mirror? f = R/2 (concave f +ve, convex f −ve). Mirror formula 1/f
+  = 1/v + 1/u.
+- What is refraction? Light medium badalti hai to speed/wavelength badalte hain,
+  FREQUENCY nahi. Snell's law: μ₁ sin i = μ₂ sin r.
+- What is a lens? 1/f = 1/v − 1/u ; magnification m = v/u. m negative → real inverted; m
+  positive → virtual erect.
+- What is TIR? Total internal reflection: denser → rarer, i > critical angle. sin C =
+  μ_rarer/μ_denser.
+- What does the eye see? Retina par image REAL, INVERTED, DIMINISHED.
+- What is dispersion? White light prism se guzarti hai to alag-alag colours mein toot
+  jaati hai (alag λ → alag μ → alag deviation). VIOLET sabse zyada deviate hota hai (μ
+  sabse zyada), RED sabse kam. Isliye glass ka refractive index violet ke liye
+  MAXIMUM.
+- What is a rainbow? Barish ki boondo mein refraction + TIR + dispersion — teeno milkar
+  rainbow banate hain (red bahar, violet andar).
+- What is lens power? P = 1/f (f metre mein), unit DIOPTRE (D). Convex lens f +ve → P
+  +ve; concave → P −ve. +2.5 D → f = 1/2.5 = 0.4 m = 40 cm convex.
+- What is the lens-maker formula? 1/f = (μ−1)(1/R₁ − 1/R₂). Sign convention: convex
+  surface R +ve, concave R −ve. Lens ko liquid (μ_l) mein duba do → μ → μ_g/μ_l.
+- Mirrors inclined. Do plane mirrors θ angle par → number of images N = 360/θ − 1 (jab
+  360/θ even integer ho).
+- Deviation at a mirror. Plane mirror par light i angle par gire to deviation δ = 180° −
+  2i (i = 30° → δ = 120°).
+- What is Huygens' principle? Wavefront ka HAR point naya secondary wavelet banata hai;
+  unka envelope agla wavefront hai. Isse reflection AUR refraction dono explain hote
+  hain.
+- What is polarisation? Sirf TRANSVERSE waves polarise hoti hain (light haan, sound
+  nahi). Reflection se light partially polarise hoti hai; Brewster angle par puri: tan
+  θ_B = μ.
+- Diffraction condition. Jab slit/obstacle ka size wavelength ke barabar ho tab
+  diffraction clearly dikhta hai (corona around moon = diffraction).
+- Colour of objects. Object apna colour usi wavelength ko reflect karke dikhata hai. Red
+  paper yellow light mein → BLACK (yellow absorb ho jaata hai, kuch reflect nahi
+  hota).
+3. KEY RELATIONS
+
+- Mirror: 1/f = 1/v + 1/u ; quick v = uf/(u−f). f = 20, u = 30 → v = 60 cm.
+- Thin prism: δ = (μ−1)A → μ = 1 + δ/A = 1.25.
+- YDSE: β = λD/d ; yₙ = nλD/d.
+- Critical angle: sin C = μ_rarer/μ_denser. Water 4/3, glass 5/3 → C = sin⁻¹(4/5).
+- Simple microscope (D = 25 cm): M = 1 + D/f ; f = 4 cm → 7.25.
+- Dispersion order (deviation): violet > indigo > ... > red; μ_violet sabse bada.
+- P = 1/f (m) ; +2.5 D → 40 cm convex.
+- 1/f = (μ−1)(1/R₁ − 1/R₂) ; N(mirrors) = 360/θ − 1.
+- Plane mirror deviation δ = 180° − 2i ; Brewster: tan θ_B = μ.
+- Telescope: M = f₀/fₑ ; YDSE amplitude ratio = √(I₁/I₂) = √(1/4) = 1:2.
+- Destructive interference: path difference = (2n+1)λ/2 (phase 180°).
+- v = c/μ → v₁/v₂ = μ₂/μ₁ (glass 3/2, water 4/3 → v_w/v_g = 9/8).
+- λ in medium = λ₀/μ (6000 Å in glass μ = 1.5 → 4000 Å).
+4. FORMULAS
+
+- f = R/2 ; 1/f = 1/v + 1/u (mirror) ; 1/f = 1/v − 1/u (lens)
+- m = v/u ; δ = (μ−1)A ; β = λD/d ; yₙ = nλD/d
+- sin C = μ_rarer/μ_denser ; M = 1 + D/f ; resolving power ∝ 1/λ
+- P = 1/f (dioptre) ; 1/f = (μ−1)(1/R₁ − 1/R₂)
+- N = 360/θ − 1 ; δ(mirror) = 180° − 2i ; tan θ_B = μ
+- v = c/μ ; λ_medium = λ₀/μ ; M_telescope = f₀/fₑ
+Symbol meanings: f = focal length, R = radius of curvature, u = object distance, v =
+image distance, m = magnification, μ = refractive index, δ = deviation, A = prism angle,
+β = fringe width, D = screen distance, d = slit separation, C = critical angle.
+5. CONDITIONS / SPECIAL CASES
+
+- Concave mirror R = 25 (f = 12.5), u = 10 → v = uf/(u−f) = −50 cm (virtual, mirror ke
+  peeche).
+- YDSE: d = 0.2 mm, D = 1 m, 3rd bright 7.5 mm → λ = 500 nm.
+- Fringe count vs λ: n ∝ 1/λ → 92 × (5898/5461) ≈ 99.
+- Red → blue microscope: λ ghata → resolving power BADHTI hai.
+- Glass (μ = √3), i = 60° → r = 30° → angle between refracted and reflected = 90°.
+- 30° mirrors asymmetric → N = 360/30 − 1 = 11.
+- Plane mirror i = 30° → δ = 180 − 60 = 120°.
+- Double convex lens f = 25 cm, μ = 1.5, R₁ = 2R₂ → 1/25 = 0.5(1/R₁ + 1/R₂) → R₁ = 37.5
+  cm, R₂ = 18.75 cm.
+- Concave lens μ_g = 1.5 in liquid μ_l = 2 → relative μ = 0.75 < 1 → lens CONVEX ban
+  jaati hai (f = 80 cm).
+- Red paper in yellow light → black.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Mirror/lens image position" → v = uf/(u−f); m = v/u.
+- "Prism μ" → μ = 1 + δ/A.
+- "YDSE fringe" → β = λD/d.
+- "Critical angle" → sin C = μᵣ/μ_d.
+- "Microscope" → M = 1 + D/f.
+- "Power of lens (dioptre)" → P = 1/f.
+- "Two mirrors / number of images" → 360/θ − 1.
+- "White light / colours / rainbow" → dispersion.
+- "Polarisation / Brewster" → transverse + tan θ_B = μ.
+- "Frequency in medium / λ change" → λ/μ, v = c/μ.
+7. SOLVING METHODS
+
+- f = R/2 (hamesha spherical mirror).
+- Prism: μ = 1 + δ/A (thin prism).
+- Fringe count: wavelength ka inverse ratio.
+8. REAL PYQ EXAMPLES
+
+Q. An object is placed 30 cm before a concave mirror of focal length 20 cm. Image distance is:
+   Method: Mirror formula / quick form.
+   Solve: v = uf/(u−f) = 30×20/(30−20) = 600/10 = 60 cm.
+   Takeaway: v = uf/(u−f) concave mirror ke liye fastest.
+
+Q. The radius of curvature of a spherical mirror is 15. Its focal length is:
+   Method: f = R/2.
+   Solve: f = 15/2 = 7.5 cm.
+   Takeaway: Spherical mirror: f = R/2 (hamesha).
+
+Q. A light ray passes through a thin prism of angle 8° with deviation 2°. Refractive index is:
+   Method: δ = (μ−1)A.
+   Solve: μ = 1 + δ/A = 1 + 2/8 = 1.25.
+   Takeaway: Thin prism: μ = 1 + δ/A.
+
+Q. With two slits 0.2 mm apart and screen 1 m away, the third bright fringe is 7.5 mm from centre. Wavelength is:
+   Method: yₙ = nλD/d.
+   Solve: λ = yₙ d/(nD) = 7.5×10⁻³ × 0.2×10⁻³ / 3 = 500 nm.
+   Takeaway: λ = y d/(nD) — units mm aur nm dhyan se.
+
+Q. If the refractive index of water is 4/3 and glass is 5/3, critical angle (glass→water) is:
+   Method: sin C = μ_rarer/μ_denser.
+   Solve: sin C = (4/3)/(5/3) = 4/5 → C = sin⁻¹(4/5).
+   Takeaway: sin C = μ_r/μ_d — denser neeche.
+
+Q. A simple microscope has focal length 4 cm. Magnifying power at least distance of distinct vision (25 cm):
+   Method: M = 1 + D/f.
+   Solve: M = 1 + 25/4 = 7.25.
+   Takeaway: Simple microscope (D = 25 cm): M = 1 + D/f.
+
+Q. The power of a lens is +2.5 D. The lens is:
+   Method: P = 1/f.
+   Solve: f = 1/2.5 = 0.4 m = 40 cm; P positive → convex.
+   Takeaway: P = 1/f (metre) — +ve = convex, −ve = concave.
+
+Q. Two plane mirrors are at 30°. Number of images (object placed asymmetrically):
+   Method: N = 360/θ − 1.
+   Solve: N = 360/30 − 1 = 12 − 1 = 11.
+   Takeaway: N = 360/θ − 1 (θ se divide karke 1 ghatao).
+
+Q. The angle of incidence on a plane mirror is 30°. Angle of deviation is:
+   Method: δ = 180° − 2i.
+   Solve: δ = 180° − 60° = 120°.
+   Takeaway: Mirror deviation = 180° − 2i.
+
+Q. A double convex lens has f = 25 cm, μ = 1.5, one radius double the other. The radii are:
+   Method: Lens-maker: 1/f = (μ−1)(1/R₁ + 1/R₂), R₁ = 2R₂.
+   Solve: 1/25 = 0.5(1/R₁ + 1/R₂) → R₂ = 18.75 cm, R₁ = 37.5 cm.
+   Takeaway: Biconvex: 1/f = (μ−1)(1/R₁ + 1/R₂) — signs dhyan se.
+
+Q. Which law can be explained by Huygens' principle?
+   Method: Huygens secondary wavelets.
+   Solve: Reflection AND refraction dono.
+   Takeaway: Huygens → reflection + refraction dono.
+
+Q. Refractive index of glass is 1.5 for light of wavelength 6000 Å in vacuum. Wavelength in glass:
+   Method: λ_medium = λ₀/μ.
+   Solve: λ = 6000/1.5 = 4000 Å.
+   Takeaway: Medium mein wavelength GHTATI hai: λ/μ.
+
+Q. In YDSE the slit-width ratio is 1 : 4. The amplitude ratio is:
+   Method: Intensity ∝ width, amplitude ∝ √I.
+   Solve: I₁:I₂ = 1:4 → A₁:A₂ = √1:√4 = 1:2.
+   Takeaway: Amplitude ratio = √(intensity ratio).
+
+9. 10-SECOND TRICKS
+
+- f = R/2.
+- m negative = real inverted; positive = virtual erect.
+- Plane mirror: v = u.
+- Mirror/image velocity: tum plane mirror ki taraf speed u se bhaago → image tumhari
+  taraf 2u se aati hai (object ke relative image ki speed = 2u).
+- Vehicle ka rear-view mirror CONVEX hota hai: wide field of view + hamesha erect,
+  diminished image.
+- P = 1/f ; N = 360/θ − 1 ; δ = 180° − 2i.
+- Violet sabse zyada deviate; μ_violet maximum.
+- λ in medium = λ₀/μ (ghat-ta hai); frequency same.
+10. IMPORTANT FACTS
+
+- TIR: denser→rarer. Corona around moon = diffraction.
+- Visible light: 400–800 nm. Near point ≈ 25 cm.
+- Dispersion: VIBGYOR (violet sabse zyada deviate).
+- Rainbow: refraction + TIR + dispersion.
+- Telescope: M = f₀/fₑ (f₀ >> fₑ).
+11. COMMON TRAPS
+
+TRAP: Medium badle to frequency badalti hai.
+FIX:  Frequency constant rehti hai; speed/wavelength badalte hain.
+TRAP: TIR rarer→denser mein hota hai.
+FIX:  TIR sirf denser→rarer mein hota hai.
+TRAP: Concave mirror object inside focus → real image.
+FIX:  Inside focus → image VIRTUAL, mirror ke peeche (v negative).
+TRAP: Convex lens ki power negative hoti hai.
+FIX:  Convex = +ve power (converging); concave = −ve.
+TRAP: N mirrors = 360/θ.
+FIX:  N = 360/θ − 1 (jab 360/θ even integer ho).
+TRAP: Medium change par frequency badalti hai.
+FIX:  Frequency constant; λ = λ₀/μ ghat-ta hai.
+12. GRAPHS / DIAGRAMS
+
+- Ray diagrams: concave mirror & convex lens real inverted; convex mirror & concave lens
+  hamesha virtual erect.
+- YDSE: alternate bright/dark fringes, β = λD/d.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -f = R/2 ; mirror 1/f = 1/v + 1/u ; lens 1/f = 1/v − 1/u
+- -m = v/u (negative = real inverted) ; δ = (μ−1)A
+- -β = λD/d ; sin C = μᵣ/μ_d ; M = 1 + D/f ; TIR denser→rarer
+
+================================================================================
+CHAPTER 17 - DUAL NATURE OF MATTER AND RADIATION
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter batata hai ki light wave BHI hai aur particle BHI, aur moving particle ki
+apni ek wave bhi hoti hai. Fixed patterns: photon energy (12400/λ shortcut), work
+function, aur de Broglie wavelength.
+2. CORE CONCEPTS
+
+- What is dual nature? Light wave ki tarah behave karti hai (interference, diffraction)
+  aur particle ki tarah bhi (photon). Photon energy E = hν = hc/λ.
+- What is the photoelectric effect? Light metal par girti hai to electrons nikalte hain
+  — lekin TABHI jab ν > threshold frequency ν₀ (minimum FREQUENCY, intensity nahi).
+- What is work function? φ = hν₀ = hc/λ₀ — electron nikaalne ke liye minimum energy.
+- What is Einstein's equation? hν = φ + K_max. Photon ki energy = work function + max
+  kinetic energy.
+- What are matter waves? Moving particle ki de Broglie wavelength λ = h/p = h/√(2mK).
+3. KEY RELATIONS
+
+- E = hc/λ ; E(eV) = 12400/λ(Å) = 1240/λ(nm).
+- 1 eV = 1.6×10⁻¹⁹ J (joules mein convert karne ke liye eV ko 1.6×10⁻¹⁹ se multiply
+  karo).
+- λ = 6000 Å → 2.06 eV ; λ₀ = 5000 Å (sodium) → φ ≈ 4×10⁻¹⁹ J.
+- de Broglie: λ = h/p = h/√(2mK) ; λ = 0.2 Å → p = 3.3×10⁻²³ kg m/s.
+- Same KE: λ ∝ 1/√m → λₚ/λₑ = √(mₑ/mₚ) ≈ 1/43.
+4. FORMULAS
+
+- E = hν = hc/λ ; λ = h/p = h/√(2mK)
+- φ = hν₀ = hc/λ₀ ; hν = φ + K_max
+- E(eV) = 1240/λ(nm) = 12400/λ(Å)
+Symbol meanings: h = Planck's constant, ν = frequency, ν₀ = threshold frequency, λ =
+wavelength, λ₀ = threshold wavelength, φ = work function, K_max = max kinetic energy, p
+= momentum, m = mass.
+5. CONDITIONS / SPECIAL CASES
+
+- Intensity → electrons ki NUMBER (current); frequency → emission + KE.
+- Photoelectric emission instantaneous hoti hai.
+- Threshold = minimum FREQUENCY (not intensity, not power).
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Photon energy from λ" → 12400/λ(Å).
+- "Work function from λ₀" → hc/λ₀.
+- "Threshold" → frequency.
+- "de Broglie" → λ = h/p = h/√(2mK).
+7. SOLVING METHODS
+
+- E(eV) = 12400/λ(Å) one step.
+- Same-KE de Broglie: λ ∝ 1/√m.
+8. REAL PYQ EXAMPLES
+
+Q. If the wavelength of a photon is 6000 Å, its energy will be:
+   Method: E(eV) = 12400/λ(Å).
+   Solve: E = 12400/6000 = 2.06 eV.
+   Takeaway: 12400/λ(Å) — eV nikalne ka one-step shortcut.
+
+Q. An electron and a proton have the same kinetic energy. The ratio of their de Broglie wavelengths is:
+   Method: λ ∝ 1/√m (same KE).
+   Solve: λₚ/λₑ = √(mₑ/mₚ) ≈ 1/43.
+   Takeaway: Halka particle → lambi λ. Same KE → λ ∝ 1/√m.
+
+Q. If the de Broglie wavelength of a particle is 0.2 Å, its momentum is:
+   Method: λ = h/p.
+   Solve: p = h/λ = 6.6×10⁻³⁴ / 0.2×10⁻¹⁰ = 3.3×10⁻²³ kg m/s.
+   Takeaway: p = h/λ — direct division.
+
+Q. According to the photoelectric effect, a photoelectron is emitted when the incident light is more than a certain minimum:
+   Method: Threshold condition.
+   Solve: Frequency (not intensity).
+   Takeaway: Emission ka gate FREQUENCY hai; intensity sirf current badhati hai.
+
+Q. If the threshold wavelength for sodium is 5000 Å, its work function is:
+   Method: φ = hc/λ₀.
+   Solve: φ = 6.6×10⁻³⁴ × 3×10⁸ / 5×10⁻⁷ ≈ 4×10⁻¹⁹ J.
+   Takeaway: φ = hc/λ₀ — threshold wavelength se work function.
+
+9. 10-SECOND TRICKS
+
+- 12400/λ(Å) = eV.
+- "Minimum frequency" → threshold.
+10. IMPORTANT FACTS
+
+- Photon: E = hν. Matter wave: λ = h/p.
+11. COMMON TRAPS
+
+TRAP: Emission intensity par depend karta hai.
+FIX:  Frequency threshold se upar honi chahiye; intensity sirf current badhati hai.
+TRAP: Work function eV aur J mix karna.
+FIX:  Units consistent rakho — 12400/λ(Å) eV deta hai.
+12. GRAPHS / DIAGRAMS
+
+- K_max vs ν: straight line, slope = h, x-intercept = ν₀.
+- Stopping potential vs ν: same intercept wali line.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -E = hν = hc/λ ; E(eV) = 12400/λ(Å) ; λ = h/p = h/√(2mK)
+- -φ = hc/λ₀ ; hν = φ + K_max ; same KE → λ ∝ 1/√m
+- -6000 Å → 2.06 eV ; 0.2 Å → 3.3×10⁻²³ kg m/s
+
+================================================================================
+CHAPTER 18 - ATOMS AND NUCLEI
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter nucleus ki structure aur radioactivity cover karta hai. Fixed patterns:
+neutrons = A − Z, spectral lines formula, half-life, aur fusion condition.
+2. CORE CONCEPTS
+
+- What is a nucleus made of? Atomic number Z = protons; mass number A = protons +
+  neutrons. Isliye neutrons = A − Z.
+- What are spectral lines? Electron jab higher level n se lower level m par girta hai to
+  spectral lines banti hain. Count = (n−m)(n−m+1)/2.
+- What is radioactivity? Nucleus khud decay karta hai: N = N₀e^(−λt). Half-life T½ =
+  0.693/λ = 0.693 × τ (mean life).
+- What is fusion? Halke nuclei jud kar bade nucleus banate hain. Iske liye bahut HIGH
+  temperature chahiye — coulomb repulsion todne ke liye.
+- What is fission? Bhaari nucleus do parts mein tootta hai.
+- Spectral series names. Hydrogen lines: Lyman (n = 1, UV), Balmer (n = 2, visible),
+  Paschen (n = 3, IR). Balmer hi visible series hai. Formula: 1/λ = R(1/n₁² − 1/n₂²).
+- Nuclear reactions balance. Har nuclear reaction mein mass number (A) aur charge (Z)
+  dono CONSERVE hote hain — unknown particle nikalne ke liye A aur Z ka sum match
+  karo.
+3. KEY RELATIONS
+
+- Neutrons = A − Z.
+- Spectral lines n → m: (n−m)(n−m+1)/2. 8th → 2nd: 6×7/2 = 21.
+- T½ = 0.693/λ = 0.693τ ; τ = 1/λ. λ = 0.00231/day → 300 days.
+- N = N₀(1/2)^(t/T½).
+4. FORMULAS
+
+- N = N₀ e^(−λt) ; T½ = 0.693/λ = 0.693τ ; τ = 1/λ
+- Lines n→m = (n−m)(n−m+1)/2
+Symbol meanings: Z = atomic number, A = mass number, N = nuclei remaining, N₀ = initial,
+λ = decay constant, T½ = half-life, τ = mean life.
+5. CONDITIONS / SPECIAL CASES
+
+- 8th shell → 2nd shell → 21 spectral lines.
+- λ = 0.00231/day → T½ = 300 days.
+- Mean life τ = 50 days → T½ = 0.693 × 50 = 34.65 days.
+- α, β, γ penetrating power: γ > β > α; γ ka koi mass/charge nahi.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Neutrons" → A − Z.
+- "Spectral lines n→m" → (n−m)(n−m+1)/2.
+- "Half-life / mean life" → 0.693/λ = 0.693τ.
+- "Fusion condition" → high temperature.
+7. SOLVING METHODS
+
+- Half-life: 0.693/λ, phir options match.
+- Line count: (n−m) formula.
+8. REAL PYQ EXAMPLES
+
+Q. Atomic number of a nucleus is Z and atomic mass is M. The number of neutrons is:
+   Method: Neutrons = mass number − atomic number.
+   Solve: Neutrons = A − Z (yahan M = A).
+   Takeaway: Neutrons = A − Z.
+
+Q. The number of spectral lines when electrons in the 8th shell return to the 2nd shell is:
+   Method: Lines formula with n = 8, m = 2.
+   Solve: (8−2)(8−2+1)/2 = 6×7/2 = 21.
+   Takeaway: Lines = (n−m)(n−m+1)/2, NOT n(n−1)/2.
+
+Q. The disintegration constant of an element is 0.00231 per day. Its half-life is:
+   Method: T½ = 0.693/λ.
+   Solve: T½ = 0.693/0.00231 = 300 days.
+   Takeaway: T½ = 0.693/λ — hamesha.
+
+Q. If the mean life of a radioactive element is 50 days, its half-life is:
+   Method: T½ = 0.693 × τ.
+   Solve: T½ = 0.693 × 50 = 34.65 days.
+   Takeaway: T½ = 0.693τ (τ nahi).
+
+Q. Nuclear fusion cannot occur on Earth because:
+   Method: Fusion condition.
+   Solve: Temperature itni high nahi ki coulomb repulsion overcome ho.
+   Takeaway: Fusion → extreme temperature needed for coulomb barrier.
+
+Q. Lyman and Balmer are the names of:
+   Method: Spectral series.
+   Solve: Hydrogen spectral series (Lyman UV n = 1, Balmer visible n = 2).
+   Takeaway: Balmer = visible (n = 2); Lyman = UV (n = 1).
+
+Q. In a nuclear reaction, balancing is done using:
+   Method: Conservation in reactions.
+   Solve: Mass number (A) aur charge (Z) dono conserve.
+   Takeaway: Nuclear reactions: A aur Z dono conserve karo.
+
+9. 10-SECOND TRICKS
+
+- Half-life = 0.693/λ (hamesha).
+- Fusion: temperature too low = coulomb repulsion.
+10. IMPORTANT FACTS
+
+- γ highest penetration, no mass/charge.
+- α = helium nucleus, β = electron.
+- Lyman UV, Balmer visible, Paschen IR.
+11. COMMON TRAPS
+
+TRAP: Spectral lines = n(n−1)/2.
+FIX:  n→m ke liye (n−m)(n−m+1)/2 hota hai.
+TRAP: Mean life = half-life.
+FIX:  T½ = 0.693τ (τ nahi).
+TRAP: λ = 0.00231 → 500 days.
+FIX:  0.693/0.00231 = 300 days.
+12. GRAPHS / DIAGRAMS
+
+- Energy-level diagram: Lyman (n=1, UV), Balmer (n=2, visible).
+- Decay curve: N vs t exponential; half-life constant.
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -Neutrons = A − Z ; T½ = 0.693/λ = 0.693τ
+- -Lines n→m = (n−m)(n−m+1)/2 ; fusion needs extreme temperature
+
+================================================================================
+CHAPTER 19 - ELECTRONIC DEVICES
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter semiconductors, diodes, transistors aur logic gates cover karta hai. Fixed
+facts: doping (N vs P type), Zener diode, rectifier chain, aur depletion region.
+2. CORE CONCEPTS
+
+- What is doping? Pure semiconductor mein impurity milana. Pentavalent (P, As, Sb) →
+  N-TYPE (extra electrons). Trivalent (B, Ga, In) → P-TYPE (holes).
+- What is a p-n junction? P aur N ke beech depletion region banta hai. Ye REVERSE bias
+  mein WIDEN hota hai, forward bias mein narrow.
+- What is a Zener diode? HEAVILY doped diode jo REVERSE bias mein operate karta hai —
+  VOLTAGE REGULATOR ke roop mein.
+- Why npn over pnp? Electron mobility > hole mobility, isliye npn faster.
+- What is rectification? AC → DC. Chain: Rectifier → Filter (smooth) → Regulator
+  (constant).
+- What are logic gates? Digital circuits ke basic blocks. AND (output 1 sirf jab dono
+  inputs 1), OR (koi ek 1 to output 1), NOT (invert), NAND (AND ka ulta), NOR (OR ka
+  ulta), XOR (inputs alag to 1). Truth table se koi bhi combination nikal jaata hai.
+- What are energy bands? Conduction band = wo band jisme electrons freely conduct karte
+  hain. Valence band = atoms se bandhe electrons. Conductor mein dono overlap;
+  insulator mein bada gap.
+- Ge at 0 K. Absolute zero par germanium INSULATOR jaisa behave karta hai (koi free
+  electron nahi).
+- Emitter. Transistor ka emitter HEAVILY doped aur THIN hota hai (zyada carriers inject
+  karne ke liye).
+3. KEY RELATIONS
+
+- N-type: pentavalent impurity; P-type: trivalent impurity.
+- Zener: heavily doped, reverse bias, voltage regulator.
+- npn > pnp (electron mobility).
+- AND: Y = A·B ; OR: Y = A+B ; NOT: Y = Ā ; NAND = AND + NOT ; NOR = OR + NOT.
+- AND + NOT ka combination = NAND gate.
+- Conduction band electrons hi conduction mein hissa lete hain.
+- Ge at 0 K = insulator; emitter heavily doped + thin.
+4. FORMULAS
+
+- Diode: forward bias mein conduct; Zener reverse breakdown mein conduct
+- β (current gain) = Ic/Ib (common emitter)
+- AND: Y = A·B ; OR: Y = A+B ; NOT: Y = Ā ; NAND = NOT(A·B) ; NOR = NOT(A+B)
+5. CONDITIONS / SPECIAL CASES
+
+- Ga doped germanium → P-type; P/Sb/Bi doped → N-type.
+- Reverse bias only → depletion width badhti hai.
+- AC→DC order: rectifier → filter → regulator.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "N vs P type" → pentavalent vs trivalent.
+- "Zener" → heavily doped, reverse, regulator.
+- "Depletion width" → reverse bias.
+- "AC→DC chain" → rectifier → filter → regulator.
+7. SOLVING METHODS
+
+- Doping type: periodic group (III vs V).
+- AC→DC order yaad rakho.
+8. REAL PYQ EXAMPLES
+
+Q. Germanium is doped with gallium. The semiconductor obtained is:
+   Method: Doping type by impurity group.
+   Solve: Gallium (trivalent, group III) → p-type.
+   Takeaway: Group III → p-type; group V → n-type.
+
+Q. Which component is used to create an N-type semiconductor?
+   Method: N-type impurity.
+   Solve: Pentavalent impurity (phosphorus/arsenic).
+   Takeaway: Pentavalent → N-type; trivalent → P-type.
+
+Q. Zener diode is ____ doped and connected in ____ bias, used as a ____:
+   Method: Zener diode properties.
+   Solve: Heavily doped, reverse bias, voltage regulator.
+   Takeaway: Zener = heavily doped + reverse + regulator.
+
+Q. The increase in the width of the depletion region in a p-n junction is due to:
+   Method: Depletion vs bias.
+   Solve: Reverse bias only.
+   Takeaway: Reverse bias widens depletion; forward narrows it.
+
+Q. Constant DC from variable AC. Correct order of operations:
+   Method: AC→DC chain.
+   Solve: Rectifier → filter → regulator.
+   Takeaway: Rectifier (AC→DC) → filter (smooth) → regulator (constant).
+
+Q. n-p-n transistors are preferred over p-n-p because:
+   Method: Transistor mobility.
+   Solve: Electron mobility > hole mobility.
+   Takeaway: npn > pnp — electrons faster.
+
+Q. Which logic gate gives output Y = 1 only when both inputs are 1?
+   Method: AND gate definition.
+   Solve: AND gate (Y = A·B).
+   Takeaway: AND = dono 1 tab 1; OR = koi ek 1 tab 1.
+
+Q. AND gate followed by NOT gate gives:
+   Method: Gate combination.
+   Solve: AND + NOT = NAND gate.
+   Takeaway: AND + NOT = NAND; OR + NOT = NOR.
+
+Q. Which band in a solid has electrons that participate in conduction?
+   Method: Energy bands.
+   Solve: Conduction band (valence band ke electrons bandhe hote hain).
+   Takeaway: Conduction = conduction band electrons.
+
+Q. Pure germanium at absolute zero behaves as:
+   Method: Semiconductor at 0 K.
+   Solve: Insulator (koi free electron nahi).
+   Takeaway: 0 K par semiconductor = insulator.
+
+9. 10-SECOND TRICKS
+
+- Pentavalent → N; trivalent → P.
+- npn > pnp (electrons fast).
+- Zener = reverse-biased regulator.
+- AND+NOT = NAND ; OR+NOT = NOR.
+- Conduction band → current; Ge at 0 K → insulator.
+10. IMPORTANT FACTS
+
+- Zener heavily doped, reverse bias, voltage regulator.
+- Si diode knee ~0.7 V; Ge ~0.3 V.
+- Emitter: heavily doped + thin; collector: largest area.
+11. COMMON TRAPS
+
+TRAP: Depletion width forward bias mein badhti hai.
+FIX:  REVERSE bias mein badhti hai.
+TRAP: Gallium → n-type.
+FIX:  Gallium (III) → p-type; phosphorus (V) → n-type.
+12. GRAPHS / DIAGRAMS
+
+- Diode V-I: forward mein conduct, reverse mein block (Si ~0.7 V, Ge ~0.3 V).
+- Logic symbols: AND, OR, NOT, NAND, NOR (bubble = inversion).
+- Transistor: npn (arrow out), pnp (arrow in).
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -Pentavalent → N-type ; trivalent → P-type
+- -Reverse bias widens depletion ; Zener = heavily doped, reverse, regulator
+- -Rectifier → filter → regulator ; npn > pnp (electron mobility)
+
+================================================================================
+CHAPTER 20 - COMMUNICATION SYSTEMS
+================================================================================
+
+1. INTRODUCTION
+
+Ye chapter batata hai ki signals kaise transmit hote hain. Fixed facts:
+modulation/demodulation aur propagation modes (ground/sky/space wave).
+2. CORE CONCEPTS
+
+- What is modulation? Low-frequency baseband signal ko high-frequency carrier par
+  chadhana — effective transmission ke liye ZAROORI hai.
+- What is demodulation? Receiver par original signal wapas nikalna — modulation ka
+  reverse.
+- What are propagation modes? Ground wave (surface ke saath), sky wave (ionosphere
+  reflection), space wave (line-of-sight). Radio waves TEENO use karti hain.
+- Why does a man's voice sound like a woman's after transmission? Amplifiers ki WRONG
+  bandwidth selection.
+3. KEY RELATIONS
+
+- Radio waves = ground + sky + space (all of the above).
+- Sky waves ionosphere se reflect; microwave/LOS space wave.
+- Modulation index μ = Am/Ac.
+4. FORMULAS
+
+- c = νλ ; modulation index μ = Am/Ac
+5. CONDITIONS / SPECIAL CASES
+
+- Voice high-pitched (man → woman) sunai de = amplifiers ki WRONG bandwidth selection.
+- Microwaves/TV space wave use karte hain.
+6. HOW TO RECOGNIZE THE QUESTION
+
+- "Propagation modes" → ground + sky + space.
+- "Modulation definition/necessity" → baseband on carrier.
+- "Pitch change" → wrong bandwidth.
+7. SOLVING METHODS
+
+- "Radio waves by?" → all three modes.
+8. REAL PYQ EXAMPLES
+
+Q. Through which mode of wave propagation are radio waves sent from one place to another?
+   Method: Radio propagation modes.
+   Solve: Ground + sky + space — all of the above.
+   Takeaway: Radio = teeno modes.
+
+Q. The process in which a low-frequency message signal is superimposed on a high-frequency wave is called:
+   Method: Definition of modulation.
+   Solve: Modulation (demodulation iska reverse).
+   Takeaway: Modulation = baseband on carrier; necessary for transmission.
+
+Q. The speech signal of a man, after modulation, sounds like that of a woman. This is due to:
+   Method: Transmission discrepancy.
+   Solve: Wrong bandwidth selection of amplifiers.
+   Takeaway: Pitch change = wrong bandwidth selection.
+
+9. 10-SECOND TRICKS
+
+- Radio propagation = all three modes.
+10. IMPORTANT FACTS
+
+- Ionosphere sky waves reflect karti hai; modulation necessary hai.
+11. COMMON TRAPS
+
+TRAP: Radio waves sirf ek mode use karti hain.
+FIX:  Teeso modes: ground, sky, space.
+12. GRAPHS / DIAGRAMS
+
+- Communication block: transmitter → channel → receiver.
+- Ground wave (surface), sky wave (ionosphere), space wave (line-of-sight).
+13. LAST-MINUTE REVISION
+
+- LAST-MINUTE REVISION
+- -Modulation (baseband on carrier) → transmit → demodulation
+- -Propagation: ground, sky (ionosphere), space (LOS)
+
+================================================================================
+FINAL FORMULA REVISION
+================================================================================
+- v = u + at ; s = ut + (1/2)at² ; v² = u² + 2as ; Sₙ = u + (a/2)(2n−1)
+- Free-fall per-second = 1:3:5:7 ; a = v²/r = ω²r ; H = u²sin²θ/2g ; R = u²sin²θ/g ; T =
+2u sinθ/g
+- F = ma = dp/dt ; p = mv ; J = FΔt = Δp ; f_max = μₛN ; a = μₛg ; K = p²/2m
+- W = Fs cosθ ; U = (1/2)kx² ; P = Fv ; τ = Iα ; L = Iω ; I = I_cm + Md²
+- Ring: MR², MR²/2, 3MR²/2 ; Disc: MR²/2, MR²/4 ; Sphere: 2MR²/5 ; Rod: ML²/12, ML²/3
+- F = GMm/r² ; g = GM/R² ; vₑ = √(2gR) ; T² ∝ r³ ; satellite PE = 2E_total
+- Y = FL/(AΔL) ; ΔP = 2T/r (drop), 4T/r (bubble) ; vₜ ∝ r² ; P = ρgh
+- ΔQ = ΔU + W ; η = 1 − T₂/T₁ ; PV = nRT ; E = (3/2)Nk_BT ; γ = 1 + 2/f
+- Q = mcΔT ; ΔL = αLΔT ; α:β:γ = 1:2:3 ; h = 2T cosθ/(rρg)
+- v_rms = √(3RT/M) ; f₀ = 1/(2π√LC) ; Ī_half = 2I₀/π ; ε = M dI/dt ; U = (1/2)LI²
+- I = E/(R+r) ; I = neAv_d ; V = W/q ; σ = Q/A ; E = σ/ε₀
+- B = μ₀I/2R ; B_axis = μ₀IR²/2(R²+x²)^(3/2) ; f_cyc = qB/2πm ; F/L = μ₀I₁I₂/2πd ; τ =
+MB sinθ
+- P = 1/f ; 1/f = (μ−1)(1/R₁ − 1/R₂) ; N = 360/θ − 1 ; δ = 180° − 2i ; tan θ_B = μ
+- k = 2π/λ ; I ∝ A² ; R = √(A²+B²+2AB cosθ) ; COP = T₂/(T₁−T₂)
+- v = ω√(A²−x²) ; vmax = ωA ; amax = ω²A ; amax/vmax = 2πf
+- F = kq₁q₂/r² ; E = kq/r² = V/d ; C = ε₀A/d ; U = Q²/2C ; τ = pE sinθ
+- R = ρL/A ; P = VI = I²R ; Pavg = Vrms Irms cosφ
+- B = μ₀I/2πr = μ₀nI ; r = mv/qB ; T = 2πm/qB ; m = NIA ; χ = μᵣ − 1
+- ε = −dΦ/dt ; Vp/Vs = Np/Ns ; η = VsIs/VpIp ; E₀/B₀ = c
+- E = hc/λ ; λ = h/p ; E(eV) = 12400/λ(Å)
+- 1/f = 1/v + 1/u ; m = v/u ; δ = (μ−1)A ; β = λD/d ; sin C = μᵣ/μ_d ; M = 1 + D/f
+- T½ = 0.693/λ = 0.693τ ; lines n→m = (n−m)(n−m+1)/2
+================================================================================
+FINAL RELATIONS REVISION
+================================================================================
+- g ∝ M/R² ; vₑ ∝ √(M/R) ; T² ∝ r³ ; satellite PE = 2 × total energy
+- vₜ ∝ r² ; ΔP ∝ 1/r ; η = 1 − T₂/T₁ (kelvin) ; ΔT(°C) = ΔT(K)
+- v = ω√(A²−x²) ; amax/vmax = ω = 2πf ; E ∝ A²
+- E ∝ q/r² ; C ∝ A/d ; U = Q²/2C ; force in medium = F/K
+- R ∝ L/A ; B ∝ I/r ; r ∝ 1/B ; T ∝ m/qB (no v) ; ε ∝ dΦ/dt
+- K = p²/2m ; I = I_cm + Md² ; λ ∝ 1/p ; λ ∝ 1/√m ; T½ = 0.693τ
+- Resonance: cosφ = 1 ; power factor = cosφ ; P = Vrms Irms cosφ
+================================================================================
+FINAL TRICKS REVISION
+================================================================================
+- Dimensionless: strain, refractive index, specific gravity, angle
+- Planck's h ≡ angular momentum ; stress ≡ pressure ≡ Young's modulus
+- Free fall per-second = odd numbers 1:3:5:7 ; v doubled → a ×4
+- Momentum ∝ v ; K ∝ p² (4× K → 2× p) ; airbag → smaller force
+- Recoil = (m v)/M ; spring 2× → energy 4× ; dot product: matching components
+- Kepler equal areas = L conservation ; I double → ω half
+- 4M & R/2 → 16g ; 2M & R/2 → vₑ ×2 ; satellite PE = 2E_total
+- Bubble 4T/r, drop 2T/r ; radius ×2 → vₜ ×4 ; convex meniscus = mercury
+- Isothermal ΔU = 0 ; adiabatic Q = 0, ΔU = −W ; Carnot: +273 first
+- Diatomic γ = 1.4 ; sound = NOT EM ; mean position → v max
+- Rest charge → E only ; E inside conductor = 0 ; dielectric K → F/K
+- L & A both doubled → R unchanged ; KCL = charge, KVL = energy
+- B up → r down ; T = 2πm/qB (no v) ; resonance cosφ = 1
+- E₀/B₀ = c ; E(eV) = 12400/λ(Å) ; T½ = 0.693/λ
+- m negative → real inverted ; f = R/2 ; TIR denser→rarer
+- Pentavalent → N-type ; Zener = reverse regulator ; Curie → paramagnetic
+================================================================================
+FINAL TRAPS REVISION
+================================================================================
+- kg unit hai, quantity nahi ; angle ka unit hai, dimension nahi
+- Average velocity = NET displacement (closed path → 0)
+- 4× KE → 2× momentum (4× nahi) ; bus start = inertia (3rd law nahi)
+- Retarding force → negative work ; θ = 90° → zero work
+- Spring: W = (1/2)k(x₂²−x₁²), (Δx)² nahi ; torque = force × moment arm
+- Ring tangent = 3MR²/2 ; equal vₑ → M/R (M×R nahi) ; weightless = free fall
+- Gauge = P − Pₐ ; terminal vₜ ∝ r² ; Carnot kelvin mein
+- Adiabatic expansion → ΔU negative ; diatomic 1.4 (1.66 = monatomic)
+- Sound speed pressure se independent (constant T) ; mean position v max
+- E₂:E₁ mein (r₁/r₂)² ; charge const + d↑ → U↑ ; KCL charge / KVL energy
+- L&A double → R same ; wire neutral ; r ∝ 1/B ; dip poles 90°
+- EM fields se deflect nahi ; E₀/B₀ = c (c² nahi)
+- Concave: inside focus → virtual behind ; TIR sirf denser→rarer
+- Photoelectric = frequency ; lines = (n−m)(n−m+1)/2 ; T½ = 0.693τ
+- p ×1.25 → K ×1.5625 ; resultant 3-4-5 ; min zero-resultant = 2 forces
+- Isochoric W = 0 ; COP ≠ engine η ; rms sirf √T (pressure nahi)
+- f₀ R se independent ; full-cycle average = 0 (half = 2I₀/π)
+- Violet sabse zyada deviate ; μ_violet max ; N = 360/θ − 1
+- Convex = +ve power ; Ge at 0 K = insulator ; reverse bias widens depletion
+- Ga → p-type, P/Sb → n-type ; reverse bias widens depletion
+================================================================================
+FINAL FACTS REVISION
+================================================================================
+- 1 kWh = 3.6×10⁶ J ; 1 N = 10⁵ dyne ; 1 T = 10⁴ gauss ; 1 pm = 10⁻⁶ micron
+- Light-year = distance ; nit = luminance ; second same in SI & CGS
+- Bats ultrasonic ; sound in air ≈ 332 m/s ; Moon g ≈ 1.63 m/s²
+- Kepler 2nd = angular momentum ; water surface tension ↓ with T
+- Venturi-meter = flow speed ; Bernoulli = energy ; continuity = mass
+- Second law = entropy ; generator = EMI ; μ₀ = 4π×10⁻⁷ T m/A
+- Charge at rest → E only ; Gauss magnetism: ∮B·dA = 0
+- Hysteresis area = energy loss ; dip: poles 90°, equator 0°
+- Visible 400–800 nm ; corona = diffraction ; eye: real inverted diminished, near point
+25 cm
+- Fusion = high temperature ; npn > pnp (electron mobility) ; radio = all modes
+- EM waves carry energy ; Poisson = lateral/longitudinal strain
+- 27 °C = 27 K ; henry = inductance ; weber = flux ; Zener = regulator
+- Water c = 1 cal/g°C ; 1 cal = 4.18 J ; σ_Stefan = 5.67×10⁻⁸
+- Ferromagnetic: Fe, Ni, Co ; microwave 1 mm–1 m ; visible 400–800 nm
+- Lyman UV / Balmer visible ; emitter heavily doped + thin ; galaxies recede (Hubble)
+
+================================================================================
+END OF PHYSICS MASTER NOTES
+================================================================================

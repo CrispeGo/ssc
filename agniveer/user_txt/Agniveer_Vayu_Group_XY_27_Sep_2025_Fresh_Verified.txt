@@ -1,0 +1,1348 @@
+AGNIVEER VAYU — GROUP XY
+27 SEPTEMBER 2025 — ALL SHIFTS
+MEMORY-BASED PAPER
+FRESH PDF-BASED EXTRACTION — QUESTIONS + OPTIONS
+
+SOURCE OF TRUTH:
+Agniveer Vayu Science & Other than Science (Group XY) 02-2026
+(27 Sept 2025 All shifts) Memory-Based Paper.pdf
+
+METHOD:
+1. Source PDF → fresh extraction.
+2. Second structural verification against the same source PDF.
+3. English question + options retained.
+4. Hindi duplicate blocks removed.
+5. "Correct Option" answer-key lines removed.
+6. Question order preserved.
+7. No content from any previous TXT was used.
+8. Original PDF remains the visual reference for formula/diagram-heavy questions.
+
+============================================================
+
+Q.1
+The dimensions of energy are:
+[M L T ]
+1.
+1
+-1
+-1
+[M L T ]
+2.
+2
+2
+2
+[M L T ]
+3.
+1
+-2
+-1
+[M L T ]
+4.
+1
+2
+-2
+
+Q.2
+Which one of the following statements is incorrect about electromagnetic waves?
+Electromagnetic waves are deflected by an electric field and magnetic field
+1.
+They can also move in vacuum
+2.
+They have electric and magnetic components that are mutually perpendicular
+3.
+They move with a speed of 3 × 108 m/s
+4.
+
+Q.3
+If three resistors of equal resistance R is in parallel and this combination is in series with another
+resistance R, then the equivalent resistance across the circuit will be ________
+4 R / 3
+1.
+3 R / 4
+2.
+R / 3
+3.
+2 R  / 3
+4.
+
+Q.4
+(
+)
+π
+In an AC circuit V = 100 sin (100t) volts andI = 100sin 100t +
+3 mA. The power dissipated in the
+circuit is
+104 W
+1.
+2.5 W
+2.
+10 W
+3.
+5.0 W
+4.
+
+Q.5
+Torque depends on
+Mass of the object
+1.
+Radius of the object's path and force
+2.
+Force and moment arm
+3.
+Mass and moment arm
+4.
+
+Q.6
+A light ray is passing through a thin prism of prism angle 8°. Find the refractive index of the prism if
+the angle of deviation is 2°.
+1.5
+1.
+2
+2.
+1.25
+3.
+2.25
+4.
+
+Q.7
+166 cal
+1.
+333 cal 
+2.
+500 cal
+3.
+400 cal
+4.
+
+Q.8
+Kepler’s law of “Areal Velocity is constant” is equivalent to law of conservation of
+Mass
+1.
+Energy
+2.
+Linear Momentum
+3.
+Angular Momentum
+4.
+
+Q.9
+The efficiency of Carnot heat engine is 75% and the amount of heat absorbed is 300 Joule, then the
+work done is?
+225 J
+1.
+300 J
+2.
+220 J
+3.
+None of these
+4.
+
+Q.10
+In the isothermal process if the heat given to the system is 100 J, the change in internal energy and
+the work done of the system will be
+W = 100J and ΔU = 0J
+1.
+W = 0J and ΔU = 100J
+2.
+W = 50J and ΔU = 50J
+3.
+None of these
+4.
+
+Q.11
+A body is falling freely in a viscous liquid. If the radius of the body is doubled, its terminal velocity
+will become:
+Doubled
+1.
+Four times
+2.
+One fourth
+3.
+Half
+4.
+
+Q.12
+The soap bubble has radii in the ratio 5 : 3. What is the ratio of excess pressure inside them?
+3 : 5
+1.
+5 : 3
+2.
+5 : 2
+3.
+2 : 5
+4.
+
+Q.13
+A charge at rest produces:
+Magnetic field only
+1.
+Electric field only
+2.
+Both electric field and magnetic field
+3.
+Neither electric field nor magnetic field
+4.
+
+Q.14
+When a light ray travels from one medium to another then which of the following property remains
+same?
+Velocity of light
+1.
+Wavelength of light
+2.
+Frequency of light
+3.
+All of the above
+4.
+
+Q.15
+In which of the following statements, the obtained impure semiconductor is of p-type?
+Germanium is doped with bismuth
+1.
+Silicon is doped with antimony
+2.
+Germanium is doped with gallium
+3.
+Silicon is doped with phosphorus
+4.
+
+Q.16
+The condition for total internal refection
+light must travel from denser to rarer medium
+1.
+light must travel from rarer to denser medium
+2.
+angle of incidence is lesser than critical angle
+3.
+angle of incidence is equal to the critical angle
+4.
+
+Q.17
+The efficiency of carnot engine operating between 127°C and 327°C is
+25%
+1.
+30%
+2.
+33.3%
+3.
+75%
+4.
+
+Q.18
+Increases
+1.
+Decreases
+2.
+Remains same
+3.
+Doubled
+4.
+
+Q.19
+A Force F = 3 a x2 - 3 is acting on a body in the direction of force moving along X axis. Find the
+work done while the body displaces from x = 0 to x = 2.
+3a - 3
+1.
+8a
+2.
+8a - 6
+3.
+3a - 8
+4.
+
+Q.20
+Consider the following statements about the light year:
+1. It is a unit to measure astronomical time.
+2. Light year is a unit of distance.
+3. A light-year is a distance that light travels in a vacuum in one Julian year.
+Which of the statements given above is/are correct?
+1, 2 and 3
+1.
+1 and 2 only
+2.
+2 and 3 only
+3.
+1 only
+4.
+
+Q.21
+The power in AC circuit is given by:
+P = E
+I
+ cosφ
+The value of power factor cosφ in series LCR circuit at resonance is-
+rms  rms
+0
+1.
+1
+2.
+E
+I
+3.
+rms  rms
+ErmsIrms
+√2
+4.
+
+Q.22
+A transformer is employed to reduce 220 V to 11 V. The primary draws a current of 5 A and the
+secondary 90 A. The efficiency of the transformer is
+20%
+1.
+40%
+2.
+70%
+3.
+90%
+4.
+
+Q.23
+Frequency
+1.
+Power
+2.
+Wavelength
+3.
+Intensity
+4.
+
+Q.24
+When the force retards the motion of a body, the work done by the force during retardation is:
+zero
+1.
+negative
+2.
+positive
+3.
+positive or negative depending upon the magnitude of force and displacement
+4.
+
+Q.25
+For which of the following temperatures of source and sink, the efficiency of a Carnot engine will
+be maximum?
+40 K, 20 K
+1.
+60 K, 40 K
+2.
+80 K, 60 K
+3.
+100 K, 80 K
+4.
+
+Q.26
+If 3x + 3y = 3x + y then what is
+dx equal to ?
+3x + y −3x
+3y
+1.
+3x −y ( 3y −1 )
+1 −3x
+2.
+3x + 3y
+3x −3y
+3.
+3x + 3y
+1 + 3x + y
+4.
+
+Q.27
+Find
+dx2 if y = sin (log x) ?
+sin  ( log x )   +  x ⋅cos  ( log x )
+x2
+1.
+⋅sin  ( log x )   +  cos  ( log x )
+x2
+)
+2.
+−(
+x ⋅sin  ( log x )   − cos  ( log x )
+2x
+3.
+sin  ( log x )   +  cos  ( log x )
+2x
+4.
+
+Q.28
+If 5 tan A = 3, then the value of
+sin A + 2cosA  is
+7/9
+1.
+5/13
+2.
+9/13
+3.
+5/7
+4.
+
+Q.29
+Find the number of permutations of the letters of the word ALLAHABAD.
+6750
+1.
+7560
+2.
+5670
+3.
+6050
+4.
+
+Q.30
+19
+216
+1.
+1
+12
+2.
+17
+216
+3.
+5
+54
+4.
+
+Q.31
+How many terms of GP 2, 4, 8, 16.....are required to give sum 254
+4
+1.
+5
+2.
+6
+3.
+7
+4.
+
+Q.32
+[
+]
+a
+b
+c
+d , then adj (AT) - (adj A)T is
+if A =
+1.
+[
+]
+0
+0
+0
+0
+2.
+[
+]
+a
+b
+c
+d
+3.
+[
+]
+1
+0
+0
+1
+4.
+[
+]
+1
+0
+2(ad −bc)
+0
+1
+
+Q.33
+Find the length of the tangent to circle x2 + y2 = 169 from the point (12, - 6) ?
+√10
+1.
+√11
+2.
+2√3
+3.
+None of these
+4.
+
+Q.34
+1
+2
+−1
+√6
+1.
+√6,
+√6,
+1
+2
+−1
+√4
+2.
+√4,
+√4,
+−1
+−2
+1
+√4
+3.
+√4 ,
+√4 ,
+None of these.
+4.
+
+Q.35
+What is the value of ∫
+1.
+1
+4
+1
+2
+2.
+1
+3.
+2
+4.
+
+Q.36
+The value of
+sin 72 ∘
+cos18 ∘ is:
+- 1
+1.
+1
+2.
+2
+3.
+0
+4.
+
+Q.37
+{
+1
+sin
+x,
+ if x ≠0
+The value of k which makes the function defined by f(x) =
+, continuous at x = 0
+k,
+ if x = 0
+is
+8
+1.
+1
+2.
+–1
+3.
+None of the above
+4.
+
+Q.38
+Find the distance between foci of the ellipse
+64 = 1.
+100 +
+2
+1.
+3
+2.
+4
+3.
+12
+4.
+
+Q.39
+​ lim
+x2
+ =
+x →0
+0
+1.
+1
+2
+2.
+−1
+2
+3.
+−1
+4.
+
+Q.40
+If A = {1, 2, 3}, B = {3, 4, 5), then (A ∩ B) x A is
+{(1, 3), (2, 3), (3, 3)}
+1.
+{(3, 1), (3, 2), (3, 3)}
+2.
+{(1, 3), (3, 1), (3,2)}
+3.
+none of these
+4.
+
+Q.41
+Find the 4th term from the end in the expansion (
+2 −x)15
+455x15
+8
+1.
+45x5
+8
+2.
+425x15
+8
+3.
+−
+More than one of the above
+4.
+
+Q.42
+The median of the following data is:
+31, 37, 43, 42, 25, 46, 45, 39, 32
+25
+1.
+42
+2.
+46
+3.
+39
+4.
+
+Q.43
+The range of tan-1 x is
+1.
+(
+)
+π
+π,
+2
+2.
+(
+)
+π
+π
+−
+2,
+2
+(-π, π )
+3.
+(0, π )
+4.
+
+Q.44
+Find the modulus of (5 + √-11)(1 + √-5).
+3
+1.
+2√3
+2.
+6
+3.
+6√6
+4.
+
+Q.45
+1
+0 , then A + B = ?
+[
+]
+[
+]
+−1
+2
+1
+2
+If A =
+3
+4 and B =
+1.
+[
+]
+−2
+0
+2
+4
+2.
+[
+]
+0
+4
+4
+4
+3.
+[
+]
+−1
+4
+3
+0
+4.
+[
+]
+1
+0
+0
+1
+
+Q.46
+A relation defined as R = {(1, 2), (3, 4), (2, 4)} find R-1.
+{Ø, (2, 1),  (4, 3),  (4, 2)}
+1.
+{{Ø}, (2, 1),  (4, 3),  (4, 2)}
+2.
+{(2, 1),  (4, 3),  (4, 2)}
+3.
+None of these
+4.
+
+Q.47
+If 1/4, 1/x, 1/10 are in HP, then what is the value of x ?
+5
+1.
+6
+2.
+7
+3.
+8
+4.
+
+Q.48
+If y = 5 cos x - 3 sin x, then
+dx2 + y equals
+8 sin x cos x
+1.
+3 sin x cos x
+2.
+1
+3.
+0
+4.
+
+Q.49
+The area of the region bounded by the curve y = x  and the line y = 16
+32
+3
+1.
+256
+3
+2.
+64
+3
+3.
+128
+3
+4.
+
+Q.50
+dy
+y
+dx =
+General solution of differential equation
+x is:
+log y = kx
+1.
+y = kx
+2.
+xy = k
+3.
+y = k log x
+4.
+
+Q.51
+The following sentence has been divided into parts. One of them contains an error. Select the part
+that contains the error from the given options.
+The project was delayed/because of unforeseen issues;/consequency, we had/to adjust our timeline./
+because of unforeseen issues;
+1.
+consequency, we had
+2.
+to adjust our timeline
+3.
+The project was delayed
+4.
+
+Q.52
+The following sentence has been split into four segments. Identify the segment that contains an
+error in phrasal verb.
+Bindu asked Arya to fill out for / her so that she could / take care of / her sick father.
+Bindu asked Arya to fill out for
+1.
+her so that she could
+2.
+her sick father
+3.
+take care of
+4.
+
+Q.53
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+The happy and cheerful girls / is always running towards / the ice cream cart in / front of the garden.
+the ice cream cart in
+1.
+front of the garden
+2.
+is always running towards
+3.
+the happy and cheerful girls
+4.
+
+Q.54
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+Maria was unhappy / because she terribly performed / in the examination / conducted last month.
+Maria was unhappy
+1.
+conducted last month
+2.
+in the examination
+3.
+because she terribly performed
+4.
+
+Q.55
+Select the option that expresses the given sentence in passive voice.
+The stranger had intended the execution of the plot but the boys thwarted it with their subtlety.
+The execution of the plot had been intended by the stranger but it was thwarted by the boys with their
+subtlety.
+1.
+The execution of the plot could have been intended by the stranger but it was being thwarted by the
+boys with their subtlety.
+2.
+The execution of the plot was intended by the stranger but it had been thwarted by the boys with their
+subtlety. 
+3.
+The execution of the plot was being intended by the stranger but it has been thwarted by the boys
+with their subtlety. 
+4.
+
+Q.56
+Select the option that expresses the following sentence in passive voice.
+The audience loudly cheered the student leader’s speech.
+The student leader’s speech was loudly cheered by the audience. 
+1.
+There was a loud cheer for the student.
+2.
+They all cheered loudly the leader’s speech.
+3.
+The student leader was loudly cheered by the audience. 
+4.
+
+Q.57
+Select the most appropriate word to fill in the blank.
+My father was very distant, but I suppose all men of his generation _________.
+there
+1.
+was
+2.
+would
+3.
+were
+4.
+
+Q.58
+Select the most appropriate word to fill in the blank.
+The population _______ very fast in the last decade.
+had been risen 
+1.
+rising 
+2.
+has risen 
+3.
+rises 
+4.
+
+Q.59
+Each of the following items in this section consists of a sentence, parts of which have been
+jumbled. These parts have been labeled as P, Q, R, and S. Given below each sentence are four
+sequences, namely (a), (b), (c), and (d). You are required to re-arrange the jumbled parts of the
+sentence and mark your response accordingly.
+to find a way to protect(P) /  the world's nature(Q)/   countries are in Montreal(R)/  Delegates from nearly
+200(S)
+PQRS
+1.
+SQRP
+2.
+QRPS
+3.
+SRPQ
+4.
+
+Q.60
+Each of the following items in this section consists of a sentence, parts of which have been
+jumbled. These parts have been labelled as P, Q, R and S. Given below each sentence are four
+sequences, namely (a), (b), (c) and (d). You are required to re-arrange the jumbled parts of the sentence
+and mark your response accordingly.
+on the Russian invasion of Ukraine(P) /  In 2022, German users primarily(Q)/   searched Google(R)/  for
+news and background information(S)
+QRSP
+1.
+SRPQ
+2.
+PQRS
+3.
+QRPS
+4.
+
+Q.61
+Direction: Read the passage and answer the following questions.
+Swami Vivekananda, a monk from India, journeyed to Chicago in 1893, marking a pivotal moment
+in spiritual history. His mission was to attend the Parliament of the World's Religions, an event that sought to
+create a global dialogue among various religious faiths. Unbeknownst to him, this voyage would not only
+introduce the teachings of Vedanta and Yoga to the Western world but also lay the foundation for a deeper
+understanding and appreciation of Indian spirituality far beyond its borders.
+Upon his arrival in Chicago, Vivekananda encountered numerous challenges, including bureaucratic hurdles
+and financial constraints, which initially hindered his ability to participate in the Parliament. However, his
+determination and the fortuitous support of a few kind-hearted individuals ensured his attendance at the event.
+When he addressed the gathering with the words, "Sisters and Brothers of America," he received a standing
+ovation from thousands of attendees. The cause of his profound impact was his eloquent speech on religious
+tolerance and universal brotherhood, which resonated deeply with an audience unfamiliar with such
+inclusivity in spiritual discourse.
+The effect of Swami Vivekananda's participation in the Parliament was monumental. His teachings and
+philosophies gained a significant following in the US and Europe, bridging the cultural and spiritual divide
+between the East and the West. He established Vedanta Societies, fostering a deeper, cross-cultural exchange
+of spiritual ideas and practices. Vivekananda's journey to Chicago was not just a personal triumph but a
+historic event that sowed the seeds of Vedanta and Yoga in the fertile ground of the Western consciousness,
+enriching it with the profound wisdom of Indian spirituality. His legacy continues to influence seekers of
+spiritual truth around the world, proving the enduring power of his message of unity and peace.
+How was Swami Vivekananda received when he first addressed the gathering at the Parliament of the World's
+Religions?
+With silence
+1.
+With skepticism
+2.
+With a standing ovation
+3.
+With immediate dismissal
+4.
+
+Q.62
+What significant challenges did Swami Vivekananda face upon arriving in Chicago?
+Language barriers
+1.
+Bureaucratic hurdles and financial constraints
+2.
+Finding a place to stay
+3.
+All of the above
+4.
+
+Q.63
+What event did Swami Vivekananda attend in Chicago?
+The International Yoga Day
+1.
+The Parliament of the World's Religions
+2.
+The Chicago World's Fair
+3.
+The United Nations Conference
+4.
+
+Q.64
+Which societies did Swami Vivekananda establish to foster spiritual exchange?
+Yoga Societies
+1.
+Brotherhood Clubs
+2.
+Interfaith Councils
+3.
+Vedanta Societies
+4.
+
+Q.65
+Select the most appropriate ANTONYM of the given word.
+DISTINCT
+marked
+1.
+prescribed
+2.
+noticeable
+3.
+vague
+4.
+
+Q.66
+Find a word that is the ANTONYM OF
+animosity
+bitterness
+1.
+sarcasm
+2.
+benevolence
+3.
+contamination
+4.
+
+Q.67
+Choose the most appropriate option and fill in the blank.
+The Verb form of 'Satisfactory' is ____________ .
+Satisfy
+1.
+Satisfying
+2.
+Satisfied
+3.
+Satisfaction
+4.
+
+Q.68
+Give a single word that substitutes for the following expression.
+A person who constantly sees the bright side of things
+misogynist
+1.
+pessimist
+2.
+critic
+3.
+optimist
+4.
+
+Q.69
+Select the option that best gives the meaning of the underlined word.
+He has such an inquisitive mind that he annoys people by his constant questioning.
+Complex
+1.
+Mature
+2.
+Curious
+3.
+Brilliant
+4.
+
+Q.70
+Fill in the blanks with suitable article.
+My mother is ________ honest woman.
+A
+1.
+An
+2.
+The
+3.
+No article required
+4.
+
+Q.71
+Find the LCM of (24 × 36), (23 × 38) and (25 × 35).
+(23 × 35)
+1.
+(24 × 38)
+2.
+(24 × 36)
+3.
+(25 × 38)
+4.
+
+Q.72
+If Secθ = 17/15, then Tanθ = ?
+15/8
+1.
+8/15
+2.
+17/8
+3.
+15/17
+4.
+
+Q.73
+The least number which when divided by 6, 9, 12, 15, 18 leaves the same remainder 2 in each case,
+is :
+176
+1.
+178
+2.
+180
+3.
+182
+4.
+
+Q.74
+Find the unit place of 3674 × 8596 + 5699 × 1589
+3
+1.
+4
+2.
+5
+3.
+6
+4.
+
+Q.75
+Two items are sold for Rs. 18,602 each. On one item there has been a gain of 31% and on the
+second item a loss of 29%. What was the overall loss or gain in the transaction?
+Gain 7.91%
+1.
+Loss 8.25%
+2.
+Gain 8.25%
+3.
+Loss 7.91%
+4.
+
+Q.76
+Mr. Amit spends 50% of his income on household items and out of the remaining, he spends 25%
+on school fees, 10% on medical, 50% on house rent and the remaining amount of Rs. 5,400 is saved
+in a month. Calculate the yearly income of Mr. Amit.
+8,64,000
+1.
+4,56,000
+2.
+9,82,000
+3.
+7,20,000
+4.
+
+Q.77
+36
+1.
+34
+2.
+32
+3.
+30
+4.
+
+Q.78
+The area of base of a cylinder is 25π cm2. If the height of cylinder is 9 cm, then find the total
+surface area of cylinder.
+440 cm2
+1.
+240 cm2
+2.
+420 cm2
+3.
+220 cm2
+4.
+
+Q.79
+Pranshu, Ronak, Roshni, Sanjeeta, Tarun, Udit are sitting at equal distances in a circle and are
+facing the center. Roshni is third from Pranshu in the right. Ronak is third from Tarun from the left.
+Udit is between Pranshu and Tarun. Sanjeeta is third from Udit in the left and right. Who is opposite Tarun?
+Ronak
+1.
+Sanjeeta
+2.
+Roshni
+3.
+Pranshu
+4.
+
+Q.80
+Select the figure from among the given options that can replace the question mark (?) in the
+following series.
+1.
+2.
+3.
+4.
+
+Q.81
+Arrange the following words in a logical and meaningful order.
+1. Eat
+2. Rinse
+3. Buy
+4. Cut
+5. Cook
+4, 3, 5, 2, 1
+1.
+1, 3, 5, 4, 2
+2.
+3, 2, 4, 5, 1
+3.
+2, 4, 3, 5, 1
+4.
+
+Q.82
+Select the option that will replace the question mark (?) in the following figure series.
+1.
+2.
+3.
+4.
+
+Q.83
+Find the missing term.
+6
+9
+15
+8
+12
+20
+4
+6
+?
+5
+1.
+10
+2.
+15
+3.
+21
+4.
+
+Q.84
+A clock is set right at 12 noon. The clock gains 9 minutes in 8 hours. What will be the true time
+when the clock indicates 12 noon on the 3rd day?
+10:39 AM
+1.
+1:39 PM
+2.
+11:39 AM
+3.
+12:39 PM
+4.
+
+Q.85
+Mia, Sia, Jia, Amy, and Tia are five sisters. Jia is younger than only two people .Tia is older than
+Sia but younger than Jia. Amy is not the oldest. Who is the oldest?
+Amy
+1.
+Tia
+2.
+Jia
+3.
+Mia
+4.
+
+Q.86
+Identify the diagram that best represents the relationship among classes given below
+Chef, Singer, Musician
+1.
+2.
+3.
+4.
+
+Q.87
+81
+1.
+82
+2.
+78
+3.
+79
+4.
+
+Q.88
+In the following three options are alike in a certain way and one is different. Find the odd one?
+Skin
+1.
+Eye
+2.
+Heart
+3.
+Ear
+4.
+
+Q.89
+Select the option that will replace the question mark (?) in the following figure series.
+1.
+2.
+3.
+4.
+
+Q.90
+Which of the following letter clusters will replace the question mark (?) in the given series to make
+it logically complete?
+EHD, GJF, ILH, KNJ, ?
+MQL 
+1.
+MPL 
+2.
+NPK 
+3.
+MPK
+4.
+
+Q.91
+Which figure will replace the question mark (?) in the following figure series?
+1.
+2.
+3.
+4.
+
+Q.92
+30 km
+1.
+35 km
+2.
+15 km
+3.
+5 km
+4.
+
+Q.93
+Pointing to a photo, a man said, “This boy is my father’s only brother’s only nephew.” How is the
+man related to theboy in the photograph?
+Father
+1.
+Himself
+2.
+Son
+3.
+Nephew
+4.
+
+Q.94
+The distance travelled by light in a year is called ________.
+Velocity of light
+1.
+Light year
+2.
+Parsec
+3.
+Astronamical unit 
+4.
+
+Q.95
+The Prime Minister
+1.
+The Chief Justice 
+2.
+Lok Sabha Speaker
+3.
+Rajya Sabha Chairman
+4.
+
+Q.96
+Who founded the 'All India Harijan Samaj' in 1932?
+C. R. Das
+1.
+Subhas Chandra Bose
+2.
+Jawahar Lal Nehru
+3.
+M. K. Gandhi
+4.
+
+Q.97
+Bluetooth is an example of ______.
+Wide Area Network
+1.
+Personal Area Network
+2.
+Local Area Network
+3.
+Virtual Private Network
+4.
+
+Q.98
+The Central Bureau of Investigation was set-up in ________ by the Government of India.
+1962
+1.
+1965
+2.
+1964
+3.
+1963
+4.
+
+Q.99
+The Central Pollution Control Board (CPCB) was constituted under ______.
+The Air (Prevention and Control of Pollution) Act, 1981
+1.
+The Water (Prevention and Control of Pollution) Act, 1974
+2.
+The National Environmental Tribunal Act, 1995
+3.
+The National Environment Appellate Authority Act, 1997
+4.
+
+Q.100
+How much time does a Geostationary satellite take to complete one orbit, at the height of 35790
+km?
+30 days
+1.
+24 hours
+2.
+365 days
+3.
+12 hours
+4.
+

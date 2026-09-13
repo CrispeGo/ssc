@@ -1,0 +1,1608 @@
+AGNIVEER VAYU — GROUP XY
+28 SEPTEMBER 2025 — ALL SHIFTS
+MEMORY-BASED PAPER
+FRESH PDF-BASED EXTRACTION — QUESTIONS + OPTIONS
+
+SOURCE OF TRUTH:
+Agniveer Vayu Science & Other than Science (Group XY) 02-2026
+(28 Sept 2025 All shifts) Memory-Based Paper.pdf
+
+METHOD:
+1. Source PDF → fresh extraction.
+2. Second verification against the same source PDF.
+3. English question text + four options retained.
+4. Hindi duplicate blocks removed.
+5. "Correct Option" answer-key lines removed.
+6. Q1–Q100 order preserved.
+7. No previous TXT used as a source.
+
+============================================================
+
+Q.1
+The slope of velocity-time graph gives
+velocity
+1.
+momentum
+2.
+force
+3.
+acceleration
+4.
+
+Q.2
+The motion of a particle along a straight line is described by equation: x = 8 + 12t - t3 where x is in
+metre and t in second. The retardation of the particle when its velocity becomes zero is
+12 ms-2
+1.
+24 ms-2
+2.
+zero
+3.
+6 ms-2
+4.
+12 ms-2
+
+Q.3
+A freely suspended magnet always aligns in the ________direction.
+North South
+1.
+North East
+2.
+East West
+3.
+South West
+4.
+
+Q.4
+Amplitude in a Simple Harmonic Motion is 'a' and its timeperiod is 'T'. The maximum instantaneous
+velocity will be:
+1.
+2π a
+T
+2.
+2a
+T
+3.
+4a
+T
+4.
+2π
+a
+T
+−−
+√
+
+Q.5
+Which of the following principle is based on the conservation of energy?
+Principle of continuity
+1.
+Bernoulli's Principle
+2.
+Both 1 and 2
+3.
+Neither 1 nor 2
+4.
+
+Q.6
+If the temperature of the source is increased, the efficiency of the Carnot engine
+Increases
+1.
+Decreases
+2.
+Remains Constant
+3.
+First increases and then becomes constant
+4.
+
+Q.7
+In an isothermal process, the amount of heat given to a system is equal to
+net increase in internal energy
+1.
+net work done by the system
+2.
+net decrease in internal energy
+3.
+net change in volume
+4.
+
+Q.8
+Maximum acceleration of the train in which a 50 kg box lying on its floor will remain stationary
+(Given: Co-efficient of static friction between the box and the train’s floor is 0.3 and g = 10 ms-2)
+5.0 ms-2
+1.
+3.0 ms-2
+2.
+1.5 ms-2
+3.
+15 ms-2
+4.
+5.0 ms-2
+
+Q.9
+The formula of angular momentum is l = mvr, where l is angular momentum, m is mass,v is velocity
+and r is radius. Hence, the dimensional formula of angular momentum is ______.
+ML2T-1
+1.
+M2L2T-1
+2.
+ML-2T-1
+3.
+ML2T-2
+4.
+ML2T-1
+
+Q.10
+Maxwell’s equations that the magnitude of the electric and the magnetic fields in an
+electromagnetic wave is
+1.
+=
+B0
+E0
+c
+2.
+=
+B0
+E0
+c2
+3.
+=
+E0
+B0
+c
+4.
+=
+E0
+B0
+c2
+
+Q.11
+Analyse the given statements and choose the correct option.
+Statement 1: The escape velocities of planet A and B are same. But A and B are of unequal mass.
+Statement 2: The product of their mass and radius must be same. M1R1 = M2R2
+In the light of the above statements, choose the most appropriate answer from the options given below :
+Both statement 1 and statement 2 are CORRECT and statement 2 is the CORRECT explanation of
+the statement 1.
+1.
+Both statement 1 and statement 2 are CORRECT, but statement 2 is NOT THE CORRECT
+explanation of the statement 1.
+2.
+Statement 1 is CORRECT, but statement 2 is INCORRECT.
+3.
+Statement 1 is INCORRECT, but statement 2 is CORRECT.
+4.
+
+Q.12
+Which of the following best represents the relationship between velocity v and mass m for a system
+of bodies whose momentum is conserved? (mass of the system can be changed).
+1.
+2.
+3.
+4.
+
+Q.13
+The number of spectral lines that are possible when electrons in 8th shell in different hydrogen
+atoms return to the 2nd shell is
+28
+1.
+21
+2.
+14
+3.
+6
+4.
+28
+
+Q.14
+If the distance between the plates of a parallel plate capacitor is increased by maintaining the
+constant charge on the capacitor, then the energy stored in the capacitor will:
+Increase
+1.
+Decrease
+2.
+Remain unaffected
+3.
+Can't say
+4.
+
+Q.15
+At certain instances the displacement and acceleration of a harmonic oscillator are respectively
+0.02 m and 2m/s2,  its angular speed at this instant is (in rad /s):
+100
+1.
+10
+2.
+1
+3.
+0.1
+4.
+100
+
+Q.16
+A magnet is freely suspended in a constant magnetic field. Calculate the work done if the magnet is
+deflected by an angle α from the initial direction. M = magnetic moment, H = Magnetic Field
+MH (1 - sinα)
+1.
+MH (cosα - 1)
+2.
+​MH cosα
+3.
+MH (1 - cosα)
+4.
+MH (1 - sinα)
+
+Q.17
+The current in a simple series circuit is 5.0 amp. When an additional resistance of 2.0 ohms is
+inserted, the current drops to 4.0 amp. The original resistance of the circuit in ohms was _______
+1.25
+1.
+8
+2.
+10
+3.
+20
+4.
+1.25
+
+Q.18
+A charge moves in a circle perpendicular to a magnetic field. Upon which of the following, the time
+period of revolution, does not depend ?
+Magnetic field
+1.
+Charge
+2.
+Mass of the particle
+3.
+Velocity of the particle
+4.
+
+Q.19
+The device used to measure the flow speed of the incompressible fluid is called
+Venturi-meter
+1.
+Thermometer
+2.
+Open tube manometer
+3.
+none of the above
+4.
+
+Q.20
+Which of the following option gives correct equation for Gauss' Law of magnetism?
+1.
+∮
+.
+=
+E
+→
+dA
+−→
+q
+ϵ0
+2.
+∮
+.
+= 0
+E
+→
+dA
+−→
+3.
+∮
+.
+= 0
+B
+→
+dA
+−→
+None of the above
+4.
+
+Q.21
+The area enclosed by a complete hysteresis loop on B-H curve of a ferromagnetic material denotes
+____________.
+the energy dissipated in taking the specimen material during each complete cycle of magnetisation
+1.
+the coercivity of the specimen
+2.
+the retentivity of the specimen
+3.
+the residual magnetism
+4.
+
+Q.22
+On which of the following principle an electric generator works?
+Force on current carrying conductor due to magnetic field
+1.
+Magnetic field due to current carrying conductor
+2.
+Electromagnetic Induction
+3.
+None
+4.
+
+Q.23
+The relationship between translational kinetic energy of the molecules in a gas 'E' and its
+temperature 'T' is ________.
+3E = 2 kBNT
+1.
+2E = 3 kBNT
+2.
+2EN = 3 kBT
+3.
+3EN = 2 kBT
+4.
+3E = 2 kBNT
+
+Q.24
+A man running in a circular track of radius 10 m as shown below
+From the given figure the angular displacement at point  B and C respectively are ____& ___ if a man starts
+running clockwise from A
+π/2, π/4
+1.
+π, π/4
+2.
+π/2, π
+3.
+π, π/2
+4.
+π/2, π/4
+
+Q.25
+Constant DC voltage is required from a variable AC voltage. Which of the following is correct
+order of operation?
+Regulator, filter, rectifier
+1.
+Rectifier, regulator, filter
+2.
+Rectifier, filter, regulator
+3.
+Filter, regulator, rectifier
+4.
+
+Q.26
+If
+and
+, then value of α for which A2 = B , is
+A = [
+]
+α
+1
+0
+1
+B = [
+]
+1
+5
+0
+1
+1
+1.
+-1
+2.
+4
+3.
+No real values
+4.
+A = [
+]
+α
+1
+0
+1
+B = [
+]
+1
+5
+0
+1
+1
+
+Q.27
+Given a G.P. with a = 4096 and 7th term 729, determine sum of 6th term?
+12468
+1.
+13468
+2.
+13368
+3.
+12368
+4.
+12468
+
+Q.28
+If
+, then x = ?
+= 0
+∣
+∣
+∣
+∣
+x
+3
+7
+7
+x
+3
+3
+7
+x
+∣
+∣
+∣
+∣
+-10
+1.
+-7
+2.
+-3
+3.
+No real value of x.
+4.
+= 0
+∣
+∣
+∣
+∣
+x
+3
+7
+7
+x
+3
+3
+7
+x
+∣
+∣
+∣
+∣
+-10
+
+Q.29
+The coefficient of x10 in the expansion of (1 + x2 – x3)8 is
+476
+1.
+496
+2.
+506
+3.
+528
+4.
+476
+
+Q.30
+The mean of 10 observations is 5.5. If each observation is multiplied by 4 and subtracted from 44,
+then what is the new mean?
+20
+1.
+22
+2.
+34
+3.
+44
+4.
+20
+
+Q.31
+If
+, then what is f-1(x) equal to?
+f (x) =
+, x ≠−2
+x−2
+x+2
+1.
+4(x+2)
+x−2
+2.
+x+2
+4(x−2)
+3.
+x+2
+x−2
+4.
+2(1+x)
+1−x
+f (x) =
+, x ≠−2
+x−2
+x+2
+
+Q.32
+If y = sin(cos x), then what is
+equal to ?
+dy
+dx
+- cos x cos(cos x)
+1.
+- sin x cos(cos x)
+2.
+sin x cos(cos x)
+3.
+cos x cos(cos x)
+4.
+dy
+dx
+- cos x cos(cos x)
+
+Q.33
+Evaluate
+∫
+dx
+cos x
+sin x+cos x
+1.
+[x + ln| sin x + cos x|] + c
+1
+2
+2.
+[x −ln| sin x −cos x|] + c
+1
+2
+3.
+[x + ln| sin x −cos x|] + c
+1
+2
+4.
+[x −ln| sin x + cos x|] + c
+1
+2
+∫
+dx
+cos x
+sin x+cos x
+
+Q.34
+The equation of the directrix of the parabola (2x - 3y - 5)2 = 20 (3x + 2y + 1) is
+3x + 2y + 1 + 5
+= 0
+1.
+3–
+√
+3x + 2y + 5 = 0
+2.
+2x - 3y + 1 + 5
+= 0
+3.
+3–
+√
+2x - 3y + 5 = 0
+4.
+3x + 2y + 1 + 5
+= 0
+
+Q.35
+Find the value of tan3θ  if secθ + tanθ = √3  and 0° < θ ≤ 90°
+√3
+1.
+undefined
+2.
+1
+3.
+-1
+4.
+√3
+
+Q.36
+The function f(x) is defined as:
+is
+f(x) = {
+,
+2
+5−x
+,
+5
+5−x
+x < 3
+x ≥3
+Left discontinuous at x = 3
+1.
+Left continuous at x = 3
+2.
+Right discontinuous at x = 5
+3.
+continuous at x = 5
+4.
+f(x) = {
+,
+2
+5−x
+,
+5
+5−x
+x < 3
+x ≥3
+
+Q.37
+Find the intersection of following sets: A = {x: x is a natural number and 1 < x ≤ 4}, B = {x: x is a
+natural number and 4 < x ≤ 7}
+{4}
+1.
+{4, 6, 7}
+2.
+{1, 2, 3, 4}
+3.
+ϕ
+4.
+{4}
+
+Q.38
+If
+, then x is equal to
+(ta
+x
++ (co
+x
+=
+n−1 )2
+t−1 )2
+5π2
+8
+-1
+1.
+1
+2.
+0
+3.
+2
+4.
+(ta
+x
++ (co
+x
+=
+n−1 )2
+t−1 )2
+5π2
+8
+-1
+
+Q.39
+If the slope and x-intercept of the line 3x − y + K = 0 are equal then what is the value of K?
+0
+1.
+−1
+2.
+3
+3.
+−9
+4.
+0
+
+Q.40
+The arg
+is equal to
+(
++
+)
+4+i
+3−i
+4−i
+3+i
+0
+1.
+1
+2.
+2
+3.
+arg
+3
+4.
+(
++
+)
+4+i
+3−i
+4−i
+3+i
+0
+
+Q.41
+What is the solution of the differential equation
+= xy + x + y + 1 =?
+dy
+dx
+1.
+y =
++ x + c
+x2
+2
+2.
+log(y + 1) =
++ x + c
+x2
+2
+y = x2 + x + c
+3.
+log (y + 1) = x2 + x + c
+4.
+= xy + x + y + 1 =?
+dy
+dx
+
+Q.42
+If
+, then
+x = a
+θ,  y = a
+θ
+sec2
+tan2
+=
+y
+d2
+dx2
+2a
+1.
+1
+2.
+0
+3.
+4
+4.
+x = a
+θ, y = a
+θ
+sec2
+tan2
+=
+y
+d2
+dx2
+2a
+
+Q.43
+The probability that Amar attends a party is
+. The probability that Akbar attends the same party is
+. What is the probability that at least one of them attends the party?
+4
+7
+5
+9
+1.
+20
+63
+2.
+9
+16
+3.
+4
+21
+4.
+17
+21
+4
+7
+5
+9
+
+Q.44
+If
+, then what is the value of a?
+= −1
+lim
+x→a
+−
+ax
+xa
+−
+xx
+aa
+-1
+1.
+0
+2.
+1
+3.
+2
+4.
+= −1
+limx→a
+−
+ax
+xa
+−
+xx
+aa
+-1
+
+Q.45
+Evaluate:
+x dx
+∫π/2
+0
+cos2
+1.
+π
+2
+2.
+π
+3
+3.
+π
+4
+4.
+π
+6
+x dx
+∫π/2
+0
+cos2
+
+Q.46
+The shortest distance between the skew lines
+and
+is
+=
+=
+x−2
+1
+y−3
+−2
+z+5
+1
+=
+=
+x−1
+−1
+y+2
+3
+z−4
+2
+1.
+22
+59
+√
+2.
+21
+59
+√
+3.
+31
+59
+√
+4.
+31
+59
+−−
+√
+=
+=
+x−2
+1
+y−3
+−2
+z+5
+1
+=
+=
+x−1
+−1
+y+2
+3
+z−4
+2
+
+Q.47
+In a Δ ABC, ∠B = 90°, AB = 5 cm. Construction of Δ ABC is not possible if BC ∼ AC =
+____________.
+2.5 cm
+1.
+4.8 cm
+2.
+6.5 cm
+3.
+4 cm
+4.
+
+Q.48
+How many four-digit natural numbers are there such that all of the digits are odd ?
+625
+1.
+400
+2.
+196
+3.
+120
+4.
+625
+
+Q.49
+The unit vector in the direction of
+if
+is:
++
+a⃗
+b⃗
+= 2 −
++ 2  &  = −+
+−
+a⃗
+i^
+j^
+k^
+b⃗
+i^
+j^
+k^
+1.
++ 0. +
+i^
+j^
+k^
+2.
+−
++
+i^
+j^
+k^
+3.
++
++
+i^
+j^
+k^
+4.
++
+1
+2
+√i^
+1
+2
+√k^
++
+a⃗
+b⃗
+= 2 −
++ 2  &  = −+
+−
+a⃗
+i^
+j^
+k^
+b⃗
+i^
+j^
+k^
+
+Q.50
+If 3x + 3y = 3x + y, then find
+.
+dy
+dx
+0
+1.
+3x-y
+2.
+3.
+−
+3x+y
+3x
+−
+3y
+3x+y
+4.
+−
+3x
+3y
+3x + y
+x
+y
+x + y
+dy
+dx
+0
+
+Q.51
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+Manish has being applying / for colleges / ever since he passed / his entrance test in March.
+for colleges
+1.
+ever since he passed
+2.
+manish has being applying
+3.
+his entrance test in March
+4.
+
+Q.52
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+The new/ smartphone is/absolutely best than/ the latest model.
+The new
+1.
+smartphone is
+2.
+absolutely best than
+3.
+the latest model
+4.
+
+Q.53
+The following sentence has been divided into parts. One of them may contain an error. Select the
+part that contains the error from the given options. If you don't find any error, mark 'No error' as
+your answer.
+He will be / waiting for me when / I reaches his home.
+No error
+1.
+He will be
+2.
+I reaches his home.
+3.
+waiting for me when
+4.
+
+Q.54
+The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+A famous economist / says that / the government should do more / for create enough jobs.
+says that
+1.
+for create enough jobs
+2.
+A famous economist
+3.
+the government should do more
+4.
+
+Q.55
+Select the most appropriate antonym for the given word.
+LOATHSOME
+Detestable
+1.
+Delightful
+2.
+Ghastly
+3.
+Humorous
+4.
+
+Q.56
+Choose the word nearly opposite in meaning to the given one.
+Glorious
+Modest
+1.
+Magnetic
+2.
+Majestic
+3.
+Massive
+4.
+
+Q.57
+Select the most appropriate antonym of the given word.
+SACRED
+profound
+1.
+perpetual
+2.
+profane
+3.
+pious
+4.
+
+Q.58
+Choose the most appropriate meaning of the given idiom.
+Bite the dust
+To behave weirdly
+1.
+To stop living
+2.
+To recall old memories
+3.
+To abuse
+4.
+
+Q.59
+Direction: What will be the adjective form of 'Question'?
+Questioned
+1.
+Questionness
+2.
+Questionable
+3.
+Questions
+4.
+
+Q.60
+Select the INCORRECTLY spelt word.
+Unnecessary
+1.
+Argument
+2.
+Misinterpret
+3.
+Exagerate
+4.
+
+Q.61
+Select the INCORRECTLY spelt word.
+Enthusiastic
+1.
+Spectecular
+2.
+Gracious
+3.
+Reliable
+4.
+
+Q.62
+Select the INCORRECTLY spelt word.
+Cautios
+1.
+Anxious
+2.
+Curious
+3.
+Bashful
+4.
+
+Q.63
+DIRECTION: Choose the best word or expression to complete the sentences
+Government has set up a court _________ inquiry to ascertain the facts.
+for
+1.
+of
+2.
+about
+3.
+on
+4.
+
+Q.64
+Find out the most effective word from the given words to fill the blank to make the sentence
+meaningful.
+When I was a child, I ________  to school every day instead of going by cycle.
+have walked
+1.
+walked
+2.
+have been walking
+3.
+had walked
+4.
+
+Q.65
+Direction : The following sentence is given with blank space to be filled in with appropriate
+word(s). Four alternatives are suggested for each sentence. Choose the correct alternative.
+Do not hesitate to _________ if you do something wrong.
+apologizing
+1.
+apologize
+2.
+apologetic
+3.
+apology
+4.
+
+Q.66
+Select the most appropriate option to fill in the blank.
+He _________ a long distance
+running
+1.
+runned
+2.
+ran
+3.
+run
+4.
+
+Q.67
+Select the correct indirect form of the given sentence.
+Emma said to Tom, "I'm playing the piano."
+Emma told Tom that she played the piano.
+1.
+Emma told Tom that she was playing the piano.
+2.
+Emma told Tom that she has played the piano.
+3.
+Emma told Tom that she had been playing the piano.
+4.
+
+Q.68
+Select the correct indirect form of the given sentence.
+The sage said, “Man proposes and God disposes.”
+The sage said that man proposes and God disposes.
+1.
+The sage said that man propose and God dispose.
+2.
+The sage said that man proposed and God disposed.
+3.
+The sage said that man had proposed and God had disposed.
+4.
+
+Q.69
+Select the option that expresses the given sentence in indirect speech.
+My brother said to me, “Don’t play in the rain.”
+My brother said to me don’t play in the rain.
+1.
+My brother forbade me to play in the rain.
+2.
+My brother assured me not to play in the rain.
+3.
+My brother refused me to not play in the rain.
+4.
+
+Q.70
+Select the option that expresses the given sentence in reported speech.
+Shikha said, “The heavy rain this week has spoiled all my travel plans.”
+Shikha said that the heavy rain that week had spoiled all her travel plans.
+1.
+Shikha told me that the heavy rain that week had spoiled all her travel plans.
+2.
+Shikha said that the heavy rain that week has spoiled all her travel plans.
+3.
+Shikha said that the heavy rain this week had spoiled all her travel plans.
+4.
+
+Q.71
+Which of the following period is referred as the Golden Age of Hinduism?
+Mauryan period
+1.
+Gupta period
+2.
+Post-Gupta period
+3.
+Post-Mauryan period
+4.
+
+Q.72
+The main ingredient of cement is:
+Alumina
+1.
+Iron oxide
+2.
+Silica
+3.
+Lime
+4.
+
+Q.73
+Which location has been declared the Eighth Wonder of the World in November 2023?
+Pompeii
+1.
+Angkor Wat
+2.
+Bayon Temple
+3.
+Colossus of Rhodes
+4.
+
+Q.74
+How many fundamental rights are there in India?
+10
+1.
+7
+2.
+5
+3.
+6
+4.
+10
+
+Q.75
+Which of the following is an example of non-volatile memory ?
+Large Scale Integration (LSI)
+1.
+Random Access Memory (RAM)
+2.
+Very Large Scale Integration (VLSI)
+3.
+Read Only Memory (ROM)
+4.
+
+Q.76
+Which of the following is the most environment-friendly method of disposing of organic wastes?
+Incineration
+1.
+Landfills
+2.
+Development of value-added products
+3.
+Composting
+4.
+
+Q.77
+Atal Tunnel is across which one of the following Himalayan ranges?
+Zanskar
+1.
+Western Pir Panjal
+2.
+Ladakh
+3.
+Eastern Pir Panjal
+4.
+
+Q.78
+Select the figure that will come next in the following series.
+1.
+2.
+3.
+4.
+
+Q.79
+In the following question, below are given some statements followed by some conclusions. You
+have to take the given statements to be true even if they seem to be at variance with commonly
+known facts. Read all the conclusions and then decide which of the given conclusions logically follows from
+the given statements, disregarding commonly known facts.
+Statements:
+No air is a solid.
+Some solids are not liquid.
+All solids are iron.
+Conclusions:
+I. No liquid is a air.
+II. At least some liquids are iron.
+If only conclusion I follows
+1.
+If only conclusion II follows
+2.
+If both the conclusions follow
+3.
+If neither conclusion I nor conclusion II follows
+4.
+
+Q.80
+Arrange the following words in an order they appear in dictionary.
+1. Depending
+2. Dependence
+3. Dependency
+4. Dependant
+1. Depending
+2. Dependence
+3. Dependency
+4. Dependant
+2, 4, 3, 1
+1.
+2, 4, 1, 4
+2.
+4, 2, 3, 1
+3.
+1, 4, 2, 3
+4.
+2, 4, 3, 1
+
+Q.81
+Select the figure that will come in place of the question mark (?) in the following figure series.
+1.
+2.
+3.
+4.
+
+Q.82
+Which of the following numbers will replace the question mark (?) in the given series?
+9, ?, 33, 50, 69, 92, 121
+9, ?, 33, 50, 69, 92, 121
+20
+1.
+14
+2.
+22
+3.
+16
+4.
+20
+
+Q.83
+Select the figure that will come next in the following series.
+1.
+2.
+3.
+4.
+
+Q.84
+In a certain code language, 'RESENT' is written as 'TGUCLR' and 'PEOPLE' is written as
+'RGQNJC'. How is 'PERSON' written in the given language?
+RGTQML
+1.
+RGTQMP
+2.
+RGSUQL
+3.
+RGTUQP
+4.
+RGTQML
+
+Q.85
+A is older than B. C is older than A. C is younger than D. E is older than A, while D is younger than
+E. Who is the youngest?
+A
+1.
+B
+2.
+D
+3.
+E
+4.
+A
+
+Q.86
+Pointing to a girl in the picture, Sita said, 'Her mother's father is the grandfather of my sister, while
+her mother is the only child of her grandfather. How is the girl related to Sita?
+Sister
+1.
+Niece
+2.
+Mother
+3.
+Sister-in-law
+4.
+
+Q.87
+In the given sequence of numbers, how many '9' are there which are immediately preceded by '6'
+but not immediately followed by '4'?
+3 5 7 4 2 9 6 4 3 6 9 5 3 6 9 8 4 3 9 6 9 2 4 0 6 9 4 3 7 6 9 7 6 9 1
+3 5 7 4 2 9 6 4 3 6 9 5 3 6 9 8 4 3 9 6 9 2 4 0 6 9 4 3 7 6 9 7 6 9 1
+6
+1.
+5
+2.
+8
+3.
+4
+4.
+6
+
+Q.88
+Select the number that can come in place of the question mark (?) in the following series from the
+given alternatives.
+16, 69, 281, 1129, ?
+16, 69, 281, 1129, ?
+2145
+1.
+4251
+2.
+4521
+3.
+1524
+4.
+2145
+
+Q.89
+Select the suitable alternative to complete the series.
+0, 7, 26, ?, 124, 215
+0, 7, 26, ?, 124, 215
+80
+1.
+47
+2.
+51
+3.
+63
+4.
+80
+
+Q.90
+Select the figure that can replace the question mark (?) in the following series.
+1.
+2.
+3.
+4.
+
+Q.91
+Select the option that is embedded in the given figure (X) (Rotation is NOT allowed).
+1.
+2.
+3.
+4.
+
+Q.92
+What is the angle between the hands of the clock at 7 : 20?
+45°
+1.
+100°
+2.
+20°
+3.
+80°
+4.
+45°
+
+Q.93
+The average of 12 numbers is 40. The average of the first seven numbers is 30 then finds the
+average of the remaining numbers?
+50
+1.
+52
+2.
+54
+3.
+56
+4.
+50
+
+Q.94
+A sum becomes 2 times in 4 years at simple interest. In how many years the same sum will become
+16 times?
+30
+1.
+60
+2.
+120
+3.
+90
+4.
+30
+
+Q.95
+In a music school, 70% students are boys. If the total girls are 255 then find out the number of
+boys?
+595
+1.
+850
+2.
+540
+3.
+575
+4.
+595
+
+Q.96
+On selling 25 shirts, a retailer earns profit equal to the cost price of 8 shirts. What is the profit
+percentage?
+47.05
+1.
+32
+2.
+25
+3.
+34.5
+4.
+47.05
+
+Q.97
+Two numbers are in the ratio of 7∶ 5. If 6 is added in each the ratio becomes 5∶ 4. The smaller
+number is:
+10
+1.
+11
+2.
+12
+3.
+13
+4.
+10
+
+Q.98
+Two numbers are in the ratio of 15 ∶ 11. If their HCF is 13, then the greater number is∶
+195
+1.
+125
+2.
+175
+3.
+120
+4.
+195
+
+Q.99
+A wire is in the form of a square of side 33 cm. If the wire is molded to form a circle, then what is
+the radius of the circle?
+(Useπ =
+)
+22
+7
+21 cm
+1.
+33 cm
+2.
+16.5 cm
+3.
+42 cm
+4.
+(Useπ =
+)
+22
+7
+
+Q.100
+The ratio of speeds, of a Bus and Car is 6 : 7. If car covers 364 Km distance in 4 hours, what is the
+speed of Bus?
+60 Km/hr
+1.
+72 Km/hr
+2.
+78 Km/hr
+3.
+84 Km/hr
+4.
+
